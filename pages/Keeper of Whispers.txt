@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Keeper of Whispers.png
+|power=3
+|health=4
+|rarity=Epic
+|ability=Other friendly creatures are immune to '''[[LG:Silence|Silence]]'''.
+|uniqueability=1
+|asilence=1
+|deckcode=jl
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Our voices will not be taken.|text2=There are worse days to die.}}
+{{Legends Audio 2|use=attack|text=Blood and faith!|text2=Zeht's tears!|text3=End of the road!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Keeper of Whispers Old Client.png|Old client card image
+File:LG-cardart-Keeper of Whispers.png|Card art
+File:LG-cardart-Keeper of Whispers (China).png|Chinese card art
+</gallery>

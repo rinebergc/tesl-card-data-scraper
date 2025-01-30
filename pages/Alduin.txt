@@ -1,0 +1,48 @@
+{{Mod Header|Heroes of Skyrim}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=20
+|image=LG-card-Alduin.png
+|altart=[[Legends:New Life Festival Pack|New Life Festival Pack]] 2017
+|power=12
+|health=12
+|rarity=Legendary
+|obtainable=Yes
+|unique=1
+|ability=Cost 2 less for each [[LG:Dragon|Dragon]] in your discard pile.<br>'''[[LG:Summon|Summon]]:''' Destroy all other creatures.<br>At the start of your turn, summon a random dragon from your discard pile.
+|summon=1
+|uniqueability=1
+|deckcode=ao
+|altartdeckcode=ap
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Ziil gro dovah ulse!}}
+{{Legends Audio 2|use=attack|text=Daar lein los dii!}}
+
+==Notes==
+*Dragons summoned by Alduin gain the '''Child of Akatosh''' effect.
+*An alternate-art version of Alduin was available in the 2017 [[Legends:New Life Festival Pack|New Life Festival Pack]].
+*[[Skyrim:Alduin|Alduin]] first appeared in [[Skyrim:Skyrim|''Skyrim'']]. For more information about Alduin, see the [[Lore:Alduin|lore article]].
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*The card's original art depicted Alduin with four legs, but was changed in [[Legends:Patch/1.66.0|Patch 1.66]]. 
+*Alduin's entrance line, "Ziil gro dovah ulse", means "Ever-bound dragon spirit", and in ''Skyrim'' it was how he addressed the dragon Sahloknir when resurrecting him.
+*Alduin's attack line, "Daar lein los dii!", means "This world is mine!", and was one of his taunts in ''Skyrim''.
+
+==Gallery==
+<gallery>
+File:LG-card-Alduin Alt.png|New Life Festival Promo
+File:LG-card-Alduin Old Client.png|Old client card image
+File:LG-cardart-Alduin.jpg|Original card art with 4 legs
+File:LG-cardart-Alduin 02.jpg|Revised card art
+File:LG-cardart-Alduin 04.jpg|High-res card art from illustrator
+File:LG-cardart-Alduin Alt.png|Alternative art from the New Life Festival promo
+File:LG-premcard-Alduin.gif|Premium card (click to view animation)
+File:LG-premcard-Alduin 02.gif|New Life Festival Promo card (click to view animation)
+</gallery>

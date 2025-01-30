@@ -1,0 +1,24 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spriggan
+|availability=Isle of Madness
+|attribute=Agility
+|cost=5
+|image=LG-card-Greatwood Elder.png
+|power=4
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''</br>If Greatwood Elder is in your hand at the start of your first turn, gain 1 magicka this turn.
+|guard=1
+|uniqueability=1
+|deckcode=hx
+}}
+
+==Notes==
+*This card depicts a gnarl, a type of creature which previously [[Shivering:Gnarl|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']]. 
+
+==Gallery==
+<gallery>
+File:LG-cardart-Greatwood Elder.png|Card art
+</gallery>

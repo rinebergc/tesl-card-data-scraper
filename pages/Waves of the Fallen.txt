@@ -1,0 +1,20 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=8
+|image=LG-card-Waves of the Fallen.png
+|rarity=Epic
+|ability=Transform all enemy creatures in a [[LG:Lanes|lane]] into 2/2 '''~Stricken Draugr~Stricken {{sic|Draugrs|Draugr|nolink=1}}~''', or transform all friendly creatures in a lane into 5/5 '''~Hulking Draugr~Hulking {{sic|Draugrs|Draugr|nolink=1}}~'''.
+|transform=1
+|deckcode=rF
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Waves of the Fallen Old Client.png|Old client card image
+File:LG-cardart-Waves of the Fallen.png|Card art
+File:LG-cardart-Waves of the Fallen (China).png|Chinese card art
+</gallery>

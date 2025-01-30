@@ -1,0 +1,32 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=7
+|image=LG-card-Jarl Balgruuf.png
+|power=3
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Summon a '''~Stormcloak Skirmisher~~''' in the left [[LG:Lanes|lane]] and a '''~Kvatch Soldier~~''' in the right lane.<br>At the start of your turn, if your lanes are full, you win the game.
+|summon=1
+|unique=1
+|uniqueability=1
+|deckcode=jd
+}} 
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We Nords ARE the Empire.}}
+{{Legends Audio 2|use=attack|text=You'll all come to regret this day.}}
+
+==Notes==
+*[[Skyrim:Jarl Balgruuf|Jarl Balgruuf]] first appeared in [[Skyrim:Skyrim|Skyrim]].
+*Jarl Balgruuf is also depicted in the alternate card art of [[Legends:Triumphant Jarl|Triumphant Jarl]].
+*Before [[Legends:Patch|Patch 2.9]], Jarl Balgruuf summoned a {{Card|Colovian Trooper}} instead of a {{Card|Kvatch Soldier}}.
+
+==Gallery==
+<gallery>
+File:LG-card-Jarl Balgruuf Old Client.png|Old client card image
+File:LG-cardart-Jarl Balgruuf.png|Card art
+</gallery>

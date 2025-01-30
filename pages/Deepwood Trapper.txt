@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=1
+|image=LG-card-Deepwood Trapper.png
+|power=1
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Shackle|Shackle]]''' creatures damaged by Deepwood Trapper.
+|guard=1
+|uniqueability=1
+|shackle=1
+|deckcode=ep
+}}
+
+==Audio==
+{{Legends Audio 2|card=deepwoods trapper|use=enter play|text=I'm ready for anything.}}
+{{Legends Audio 2|card=deepwoods trapper|use=attack|text=You can't beat me!}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Deepwood Trapper Old Client.png|Old client card image
+File:LG-cardart-Deepwood Trapper.png|Card art
+</gallery>

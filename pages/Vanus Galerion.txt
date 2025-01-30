@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Alliance War
+|class=The Guildsworn
+|cost=11
+|image=LG-card-Vanus Galerion.png
+|power=3
+|health=3
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Expertise|Expertise]]:''' Deal 3 damage, you gain 3 health, and draw 3 cards.
+|expertise=1
+|deckcode=uw
+}}
+==Audio==
+{{Legends Audio 2|card=Vanus Galerion|use=enter play|text=The guild shall keep Tamriel safe, if its leaders will not.}}
+{{Legends Audio 2|card=Vanus Galerion|use=attack|text=Feel the might of the founder of the Mages Guild!}}
+==Notes==
+*See the [[Lore:Vanus Galerion|Lore page]] for more information.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Vanus Galerion.png|Card art
+File:LG-cardart-Vanus Galerion.jpg|Larger version from the TES: Legends Facebook page
+</gallery>

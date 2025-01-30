@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Willpower
+|cost=2
+|image=LG-card-Priest of the Moons.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''</br>'''[[Legends:Summon|Summon]]:''' You gain 2 health.
+|summon=1
+|prophecy=1
+|deckcode=mp
+}} It can be included in decks, but it is also summoned by the support card {{Card|Two-Moons Contemplation}}.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one recommends a clear head.|text2=Clear your mind—and retract your claws.}}
+{{Legends Audio 2|use=attack|text=Do not trouble this one!|text2=Khajiit is not amused.|text3=Face my claws!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Priest of the Moons Old Client.png|Old client card image
+File:LG-cardart-Priest of the Moons.png|Card art
+File:LG-cardart-Priest of the Moons 03.jpg|Larger, cropped
+File:LG-cardart-Priest of the Moons 02.jpg|Cropped version of higher resolution
+</gallery>

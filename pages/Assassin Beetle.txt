@@ -1,0 +1,20 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Alliance War
+|attribute=Agility
+|cost=5
+|image=LG-card-Assassin Beetle.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]]<br>[[Legends:Summon|Summon]]:''' Play a Prophecy from your hand.
+|prophecy=1
+|summon=1
+|deckcode=tv
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Assassin Beetle.png|Card art
+</gallery>

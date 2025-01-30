@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Endurance
+|cost=3
+|image=LG-card-Stalwart Ally.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': +0/+2 and '''[[Legends:Guard|Guard]]''' if the top card of your deck is {{LG Attribute Icon|Endurance}}.
+|summon=1
+|aguard=1
+|deckcode=pi
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play fail|text=I raise the spine of obedience.}}
+{{Legends Audio 2|use=enter play success|text=I will be your shell, and keep you safe.}}
+{{Legends Audio 2|use=attack|text=You cannot pass!|text2=On your guard!|text3=Face my blade!}}
+
+==Notes==
+*This card's summon ability applies the '''Alliance''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Stalwart Ally Old Client.png|Old client card image
+File:LG-cardart-Stalwart Ally.png|Card art
+</gallery>

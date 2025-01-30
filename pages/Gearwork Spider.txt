@@ -1,0 +1,27 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|availability=Clockwork City
+|attribute=Neutral
+|cost=1
+|image=LG-card-Gearwork Spider.png
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Guard|Guard]]'''<br/>'''[[Legends:Summon|Summon]]:''' Summon all Gearwork Spiders in your discard pile.
+|prophecy=1
+|guard=1
+|summon=1
+|deckcode=gU
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Apprentice|The Apprentice]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Apprentice.
+
+==Gallery==
+<gallery>
+File:LG-card-Gearwork Spider Old Client.png|Old client card image
+File:LG-cardart-Gearwork Spider.png|Card art
+File:LG-cardart-Gearwork Spider 02.png|HD card art
+</gallery>

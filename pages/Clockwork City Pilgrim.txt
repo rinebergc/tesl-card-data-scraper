@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Clockwork City Pilgrim.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Exalt|Exalt 3]]:''' +2/+2.
+|guard=1
+|exalt=1
+|deckcode=dn
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I seek Sotha Sil's knowledge.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=We shall help him reshape the world!}}
+{{Legends Audio 2|use=attack|text=For the Father of Mysteries.}}
+
+==Notes==
+*This card's exalt ability applies the '''Traveler''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Clockwork City Pilgrim Old Client.png|Old client card image
+File:LG-cardart-Clockwork City Pilgrim.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Strength
+|cost=4
+|image=LG-card-Guildsworn Incendiary.png
+|power=2
+|health=6
+|rarity=Rare
+|ability='''[[Legends:Expertise|Expertise]]:''' Deal 1 damage to all creatures in this lane.
+|expertise=1
+|deckcode=tR
+}}
+==Audio==
+{{Legends Audio 2|card=Guildsworn Incendiary|use=enter play|text=Here I come!}}
+{{Legends Audio 2|card=Guildsworn Incendiary|use=attack|text=Taste my steel!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Guildsworn Incendiary.png|Card art
+</gallery>

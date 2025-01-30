@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Giant
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|image=LG-card-Frost Giant.png
+|cost=8
+|power=10
+|health=10
+|rarity=Legendary
+|uniqueability=1
+|ability='''[[Legends:Regenerate|Regenerate]]'''<br>When a creature heals, you gain that much health.
+|regenerate=1
+|aheal=1
+|deckcode=gK
+}}
+
+==Notes==
+*[[Lore:Frost Giant|Frost Giant]]s first [[Skyrim:Frost Giant|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]'', though [[Bloodmoon:Karstaag|Karstaag]], who appeared in ''[[Morrowind:Morrowind|Morrowind]]'''s ''Bloodmoon'' expansion was identified in dialogue as a Frost Giant.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Frost Giant Old Client.png|Old client card image
+File:LG-cardart-Frost Giant.png|Card art
+File:LG-cardart-Frost Giant 02.jpg|High-res card art from artist
+</gallery>

@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Alliance War
+|attribute=Endurance
+|cost=6
+|image=LG-card-Black Marsh Centurion.png
+|power=4
+|health=8
+|rarity=Common
+|ability='''[[Legends:Veteran|Veteran]]:''' [[Legends:Guard|Guard]]
+|veteran=1
+|aguard=1
+|deckcode=sE
+}}
+==Audio==
+{{Legends Audio 2|card=Black Marsh Centurion|use=enter play|text=What's your business?}}
+{{Legends Audio 2|card=Black Marsh Centurion|use=attack|text=Huh, I'll handle this myself.}}
+==Gallery==
+<gallery>
+File:LG-cardart-Black Marsh Centurion.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Willpower
+|cost=4
+|image=LG-card-Wish.png
+|rarity=Rare
+|ability=Summon a random '''2'''-cost creature.<br>'''[[Legends:Empower|Empower]]:''' +1 cost creature.
+|empower=1
+|deckcode=sP
+}}
+
+==Notes==
+*This card depicts [[Lore:Queen Ayrenn|Queen Ayrenn]] of [[Lore:Alinor (city)|Alinor]], who first [[Online:Queen Ayrenn|appeared]] in [[Online:Online|ESO]].
+*Ayrenn is featured in two other cards, namely {{Card|Ayrenn}} and {{Card|Ayrenn, Dominion Queen}}.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Wish.png|Card art
+File:LG-cardart-Wish.jpg|Larger version from the official TES: Legends Twitter
+</gallery>

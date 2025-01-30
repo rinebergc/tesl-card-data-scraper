@@ -1,0 +1,25 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Action
+|availability=Isle of Madness
+|altart=[[Legends:Festival of Madness|Festival of Madness]] 2019
+|attribute=Endurance
+|cost=2
+|image=LG-card-Squish the Wimpy.png
+|rarity=Rare
+|ability=A friendly creature '''[[Legends:Battle|Battles]]''' an enemy creature.
+|battle=1
+|deckcode=pe
+|altartdeckcode=zt
+}}
+
+== Notes ==
+*The card depicts the [[Lore:Gatekeeper of the Fringe|Gatekeeper of the Fringe]] who first [[SI:Gatekeeper|appeared]] in the ''[[SI:Shivering Isles|Shivering Isles]]'' expansion for ''[[OB:Oblivion|Oblivion]]''. Similarly to the scene depicted in the art, the Gatekeeper was first encountered in the process of massacring a group of [[SI:Adventurer|adventurers]] who were attempting to proceed through the [[SI:Gates of Madness|Gates of Madness]]. 
+*An alternate art version of the card is available from the [[LG:Festival of Madness|Festival of Madness]]. It depicts an [[Legends:Iron Atronach|Iron Atronach]] and might have been intended as a unique card named "Iron Backhand" for [[Legends:Solo Arena/The Iron Atronach|The Iron Atronach]] AI opponent.
+
+==Gallery==
+<gallery>
+File:LG-card-Squish the Wimpy Alt.png|Alternate card from Festival of Madness
+File:LG-cardart-Squish the Wimpy.png|Card art
+File:LG-cardart-Squish the Wimpy Alt.png|Alternate art from Festival of Madness
+</gallery>

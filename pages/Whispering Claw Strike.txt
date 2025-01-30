@@ -1,0 +1,22 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=6
+|image=LG-card-Whispering Claw Strike.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>Give an enemy creature -2/-2 and a friendly creature +2/+2.
+|prophecy=1
+|deckcode=wm
+}}
+
+==Notes==
+*This card's ability applies the '''Whispering Claw''' card effect to both creatures.
+*The [[Lore:Claw-Dances#Whispering Claw|Whispering Claw]] is a Khajiiti martial tradition.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Whispering Claw Strike.jpg|Card art
+</gallery>

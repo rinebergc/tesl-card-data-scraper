@@ -1,0 +1,26 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|availability=Clockwork City
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Memory Wraith.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' '''[[LG:Banish|Banish]]''' your opponent's discard pile.
+|summon=1
+|banish=1
+|deckcode=ks
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Throne Aligned|The Throne Aligned]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Throne Aligned.
+
+==Gallery==
+<gallery>
+File:LG-card-Memory Wraith Old Client.png|Old client card image
+File:LG-cardart-Memory Wraith.jpg|Card art
+File:LG-cardart-Memory Wraith (China).png|Chinese card art
+</gallery>

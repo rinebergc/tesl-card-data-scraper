@@ -1,0 +1,33 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=3
+|image=LG-card-Mentor of the Watch.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Give a creature in your hand Guard.
+|prophecy=1
+|guard=1
+|summon=1
+|deckcode=kt
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Time to take the offensive.}}
+{{Legends Audio 2|use=attack|text=To battle!}}
+
+==Notes==
+*This card's summon ability applies the '''Watch Duty''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Mentor of the Watch Old Client.png|Old client card image
+File:LG-cardart-Mentor of the Watch.png|Card art
+</gallery>

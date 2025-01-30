@@ -1,0 +1,28 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fabricant
+|availability=Clockwork City
+|attribute=Endurance
+|cost=5
+|image=LG-card-Hulking Fabricant.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': If you have a {{LG Attribute Icon|Neutral}} card in play, +3/+3.
+|summon=1
+|deckcode=iu
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Cogitum Centralis|Cogitum Centralis]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Cogitum Centralis.
+
+==Notes==
+*This card's summon ability applies the '''Ready to Smash''' card effect.
+*Hulking Fabricant also [[Tribunal:Hulking Fabricant|appears]] in ''[[Tribunal:Tribunal|The Elder Scrolls III: Tribunal]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Hulking Fabricant Old Client.png|Old client card image
+File:LG-cardart-Hulking Fabricant.png|Card art
+</gallery>

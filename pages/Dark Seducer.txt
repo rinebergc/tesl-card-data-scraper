@@ -1,0 +1,28 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Isle of Madness
+|attribute=Endurance
+|cost=8
+|image=LG-card-Dark Seducer.png
+|power=7
+|health=7
+|rarity=Epic
+|ability='''[[Legends:Drain|Drain]], [[Legends:Guard|Guard]]'''<br>Dark Seducer Drains on both turns.
+|drain=1
+|uniqueability=1
+|deckcode=eh
+}}
+
+==Audio==
+{{Legends Audio 2|card=Seducer Darkfire|use=enter play|text=Walk with our Lord.}}
+{{Legends Audio 2|card=Seducer Darkfire|use=attack|text=Your blood stands forfeit.}}
+
+==Notes==
+* For more information on Dark Seducers, see the [[Lore:Mazken|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dark Seducer.png|Card art
+</gallery>

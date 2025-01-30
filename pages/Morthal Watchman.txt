@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Basic Card
+|attribute=Strength
+|cost=1
+|image=LG-card-Morthal Watchman.png
+|power=2
+|health=1
+|rarity=Common
+|ability=
+|deckcode=kR
+}}
+
+==Availability==
+Two copies are included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Halt in the name of the jarl!|text2=Don't make me hurt you!}}
+{{Legends Audio 2|use=attack|text=Face me you skeeving horker!|text2=I'll send your soul to Sovngarde!|text3=It shall be so!}}
+
+==Notes==
+*The card is named for the [[Lore:Skyrim|Skyrim]] town of [[Lore:Morthal|Morthal]].
+
+==Gallery==
+<gallery>
+File:LG-card-Morthal Watchman Old Client.png|Old client card image
+File:LG-cardart-Morthal Watchman.png|Card art
+</gallery>

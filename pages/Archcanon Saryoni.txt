@@ -1,0 +1,56 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|class=Tribunal Temple
+|cost=4
+|image=LG-card-Archcanon Saryoni.png
+|power=3
+|health=3
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Choose a blessing from one of the Tribunal gods.<br>'''[[Legends:Exalt|Exalt 3]]:''' Gain all three blessings instead.
+|summon=1
+|exalt=1
+|deckcode=aJ
+}}
+
+==Blessings==
+You can choose one of the following Blessings:
+{| class="wikitable"
+! style="width: 140px;" | Almalexia's Blessing
+! style="width: 140px;" | Vivec's Blessing
+! style="width: 140px;" | Sotha Sil's Blessing
+|- style="text-align: center;"
+| [[File:LG-card-Almalexia's Blessing.png|160px]]
+| [[File:LG-card-Vivec's Blessing.png|160px]]
+| [[File:LG-card-Sotha Sil's Blessing.png|160px]]
+|- style="text-align: center;"
+| Give a friendly creature '''[[Legends:Drain|Drain]]''' and '''[[Legends:Guard|Guard]]'''.
+| Give all friendly creatures +1/+1.
+| Summon a '''{{Card|Spider Worker}}'''.
+|}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The Tribunal will always come to the people's aid.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=Behold the Tribunal's power.}}
+{{Legends Audio 2|use=attack|text=By the light of the Three!}}
+
+==Notes==
+*This card's exalt ability applies the '''Warrior-Poet''' (when choosing {{Card|Vivec's Blessing}}) and the '''Lady of Mercy''' (when choosing {{Card|Almalexia's Blessing}}) card effect.
+*[[Morrowind:Tholer Saryoni|Archcanon Saryoni]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Archcanon Saryoni Old Client.png|Old client card image
+File:LG-cardart-Archcanon Saryoni.png|Card art
+File:LG-cardart-Archcanon Saryoni 02.jpg|High resolution card art
+File:LG-cardart-Almalexia's Blessing.png|Almalexia's Blessing Card art
+File:LG-cardart-Vivec's Blessing.png|Vivec's Blessing Card art
+File:LG-cardart-Vivec's Blessing 2.jpg|High resolution card art from artist
+File:LG-cardart-Sotha Sil's Blessing.png|Sotha Sil's Blessing Card art
+</gallery>

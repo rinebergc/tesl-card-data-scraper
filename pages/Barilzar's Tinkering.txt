@@ -1,0 +1,25 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Barilzar's Tinkering.png
+|rarity=Rare
+|ability='''[[Legends:Betray|Betray]]'''<br>[[Legends:Transform|Transform]] a creature into a random creature that costs 1 more.
+|betray=1
+|transform=1
+|deckcode=bB
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio|creature=no|text=A use for every tool and a tool for every job.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Barilzar's Tinkering Old Client.png|Old client card image
+File:LG-cardart-Barilzar's Tinkering.jpg|Card art
+</gallery>

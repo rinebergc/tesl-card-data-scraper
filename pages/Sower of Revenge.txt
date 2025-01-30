@@ -1,0 +1,37 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|cost=5
+|power=5
+|health=5
+|rarity=Epic
+|image=LG-card-Sower of Revenge.png
+|class=Warrior
+|availability=Monthly Card
+|ability='''[[Legends:Guard|Guard]]'''<br/>'''[[Legends:Last Gasp|Last Gasp]]''': Deals 5 damage to your opponent.
+|guard=1
+|lastgasp=1
+|deckcode=oR
+}}
+
+==Availability==
+Sower of Revenge was the [[Legends:Monthly Card|monthly card]] for March 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Deathbringer|use=enter play|text=Do you not fear me, mortal? You should.}}
+{{Legends Audio 2|card=Deathbringer|use=attack|text=You will perish in pain!}}
+
+==Notes==
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]], and depicts a [[Lore:Dremora|Dremora]] as they [[Skyrim:Dremora|appeared]] in [[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+<gallery>
+File:LG-card-Sower of Revenge Old Client.png|Old client card image
+File:LG-cardart-Sower of Revenge 03.jpg|Card art
+File:LG-cardart-Sower of Revenge.jpg|Cropped version of higher resolution
+File:LG-cardart-Sower of Revenge 02.jpg|High-res card art from illustrator site
+</gallery>
+
+==References==
+<references/>

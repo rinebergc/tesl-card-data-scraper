@@ -1,0 +1,30 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Yagrum Bagarn.png
+|cost=3
+|power=2
+|health=4
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Draw a [[Legends:Dwemer|Dwemer]] from your discard pile and give it +2/+2.
+|summon=1
+|deckcode=sj
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Greetings, from the last living dwarf.}}
+{{Legends Audio 2|use=attack|text=To be reduced to violence at my age!}}
+
+==Notes==
+*The card's summon ability applies the '''Master Crafted''' card effect.
+*[[Lore:Yagrum Bagarn|Yagrum Bagarn]] first [[Morrowind:Yagrum Bagarn|appeared]] in [[Morrowind:Morrowind|''Morrowind'']], and the name of the Master Crafted card effect alludes to Bagarn's former occupation as Master Crafter.
+
+== Gallery ==
+<gallery>
+File:LG-card-Yagrum Bagarn Old Client.png|Old client card image
+File:LG-cardart-Yagrum Bagarn 02.jpg|Card art
+</gallery>

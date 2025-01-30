@@ -1,0 +1,29 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Isle of Madness
+|attribute=Willpower
+|cost=3
+|image=LG-card-Golden Initiate.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Drain|Drain]]'''
+|prophecy=1
+|drain=1
+|deckcode=hn
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Speak, citizen.}}
+{{Legends Audio 2|use=attack|text=E'Tah Aureal}}
+
+==Notes==
+*This card depicts a [[Lore:Golden Saint|Golden Saint]].
+*Searching for "Oreo" in the search bar of your collection will show you this card as result. This is due to the fact that players joked that her attack audio sounds like "Eat a Oreo".
+
+==Gallery==
+<gallery>
+File:LG-cardart-Golden Initiate.png|Card art
+</gallery>

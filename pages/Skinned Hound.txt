@@ -1,0 +1,26 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|subtype2=Beast
+|availability=Isle of Madness
+|attribute=Endurance
+|cost=2
+|image=LG-card-Skinned Hound.png
+|power=2
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Give a creature +0/+2 and '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=ov
+}}
+
+==Notes==
+*This card's summon ability applies the '''Osseous Fortitude''' card effect.
+*[[Lore:Skinned Hound|Skinned hounds]] also [[Shivering:Skinned Hound|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Skinned Hound.png|Card art
+</gallery>

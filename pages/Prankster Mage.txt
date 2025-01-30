@@ -1,0 +1,32 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|class=Assassin
+|cost=5
+|image=LG-card-Prankster Mage.png
+|power=5
+|health=3
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Ward|Ward]]'''<br>While Prankster Mage has a Ward, he has '''[[Legends:Guard|Guard]]'''.<br>When Prankster Mage's Ward is broken, he has '''[[Legends:Cover|Cover]]'''.
+|ward=1
+|aguard=1
+|cover=1
+|deckcode=xd
+}}
+
+==Availability==
+Prankster Mage was the [[Legends:Monthly Card|monthly card]] for September 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=J'skar|use=enter play|text=Hear you've been looking for me.}}
+{{Legends Audio 2|card=J'skar|use=attack|text=Goodbye.}}
+
+==Notes==
+*This card is based on [[Oblivion:J'skar|J'skar]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Prankster Mage.png|Card art
+</gallery>

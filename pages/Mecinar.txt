@@ -1,0 +1,30 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Clockwork City
+|attribute=Neutral
+|cost=8
+|image=LG-card-Mecinar.png
+|power=4
+|health=4
+|rarity=Legendary
+|ability='''[[LG:Summon|Summon]]:''' Stitch together the top creature from both decks to create an&nbsp;~Abomination~~&nbsp;and put it into your hand.
+|summon=1
+|unique=1
+|deckcode=kq
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Chamber of Lorkhan|Chamber of Lorkhan]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Chamber of Lorkhan.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Behold my creation! The perfect life form.}}
+{{Legends Audio 2|use=attack|text=Witness MY genius.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Mecinar Old Client.png|Old client card image
+File:LG-cardart-Mecinar.jpg|Card art
+File:LG-premcard-Mecinar.gif|Premium card (click to view animation)
+</gallery>

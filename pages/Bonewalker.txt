@@ -1,0 +1,30 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Bonewalker.png
+|cost=4
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Guard|Guard]]<br>[[Legends:Summon|Summon]]:''' +1/+1 for each enemy creature in this lane.
+|summon=1
+|prophecy=1
+|guard=1
+|deckcode=cn
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck, and two copies in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Notes==
+*This card's summon ability applies the '''Walking Bones''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Bonewalker Old Client.png|Old client card image
+File:LG-cardart-Bonewalker.png|Card art
+File:LG-cardart-Bonewalker (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|subtype2=Vampire
+|class=Warrior
+|cost=7
+|image=LG-card-Champion of the Arena.png
+|power=4
+|health=8
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br>'''[[Legends:Summon|Summon]]:''' '''[[Legends:Battle|Battle]]''' an enemy creature.
+|breakthrough=1
+|summon=1
+|battle=1
+|deckcode=yJ
+}}
+
+==Availability==
+Champion of the Arena was the [[Legends:Monthly Card|monthly card]] for October 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Agronak|use=enter play|text=I'll prove my nobility to the world.}}
+{{Legends Audio 2|card=Agronak|use=attack|text=Finally! A challenge!}}
+
+==Notes==
+*This card depicts [[Oblivion:Agronak gro-Malog|Agronak gro-Malog]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]'', the Grand Champion of the Imperial Arena. He believes he is of noble blood, but in reality his father was a vampire.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Champion of the Arena.png|Card art
+</gallery>

@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=8
+|image=LG-card-Therana's Lawman.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]''', '''[[Legends:Ward|Ward]]'''
+|guard=1
+|ward=1
+|deckcode=qu
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck, one copy in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck, and one copy in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|card=therana s lawman|use=enter play|text=Don't be a nuisance.}}
+{{Legends Audio 2|card=therana s lawman|use=attack|text=[Sigh]... Guess I'll have to kill you.}}
+
+==Notes==
+*This card likely depicts [[Morrowind:Mollimo of Cloudrest|Mollimo of Cloudrest]], who first appeared in ''[[Morrowind:Morrowind|Morrowind]]'' as a Lawman of [[Morrowind:House Telvanni|House Telvanni]] who worked for Mistress [[Morrowind:Therana|Therana]] in [[Morrowind:Tel Branora|Tel Branora]]. 
+
+==Gallery==
+<gallery>
+File:LG-card-Therana's Lawman Old Client.png|Old client card image
+File:LG-cardart-Therana's Lawman.png|Card art
+</gallery>

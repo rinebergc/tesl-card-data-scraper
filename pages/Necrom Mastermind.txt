@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|cost=5
+|image=LG-card-Necrom Mastermind.png
+|power=5
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': Trigger the '''[[Legends:Last Gasp|Last Gasp]]''' of each friendly creature.
+|summon=1
+|alastgasp=1
+|deckcode=lo
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=They won't be expecting this!|text2=I have no end of surprises!}}
+{{Legends Audio 2|use=attack|text=Surprise!|text2=Expect the unexpected!|text3=Fool!}}
+
+==Notes==
+*The card is named for the [[Lore:Morrowind|Morrowind]] necropolis of [[Lore:Necrom|Necrom]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Necrom Mastermind Old Client.png|Old client card image
+File:LG-cardart-Necrom Mastermind.png|Card art
+File:LG-cardart-Necrom Mastermind (China).png|Chinese card art
+</gallery>

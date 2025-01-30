@@ -1,0 +1,26 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|attribute=Strength
+|cost=1
+|image=LG-card-Frenzied Alit.png
+|availability=Monthly Card
+|power=1
+|health=3
+|rarity=Epic
+|ability=When Frenzied Alit takes damage, it gains +1/+0.
+|uniqueability=1
+|deckcode=iT
+}}
+
+==Availability==
+Frenzied Alit was the [[Legends:Monthly Card|monthly card]] for November 2018. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Notes==
+*This card's ability applies the '''Frenzy''' effect to itself.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Frenzied Alit.png|Card art
+</gallery>

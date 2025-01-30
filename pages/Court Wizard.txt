@@ -1,0 +1,27 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Court Wizard.png
+|power=3
+|health=5
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card if you have two other {{LG Attribute Icon|Intelligence}} creatures.
+|summon=1
+|deckcode=dC
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'm here to help, not play politics.}}
+{{Legends Audio 2|use=attack|text=I didn't sign up to kill!}}
+
+==Notes==
+*This card's audio references [[SR:Madena|Madena's]] dialogue in ''[[SR:Skyrim|Skyrim]]'': ''"I'm here to help the people of Dawnstar, not play politics."'' and ''"When I came here, my only duties were to cure crop diseases and occasionally light a bonfire on holidays. I didn't sign up to kill."''
+==Gallery==
+<gallery>
+File:LG-card-Court Wizard Old Client.png|Old client card image
+File:LG-cardart-Court Wizard.png|Card art
+</gallery>

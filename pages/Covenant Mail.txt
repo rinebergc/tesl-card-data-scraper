@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Item
+|availability=Alliance War
+|attribute=Endurance
+|cost=3
+|image=LG-card-Covenant Mail.png
+|rarity=Common
+|ability='''[[LG:Prophecy|Prophecy]]''', '''[[LG:Mobilize|Mobilize]]''', '''[[LG:Guard|Guard]]'''</br>+1/+3
+|prophecy=1
+|mobilize=1
+|guard=1
+|deckcode=sL
+}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is an [[Legends:Orc|Orc]].
+*The card depicts the [[Lore:Daggerfall Covenant|Daggerfall Covenant]] alliance [[Lore:Crafting Motif 26: Daggerfall Covenant Style|motif]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Covenant Mail.png|Card art
+</gallery>

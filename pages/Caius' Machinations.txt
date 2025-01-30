@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Endurance
+|cost=2
+|image=LG-card-Caius' Machinations.png
+|rarity=Rare
+|ability='''[[Legends:Betray|Betray]]'''<br>Give the top three creatures of your deck +1/+1.
+|betray=1
+|deckcode=cE
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Notes==
+*This card applies the '''Machination''' card effect.
+*There's a creature card with similar effects depicting Cosades, named [[Legends:Caius Cosades|Caius Cosades]].
+*This card depicts [[Legends:Caius Cosades|Caius Cosades]], who also [[Morrowind:Caius Cosades|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Caius' Machinations Old Client.png|Old client card image
+File:LG-cardart-Caius' Machinations.png|Card art
+</gallery>

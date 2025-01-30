@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Mudcrab
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Mudcrab Merchant.png
+|cost=1
+|power=1
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' The Merchant shows you two cards he has for sale. Choose one to put into your hand. He puts the other into your opponent's hand.
+|summon=1
+|deckcode=kY
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Talking. Mudcrab. Merchant. Read my lips. Uh. Mouthparts?}}
+{{Legends Audio 2|use=attack|text=Did I stutter or somethin'?}}
+
+==Notes==
+*The card previously had 3 health, but this was decreased in [[Legends:Patch/1.72.4|patch 1.72.4]].
+*The [[Morrowind:Mudcrab (merchant)|Mudcrab merchant]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and the card's audio consists of dialogue from that appearance:
+**'''Background''': ''"Whaddaya think? Sheesh. I'm a mudcarb... crab. Shure. A mudcrab. Thas me. Pretty sure. I LOOK like a mudcrab, right? Mush be. Thish IS me talking, right? So? I mush be... A talking mudcrab. And I sells stuff, right? So? I mush be a talking mudcrab merchant. Stands to reason, don't it?"''
+**'''Talking mudcrab merchant''': ''"Sure. Thash what I said? Did I stutter or shomethin? Talking. Mudcrab. Merchant. Read my lips. Ehr. Mouthparts? Read my mouthparts? Shomethin ain't right. But never mind. Jush one-a life's little myshteries. So. You gonna buy shomethin? Or sit here jawin' all day."''
+
+==Gallery==
+<gallery>
+File:LG-card-Mudcrab Merchant Old Client.png|Old client card image
+File:LG-cardart-Mudcrab Merchant.jpg|Card art
+</gallery>

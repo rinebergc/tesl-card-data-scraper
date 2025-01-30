@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Master of Arms.png
+|altart=[[Legends:New Life Festival Pack|New Life Festival Pack]] 2017
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Master of Arms [[LG:Equip|equips]] the two highest cost [[LG:Items|items]] from your discard pile.
+|summon=1
+|deckcode=kl
+|altartdeckcode=km
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=There's life in this old thing yet.|text2=This might do in a pinch.}}
+{{Legends Audio 2|use=attack|text=Come dance with a master!|text2=You are no match for me!|text3=Think you can take me?}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Student of Arms}} at level 34.
+*An alternate-art version of the card was available in the 2017 [[Legends:New Life Festival Pack|New Life Festival Pack]].
+*While the normal art does not depict any specific items, the alternate art includes a [[Legends:Tome of Alteration|Tome of Alteration]] and [[Legends:Mace of Encumbrance|Mace of Encumbrance]] in the hands of the Master.
+
+==Gallery==
+<gallery>
+File:LG-card-Master of Arms Old Client.png|Old client card image
+File:LG-card-Master of Arms Alt.png|Alternative card from the New Life Festival promo
+File:LG-cardart-Master of Arms.png|Card art
+File:LG-cardart-Master of Arms Alt.png|Alternative art from the New Life Festival promo
+</gallery>

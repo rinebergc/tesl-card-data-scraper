@@ -1,0 +1,21 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Item
+|attribute=Neutral
+|availability=Heroes of Skyrim
+|cost=4
+|image=LG-card-Glass Helm of Remedy.png
+|rarity=Common
+|ability=+0/+4</br>'''[[Legends:Summon|Summon]]:''' You gain 4 health.
+|deckcode=hg
+}}
+
+==Notes==
+*The card depicts a [[Skyrim:Glass Helmet|glass helmet]] of ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Glass Helm of Remedy Old Client.png|Old client card image
+File:LG-cardart-Glass Helm of Remedy.png|Card art
+</gallery>

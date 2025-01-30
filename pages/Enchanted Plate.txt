@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|cost=2
+|image=LG-card-Enchanted Plate.png
+|ability=+0/+3<br>'''[[Legends:Summon|Summon]]''': Draw a card.
+|attribute=Endurance
+|rarity=Common
+|summon=1
+|deckcode=fR
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck, and two copies in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Notes==
+*The depicted armor bears the symbol of [[Lore:Mysticism|Mysticism]].
+
+==Gallery==
+<gallery>
+File:LG-card-Enchanted Plate Old Client.png|Old client card image
+File:LG-cardart-Enchanted Plate.png|Card art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Skilled Blacksmith.png
+|power=2
+|health=3
+|rarity=Rare
+|ability=Your [[Legends:Items|items]] cost 1 less.
+|uniqueability=1
+|deckcode=ot
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play|text=Looks like it is time for the muscle.|text2=A strong arm is what you need.}}
+{{Legends Audio 2|use=attack|text=Do not test me!|text2=You will die where you stand!|text3=I'll pound you into Oblivion!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Skilled Blacksmith Old Client.png|Old client card image
+File:LG-cardart-Skilled Blacksmith.png|Card art
+</gallery>

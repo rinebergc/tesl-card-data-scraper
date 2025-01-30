@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|class=Aldmeri Dominion
+|cost=6
+|image=LG-card-Ayrenn's Chosen.png
+|rarity=Epic
+|ability=Summon a random '''1'''/'''1''' '''~Recruit~~''' in each lane and give them '''[[Legends:Guard|Guard]]'''.<br>'''[[Legends:Empower|Empower]]:''' +1/+1.
+|empower=1
+|aguard=1
+|deckcode=tb
+}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:High Elf|High Elves]].
+*This card applies the '''Dominance''' card effect to the summoned recruits.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ayrenn's Chosen.png|Card art
+</gallery>

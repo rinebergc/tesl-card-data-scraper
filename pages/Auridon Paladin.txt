@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|cost=4
+|image=LG-card-Auridon Paladin.png
+|power=4
+|health=4
+|ability=When you play an [[LG:Actions|action]], Auridon Paladin gains '''[[LG:Drain|Drain]]''' this turn.
+|attribute=Willpower
+|rarity=Common
+|uniqueability=1
+|adrain=1
+|deckcode=bm
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|card=Auridon Battlemage|text=We shall take the fight to them!|text2=This day shall be auspicious.}}
+{{Legends Audio 2|use=attack|card=Auridon Battlemage|text=Your loss is my gain.|text2=Let me lighten your load.|text3=My fury is unleashed!}}
+
+==Notes==
+*This card's ability applies the '''Enchanted''' card effect.
+*The card is named for the [[Lore:Summerset Isles|Summerset]] island of [[Lore:Auridon|Auridon]].
+*The card was formerly called "Auridon Battlemage" as seen in prerelease materials prior to open beta.
+
+==Gallery==
+<gallery>
+File:LG-card-Auridon Paladin Old Client.png|Old client card image
+File:LG-cardart-Auridon Paladin.png|Card art
+File:LG-cardart-Auridon Paladin 02.jpg|Cropped version of higher resolution
+</gallery>

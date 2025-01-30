@@ -1,0 +1,20 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=2
+|image=LG-card-Will-o-the-Wisp.png
+|power=3
+|health=2
+|rarity=Common
+|ability='''[[Legends:Drain|Drain]]'''
+|drain=1
+|deckcode=xj
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Will-o-the-Wisp.png|Card art
+</gallery>

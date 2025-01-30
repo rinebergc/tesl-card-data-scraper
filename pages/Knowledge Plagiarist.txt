@@ -1,0 +1,23 @@
+{{Mod Header|Dawnguard}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Dawnguard
+|attribute=Agility
+|cost=4
+|power=1
+|health=2
+|image=LG-card-Knowledge Plagiarist.png
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Knowledge Plagiarist steals an item from your opponent's discard pile and equip it.
+|deckcode=
+}} It is exclusive to ''[[Legends:Legends Asia|Legends Asia]]'' and was introduced as part of the [[Legends:Dawnguard|Dawnguard]] expansion.
+
+==Notes==
+*This card depicts [[Skyrim:Taron Dreth|Taron Dreth]] from the ''[[Skyrim:Dawnguard|Dawnguard]]'' expansion for ''[[Skyrim:Skyrim|Skyrim]]''.
+<!--
+==Gallery==
+<gallery>
+File:
+</gallery>
+-->

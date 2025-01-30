@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Willpower
+|cost=4
+|image=LG-card-Dawnbreaker.png
+|unique=Yes
+|rarity=Legendary
+|ability=+4/+4</br>'''[[Legends:Slay|Slay]]: [[Legends:Banish|Banish]]''' the slain creature if it's '''[[Legends:Undead|Undead]]'''.
+|slay=1
+|banish=1
+|deckcode=ej
+}}
+
+==Notes==
+*[[Skyrim:Dawnbreaker|Dawnbreaker]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]'', and later [[Online:Dawnbreaker|reappeared]] in [[Online:Online|ESO]]. For historical information, see the [[Lore:Dawnbreaker|lore article]].
+*Using the card's banish effect contributes towards ''The Dawnbreaker'' [[Legends:Titles|title]], which in turn contributes towards ''The Treasure Hunter''.
+*Playing the card contributes towards the "''Unique Cards Played''" [[Legends:Statistics|statistic]].
+*The card's art depicts Dawnbreaker as it appeared in ''Skyrim'', in front of the Statue of Meridia.
+*This card was changed from "Summon: Destroy and enemy Undead." to "Slay: Banish the slain creature if it's Undead." in [[Legends:Patch/2.11|Patch 2.11]].
+
+==Gallery==
+<gallery>
+File:LG-card-Dawnbreaker Old Client.png|Old client card image
+File:LG-card-Dawnbreaker old.png|Early version from Gameplay Overview video
+File:LG-cardart-Dawnbreaker.png|Card art
+File:LG-cardart-Dawnbreaker 02.jpg|High resolution card art
+</gallery>

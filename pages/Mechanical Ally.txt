@@ -1,0 +1,27 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|image=LG-card-Mechanical Ally.png
+|availability=Monthly Card
+|cost=3
+|power=3
+|health=3
+|rarity=Epic
+|attribute=Neutral
+|ability='''[[LG:Summon|Summon]]''': Summon a '''~Spider Worker~~''' if the top card of your deck is {{LG Attribute Icon|Neutral}}.
+|summon=1
+|deckcode=kp
+}} It is currently excluded from Arena mode.
+
+{{NewLeft}}
+==Notes==
+*Mechanical Ally was the [[LG:Monthly Cards|monthly card]] for the month of October 2016, during the open beta period.
+
+==Gallery==
+<gallery>
+File:LG-card-Mechanical Ally Old Client.png|Old client card image
+File:LG-cardart-Mechanical Ally.png|Card art
+File:LG-cardart-Mechanical Ally 03.png|Larger, cropped
+File:LG-cardart-Mechanical Ally 02.png|Cropped version of higher resolution
+</gallery>

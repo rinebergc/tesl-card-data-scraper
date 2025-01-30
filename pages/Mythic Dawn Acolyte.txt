@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Mythic Dawn Acolyte.png
+|power=5
+|health=4
+|rarity=Common
+|ability=At the end of each turn, if you '''[[Legends:Invade|Invaded]]''', deal 2 damage.
+|ainvade=1
+|deckcode=zC
+}}
+==Audio==
+{{Legends Audio 2|card=dawn acolyte|use=enter play|text=I will live forever in [[Lore:Gaiar Alata|Paradise]].}}
+{{Legends Audio 2|card=dawn acolyte|use=attack|text=[[Lore:Mehrunes Dagon|Lord Dagon]] commands your death.}}
+==Note==
+*This card depicts a member of the [[Lore:Mythic Dawn|Mythic Dawn]], a cult who served as antagonists in the main questline of ''[[OB:Oblivion|Oblivion]]''.
+==Gallery==
+<gallery>
+File:LG-cardart-Mythic Dawn Acolyte.png|Card art
+</gallery>

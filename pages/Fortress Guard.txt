@@ -1,0 +1,25 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Isle of Madness
+|attribute=Willpower
+|cost=4
+|image=LG-card-Fortress Guard.png
+|power=3
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' You may discard a card to summon a 2/2 '''~Colovian Trooper~~''' with Guard in the other lane.
+|guard=1
+|summon=1
+|deckcode=gH
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Who's there? Halt I say!}}
+{{Legends Audio 2|use=attack|text=I'm not afraid of you.}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Fortress Guard.png|Card art
+</gallery>

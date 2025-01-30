@@ -1,0 +1,35 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=3
+|image=LG-card-Companion Harbinger.png
+|power=3
+|health=3
+|rarity=Rare
+|obtainable=Yes
+|beastform=1
+|ability='''[[Legends:Beast Form|Beast Form]]:''' Give friendly [[Legends:Werewolf|Werewolves]] +1/+1.
+|deckcode=du
+}} If an enemy [[Legends:Runes|rune]] is destroyed when this card is in play, it will turn into its {{Card|Companion Harbinger (Werewolf)|Werewolf version}}.
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The spirit of [[Lore:Ysgramor|Ysgramor]] goes with us.}}
+{{Legends Audio 2|use=attack|text=Don't leave any of them alive.}}
+{{Legends Audio|card=Companion Harbinger|use=trigger|text=This is our burden to bear.}}
+
+==Notes==
+*This card's werewolf transformation applies the '''Companionship''' card effect on all Werewolves and the '''Companion Leader''' on itself.
+*This card's Beast Form triggers after other creatures' Beast Form transformations, to ensure that it buffs all Werewolves that enter Beast Form. Originally it would also trigger after prophecies, but this was a glitch fixed in [[LG:Patch/1.66.1|Patch 1.66.1]], and it now triggers before prophecies like the other Werewolf transformations.
+*This card depicts [[Skyrim:Kodlak Whitemane|Kodlak Whitemane]] from ''[[Skyrim:Skyrim|Skyrim]]''.
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+==Gallery==
+<gallery>
+File:LG-card-Companion Harbinger Old Client.png|Old client card image
+File:LG-cardart-Companion Harbinger (Nord).png|Card art
+</gallery>

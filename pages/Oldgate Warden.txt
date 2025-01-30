@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Endurance
+|cost=2
+|image=LG-card-Oldgate Warden.png
+|power=0
+|health=5
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]], [[Legends:Regenerate|Regenerate]]'''
+|guard=1
+|regenerate=1
+|deckcode=lJ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play|text=The watch is mine.|text2=I stand with weapons ready!}}
+{{Legends Audio 2|use=attack|text=I'll break you!|text2=Fall back or die!|text3=You can't win.}}
+
+==Notes==
+*The card is named for the [[Lore:High Rock|High Rock]] town of [[Lore:Oldgate|Oldgate]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Oldgate Warden Old Client.png|Old client card image
+File:LG-cardart-Oldgate Warden.png|Card art
+</gallery>

@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Endurance
+|cost=5
+|image=LG-card-Boneweaver.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature. Draw a creature with the same name from your discard pile.
+|guard=1
+|summon=1
+|consume=1
+|deckcode=vV
+}}
+==Audio==
+{{Legends Audio 2|card=Na'ruzz|use=enter play|text=Khajiit is going to enjoy this.}}
+{{Legends Audio 2|card=Na'ruzz|use=attack|text=A blight on you dull-claws!}}
+
+==Notes==
+*If there are no other creatures with the same name as the consumed creature in the graveyard, no cards will be drawn.
+*The card's art depicts [[Online:Na'ruzz the Boneweaver|Na'ruzz the Boneweaver]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Boneweaver.jpg|Card art
+</gallery>

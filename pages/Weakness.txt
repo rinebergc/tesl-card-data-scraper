@@ -1,0 +1,23 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Action
+|availability=Clockwork City
+|attribute=Endurance
+|cost=2
+|image=LG-card-Weakness.png
+|rarity=Common
+|ability=Set a creature's health to 1.
+|deckcode=rG
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Forelhost Lost Tomb|Forelhost Lost Tomb]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Forelhost Lost Tomb.
+
+==Notes==
+*This card's ability applies the '''Enfeebled''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Weakness Old Client.png|Old client card image
+File:LG-cardart-Weakness.png|Card art
+</gallery>

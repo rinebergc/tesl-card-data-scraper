@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Dres Renegade.png
+|power=4
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''<br>Other friendly creatures are immune to '''[[Legends:Shackle|Shackle]].
+|guard=1
+|uniqueability=1
+|ashackle=1
+|deckcode=eX
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck, and one copy in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll keep a lookout.|text2=The watch is mine!}}
+{{Legends Audio 2|use=attack|text=I've got this!|text2=Child's play!|text3=Now I have you!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Dres Guard}} at level 16.
+*When Dres Renegade is summoned, all friendly creatures get unshackled, and in the case of ongoing shackles (i.e. {{Card|Arrest}}) they will not become reshackled.
+*The card is named for [[Lore:House Dres|House Dres]], one of the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]]. It depicts a rebellious member of the house helping [[Lore:Slavery|slaves]] escape.
+
+==Gallery==
+<gallery>
+File:LG-card-Dres Renegade Old Client.png|Old client card image
+File:LG-cardart-Dres Renegade.png|Card art
+File:LG-cardart-95.jpg|Unused alternate art
+</gallery>

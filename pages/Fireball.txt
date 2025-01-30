@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=4
+|image=LG-card-Fireball.png
+|rarity=Rare
+|ability=Deal 1 damage to all enemies.
+|deckcode=gx
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+==Notes==
+*Destroying creatures with this card counts towards the '''Creatures Burned''' [[Legends:Statistics|statistic]].
+*In pre-release materials, this card was shown with the artwork later used for {{Card|Firebolt}}.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*The card's art depicts, from front, a figure in [[Lore:Imperial Legion|Imperial Legion]] armor as it [[Skyrim:Imperial Light Armor|appeared]] in [[Skyrim:Skyrim|''Skyrim'']], a figure in the armor of [[Lore:Whiterun|Whiterun]], again as it [[Skyrim:Whiterun  Guard's Armor|appeared]] in ''Skyrim'', and a figure in ''Skyrim'''s [[Skyrim:Iron Armor|Iron Armor]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fireball Old Client.png|Old client card image
+File:LG-card-Fireball old.png|Early version from Gameplay Overview video with Firebolt artwork
+File:LG-cardart-Fireball.png|Card art
+File:LG-cardart-Fireball 02.jpg|High-res card art from illustrator site
+</gallery>

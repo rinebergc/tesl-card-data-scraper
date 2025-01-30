@@ -1,0 +1,32 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Clockwork City
+|attribute=Agility
+|cost=2
+|image=LG-card-Cog Collector.png
+|power=1
+|health=2
+|rarity=Epic
+|ability='''[[LG:Pilfer|Pilfer]]:''' Add a gear to Cog Collector.<br/>'''[[Legends:Last Gasp|Last Gasp]]:''' Summon a random {{LG Attribute Icon|Neutral}} creature with cost equal to the number of gears on Cog Collector.
+|pilfer=1
+|lastgasp=1
+|deckcode=ds
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Sightless Pit (quest)|Sightless Pit]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Sightless Pit.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=There is life in this machine yet.}}
+{{Legends Audio 2|use=attack|text=Have anything useful for Khajiit?}}
+
+==Notes==
+*When there is no [[LG:Neutral|Neutral]] creature available with the same cost as the number of gears when the Last Gasp triggers, it will summon an {{Card|Ancient Giant}} with the same cost, power, and health as the amount of gears instead.
+
+==Gallery==
+<gallery>
+File:LG-card-Cog Collector Old Client.png|Old client card image
+File:LG-cardart-Cog Collector.png|Card art
+</gallery>

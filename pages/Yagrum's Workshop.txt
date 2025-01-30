@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|attribute=Neutral
+|cost=3
+|uses=3
+|image=LG-card-Yagrum's Workshop.png
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Activate|Activate]]:''' Your {{LG Attribute Icon|Neutral}} '''[[Legends:Summon|Summon]]''' and '''[[Legends:Assemble|Assemble]]''' abilities trigger an additional time this turn.
+|deckcode=yM
+|asummon=1
+|aassemble=1
+}}
+
+==Availability==
+Yagrum's Workshop was the [[Legends:Monthly Card|monthly card]] for October 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This card depicts [[Lore:Yagrum Bagarn|Yagrum Bagarn]] looking at a Dwemer Gyro.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Yagrum's Workshop.png|Card art
+</gallery>

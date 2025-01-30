@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Neutral
+|cost=3
+|image=LG-card-Enlistment Officer.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Give friendly '''~Recruit~~s''' +1/+1.
+|summon=1
+|deckcode=tc
+}}
+==Audio==
+{{Legends Audio 2|card=Enlistment Officer|use=enter play|text=I'll shape you up into a fighting force!}}
+{{Legends Audio 2|card=Enlistment Officer|use=attack|text=Troops! Move out!}}
+==Notes==
+*This card's summon ability applies the '''Prime Recruits''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Enlistment Officer.png|Card art
+</gallery>

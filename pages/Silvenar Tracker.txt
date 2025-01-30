@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|attribute=Strength
+|cost=2
+|image=LG-card-Silvenar Tracker.png
+|power=3
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Gains '''[[Legends:Charge|Charge]]''' if there is a '''[[Legends:Wounded|Wounded]]''' enemy creature in this lane.
+|summon=1
+|acharge=1
+|awounded=1
+|deckcode=ol
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is obtainable in the [[Legends:Band of Survivors|Band of Survivors]] deck as a reward from [[LG:Tangled Web|Tangled Web]].
+
+==Audio==
+{{Legends Audio 2|use=enter play fail|text=This herd needs thinning.}}
+{{Legends Audio 2|use=enter play success|text=You won't escape!}}
+{{Legends Audio 2|use=attack|text=We've seen the last of you!|text2=You won't escape!|text3=These woods are mine!}}
+
+== Notes ==
+* This card's summon ability applies the '''Bosmer Bloodthirst''' card effect.
+*The Silvenar Tracker is named for the [[Lore:Valenwood|Valenwood]] city of [[Lore:Silvenar|Silvenar]].
+
+==Gallery==
+<gallery>
+File:LG-card-Silvenar Tracker Old Client.png|Old client card image
+File:LG-cardart-Silvenar Tracker.png|Card art
+</gallery>

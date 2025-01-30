@@ -1,0 +1,39 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=7
+|image=LG-card-Aela the Huntress.png
+|power=3
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Deal 1 damage.{{NewLeft}}'''[[Legends:Beast Form|Beast Form]]:''' +2/+2 and destroy a '''[[Legends:Wounded|Wounded]]''' creature.
+|summon=1
+|beastform=1
+|unique=1
+|awounded=1
+|deckcode=af
+}} If an enemy [[Legends:Runes|rune]] is destroyed while she's in play, she will change into her {{Card|Aela the Huntress (Werewolf)|Werewolf version}}.
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Blood running hot!}}
+{{Legends Audio 2|use=attack|text=I'm ready for the hunt!}}
+{{Legends Audio|card=Aela the Huntress|use=trigger|text=The moons call to me!}}
+
+==Notes==
+*This card's werewolf transformation applies the '''Blood Running Hot''' card effect.
+*Concept art for this card was shown in displays at PAX East 2016.
+*Aela first [[Skyrim:Aela the Huntress|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+**For more information on recurring characters, see the [[General:Recurring Characters|associated page]].
+
+==Gallery==
+<gallery>
+File:LG-card-Aela the Huntress Old Client.png|Old client card image
+File:LG-cardart-Aela the Huntress.jpg|Card art
+File:LG-premcard-Aela the Huntress.gif|Premium card (click to view animation)
+</gallery>

@@ -1,0 +1,21 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|attribute=Willpower
+|cost=3
+|image=LG-card-Conjurer's Spirit.png
+|availability=Monthly Card
+|uses=Ongoing
+|rarity=Epic
+|ability=At the end of your turn, if you gained health, summon a 2/2 '''~Familiar~~'''.
+|deckcode=dx
+}}
+
+==Availability==
+Conjurer's Spirit was the [[Legends:Monthly Card|monthly card]] for April 2018. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-card-Conjurer's Spirit Old Client.png|Old client card image
+File:LG-cardart-Conjurer's Spirit.png|Card art
+</gallery>

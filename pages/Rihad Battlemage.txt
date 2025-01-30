@@ -1,0 +1,36 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Strength
+|cost=3
+|image=LG-card-Rihad Battlemage.png
+|power=3
+|health=3
+|rarity=Common
+|ability=+0/+3 and '''[[Legends:Guard|Guard]]''' while [[LG:Equip|equipped]] with an [[LG:Items|item]].
+|uniqueability=1
+|aguard=1
+|deckcode=ni
+|altartdeckcode=zV
+|altart=[[Legends:Retro Gauntlet|Retro Gauntlet]] March 2022
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Time to march.|text2=Into the fray.}}
+{{Legends Audio 2|use=attack|text=By Onsi's bright blade!|text2=For the ancestors!|text3=You'll burn!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Rihad Nomad}} at level 11.
+*This card's equip ability applies the '''Armed and Armored''' card effect.
+*The card is named for the [[Lore:Hammerfell|Hammerfell]] city of [[Lore:Rihad|Rihad]].
+
+==Gallery==
+<gallery>
+File:LG-card-Rihad Battlemage Old Client.png|Old client card image
+File:LG-cardart-Rihad Battlemage.png|Card art
+File:LG-cardart-Rihad Battlemage Alt.png|Alternate art
+</gallery>

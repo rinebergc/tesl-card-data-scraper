@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=5
+|image=LG-card-Pillaging Tribune.png
+|power=5
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''': Give a friendly creature '''[[Legends:Drain|Drain]]''' this turn.
+|summon=1
+|adrain=1
+|deckcode=md
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Burn it all to the ground.|text2=Leave nothing.}}
+{{Legends Audio 2|use=attack|text=You have something to say?|text2=No prisoners.|text3=The Eight protect us!}}
+
+==Notes==
+*This card's summon ability applies the '''Pillaging''' card effect.
+*Prior to January 2017, this card would give all creatures in its lane drain for one turn. This was changed due to its ability to gain you much more health than was previously lost.{{ref|name=Jan2017|[https://legends.bethesda.net/articles/letter-from-the-devs-jan-2017 Letter from the Devs] from Bethesda.net, January 11 2017}}
+
+==Gallery==
+<gallery>
+File:LG-card-Pillaging Tribune Old Client.png|Old client card image
+File:LG-cardart-Pillaging Tribune.png|Card art
+</gallery>
+
+== References ==
+<references/>

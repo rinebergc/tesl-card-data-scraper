@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Willpower
+|cost=1
+|image=LG-card-Blackmail.png
+|rarity=Epic
+|ability=Draw a [[LG:Copy|copy]] of a random creature from your opponent's deck.
+|copy=1
+|deckcode=bR
+}}
+
+==Audio==
+{{Legends Audio 2|creature=No|text=You belong to us now.|text2=You are one with us, and we are legion.}}
+
+==Notes==
+*The stolen card is a copy and will not be removed from the opponent's deck.
+*If the opponent does not have any creatures in their deck, you will receive a {{Card|Chicken}}.
+
+==Gallery==
+<gallery>
+File:LG-card-Blackmail Old Client.png|Old client card image
+File:LG-cardart-Blackmail.png|Card art
+</gallery>

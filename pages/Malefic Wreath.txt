@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=3
+|image=LG-card-Malefic Wreath.png
+|rarity=Rare
+|ability=Give a creature -2/-2.
+|deckcode=ke
+}}
+
+==Notes==
+*This card's ability applies the '''Malefic Curse''' card effect.
+*This card is named after the [[ON:Malefic Wreath|Malefic Wreath]] skill in [[ON:Online|ESO]], which was removed from the game by a patch.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Malefic Wreath Old Client.png|Old client card image
+File:LG-cardart-Malefic Wreath.png|Card art
+File:LG-cardart-Malefic Wreath (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Agility
+|cost=3
+|image=LG-card-Skooma Racketeer.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Give a creature '''[[Legends:Lethal|Lethal]]'''.
+|summon=1
+|alethal=1
+|deckcode=ox
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck, two copies in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck, and one copy in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one offers something tasty.|text2=Quench your thirst, friend.}}
+{{Legends Audio 2|use=attack|text=Customers only.|text2=My strength comes from skooma!|text3=I will end you!}}
+
+==Notes==
+*This card's summon ability applies the '''Tainted Skooma''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Skooma Racketeer Old Client.png|Old client card image
+File:LG-cardart-Skooma Racketeer.png|Card art
+</gallery>

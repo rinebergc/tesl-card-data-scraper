@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Poetic Armiger.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Exalt|Exalt 1]]:''' Gain a random '''[[Legends:Keywords|Keyword]]'''.
+|exalt=1
+|deckcode=mh
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I once knew a man from Balmora! Uh... Hmm... No that's no good.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=My sword and my wit serve the Warrior-Poet.}}
+{{Legends Audio 2|use=attack|text=My sword is as mighty as my pen!}}
+
+==Notes==
+*This card's exalt ability applies the '''Poetic''' card effect.
+*This card depicts a member of the [[Lore:Buoyant Armigers|Buoyant Armigers]].
+==Gallery==
+<gallery>
+File:LG-card-Poetic Armiger Old Client.png|Old client card image
+File:LG-cardart-Poetic Armiger.png|Card art
+</gallery>

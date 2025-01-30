@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=6
+|image=LG-card-Spine of Eldersblood.png
+|power=6
+|health=6
+|rarity=Rare
+|obtainable=Yes
+|ability='''[[Legends:Summon|Summon]]:''' Gain +1 max magicka.
+|summon=1
+|deckcode=pa
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+==Notes==
+*This card is named after [[Skyrim:Eldersblood Peak|Eldersblood Peak]] from ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Spine of Eldersblood Old Client.png|Old client card image
+File:LG-cardart-Spine of Eldersblood.png|Card art
+</gallery>

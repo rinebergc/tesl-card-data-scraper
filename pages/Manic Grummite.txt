@@ -1,0 +1,21 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Grummite
+|availability=Isle of Madness
+|attribute=Neutral
+|cost=3
+|image=LG-card-Manic Grummite.png
+|power=2
+|health=3
+|rarity=Common
+|ability=
+|double={{Card|Demented Grummite}}
+|deckcode=kf
+}}
+==Notes==
+*This card depicts a [[Lore:Grummite|Grummite]] from [[Lore:Mania|Mania]], a region of the [[Lore:Shivering Isles|Shivering Isles]].
+==Gallery==
+<gallery>
+File:LG-cardart-Manic Grummite.png|Card art
+</gallery>

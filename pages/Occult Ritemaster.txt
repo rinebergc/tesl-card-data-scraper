@@ -1,0 +1,26 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Occult Ritemaster.png
+|power=4
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Put a '''~Steel Dagger~~''' into your hand.<br>When Occult Ritemaster equips an [[Legends:Items|item]], '''[[Legends:Invade|Invade]]'''.
+|summon=1
+|invade=1
+|deckcode=yv
+|uniqueability=1
+}}
+
+==Audio==
+{{Legends Audio 2|card=Dawn Initiate|use=enter play|text=Praise be.}}
+{{Legends Audio 2|card=Dawn Initiate|use=attack|text=May your blood satisfy Lord Dagon!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Occult Ritemaster.png|Card art
+</gallery>

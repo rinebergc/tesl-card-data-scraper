@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|image=LG-card-Ironscale Dragon.png
+|cost=7
+|power=7
+|health=7
+|rarity=Common
+|ability='''[[Legends:Regenerate|Regenerate]]'''
+|regenerate=1
+|deckcode=jb
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Notes==
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ironscale Dragon Old Client.png|Old client card image
+File:LG-cardart-Ironscale Dragon.png|Card art
+File:LG-cardart-Ironscale Dragon 02.jpg|High-res card art from illustrator
+File:LG-art-Ironscale Dragon concept.jpg|Concept art from illustrator
+</gallery>

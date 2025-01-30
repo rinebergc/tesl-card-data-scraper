@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|cost=4
+|power=3
+|health=3
+|image=LG-card-Gloom Wraith.png
+|ability='''[[LG:Breakthrough|Breakthrough]]'''<br>'''[[LG:Summon|Summon]]''': +1/+1 for each other friendly {{LG Attribute Icon|Endurance}} creature.
+|attribute=Endurance
+|rarity=Rare
+|breakthrough=1
+|summon=1
+|deckcode=hi
+}}
+
+==Notes==
+*This card's summon ability applies the '''Strength of the Night''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Gloom Wraith Old Client.png|Old client card image
+File:LG-cardart-Gloom Wraith.png|Card art
+File:LG-cardart-Gloom Wraith (China).png|Chinese card art
+</gallery>

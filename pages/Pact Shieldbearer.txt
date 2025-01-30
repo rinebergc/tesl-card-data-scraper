@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Strength
+|cost=4
+|image=LG-card-Pact Shieldbearer.png
+|power=3
+|health=6
+|rarity=Epic
+|ability='''[[Legends:Veteran|Veteran]]:''' Your opponent's actions cost 4 more next turn.
+|veteran=1
+|deckcode=tO
+}}
+==Audio==
+{{Legends Audio 2|card=Pact Shieldbearer|use=enter play|text=Stay behind me!}}
+{{Legends Audio 2|card=Pact Shieldbearer|use=attack|text=Time to turn the tables!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Pact Shieldbearer.png|Card art
+</gallery>

@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=3
+|image=LG-card-Mighty Ally.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': +3/+0 and '''[[LG:Breakthrough|Breakthrough]]''' if the top card of your deck is  {{LG Attribute Icon|Strength}}.
+|summon=1
+|abreakthrough=1
+|deckcode=kz
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play fail|text=The day shall be ours.}}
+{{Legends Audio 2|use=enter play success|text=Their defenses will crumble!}}
+{{Legends Audio 2|use=attack|text=Kyne's speed, let's split some skulls!|text2=To Sovngarde with you!|text3=You owe Orkey a death.}}
+
+==Notes==
+
+* This card's summon ability applies the '''Alliance''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Mighty Ally Old Client.png|Old client card image
+File:LG-cardart-Mighty Ally.png|Card art
+</gallery>

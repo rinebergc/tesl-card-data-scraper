@@ -1,0 +1,31 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Isle of Madness
+|attribute=Strength
+|cost=6
+|image=LG-card-Syl, Duchess of Dementia.png
+|power=7
+|health=6
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' This lane becomes '''[[Legends:Dementia|Dementia]]'''.
+|summon=1
+|deckcode=fc
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=None of them can be trusted! Do you hear me?}}
+{{Legends Audio 2|use=attack|text=They'll never take me down! Never!}}
+
+==Notes==
+*[[Legends:Dementia|Dementia]] is a special lane that remain even after the Syl leaves play.
+*Dementia is in addition to the Shadow Lane, but replaces any other special lane rules.
+*Lady Syl previously [[Shivering:Syl|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']]. She is depicted in this card in her battle outfit, wearing [[Lore:Mazken|Dark Seducer]] armor and wielding the hammer [[Lore:Nerveshatter|Nerveshatter]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Syl, Duchess of Dementia.png|Card Art
+File:LG-cardart-Syl, Duchess of Dementia.jpg|Larger version from the official TES: Legends Facebook page
+</gallery>

@@ -1,0 +1,39 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=4
+|image=LG-card-Greybeard Mentor.png
+|altart=[[Legends:Grand Melee|The Grand Melee]] 2022
+|power=2
+|health=2
+|rarity=Common
+|obtainable=Yes
+|summon=1
+|ability='''[[LG:Summon|Summon]]:''' Draw a random [[LG:Shout|Shout]] from your deck.
+|deckcode=hC
+|altartdeckcode=zx
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Observe.}}
+{{Legends Audio 2|use=attack|text=Strun Bah Qo!}}
+
+==Notes==
+*The [[Skyrim:Dragon Shouts|shout]] used in his attacking audio is [[Skyrim:Storm Call|Storm Call]].
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Greybeard Mentor Old Client.png|Old client card image
+File:LG-card-Greybeard Mentor Alt.png|Alternate card from the Grand Melee
+File:LG-cardart-Greybeard Mentor 03.png|Card art
+File:LG-cardart-Greybeard Mentor.jpg|Larger, cropped
+File:LG-cardart-Greybeard Mentor 02.jpg|Cropped version of higher resolution
+File:LG-cardart-Greybeard Mentor Alt.png|Alternate art from the Grand Melee
+</gallery>

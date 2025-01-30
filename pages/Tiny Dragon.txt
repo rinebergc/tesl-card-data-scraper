@@ -1,0 +1,20 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Isle of Madness
+|attribute=Strength
+|cost=2
+|image=LG-card-Tiny Dragon.png
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Deal 1 damage to all enemy creatures in this lane.
+|summon=1
+|deckcode=qE
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Tiny Dragon.png|Card art
+</gallery>

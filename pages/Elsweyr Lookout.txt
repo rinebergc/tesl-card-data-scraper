@@ -1,0 +1,34 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|cost=3
+|type=Creature
+|subtype=Khajiit
+|image=LG-card-Elsweyr_Lookout.png
+|availability=Monthly Card
+|power=1
+|health=1
+|attribute=Willpower
+|rarity=Epic
+|ability='''[[Legends:Pilfer|Pilfer]]''': Double Elsweyr Lookout's power and health.
+|pilfer=1
+|deckcode=fK
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one sees you coming.|text2=This one offers assistance.}}
+{{Legends Audio 2|use=attack|text=The coast is clear.|text2=Act while the moons are dark.}}
+
+==Notes==
+*This card's pilfer ability applies the '''Tip of the Spear''' card effect.
+*Any temporary boni to power or health will become permanent when doubled by the Pilfer effect.
+*Elsweyr Lookout was the [[LG:Monthly Cards|monthly card]] for December 2016.
+*The card is, unsurprisingly, named for the nation of [[Lore:Elsweyr|Elsweyr]].
+
+==Gallery==
+<gallery>
+File:LG-card-Elsweyr Lookout Old Client.png|Old client card image
+File:LG-cardart-Elsweyr Lookout.png|Card art
+File:LG-cardart-Elsweyr Lookout 03.png|Larger, cropped
+File:LG-cardart-Elsweyr Lookout 02.png|Cropped version of higher resolution
+File:LG-cardart-Elsweyr Lookout (China).png|Chinese card art
+</gallery>

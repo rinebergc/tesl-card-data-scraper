@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|attribute=Agility
+|cost=9
+|image=LG-card-Tazkad the Packmaster.png
+|power=6
+|health=6
+|rarity=Legendary
+|unique=Yes
+|ability='''[[Legends:Breakthrough|Breakthrough]], [[Legends:Charge|Charge]]'''</br>'''[[Legends:Last Gasp|Last Gasp]]''': Summon a 4/4 '''~Durzog~~'''.
+|breakthrough=1
+|charge=1
+|lastgasp=1
+|deckcode=qc
+}}
+
+== Notes ==
+* This card originally cost 8 rather than 9, but was changed in the 11/2016 update so that it wouldn't be as "consistently devastating" as it used to be.{{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*Tazkad the Packmaster first [[Online:Tazkad the Packmaster|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Tazkad the Packmaster Old Client.png|Old client card image
+File:LG-cardart-Tazkad the Packmaster.png|Card art
+File:LG-cardart-Tazkad the Packmaster 04.jpg|HD card art
+File:LG-cardart-Tazkad the Packmaster 03.png|Cropped version of larger resolution
+File:LG-cardart-Tazkad the Packmaster 02.jpg|Cropped version of larger resolution
+</gallery>
+
+==References==
+<references/>

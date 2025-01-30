@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Endurance
+|cost=2
+|image=LG-card-Elixir of Vigor.png
+|rarity=Rare
+|uses=3
+|activate=1
+|ability='''[[Legends:Activate|Activate]]''': Give a creature +0/+1.
+|deckcode=fI
+}}
+
+==Notes==
+*This card's activation applies the '''Vigorous''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Elixir of Vigor Old Client.png|Old client card image
+File:LG-cardart-Elixir of Vigor.png|Card art
+</gallery>

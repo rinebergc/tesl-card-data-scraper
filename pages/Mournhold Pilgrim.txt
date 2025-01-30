@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Mournhold Pilgrim.png
+|cost=4
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Regenerate|Regenerate]]<br>[[Legends:Exalt|Exalt 3]]:''' +2/+2
+|regenerate=1
+|exalt=1
+|deckcode=kU
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I seek Almalexia's wisdom.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=Lady Almalexia has redeemed me!}}
+{{Legends Audio 2|use=attack|text=The Lady guides my hand.}}
+
+==Notes==
+*This card's exalt ability applies the '''Wanderer''' card effect.
+*This card depicts a pilgrim visiting a shrine to [[Lore:Almalexia|Almalexia]] in [[Lore:Mournhold|Mournhold]], the capital city of [[Lore:Morrowind|Morrowind]] and home of Almalexia.
+==Gallery==
+<gallery>
+File:LG-card-Mournhold Pilgrim Old Client.png|Old client card image
+File:LG-cardart-Mournhold Pilgrim.png|Card art
+</gallery>

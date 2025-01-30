@@ -1,0 +1,15 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Strength
+|cost=2
+|image=LG-card-Salvage.png
+|rarity=Epic
+|ability=Choose an item in your discard pile. Draw it and all items with the same name from your discard pile.
+|deckcode=ug
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Salvage.png|Card art
+</gallery>

@@ -1,0 +1,30 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Clockwork City
+|attribute=Agility
+|cost=4
+|image=LG-card-Back-Alley Rogue.png
+|power=5
+|health=3
+|rarity=Rare
+|ability='''[[LG:Summon|Summon]]:''' Steal '''[[LG:Cover|Cover]]''' from another creature.
+|summon=1
+|acover=1
+|steal=1
+|deckcode=bs
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Sightless Pit (quest)|Sightless Pit]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Sightless Pit.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=That's worth knowing, now isn't it?}}
+{{Legends Audio 2|use=attack|text=Mind your own business.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Back-Alley Rogue Old Client.png|Old client card image
+File:LG-cardart-Back-Alley Rogue.png|Card art
+</gallery>

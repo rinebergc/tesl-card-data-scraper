@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|attribute=Intelligence
+|cost=7
+|image=LG-card-Wispmother.png
+|power=5
+|health=5
+|rarity=Epic
+|ability=When you summon a creature that costs 2 or less, summon a [[LG:Copy|copy]] of that creature in the other [[LG:Lanes|lane]].
+|uniqueability=1
+|copy=1
+|deckcode=rV
+}}
+
+==Gallery==
+<gallery>
+File:LG-card-Wispmother Old Client.png|Old client card image
+File:LG-cardart-Wispmother.png|Card art
+File:LG-cardart-Wispmother 02.jpg|High-res art from illustrator site
+</gallery>

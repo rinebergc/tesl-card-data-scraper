@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=0
+|image=LG-card-Septim Guardsman.png
+|power=1
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''
+|guard=1
+|deckcode=nI
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=My sword is yours.}}
+{{Legends Audio 2|use=attack|text=Halt!|text2=On your guard!|text3=Go no further.}}
+
+==Notes==
+*The card is named for the [[Lore:Septim Dynasty|Septim Dynasty]].
+*The card's attack audio is a reference to the tendency of [[DF:Daggerfall|''Daggerfall'']]'s guards' tendency to relentlessly yell "HALT!"
+
+==Gallery==
+<gallery>
+File:LG-card-Septim Guardsman Old Client.png|Old client card image
+File:LG-cardart-Septim Guardsman.png|Card art
+</gallery>

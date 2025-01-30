@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Strength
+|cost=4
+|image=LG-card-Windhelm Gatekeeper.png
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]<br>[[Legends:Veteran|Veteran]]:''' +3/+0
+|veteran=1
+|guard=1
+|deckcode=uB
+}}
+==Audio==
+{{Legends Audio 2|card=Windhelm Gatekeeper|use=enter play|text=Ebonheart Pact business only. Move along.}}
+{{Legends Audio 2|card=Windhelm Gatekeeper|use=attack|text=For Jorunn!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Windhelm Gatekeeper.png|Card art
+</gallery>

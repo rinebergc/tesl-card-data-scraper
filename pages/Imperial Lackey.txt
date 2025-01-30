@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Endurance
+|cost=2
+|image=LG-card-Imperial Lackey.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' If you have another creature on each lane, summon a 1/1 '''~Recruit~~''' in each lane.
+|lastgasp=1
+|deckcode=sC
+}}
+
+==Audio==
+{{Legends Audio 2|card=Imperial Lackey|use=enter play|text=How can I serve?}}
+{{Legends Audio 2|card=Imperial Lackey|use=attack|text=I won't let you get away!}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:Imperial|Imperials]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Imperial Lackey.png|Card art
+</gallery>

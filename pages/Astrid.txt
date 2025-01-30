@@ -1,0 +1,37 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Agility
+|availability=Dark Brotherhood
+|image=LG-card-Astrid.png
+|type=Creature
+|subtype=Nord
+|cost=3
+|power=2
+|health=3
+|unique=1
+|rarity=Legendary
+|ability='''[[Legends:Lethal|Lethal]]'''{{NewLeft}}Friendly '''Lethal''' creatures have "'''[[Legends:Slay|Slay]]''': Put a '''~Completed Contract~~''' into your hand."
+|lethal=1
+|uniqueability=1
+|aslay=1
+|deckcode=bk
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Cultists' Meeting Place|Cultists' Meeting Place]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Cultists' Meeting Place.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll lead my family to glory!}}
+{{Legends Audio 2|use=attack|text=The Void awaits you!}}
+
+==Notes==
+* [[Skyrim:Astrid|Astrid]] originally appeared in ''[[SR:Skyrim|Skyrim]]'', and the card art shows her during the [[Skyrim:With Friends Like These...|With Friends Like These...]] quest.
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Astrid Old Client.png|Old client card image
+File:LG-cardart-Astrid.jpg|Card art
+File:LG-cardart-Astrid 03.jpg|Larger, cropped
+File:LG-cardart-Astrid 02.jpg|Cropped version of higher resolution
+</gallery>

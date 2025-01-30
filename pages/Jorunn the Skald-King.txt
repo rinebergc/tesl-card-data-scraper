@@ -1,0 +1,29 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|class=Ebonheart Pact
+|cost=5
+|image=LG-card-Jorunn the Skald-King.png
+|power=5
+|health=5
+|rarity=Legendary
+|ability=Immune to '''[[Legends:Silence|Silence]]'''.<br>Friendly creatures cost 1 less.<br>Enemy non-creatures cost 1 more.
+|asilence=1
+|uniqueability=1
+|unique=1
+|deckcode=tw
+}}
+==Audio==
+{{Legends Audio 2|card=jorunn skald|use=enter play|text=It is too late for peace. We fight for the freedom of us all.}}
+{{Legends Audio 2|card=jorunn skald|use=attack|text=I'll bury my axe in your skull.}}
+
+==Notes==
+*The card's art depicts [[Online:Jorunn the Skald-King|Jorunn the Skald-King]], who first appeared in [[Online:Online|ESO]].
+*See the [[Lore:Jorunn|Lore page]] for more information.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Jorunn the Skald-King.png|Card art
+</gallery>

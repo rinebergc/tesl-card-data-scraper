@@ -1,0 +1,22 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=0
+|image=LG-card-Dead Drop.png
+|rarity=Rare
+|ability=Give a friendly creature "'''[[Legends:Slay|Slay]]:''' Put a '''[[Legends:Completed Contract|Completed Contract]]''' into your hand" this turn. It may move to attack creatures in the other lane this turn.
+|slay=1
+|move=1
+|deckcode=yw
+}}
+
+==Notes==
+*This card is based on the [[Oblivion:Dark Brotherhood#Black Hand Quests (Dead Drop Quests)|Dead Drop quests]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+*This card's ability applies the '''Contracted Killer''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dead Drop.png|Card art
+</gallery>

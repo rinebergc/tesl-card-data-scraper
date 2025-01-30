@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ogre
+|attribute=Strength
+|cost=7
+|image=LG-card-Savage Ogre.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Give a creature +5/+0 this turn.
+|summon=1
+|deckcode=nz
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Notes==
+* This card's summon ability applies the '''Enraged''' card effect.
+*[[Oblivion:Ogre|Ogre]]s first appeared in ''[[Oblivion:Oblivion|Oblivion]]'', and later [[Online:Ogre|reappeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Savage Ogre Old Client.png|Old client card image
+File:LG-cardart-Savage Ogre.png|Card art
+</gallery>

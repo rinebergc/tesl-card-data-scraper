@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Neutral
+|cost=13
+|image=LG-card-Soulburst.png
+|rarity=Legendary
+|unique=1
+|ability=Costs 1 less for each '''Unique''' creature in your discard pile.<br>'''[[Legends:Banish|Banish]]''' a creature. Deal 3 damage to all enemies.
+|banish=1
+|deckcode=ui
+}}
+
+==Notes==
+* This card depicts the [[Lore:Soulburst|Soulburst]], a major historical event which unmoored the [[Lore:Mundus|Mundus]] and eventually caused the [[Legends:Alliance War|Alliance War]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Soulburst.png|Card art
+File:LG-cardart-Soulburst 02.jpg|High resolution card art
+</gallery>

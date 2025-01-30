@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Intelligence
+|cost=0
+|image=LG-card-Lesser Ward.png
+|rarity=Common
+|ability=Give a creature a '''[[Legends:Ward|Ward]]'''.
+|award=1
+|deckcode=jE
+|altartdeckcode=zK
+|altart=[[Legends:Legendary Pauper Gauntlet|Legendary Pauper Gauntlet]] January 2021
+}}
+==Notes==
+*Lesser Ward was a [[Skyrim:Ward (spells)|spell]] that could be learned in ''[[SR:Skyrim|Skyrim]]''.
+==Gallery==
+<gallery>
+File:LG-card-Lesser Ward Old Client.png|Old client card image
+File:LG-card-Lesser Ward Alt.png|Alternate card from Legendary Pauper Gauntlet
+File:LG-cardart-Lesser Ward.png|Card art
+File:LG-cardart-Lesser Ward Alt.png|Alternate card art from Legendary Pauper Gauntlet
+</gallery>

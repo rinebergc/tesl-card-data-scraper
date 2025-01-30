@@ -1,0 +1,19 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Endurance
+|cost=4
+|image=LG-card-Strategic Deployment.png
+|rarity=Common
+|ability= Summon two 1/1 '''~Recruit~~s''' in each lane.
+|deckcode=uq
+}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:Imperial|Imperials]].
+*This card depicts [[Lore:Clivia Tharn|Clivia Tharn]], who [[ON:Empress Regent Clivia Tharn|appeared]] in [[ON:Online|ESO]]. She also appears in another [[Legends:Clivia Tharn|card]] that bears her name.
+==Gallery==
+<gallery>
+File:LG-cardart-Strategic Deployment.png|Card art
+</gallery>

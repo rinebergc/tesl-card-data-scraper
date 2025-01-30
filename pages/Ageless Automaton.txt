@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|attribute=Neutral
+|cost=4
+|image=LG-card-Ageless Automaton.png
+|power=2
+|health=5
+|rarity=Rare
+|ability=When Ageless Automaton attacks a '''[[LG:Guard|Guard]]''', it gains +3/+0 and '''[[LG:Breakthrough|Breakthrough]]''' this turn.
+|uniqueability=1
+|abreakthrough=1
+|aguard=1
+|deckcode=ai
+}}
+
+==Notes==
+*This card's ability applies the '''Destruction!''' card effect.
+*The card is named for [[Lore:Dwemer|Dwemer]] automatons.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Ageless Automaton Old Client.png|Old client card image
+File:LG-cardart-Ageless Automaton.png|Card art
+</gallery>

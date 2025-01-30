@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Willpower
+|cost=5
+|image=LG-card-Dagi-raht Mystic.png
+|power=4
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Pilfer|Pilfer]]''': Draw a random [[Legends:Support|support]] from your deck.
+|pilfer=1
+|deckcode=dX
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one stands ready.|text2=Their power will be Khajiit's.}}
+{{Legends Audio 2|use=attack|text=[Roar]|text2=Die, hairless walker.|text3=This one's power is mighty!}}
+
+==Notes==
+*The card is named for the [[Lore:Dagi-raht|Dagi-raht]] subspecies of [[Lore:Khajiit|Khajiit]].
+*This card was changed from 4/4 to 4/5 in [[Legends:Patch/1.61|Game Update 1.61]]
+==Gallery==
+
+<gallery>
+File:LG-card-Dagi-raht Mystic Old Client.png|Old client card image
+File:LG-cardart-Dagi-raht Mystic.png|Card art
+File:LG-cardart-Dagi-raht Mystic 03.jpg|Larger, cropped
+File:LG-cardart-Dagi-raht Mystic 02.jpg|Cropped version of higher resolution
+</gallery>

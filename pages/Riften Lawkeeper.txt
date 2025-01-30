@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Clockwork City
+|attribute=Willpower
+|cost=4
+|image=LG-card-Riften Lawkeeper.png
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br/>'''[[LG:Summon|Summon]]:''' you gain 4 health.
+|breakthrough=1
+|summon=1
+|deckcode=nf
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Streets of Riften|Streets of Riften]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Streets of Riften.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=They'll move along if they don't want trouble.}}
+{{Legends Audio 2|use=attack|text=I did warn them.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Riften Lawkeeper Old Client.png|Old client card image
+File:LG-cardart-Riften Lawkeeper.png|Card art
+</gallery>

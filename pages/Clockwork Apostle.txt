@@ -1,0 +1,31 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Clockwork City
+|attribute=Willpower
+|cost=7
+|image=LG-card-Clockwork Apostle.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[LG:Summon|Summon]]:''' Give another friendly creature +4/+4. It becomes {{LG Attribute Icon|Neutral}}.
+|summon=1
+|deckcode=dm
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Brass Fortress Market Square|Brass Fortress Market Square]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Brass Fortress Market Square.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=So much work yet to do.}}
+{{Legends Audio 2|use=attack|text=I've no time for this.}}
+
+==Notes==
+*This card's summon ability applies the '''Clockwork Faith''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Clockwork Apostle Old Client.png|Old client card image
+File:LG-cardart-Clockwork Apostle.png|Card art
+</gallery>

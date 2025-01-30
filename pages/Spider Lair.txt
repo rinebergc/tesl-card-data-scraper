@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Agility
+|cost=7
+|image=LG-card-Spider Lair.png
+|uses=Ongoing
+|rarity=Epic
+|ability=At the start of your turn, summon a random Spider.
+|deckcode=oY
+}}
+==Spiders==
+There are three possible spiders that the Spider Lair can summon:
+*{{Card|Cavern Spinner}}
+*{{Card|Poisonous Spider}}
+*{{Card|Protective Spider}}
+==Gallery==
+
+<gallery>
+File:LG-card-Spider Lair Old Client.png|Old client card image
+File:LG-cardart-Spider Lair.png|Card art
+</gallery>

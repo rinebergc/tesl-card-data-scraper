@@ -1,0 +1,24 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ash Creature
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Lame Corprus.png
+|power=5
+|health=6
+|rarity=Common
+|ability=
+|deckcode=jw
+}}
+==Notes==
+*[[Lore:Bestiary L#Lame Corprus|Lame Corprus]], victims of the dreaded [[Lore:Corprus|Corprus]] disease, could be [[Morrowind:Ash Creatures#Lame Corprus|encountered]] in [[MW:Morrowind|Morrowind]]. 
+== Gallery ==
+<gallery>
+File:LG-card-Lame Corprus Old Client.png|Old client card image
+File:LG-cardart-Lame Corprus.png|Card art
+File:LG-cardart-Lame Corprus (China).png|Chinese card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

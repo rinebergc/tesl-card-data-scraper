@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Tamriel Collection
+|class=Tribunal Temple
+|cost=2
+|image=LG-card-Ordinator of the Almsivi.png
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Exalt|Exalt 3]]:''' +2/+2<br>Ordinator of the Almsivi is permanently '''[[Legends:Shackle|Shackled]]''' unless you have an Exalted creature in play.
+|exalt=1
+|guard=1
+|shackle=1
+|deckcode=Bb
+}}
+
+==Notes==
+*This card's exalt ability applies the '''Almsivi Guide Me''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ordinator of the Almsivi.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Mammoth
+|cost=3
+|image=LG-card-Young Mammoth.png
+|power=4
+|health=4
+|ability='''[[LG:Breakthrough|Breakthrough]]'''
+|attribute=Endurance
+|rarity=Rare
+|breakthrough=1
+|deckcode=sm
+}}
+
+==Notes==
+*[[Skyrim:Mammoth|Mammoth]]s first appeared in ''[[Skyrim:Skyrim|Skyrim]]'', and later [[Online:Mammoth|reappeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Young Mammoth Old Client.png|Old client card image
+File:LG-cardart-Young Mammoth.png|Card art
+</gallery>

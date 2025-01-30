@@ -1,0 +1,32 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ayleid
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=6
+|image=LG-card-Umaril the Unfeathered.png
+|power=6
+|health=3
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Guard|Guard]]'''<br>When Umaril the Unfeathered leaves play, summon him in the other lane '''[[Legends:Silence|Silenced]]'''.
+|guard=1
+|silence=1
+|deckcode=yH
+}}
+
+==Audio==
+{{Legends Audio 2|card=Umaril|use=enter play|text=Shanta, ehlno. Tyavoy balangua!}}
+{{Legends Audio 2|card=Umaril|use=attack|text=Heca!}}
+
+
+==Notes==
+*[[Lore:Umaril the Unfeathered|Umaril the Unfeathered]] first [[OB:Umaril the Unfeathered (person)|appeared]] as the main antagonist of the ''[[OB:Knights of the Nine|Knights of the Nine]]'' download for ''[[OB:Oblivion|Oblivion]]''. 
+*Umaril's voice line when he enters play comes from his appearance in ''Knights of the Nine'', and translates to "Come, mortal. Taste my power!" in [[Lore:Ayleidoon|Ayleidoon]]. His attack line is also from his original appearance in the expansion and translates to "Begone!".
+
+==Gallery==
+<gallery>
+File:LG-cardart-Umaril the Unfeathered.png|Card art
+File:LG-cardart-Umaril the Unfeathered 02.jpg|HD card art
+</gallery>

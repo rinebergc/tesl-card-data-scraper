@@ -1,0 +1,28 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fabricant
+|availability=Clockwork City
+|attribute=Willpower
+|cost=4
+|image=LG-card-Kagouti Fabricant.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a {{LG Attribute Icon|Neutral}} card in play, summon a Kagouti Fabricant in the other lane.
+|summon=1
+|deckcode=ji
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Betrayal|The Betrayal]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Betrayal.
+
+==Notes==
+*Kagouti Fabricants first [[Online:Kagouti Fabricant|appeared]] in [[Online:Online|ESO]], with the ''[[ON:Clockwork City|Clockwork City]]'' update.
+*The card text was changed to remove "Copy" from the textbox in [[Legends:Patch/2.12|Patch 2.12]].
+
+==Gallery==
+<gallery>
+File:LG-card-Kagouti Fabricant Old Client.png|Old client card image
+File:LG-cardart-Kagouti Fabricant.png|Card art
+</gallery>

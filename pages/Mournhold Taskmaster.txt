@@ -1,0 +1,26 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Alliance War
+|class=Ebonheart Pact
+|cost=4
+|image=LG-card-Mournhold Taskmaster.png
+|power=5
+|health=4
+|rarity=Epic
+|ability=Friendly creatures with '''[[Legends:Veteran|Veteran]]''' have '''[[Legends:Charge|Charge]]'''.
+|aveteran=1
+|acharge=1
+|deckcode=tG
+}}
+==Audio==
+{{Legends Audio 2|card=General Noramil|use=enter play|text=No time for pleasantries.}}
+{{Legends Audio 2|card=General Noramil|use=attack|text=I grow tired of your foolishness.}}
+==Notes==
+*The card depicts [[Online:General Yeveth Noramil|General Yeveth Noramil]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Mournhold Taskmaster.png|Card art
+</gallery>

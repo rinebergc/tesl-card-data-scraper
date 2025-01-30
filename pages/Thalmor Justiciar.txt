@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=3
+|image=LG-card-Thalmor Justiciar.png
+|power=1
+|health=3
+|rarity=Common
+|ability=After you play an [[Legends:Actions|action]], summon a 1/1 '''~Thalmor Soldier~~'''.
+|uniqueability=1
+|deckcode=qm
+}}
+
+==Audio==
+{{Legends Audio 2|card=thalmor watcher|use=enter play|text=They shall have nowhere to hide.}}
+{{Legends Audio 2|card=thalmor watcher|use=attack|text=If they're smart, they'll walk away.}}
+
+==Notes==
+*This card depicts a [[Lore:Thalmor|Thalmor]] justiciar, an enforcer of the [[Lore:White-Gold Concordat|White-Gold Concordat]] in the province of Skyrim.
+
+==Gallery==
+<gallery>
+File:LG-card-Thalmor Justiciar Old Client.png|Old client card image
+File:LG-cardart-Thalmor Justiciar.png|Card art
+File:LG-cardart-Thalmor Justiciar 02.jpg|HD card art
+</gallery>

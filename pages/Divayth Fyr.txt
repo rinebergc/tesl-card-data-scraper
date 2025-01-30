@@ -1,0 +1,41 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=11
+|image=LG-card-Divayth Fyr.png
+|power=6
+|health=6
+|rarity=Legendary
+|unique=Yes
+|ability='''[[Legends:Summon|Summon]]:''' Deal 6 damage to a random enemy.<br>At the start of your turn, Divayth Fyr summons a '''Daughter of Fyr'''.
+|summon=1
+|uniqueability=1
+|deckcode=eA
+}}
+
+==Daughters of Fyr==
+At the start of each of your turns, Divayth Fyr's ability will summon one of his daughters, in alphabetical order. They are identical to each other apart from appearance and audio. The Daughters of Fyr are:
+#{{Card|Alfe Fyr}}
+#{{Card|Beyte Fyr}}
+#{{Card|Delte Fyr}}
+#{{Card|Uupse Fyr}}
+
+If Divayth Fyr's effect remains active for more than four turns, he will begin the sequence again with Alfe Fyr.
+
+== Audio ==
+{{Legends Audio 2|use=enter play|text=I can't waste energy talking to boring people.|text2=Yes? What is it?}}
+{{Legends Audio 2|use=attack|text=By House Telvanni!|text2=You bore me!|text3=This will end in blood!}}
+
+==Notes==
+*'Enemies' include your opponent's creatures as well as your opponent's health.
+*Summoning Daughters of Fyr contributes towards '''The Clonemaster''' [[Legends:Titles|title]].
+*Divayth Fyr, along with his daughters, first [[Morrowind:Divayth Fyr|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]'' and later appeared in [[Online:Divayth Fyr|ESO]]. For more information, see the [[Lore:Divayth Fyr|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Divayth Fyr Old Client.PNG|Old client card image
+File:LG-cardart-Divayth Fyr.png|Card art
+File:LG-cardart-Divayth Fyr 02.jpg|HD card art
+</gallery>

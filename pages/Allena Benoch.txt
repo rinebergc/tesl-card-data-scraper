@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|class=Archer
+|cost=6
+|image=LG-card-Allena Benoch.png
+|power=1
+|health=1
+|rarity=Legendary
+|unique=Yes
+|ability='''[[Legends:Lethal|Lethal]]'''</br>'''[[Legends:Summon|Summon]]''': Deal 1 damage. 
+|lethal=1
+|summon=1
+|deckcode=as
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You always remember the mistakes of your first victim.|text2=They dare face the blademistress of Valenwood?}}
+{{Legends Audio 2|use=attack|text=For Valenwood!|text2=I've been killing since I was sixteen!|text3=Hit them hard!}}
+
+==Notes==
+*[[Lore:Allena Benoch|Allena Benoch]] first appeared in the lorebook ''[[Lore:Words and Philosophy|Words and Philosophy]]''.
+*This card originally could only deal the 1 damage to an enemy creature, but it was changed in 11/2016 to match other archery cards that could attack the enemy player as well. {{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*Allena Benoch appears as a [[Legends:Trading Cards|Steam Trading Card]].
+
+==Gallery==
+<gallery>
+File:LG-card-Allena Benoch Old Client.png|Old client card image
+File:LG-cardart-Allena Benoch.png|Card art
+File:LG-wallpaper-steam-Allena Benoch.jpg|Steam trading card art
+</gallery>
+
+==References==
+<references/>

@@ -1,0 +1,32 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=5
+|image=LG-card-Winterhold Illusionist.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Another creature disappears, then returns at the end of the turn.
+|summon=1
+|deckcode=rT
+}}
+
+His ability is, in essence, an unsummon and resummon effect, thus removing any buffs and/or damage, and triggering any Summon abilities. It could also be used to temporarily remove a [[Legends:Guard|Guard]] creature to give your creatures a chance to attack your opponent.
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+==Audio==
+{{Legends Audio 2|card=illusion tutor|use=enter play|text=The Illusion mage is never as he seems.}}
+{{Legends Audio 2|card=illusion tutor|use=attack|text=They underestimate us.}}
+
+==Notes==
+*This card depicts [[Skyrim:Drevis Neloren|Drevis Neloren]] from ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Winterhold Illusionist Old Client.png|Old client card image
+File:LG-cardart-Winterhold Illusionist.png|Card art
+</gallery>

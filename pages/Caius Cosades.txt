@@ -1,0 +1,34 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Caius Cosades.png
+|cost=4
+|power=3
+|health=4
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Look at two of your opponent's cards. Guess the one in their hand. If you're right, give all creatures in your hand +1/+1.
+|summon=1
+|deckcode=cD
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=A spy? No... I'm just an old man, with a Skooma problem.}}
+{{Legends Audio 2|use=attack|text=I have my orders.}}
+
+==Notes==
+*This card's summon ability applies the '''Qualified''' card effect.
+*When your opponent only has cards with the same name left in their hand and deck, you can only choose that card and the summon ability will always activate.
+*If your opponent has no cards in their hand, the summon ability will not activate.
+*There's an action card with similar effects depicting Cosades, named [[Legends:Caius' Machinations|Caius' Machinations]].
+*Caius Cosades also [[Morrowind:Caius Cosades|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]''.
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Caius Cosades Old Client.png|Old client card image
+File:LG-cardart-Caius Cosades.png|Card art
+</gallery>

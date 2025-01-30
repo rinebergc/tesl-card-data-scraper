@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Agility
+|cost=3
+|image=LG-card-Giant Bat.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Charge|Charge]], [[Legends:Drain|Drain]]'''
+|charge=1
+|drain=1
+|deckcode=hb
+|altartdeckcode=zz
+|altart=[[LG:Arsenal Gauntlet|Arsenal Gauntlet]] February 2021
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck, one copy in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck, and one copy in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+
+==Gallery==
+<gallery>
+File:LG-card-Giant Bat Old Client.png|Old client card image
+File:LG-card-Giant Bat Alt.png|Alternate card from Arsenal Gauntlet
+File:LG-cardart-Giant Bat.png|Card art
+File:LG-cardart-Giant Bat Alt.png|Alternate card art
+</gallery>

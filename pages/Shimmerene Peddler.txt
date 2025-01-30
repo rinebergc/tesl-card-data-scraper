@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Shimmerene Peddler.png
+|power=2
+|health=2
+|rarity=Epic
+|ability=At the end of each turn, if you played two [[Legends:Actions|actions]], draw a card.
+|uniqueability=1
+|deckcode=nZ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck. One copy is also obtainable in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck as a potential reward from [[LG:Tangled Web|Tangled Web]].
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Looking to make a purchase?|text2=I have wares if you have coin.|text3=Would you like a bow that shoots rainbows too?}}
+{{Legends Audio 2|use=attack|text=Hands off my wares!|text2=You won't like what I'm selling.|text3=Your head will bring a price.}}
+
+==Notes==
+*The card is named for the [[Lore:Summerset Isles|Summerset]] city of [[Lore:Shimmerene|Shimmerene]].
+*One of the summoning lines is a reference to [[Skyrim:Fihada|Fihada]] who says "will you also be needing the bow that shoots rainbows?" after you asked for arrows that can kill dragons.
+
+==Gallery==
+<gallery>
+File:LG-card-Shimmerene Peddler Old Client.png|Old client card image
+File:LG-cardart-Shimmerene Peddler.png|Card art
+</gallery>

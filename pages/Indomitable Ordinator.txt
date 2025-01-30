@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Indomitable Ordinator.png
+|cost=5
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]<br>[[Legends:Exalt|Exalt 1]]:''' Your opponent can't target Indomitable Ordinator with [[Legends:Actions|actions]].
+|guard=1
+|exalt=1
+|deckcode=iQ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Three gods... one true faith.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=Justice never sleeps!}}
+{{Legends Audio 2|use=attack|text=You cannot escape the righteous!}}
+
+==Notes==
+*This card's exalt ability applies the '''Indomitable''' card effect.
+*This card depicts an [[Lore:Ordinator|Ordinator]]. All three of its audio lines are taken from Ordinators' [[Morrowind:Ordinator#Dialogue|dialogue]] in ''[[MW:Morrowind|Morrowind]]''.
+==Gallery==
+<gallery>
+File:LG-card-Indomitable Ordinator Old Client.png|Old client card image
+File:LG-cardart-Indomitable Ordinator.png|Card art
+</gallery>

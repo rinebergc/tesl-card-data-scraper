@@ -1,0 +1,27 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=FrostSpark Collection
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Destruction Tutor.png
+|power=3
+|health=5
+|rarity=Rare
+|ability=Your actions that deal damage cost 2 less.
+|deckcode=ev
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The destruction mage is never unarmed.}}
+{{Legends Audio 2|use=attack|text=They have much to learn!}}
+
+==Notes==
+*This card depicts [[Skyrim:Faralda|Faralda]] from ''[[Skyrim:Skyrim|Skyrim]]''.
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Destruction Tutor.png|Card art
+</gallery>

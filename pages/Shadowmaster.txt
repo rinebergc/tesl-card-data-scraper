@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Falmer
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=3
+|image=LG-card-Shadowmaster.png
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Give a friendly creature '''[[Legends:Cover|Cover]]'''. Your opponent can't target it with actions until your next turn.
+|summon=1
+|cover=1
+|deckcode=nQ
+}}
+
+==Notes==
+*The card's summon ability applies the '''Camouflage''' card effect.
+*The card is named for [[Skyrim:Falmer Shadowmaster|Shadowmasters]], a class of [[Skyrim:Falmer|Falmer]] which appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Shadowmaster Old Client.png|Old client card image
+File:LG-cardart-Shadowmaster.png|Card art
+File:LG-cardart-Shadowmaster 02.jpg|High-res card art from illustrator
+File:LG-cardart-Shadowmaster 03.jpg|High-rest alternate color card art from illustrator
+</gallery>

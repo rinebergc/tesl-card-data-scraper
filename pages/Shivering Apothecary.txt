@@ -1,0 +1,41 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Madhouse Collection
+|attribute=Willpower
+|cost=4
+|image=LG-card-Shivering Apothecary.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Summon a random elixir.
+|summon=1
+|deckcode=ob
+}}
+
+The Elixirs this card can summon are:
+*{{Card|Elixir of Conflict}}
+*{{Card|Elixir of Deflection}}
+*{{Card|Elixir of Light Feet}}
+*{{Card|Elixir of the Defender}}
+*{{Card|Elixir of Vigor}}
+*{{Card|Elixir of Vitality}}
+*{{Card|Ravaging Elixir}}
+*{{Card|Skirmisher's Elixir}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=So many beautiful things for potions.}}
+{{Legends Audio 2|use=attack|text=Open wide!}}
+
+==Notes==
+*The card is named for and depicts the [[Lore:Shivering Isles|Shivering Isles]].
+
+==Gallery==
+<gallery>
+File:LG-card-Shivering Apothecary Old Client.png|Old client card image
+File:LG-cardart-Shivering Apothecary.png|Card art
+File:LG-cardart-Shivering Apothecary 03.png|Larger, cropped
+File:LG-cardart-Shivering Apothecary 02.png|Cropped version of higher resolution
+File:LG-cardart-Shivering Apothecary (China).png|Chinese card art
+</gallery>

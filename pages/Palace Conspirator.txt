@@ -1,0 +1,32 @@
+{{Mod Header|Dark Brotherhood}}
+__NOTOC__{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Intelligence
+|type=Creature
+|subtype=Dark Elf
+|image=LG-card-Palace Conspirator.png
+|cost=2
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card, then discard a card.
+|deckcode=lV
+}} It is available in [[Legends:Wayrest|Wayrest]].
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Castle Wayrest, Grand Hall|Castle Wayrest]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Castle Wayrest.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I shall be your eyes and ears.}}
+{{Legends Audio 2|use=attack|text=Found me out, did you?}}
+
+==Notes==
+*You are able to choose which card is discarded.
+
+==Gallery==
+<gallery>
+File:LG-card-Palace Conspirator Old Client.png|Old client card image
+File:LG-cardart-Palace Conspirator.png|Card art
+File:LG-cardart-Palace Conspirator 03.jpg|Larger, cropped
+File:LG-cardart-Palace Conspirator 02.jpg|Cropped version of higher resolution
+</gallery>

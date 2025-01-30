@@ -1,0 +1,33 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=5
+|image=LG-card-Whiterun Protector.png
+|power=4
+|health=4
+|rarity=Rare
+|beastform=1
+|ability='''[[Legends:Beast|Beast Form]]:''' +2/+2, '''[[Legends:Guard|Guard]]''', and '''[[Legends:Regenerate|Regenerate]]'''.
+|deckcode=rI
+}} If an enemy [[Legends:Runes|rune]] is destroyed when this card is in play, it will turn into its {{Card|Whiterun Protector (Werewolf)|Werewolf version}}.
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The city is safe in my hands.}}
+{{Legends Audio 2|use=attack|text=Stop right there!}}
+{{Legends Audio|card=Whiterun Protector|use=trigger|text=No one will keep them safe from me!}}
+
+==Notes==
+*This card's werewolf transformation applies the '''Pack Protector''' card effect.
+*The card depicts a [[SR:Whiterun Guard|Whiterun Guard]] as they appeared in ''[[SR:Skyrim|Skyrim'']].
+
+==Gallery==
+<gallery>
+File:LG-card-Whiterun Protector Old Client.png|Old client card image
+File:LG-cardart-Whiterun Protector (Nord).png|Card art
+</gallery>

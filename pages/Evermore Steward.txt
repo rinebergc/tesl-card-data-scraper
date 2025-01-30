@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Evermore Steward.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]''', '''[[Legends:Ward|Ward]]'''
+|guard=1
+|ward=1
+|deckcode=fU
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck, and two copies in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=What are your intentions?|text2=I stand ready!}}
+{{Legends Audio 2|use=attack|text=Do not vex me!|text2=What impertinence is this?!|text3=You dare too much!}}
+
+==Notes==
+*The card is named for the [[Lore:High Rock|High Rock]] city of [[Lore:Evermore|Evermore]].
+* This card originally was of common rarity, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+
+==Gallery==
+<gallery>
+File:LG-card-Evermore Steward Old Client.png|Old client card image
+File:LG-cardart-Evermore Steward.png|Card art
+</gallery>
+
+==References==
+<references/>

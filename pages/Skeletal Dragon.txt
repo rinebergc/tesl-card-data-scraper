@@ -1,0 +1,31 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|subtype2=Skeleton
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|image=LG-card-Skeletal Dragon.png
+|cost=8
+|power=5
+|health=5
+|rarity=Legendary
+|obtainable=Yes
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Give all creatures in your discard pile +2/+2.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Draw another random creature from your discard pile.
+|guard=1
+|summon=1
+|lastgasp=1
+|deckcode=or
+}}
+
+==Notes==
+*This card's summon ability applies the '''Beyond Death''' card effect.
+*The Skeletal Dragon first [[Skyrim:Skeletal Dragon|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card's creature type was originally solely Dragon, until the Skeleton subtype was added in [[Legends:Patch/1.68.0|Patch 1.68.0]].
+
+==Gallery==
+<gallery>
+File:LG-card-Skeletal Dragon Old Client.png|Old client card image
+File:LG-cardart-Skeletal Dragon.png|Card art
+File:LG-cardart-Skeletal Dragon (China).png|Chinese card art
+</gallery>

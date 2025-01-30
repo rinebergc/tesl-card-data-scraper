@@ -1,0 +1,18 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Heirloom Greatsword.png
+|rarity=Epic
+|ability=+5/+0</br>'''[[Legends:Last Gasp|Last Gasp]]''': Returns to your hand.
+|lastgasp=1
+|deckcode=hY
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Heirloom Greatsword Old Client.png|Old client card image
+File:LG-cardart-Heirloom Greatsword.png|Card art
+</gallery>

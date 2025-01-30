@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Endurance
+|cost=5
+|image=LG-card-Disciple of Namira.png
+|power=3
+|health=3
+|rarity=Epic
+|ability=At the end of each turn, draw a card for each friendly creature that died in Disciple of Namira's lane.
+|uniqueability=1
+|deckcode=ey
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Welcome to the shadows.|text2=Namira hungers for blood.}}
+{{Legends Audio 2|use=attack|text=I love to play with dead things!|text2=I will cut you ear to ear!|text3=Looks dead to me!}}
+
+==Notes==
+*Creatures that died before Disciple of Namira entered a lane do not cause the effect to trigger.
+*The card is named for [[Lore:Namira|Namira]], one of the [[Lore:Daedric Princes|Daedric Princes]].
+*This card was nerfed by changing its text from an instantaneous effect to an "at end of each turn" effect in [[Legends:Patch/2.11|Patch 2.11]].
+
+==Gallery==
+<gallery>
+File:LG-card-Disciple of Namira Old Client.png|Old client card image
+File:LG-cardart-Disciple of Namira.png|Card art
+</gallery>

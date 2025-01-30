@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Alliance War
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Sparksmith.png
+|power=4
+|health=4
+|rarity=Rare
+|ability=When a friendly creature equips an item, deal 1 damage to your opponent.
+|uniqueability=1
+|deckcode=uj
+}}
+==Audio==
+{{Legends Audio 2|card=Sparksmith|use=enter play|text=[Sigh] Feels like my work never ends.}}
+{{Legends Audio 2|card=Sparksmith|use=attack|text=Alright here. Try this on for size.}}
+==Gallery==
+<gallery>
+File:LG-cardart-Sparksmith.png|Card art
+</gallery>

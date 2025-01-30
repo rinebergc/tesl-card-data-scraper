@@ -1,0 +1,24 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wolf
+|attribute=Willpower
+|cost=4
+|image=LG-card-Pack Leader.png
+|availability=Monthly Card
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Pilfer|Pilfer]]:''' Summon a 1/1&#32;~Young Wolf~~.<br>Other friendly [[Legends:Wolf|wolves]] have +1/+1.
+|pilfer=1
+|deckcode=lS
+}}
+
+==Availability==
+Pack Leader was the [[Legends:Monthly Card|monthly card]] for January 2018. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-card-Pack Leader Old Client.png|Old client card image
+File:LG-cardart-Pack Leader.png|Card art
+</gallery>

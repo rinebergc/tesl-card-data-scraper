@@ -1,0 +1,31 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|cost=6
+|type=Creature
+|subtype=Giant
+|image=LG-card-Stampede Sentinel.png
+|availability=Monthly Card
+|power=7
+|health=7
+|attribute=Strength
+|rarity=Epic
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br>You can't be damaged by [[Legends:Actions|actions]] or [[Legends:Support|supports]].
+|breakthrough=1
+|uniqueability=1
+|deckcode=pj
+}}
+
+==Availability==
+Stampede Sentinel was the [[Legends:Monthly Card|monthly card]] for January 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Notes==
+*The card's ability (presumably unintentionally) protects against {{Card|Out of Cards}}.
+
+==Gallery==
+<gallery>
+File:LG-card-Stampede Sentinel Old Client.png|Old client card image
+File:LG-cardart-Stampede Sentinel.png|Card art
+File:LG-cardart-Stampede Sentinel 03.png|Larger, cropped
+File:LG-cardart-Stampede Sentinel 02.png|Cropped version of higher resolution
+File:LG-cardart-Stampede Sentinel (China).png|Chinese card art
+</gallery>

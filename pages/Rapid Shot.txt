@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=1
+|image=LG-card-Rapid Shot.png
+|altart=[[Legends:Grand Melee|Grand Melee]] January 2020
+|rarity=Common
+|ability=Deal 1 damage to a creature. If it survives, draw a card.
+|deckcode=mG
+|altartdeckcode=ze
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck, and three copies in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck. One copy is also obtainable in the [[Legends:Band of Survivors|Band of Survivors]] deck as a reward from [[LG:A Knife in the Dark|A Knife in the Dark]].
+
+==Notes==
+*Playing the card counts towards the '''Arrows Fired''' [[Legends:Statistics|statistic]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Rapid Shot Old Client.png|Old client card image
+File:LG-card-Rapid Shot Alt.png|Alternate card from Grand Melee
+File:LG-cardart-Rapid Shot.png|Card art
+File:LG-cardart-Rapid Shot Alt.png|Alternate art from Grand Melee
+</gallery>

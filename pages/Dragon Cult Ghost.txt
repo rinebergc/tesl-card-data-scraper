@@ -1,0 +1,33 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=1
+|image=LG-card-Dragon Cult Ghost.png
+|power=1
+|health=1
+|rarity=Epic
+|ability=Spend all your available [[LG:Magicka|magicka]] to play Dragon Cult Ghost. Its power and health are equal to the magicka spent.
+|uniqueability=1
+|deckcode=eK
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Hail Alduin!}}
+{{Legends Audio 2|use=attack|text=You die!}}
+
+==Notes==
+*[[Skyrim:Dragon Cultist|Dragon Cult Ghost]]s appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*Its ability will only trigger if summoned from hand. If summoned by any other means, it will always be a 1/1 for 1, and even if it enters play as something else, it will enter the discard pile at its default stats.
+
+==Gallery==
+<gallery>
+File:LG-card-Dragon Cult Ghost Old Client.png|Old client card image
+File:LG-cardart-Dragon Cult Ghost.png|Card art
+File:LG-cardart-Dragon Cult Ghost 2.jpg|High res card art from artist
+</gallery>

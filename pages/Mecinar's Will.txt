@@ -1,0 +1,25 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Action
+|availability=Clockwork City
+|attribute=Willpower
+|cost=5
+|image=LG-card-Mecinar's Will.png
+|rarity=Rare
+|ability=Steal an enemy creature with 3 power or less until the end of the turn. It gains '''[[LG:Charge|Charge]]'''.
+|acharge=1
+|steal=1
+|deckcode=kr
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Apprentice|The Apprentice]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Apprentice.
+
+==Notes==
+*This card's ability applies the '''Beckoned''' card effect, with the text ''"Stolen by Mecinar"''.
+
+==Gallery==
+<gallery>
+File:LG-card-Mecinar's Will Old Client.png|Old client card image
+File:LG-cardart-Mecinar's Will.png|Card art
+</gallery>

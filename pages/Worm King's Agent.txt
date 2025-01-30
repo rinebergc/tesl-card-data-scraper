@@ -1,0 +1,32 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|class=Sorcerer
+|cost=7
+|image=LG-card-Worm King's Agent.png
+|availability=Monthly Card
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Deal 2 damage to an enemy creature.<br>'''[[Legends:Slay|Slay]]:''' Summon a 2/2 '''~Worm Thrall~~''' with '''[[LG:Guard|Guard]]'''.
+|summon=1
+|slay=1
+|deckcode=sc
+}}
+
+==Availability==
+Worm King's Agent was the [[Legends:Monthly Card|monthly card]] for November 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Worm King s Agent|use=enter play|text=You've not seen my like.}}
+{{Legends Audio 2|card=Worm King s Agent|use=attack|text=Your time has come.}}
+
+== Notes ==
+*The name of the card references [[Lore:Mannimarco|Mannimarco]], an ancient lich referred to as the King of Worms. His fanatical cult of [[Lore:Necromancy|necromancers]] called themselves the [[Lore:Order of the Black Worm|Order of the Black Worm]].
+
+==Gallery==
+<gallery>
+File:LG-card-Worm King's Agent Old Client.png|Old client card image
+File:LG-cardart-Worm King's Agent.png|Card art
+</gallery>

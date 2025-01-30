@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Awakened Dreamer.png
+|cost=2
+|power=2
+|health=3
+|rarity=Rare
+|ability=At the end of your turn, if you have a creature with 5 power or more, Awakened Dreamer gains +1/+1.
+|uniqueability=1
+|deckcode=bo
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We see you waking and sleeping.}}
+{{Legends Audio 2|use=attack|text=Join us!}}
+
+==Notes==
+*This card's ability applies the '''Reverie''' card effect.
+*This card appears to depict [[Morrowind:Zula|Zula]], who appeared in ''[[Morrowind:Morrowind|Morrowind]]'' as a [[Morrowind:Dreamer|dreamer]] found in the [[Morrowind:Sixth House|Sixth House]] stronghold of [[Morrowind:Mamaea|Mamaea]].
+
+==Gallery==
+<gallery>
+File:LG-card-Awakened Dreamer Old Client.png|Old client card image
+File:LG-cardart-Awakened Dreamer.png|Card art
+</gallery>

@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=6
+|image=LG-card-Undying Dragon.png
+|power=5
+|health=5
+|rarity=Legendary
+|ability='''[[Legends:Drain|Drain]]'''<br>+5/+5 while you have 30 or more health.
+|drain=1
+|deckcode=rf
+}}
+
+==Notes==
+*This card's ability applies the '''Ancient Power''' card effect.
+*The card art depicts an [[Skyrim:Dragon#Ancient_Dragon|Ancient Dragon]], which first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+ 
+==Gallery==
+<gallery>
+File:LG-card-Undying Dragon Old Client.png|Old client card image
+File:LG-cardart-Undying Dragon.png|Card art
+</gallery>

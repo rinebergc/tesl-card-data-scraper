@@ -1,0 +1,26 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|subtype2=Atronach
+|availability=Isle of Madness
+|attribute=Endurance
+|cost=3
+|image=LG-card-Xavara Atronach.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' You may [[Legends:Sacrifice|sacrifice]] another creature to give Xavara Atronach its power and health.
+|summon=1
+|sacrifice=1
+|deckcode=si
+}}
+
+==Notes==
+*This card's summon ability applies the '''Daedric Hunger''' card effect.
+*This card is named after the ruins of [[SI:Xavara|Xavara]], which previously appeared in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']]. The ruins were inhabited by [[Lore:Zealots|Zealots]] who possessed the ability to summon [[Lore:Flesh Atronach|Flesh Atronachs]] like the one depicted in the card's art.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Xavara Atronach.png|Card art
+</gallery>

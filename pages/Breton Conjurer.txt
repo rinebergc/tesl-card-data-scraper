@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Breton Conjurer.png
+|power=1
+|health=1
+|rarity=Epic
+|ability='''[[Legends:Ward|Ward]]'''<br>When Breton Conjurer's Ward is broken, summon a 5/5 '''~Frost Atronach~~''' with '''[[Legends:Guard|Guard]]'''.
+|ward=1
+|uniqueability=1
+|deckcode=cr
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is obtainable in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck as a reward from [[LG:Tangled Web|Tangled Web]].
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The elements are mine to control!|text2=My friend would like a word with them.}}
+{{Legends Audio 2|use=attack|text=All too simple.|text2=You're mine now.|text3=Gods take you!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Breton Conjurer Old Client.png|Old client card image
+File:LG-cardart-Breton Conjurer.png|Card art
+</gallery>

@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|attribute=Strength
+|cost=4
+|image=LG-card-Reive, Blademaster.png
+|power=3
+|health=5
+|unique=Yes
+|rarity=Legendary
+|ability=When Reive attacks, deal 2 damage to your opponent, then increase the damage dealt by 2.
+|uniqueability=1
+|deckcode=mU
+}}
+
+==Audio==
+{{Legends Audio 2|card=Reive Blademaster|use=enter play|text=Let me kill for you.|text2=They shall writhe in agony!}}
+{{Legends Audio 2|card=Reive Blademaster|use=attack|text=Taste my blade!|text2=Pain and ecstasy!}}
+
+==Notes==
+*Damage dealt with Reive's ability will break [[LG:Runes|Runes]] before his attack continues.
+*[[Legends:Characters#Reive|Reive]] is the secondary antagonist of [[Legends:The Forgotten Hero|The Forgotten Hero]] storyline and is encountered in multiple quests.
+*Reive's ability closely resembles that of {{Card|Goldbrand}}, which he briefly wielded in the story.
+*Reive was formerly 2/5 but was changed to 3/5 because the old power rating made the card vulnerable to {{Card|Execute}}.
+
+==Gallery==
+<gallery>
+File:LG-card-Reive, Blademaster Old Client.png|Old client card image
+File:LG-card-Reive, Blademaster old.png|Early version from Gameplay Overview video
+File:LG-card-Reive, Blademaster old 02.png|Version used in Open Beta; note centering and background
+File:LG-cardart-Reive, Blademaster 02.png|Card art
+File:LG-cardart-Reive, Blademaster.png|Original card art
+File:LG-premcard-Reive, Blademaster.gif|Premium card (click to view animation)
+</gallery>

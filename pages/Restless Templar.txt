@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|cost=4
+|image=LG-card-Restless Templar.png
+|power=5
+|health=2
+|rarity=Common
+|ability='''[[Legends:Last Gasp|Last Gasp]]''': Gain 5 health.
+|lastgasp=1
+|deckcode=mZ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Restless Templar Old Client.png|Old client card image
+File:LG-cardart-Restless Templar.png|Card art
+File:LG-cardart-Restless Templar (China).png|Chinese card art
+</gallery>

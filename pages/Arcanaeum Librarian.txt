@@ -1,0 +1,32 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Clockwork City
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Arcanaeum Librarian.png
+|power=0
+|health=2
+|rarity=Common
+|ability=Gains +1/+0 when you draw a card during your turn.
+|uniqueability=1
+|deckcode=aI
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:College of Winterhold (quest)|College of Winterhold]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of College of Winterhold.
+
+==Audio==
+{{Legends Audio 2|card=arcaneum librarian|use=enter play|text=You want a book from here, you go through me.}}
+{{Legends Audio 2|card=arcaneum librarian|use=attack|text=My arcanaeum, my rules.}}
+
+==Notes==
+*This card's trigger applies the '''Fundamental Reading''' card effect.
+*The card depicts [[Skyrim:Urag gro-Shub|Urag gro-Shub]] from [[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+<gallery>
+File:LG-card-Arcanaeum Librarian Old Client.png|Old client card image
+File:LG-cardart-Arcaneum Librarian.png|Card art
+</gallery>

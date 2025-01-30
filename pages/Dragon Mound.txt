@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Support
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=6
+|image=LG-card-Dragon Mound.png
+|uses=Ongoing
+|rarity=Legendary
+|obtainable=Yes
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Transform all cards in your deck into random [[LG:Dragon|Dragons]].<br>Your Dragons cost 1 less.
+|summon=1
+|uniqueability=1
+|transform=1
+|deckcode=eL
+}}
+
+==Notes==
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*The card is named for and its art depicts [[Skyrim:Dragon Mounds|Dragon Mounds]] which appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Dragon Mound Old Client.png|Old client card image
+File:LG-cardart-Dragon Mound.png|Card art
+File:LG-cardart-Dragon Mound 02.jpg|High-res card art from artist
+File:LG-premcard-Dragon Mound.gif|Premium card (click to view animation)
+</gallery>

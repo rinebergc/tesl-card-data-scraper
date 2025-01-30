@@ -1,0 +1,23 @@
+{{Mod Header|Promotional}}{{About|the card|the story|The Red Mountain}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|availability=Tamriel Collection
+|class=House Dagoth
+|cost=4
+|image=LG-card-Red Mountain.png
+|power=
+|health=
+|rarity=Epic
+|ability=Your creatures with 5 power or more cost 2 less.
+|uses=Ongoing
+|deckcode=Ba
+}}
+
+== Notes ==
+*This card depicts the [[Lore:Red Mountain|Red Mountain]] located on the island of [[Lore:Vvardenfell|Vvardenfell]] in [[Lore:Morrowind|Morrowind]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Red Mountain.png|Card art
+</gallery>

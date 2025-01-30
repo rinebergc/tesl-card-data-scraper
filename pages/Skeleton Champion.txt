@@ -1,0 +1,27 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Skeleton Champion.png
+|cost=4
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]<br>[[Legends:Summon|Summon]]:''' Give other friendly [[Legends:Skeleton (subtype)|Skeletons]] +1/+1.
+|guard=1
+|summon=1
+|deckcode=os
+}}
+
+==Notes==
+*This card's summon ability applies the '''Championed''' card effect.
+*Skeleton Champions first [[Morrowind:Skeleton Champion|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]'' and later [[Oblivion:Skeleton Champion|appeared]] again in ''[[Oblivion:Oblivion|Oblivion]]''. 
+
+==Gallery==
+<gallery>
+File:LG-card-Skeleton Champion Old Client.png|Old client card image
+File:LG-cardart-Skeleton Champion.png|Card art
+File:LG-cardart-Skeleton Champion (China).png|Chinese card art
+</gallery>

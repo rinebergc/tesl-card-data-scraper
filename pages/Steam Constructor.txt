@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|attribute=Neutral
+|cost=2
+|image=LG-card-Steam Constructor.png
+|availability=Monthly Card
+|power=2
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' If you have a {{LG Attribute Icon|Neutral}} card in hand, summon a 1/1&#32;~Reconstructed Spider~~.
+|summon=1
+|deckcode=pq
+}}
+
+==Availability==
+Steam Constructor was the [[Legends:Monthly Card|monthly card]] for February 2018. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-card-Steam Constructor Old Client.png|Old client card image
+File:LG-cardart-Steam Constructor.png|Card art
+File:LG-cardart-Steam Constructor 02.png|HD card art
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Odirniran Necromancer.png
+|altart=[[Legends:Witches Festival Card Bundle|Witches Festival Card Bundle]]
+|cost=6
+|power=3
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Summon a creature from your discard pile with less power than Odirniran Necromancer.
+|summon=1
+|deckcode=lI
+|altartdeckcode=zG
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Rise my servant!}}
+{{Legends Audio 2|use=attack|text=Behold my power!}}
+
+==Notes==
+*This card is named after the Velothi tower Odirniran, which first [[Morrowind:Odirniran (place)|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]'' and later appeared in [[Online:Online|ESO]] as [[Online:Barilzar's Tower|Barilzar's Tower]]. The card likely depicts [[Morrowind:Milyn Faram|Milyn Faram]], a [[Lore:House Telvanni|House Telvanni]] necromancer who resided there in ''Morrowind''.
+
+==Gallery==
+<gallery>
+File:LG-card-Odirniran Necromancer Old Client.png|Old client card image
+File:LG-card-Odirniran Necromancer Alt.png|Witches Festival Card Pack alternate card
+File:LG-cardart-Odirniran Necromancer.png|Card art
+File:LG-cardart-Odirniran Necromancer Alt.png|Witches Festival Card Pack alternate card art
+File:LG-cardart-Odirniran Necromancer (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Support
+|availability=Jaws of Oblivion
+|attribute=Neutral
+|cost=4
+|image=LG-card-Great Sigil Stone.png
+|rarity=Legendary
+|unique=1
+|uses=3
+|ability='''[[Legends:Activate|Activate]]:''' '''[[Legends:Invade|Invade]]'''.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Draw a random [[Legends:Daedra|Daedra]] from your deck and give it +2/+2.
+|invade=1
+|lastgasp=1
+|deckcode=xG
+}}
+
+==Notes==
+*The Great Sigil Stone also [[Oblivion:Great Sigil Stone|appeared]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+*This card's ability applies the '''Gate Guardian''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Great Sigil Stone.png|Card art
+</gallery>

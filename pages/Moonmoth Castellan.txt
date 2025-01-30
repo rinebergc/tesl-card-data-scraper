@@ -1,0 +1,30 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=4
+|image=LG-card-Moonmoth Castellan.png
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]<br>[[Legends:Plot|Plot]]:''' Put a random Guard into your hand.
+|guard=1
+|plot=1
+|deckcode=kJ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play no|text=If I might make a suggestion?}}
+{{Legends Audio 2|use=enter play yes|text=You can tell them you thought of it.}}
+{{Legends Audio 2|use=attack|text=By your orders of course.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Moonmoth Castellan Old Client.png|Old client card image
+File:LG-cardart-Moonmoth Castellan.png|Card art
+</gallery>

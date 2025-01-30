@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=2
+|image=LG-card-Ambitious Hireling.png
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Give another friendly creature power and health equal to Ambitious Hireling's power.
+|summon=1
+|deckcode=ay
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I just want a chance to prove myself.}}
+{{Legends Audio 2|use=attack|text=Don't underestimate me!}}
+
+==Notes==
+*This card's ability applies the '''Ambition''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Ambitious Hireling Old Client.png|Old client card image
+File:LG-cardart-Ambitious Hireling.png|Card art
+</gallery>

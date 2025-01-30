@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|class=Tribunal Temple
+|cost=8
+|image=LG-card-Power of the Almsivi.png
+|rarity=Epic
+|ability=Set each creature's power and health to 1.
+|deckcode=mk
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Notes==
+*This card applies the '''Wrath of the Three''' card effect.
+*The card depicts and is named for the [[Lore:Tribunal|Tribunal]] (or Almsivi), [[Lore:Morrowind|Morrowind]]'s deities from the [[Lore:First Era|First Era]] to the end of the [[Lore:Third Era|Third Era]].
+
+==Gallery==
+<gallery>
+File:LG-card-Power of the Almsivi Old Client.png|Old client card image
+File:LG-cardart-Power of the Almsivi.png|Card art
+File:LG-cardart-Power of the Almsivi 02.png|High resolution card art
+File:LG-cardart-Power of the Almsivi.jpg|Larger version from the official TES: Legends Twitter
+</gallery>

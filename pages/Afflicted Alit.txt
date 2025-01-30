@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|attribute=Strength
+|cost=2
+|image=LG-card-Afflicted Alit.png
+|power=3
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Deal 2 damage to each player.
+|summon=1
+|deckcode=ah
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+==Notes==
+*You will win the battle if this card reduces your opponent's health to zero or lower and your health is higher or equal.
+*[[Morrowind:Alit|Alit]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and later [[Online:Alit|reappeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Afflicted Alit Old Client.png|Old client card image
+File:LG-cardart-Afflicted Alit.png|Card art
+File:LG-cardart-Afflicted Alit (China).png|Chinese card art
+</gallery>

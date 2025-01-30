@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Ald Velothi Assassin.png
+|cost=2
+|power=1
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Lethal|Lethal]]''', '''[[Legends:Rally|Rally]]'''
+|lethal=1
+|rally=1
+|deckcode=ak
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I slay the unworthy.}}
+{{Legends Audio 2|use=attack|text=Should've been more worthy.}}
+
+==Notes==
+*This card is named for [[Lore:Ald Velothi|Ald Velothi]], a harbor town in [[Lore:Vvardenfell|Vvardenfell]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ald Velothi Assassin Old Client.png|Old client card image
+File:LG-cardart-Ald Velothi Assassin.png|Card art
+</gallery>

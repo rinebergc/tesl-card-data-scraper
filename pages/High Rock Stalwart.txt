@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Alliance War
+|attribute=Strength
+|cost=6
+|image=LG-card-High Rock Stalwart.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' +2/+2 if you have an [[Legends:Items|item]] in play.
+|summon=1
+|deckcode=to
+}}
+==Audio==
+{{Legends Audio 2|card=High Rock Stalwart|use=enter play|text=The road ends here! Turn back or die!}}
+{{Legends Audio 2|card=High Rock Stalwart|use=attack|text=Leave this place!}}
+==Notes==
+*This card's summon ability applies the '''Steadfast''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-High Rock Stalwart.png|Card art
+</gallery>

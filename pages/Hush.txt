@@ -1,0 +1,19 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Endurance
+|cost=1
+|image=LG-card-Hush.png
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]]<br>[[Legends:Silence|Silence]]''' a creature.
+|prophecy=1
+|silence=1
+|deckcode=tq
+}}
+==Notes==
+*This card applies the '''Suppressed''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Hush.png|Card art
+</gallery>

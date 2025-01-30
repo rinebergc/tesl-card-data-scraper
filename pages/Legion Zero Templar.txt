@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Willpower
+|cost=4
+|image=LG-card-Legion Zero Templar.png
+|power=2
+|health=5
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' If you have another creature in each lane, +0/+3.
+|guard=1
+|summon=1
+|deckcode=tA
+}}
+==Audio==
+{{Legends Audio 2|card=Legion Zero Templar|use=enter play|text=The blood of Coldharbour runs through my veins.}}
+{{Legends Audio 2|card=Legion Zero Templar|use=attack|text=Begone!}}
+==Notes==
+*This card's summon ability applies the '''Daedric Influence''' card effect.
+*[[Online:Legion Zero Templar|Legion Zero Templars]] appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Legion Zero Templar.png|Card art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Kwama
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=5
+|image=LG-card-Kwama Queen.png
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Plot|Plot]]:''' Summon a 1/1 '''~Kwama Forager~~''' in each lane.<br>Other friendly Kwama have +1/+0.
+|plot=1
+|uniqueability=1
+|deckcode=js
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+== Gallery ==
+<gallery>
+File:LG-card-Kwama Queen Old Client.png|Old client card image
+File:LG-cardart-Kwama Queen.png|Card art
+File:LG-cardart-Kwama Queen (China).png|Chinese card art
+</gallery>

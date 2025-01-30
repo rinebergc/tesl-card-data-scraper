@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=1
+|image=LG-card-Niben Bay Cutthroat.png
+|power=1
+|health=1
+|rarity=Common
+|ability=+2/+0 while there are no enemy creatures in this lane.
+|uniqueability=1
+|deckcode=lt
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Prepare for battle.|text2=We shall take the fight to them!}}
+{{Legends Audio 2|use=attack|text=Zeht's tears!|text2=Today you die!|text3=Die, scurvy dog!}}
+
+==Notes==
+*This card's ability applies the '''Bloodthirst''' card effect.
+*This was originally a rare card, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+*The card is named for the [[Lore:Niben Bay|Niben Bay]].
+
+==Gallery==
+<gallery>
+File:LG-card-Niben Bay Cutthroat Old Client.png|Old client card image
+File:LG-cardart-Niben Bay Cutthroat.png|Card art
+File:LG-cardart-Niben Bay Cutthroat 02.jpg|Cropped version of higher resolution
+</gallery>
+
+==References==
+<references/>

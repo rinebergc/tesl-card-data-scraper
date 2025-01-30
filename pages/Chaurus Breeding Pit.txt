@@ -1,0 +1,22 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|cost=10
+|rarity=Epic
+|image=LG-card-Chaurus Breeding Pit.png
+|attribute=Agility
+|availability=Monthly Card
+|ability=Summon a '''~Chaurus Reaper~~''' in each lane.
+|deckcode=cW
+}}
+
+==Availability==
+Chaurus Breeding Pit was the [[Legends:Monthly Card|monthly card]] for April 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-card-Chaurus Breeding Pit Old Client.png|Old client card image
+File:LG-cardart-Chaurus Breeding Pit.png|Card art
+File:LG-cardart-Chaurus Breeding Pit 03.jpg|Larger, cropped
+File:LG-cardart-Chaurus Breeding Pit 02.jpg|Cropped version of higher resolution
+</gallery>

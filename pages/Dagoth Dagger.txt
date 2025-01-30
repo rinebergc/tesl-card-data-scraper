@@ -1,0 +1,18 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Item
+|attribute=Strength
+|availability=Houses of Morrowind
+|image=LG-card-Dagoth Dagger.png
+|cost=1
+|rarity=Common
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br>+2/+1
+|breakthrough=1
+|deckcode=dY
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Dagoth Dagger Old Client.png|Old client card image
+File:LG-cardart-Dagoth Dagger.png|Card art
+</gallery>

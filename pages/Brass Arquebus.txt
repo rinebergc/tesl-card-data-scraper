@@ -1,0 +1,27 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|availability=Clockwork City
+|attribute=Neutral
+|cost=6
+|image=LG-card-Brass Arquebus.png
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[LG:Last Gasp|Last Gasp]]:''' Draw three different random 1-cost creatures from your deck.
+|lastgasp=1
+|deckcode=co
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Last Stand|The Last Stand]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Last Stand.
+
+==Notes==
+*This card is named "Refabricated Arquebus" in the game-files, which would have referred to a Dwarven Sphere from [[Online:Refabricated Arquebus|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Brass Arquebus Old Client.png|Old client card image
+File:LG-cardart-Brass Arquebus.png|Card art
+</gallery>

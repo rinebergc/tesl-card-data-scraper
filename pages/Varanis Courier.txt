@@ -1,0 +1,38 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|cost=3
+|image=LG-card-Varanis Courier.png
+|power=1
+|health=3
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]'''</br>'''[[Legends:Last Gasp|Last Gasp]]:''' Draw a card.
+|guard=1
+|lastgasp=1
+|deckcode=rn
+|altartdeckcode=zQ
+|altart=[[LG:Gauntlet of Chaos|Gauntlet of Chaos]] May 2022
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I will not waste words on one so ugly.|text2=My sword hand itches.}}
+{{Legends Audio 2|use=attack|text=You waste my breath!|text2=What color is a coward's blood?|text3=Die like a dog!}}
+{{Legends Audio 2|use=last gasp|text=Take this, and make my death mean something.|text2=I am defeated, this is yours now.}}
+
+==Notes==
+*The card is named for the [[Lore:Morrowind|Morrowind]] region of [[Lore:Varanis|Varanis]].
+*The [[LG:Gauntlet of Chaos|Gauntlet of Chaos]] than ran from May 13-16, 2022 rewarded up to three [[Legends:Premium|premium]] alternate art Varanis Courier cards, one for each run entered.
+
+==Gallery==
+<gallery>
+File:LG-card-Varanis Courier Old Client.png|Old client card image
+File:LG-cardart-Varanis Courier.png|Card art
+File:LG-cardart-Varanis Courier 02.jpg|Cropped version of large resolution
+File:LG-card-Varanis Courier alt.png|Alternate art card
+File:LG-cardart-Varanis Courier Alt.png|Alternate art
+</gallery>

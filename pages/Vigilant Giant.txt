@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Giant
+|attribute=Strength
+|cost=8
+|power=8
+|health=8
+|image=LG-card-Vigilant Giant.png
+|rarity=Legendary
+|ability='''[[Legends:Breakthrough|Breakthrough]]''', '''[[Legends:Guard|Guard]]'''</br>'''[[Legends:Summon|Summon]]''': Draw a card.
+|breakthrough=1
+|guard=1
+|summon=1
+|deckcode=rr
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Reclusive Giant}} at level 20.
+
+==Gallery==
+<gallery>
+File:LG-card-Vigilant Giant Old Client.png|Old client card image
+File:LG-cardart-Vigilant Giant.png|Card art
+File:LG-premcard-Vigilant Giant.gif|Premium card (click to view animation)
+File:LG-cardart-Vigilant Giant (China).png|Chinese card art
+</gallery>

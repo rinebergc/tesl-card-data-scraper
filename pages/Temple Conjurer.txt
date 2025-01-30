@@ -1,0 +1,34 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Temple Conjurer.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Exalt|Exalt 3]]:''' Summon a 5/3 '''~Flame Atronach~~&#32;''' with '''[[Legends:Breakthrough|Breakthrough]]'''.
+|exalt=1
+|deckcode=qh
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=All power flows from the gods.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=I summon you in the light of the Three!}}
+{{Legends Audio 2|use=attack|text=Pffft! You are not worthy.}}
+
+==Notes==
+*This card's [[Legends:Exalt|Exalt]] cost was decreased from 4 to 3 in [[Legends:Patch/2.5|patch 2.5]].
+*This card likely depicts [[Morrowind:Methal Seran|Methal Seran]], who first appeared in ''[[Morrowind:Morrowind|Morrowind]]'' as a Diviner of the [[Morrowind:Tribunal Temple|Tribunal Temple]] and a [[Morrowind:Conjuration Trainers|master Conjuration trainer]] in [[Morrowind:Ald'ruhn|Ald'ruhn]].
+**For more information on recurring characters, please see the [[General:Recurring Characters|associated page]].
+
+==Gallery==
+<gallery>
+File:LG-card-Temple Conjurer Old Client.png|Old client card image
+File:LG-cardart-Temple Conjurer.jpg|Card art
+</gallery>

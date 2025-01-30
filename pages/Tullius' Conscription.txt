@@ -1,0 +1,23 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Forgotten Hero Collection
+|attribute=Neutral
+|cost=12
+|image=LG-card-Tullius' Conscription.png
+|power=
+|health=
+|rarity=Epic
+|ability=Summon one of each creature from your deck that costs 2 or less.
+|deckcode=qT
+}}
+
+==Notes==
+*The card's name refers to [[Lore:Tullius|General Tullius]], who first [[Skyrim:General Tullius|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Tullius' Conscription Old Client.png|Old client card image
+File:LG-cardart-Tullius' Conscription.png|Card art
+</gallery>

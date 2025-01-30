@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|attribute=Endurance
+|cost=3
+|image=LG-card-Haunting Spirit.png
+|power=3
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]''': Give a random friendly creature +3/+3.
+|lastgasp=1
+|deckcode=hU
+|altartdeckcode=zj
+|altart=[[Legends:Grand Melee|Grand Melee]] December 2020
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck. One copy is also obtainable in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck as a potential reward from [[LG:The Restless Dead|The Restless Dead]].
+
+==Audio==
+{{Legends Audio 2|use=last gasp|text=My time in this world... is done.|text2=Remember... me!}}
+
+==Notes==
+*This card's last gasp ability applies the '''Spirit's Gift''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Haunting Spirit Old Client.png|Old client card image
+File:LG-card-Haunting Spirit Alt.png|Alternate card from Grand Melee
+File:LG-cardart-Haunting Spirit.png|Card art
+File:LG-cardart-Haunting Spirit Alt.png|Alternate card art from Grand Melee
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=5
+|image=LG-card-Cauldron Keeper.png
+|power=3
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Give your '''[[Legends:Activate|Activated]]''' [[Legends:Support|supports]] an extra use.<br>You may Activate your supports an extra time each turn.
+|guard=1
+|summon=1
+|uniqueability=1
+|aactivate=1
+|deckcode=cR
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I sell cures for all ills.}}
+{{Legends Audio 2|use=attack|text=They'll be needing a poultice.}}
+
+==Notes==
+*This card's summon ability applies the '''Double Toil''' card effect.
+*The card depicts [[Skyrim:Arcadia|Arcadia]] from ''[[Skyrim:Skyrim|Skyrim]]'', who owns [[Skyrim:Arcadia's Cauldron|Arcadia's Cauldron]]. Similarly, she often utters ''"I sell cures for all ills, and I'll be happy to serve you."''
+*This card, in conjunction with {{Card|Goldbrand}}, can be used to get ''The Golden'' [[Legends:Titles|title]].
+
+==Gallery==
+<gallery>
+File:LG-card-Cauldron Keeper Old Client.png|Old client card image
+File:LG-cardart-Cauldron Keeper.png|Card art
+</gallery>

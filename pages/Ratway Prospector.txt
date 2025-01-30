@@ -1,0 +1,34 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Clockwork City
+|attribute=Strength
+|cost=1
+|image=LG-card-Ratway Prospector.png
+|power=1
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Treasure Hunt|Treasure Hunt]] – [[Legends:Supports|Support]], [[Legends:Items|Item]], [[Legends:Actions|Action]]:''' +5/+5<br/>After Ratway Prospector attacks, give her '''[[Legends:Cover|Cover]]'''.
+|treasurehunt=1
+|cover=1
+|deckcode=mH
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Thornwell Farm|Thornwell Farm]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Thornwell Farm.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=One person's trash is another's treasure.}}
+{{Legends Audio 2|use=attack|text=Mine! Back off!}}
+{{Legends Audio 2|use=trigger|text=A find like this belongs in a museum.}}
+
+==Notes==
+*This card's Treasure Hunt applies the '''Strike It Rich''' card effect.
+*The name of the card references the sewers of [[Lore:Riften|Riften]], which are referred to as the [[SR:The Ratway|Ratway]] and serve as a haven for the [[Lore:Skyrim|Skyrim]] branch of the [[Lore:Thieves Guild|Thieves Guild]] as well as the poor and assorted ne'er-do-wells of Riften.
+==Gallery==
+<gallery>
+File:LG-card-Ratway Prospector Old Client.png|Old client card image
+File:LG-cardart-Ratway Prospector.png|Card art
+File:LG-cardart-Ratway Prospector 2.jpg|High resolution full card art from artist
+</gallery>

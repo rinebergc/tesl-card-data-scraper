@@ -1,0 +1,36 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=2
+|power=1
+|health=1
+|image=LG-card-High Rock Summoner.png
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Put a random Atronach into your hand.
+|summon=1
+|deckcode=ih
+}}
+
+The Atronachs this card can add to your hand are:
+*{{Card|Flame Atronach}}
+*{{Card|Frost Atronach}}
+*{{Card|Storm Atronach}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck, two copies in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck, and one copy in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You've gotta go through HIM first.|text2=My friend would like to say hello.}}
+{{Legends Audio 2|use=attack|text=Gods strike you!|text2=Gall and pox!|text3=Foul-breathed imbecile!}}
+
+==Notes==
+*The card is named for the nation of [[Lore:High Rock|High Rock]].
+
+==Gallery==
+<gallery>
+File:LG-card-High Rock Summoner Old Client.png|Old client card image
+File:LG-cardart-High Rock Summoner.png|Card art
+File:LG-card-High Rock Summoner (old).png|Old version
+</gallery>

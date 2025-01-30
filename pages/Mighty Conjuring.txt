@@ -1,0 +1,22 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=7
+|image=LG-card-Mighty Conjuring.png
+|rarity=Legendary
+|ability=Summon a random Atronach. If you have a creature with 5 power or more, summon a '''~Lava Atronach~~''' instead.
+|deckcode=kA
+}}
+
+Aside from a {{Card|Lava Atronach}}, the atronachs it can summon are the following:
+*{{Card|Flame Atronach}}
+*{{Card|Frost Atronach}}
+*{{Card|Storm Atronach}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Mighty Conjuring Old Client.png|Old client card image
+File:LG-cardart-Mighty Conjuring.png|Card art
+</gallery>

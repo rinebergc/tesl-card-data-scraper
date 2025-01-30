@@ -1,0 +1,28 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Dres Spy.png
+|cost=0
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Look at the top card of your deck. You may discard it.
+|summon=1
+|deckcode=eY
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Nothing will trace back to us.}}
+{{Legends Audio 2|use=attack|text=So it comes to violence.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Dres Spy Old Client.png|Old client card image
+File:LG-cardart-Dres Spy.png|Card art
+</gallery>

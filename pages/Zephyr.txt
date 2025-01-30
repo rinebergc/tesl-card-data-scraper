@@ -1,0 +1,20 @@
+{{Mod Header|Dawnguard}}
+{{Legends Card Summary
+|type=Item
+|availability=Dawnguard
+|attribute=Agility
+|cost=4
+|image=LG-card-Zephyr.png
+|rarity=Epic
+|ability=-1/0{{NewLeft}}'''[[Legends:Summon|Summon]]:''' The wielder of Zephyr may attack an extra time each turn.
+|deckcode=
+}} It is exclusive to ''[[Legends:Legends Asia|Legends Asia]]'' and was introduced as part of the [[Legends:Dawnguard|Dawnguard]] expansion.
+
+==Notes==
+*This card depicts [[Skyrim:Zephyr|Zephyr]] from the ''[[Skyrim:Dawnguard|Dawnguard]]'' expansion for ''[[Skyrim:Skyrim|Skyrim]]''.
+<!--
+==Gallery==
+<gallery>
+File:
+</gallery>
+-->

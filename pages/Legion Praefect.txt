@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|image=LG-card-Legion Praefect.png
+|type=Creature
+|subtype=Imperial
+|cost=7
+|power=4
+|health=4
+|ability='''[[Legends:Summon|Summon]]''': Give other friendly creatures +1/+1.
+|attribute=Willpower
+|rarity=Common
+|summon=1
+|deckcode=jC
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play|text=Forward, march!|text2=Soldiers at the ready.}}
+{{Legends Audio 2|use=attack|text=For Cyrodiil!|text2=Swords ready.|text3=Forward!}}
+
+==Notes==
+*This card's summon ability applies the '''On the March''' card effect.
+*The card's art depicts an [[Lore:Imperial|Imperial]] waving a banner of the [[Lore:Second Empire|Second Empire]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Legion Praefect Old Client.png|Old client card image
+File:LG-cardart-Legion Praefect.png|Card art
+</gallery>

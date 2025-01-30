@@ -1,0 +1,26 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Agility
+|cost=3
+|image=LG-card-Dragonguard Outcast.png
+|power=1
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Lethal|Lethal]]'''<br>'''[[Legends:Summon|Summon]]:''' Dragonguard Outcast has '''[[Legends:Cover|Cover]]''' until she attacks.
+|summon=1
+|lethal=1
+|deckcode=sV
+}}
+==Audio==
+{{Legends Audio 2|card=The Drake of Blades|use=enter play|text=What do you want? Oh, you need my help. Ok, fine. Let's go.}}
+{{Legends Audio 2|card=The Drake of Blades|use=attack|text=Stay still, this'll be quicker.}}
+==Notes==
+*This card depicts the [[Online:Drake of Blades|Drake of Blades]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dragonguard Outcast.png|Card art
+</gallery>

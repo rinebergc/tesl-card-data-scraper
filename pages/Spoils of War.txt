@@ -1,0 +1,19 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Agility
+|cost=5
+|image=LG-card-Spoils of War.png
+|altart=[[Legends:Discounted Bounty Bundle|Discounted Bounty Bundle]]
+|rarity=Common
+|ability=Draw two cards.<br>'''[[Legends:Empower|Empower]]:''' Costs 1 less.
+|empower=1
+|deckcode=um
+|altartdeckcode=zy
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Spoils of War.png|Card art
+File:LG-cardart-Spoils of War Alt.png|Alternate art from Discounted Bounty Bundle
+</gallery>

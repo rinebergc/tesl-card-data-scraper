@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|subtype2=Wood Elf
+|availability=Jaws of Oblivion
+|class=Battlemage
+|cost=4
+|image=LG-card-Mankar Camoran.png
+|power=4
+|health=4
+|rarity=Legendary
+|unique=Yes
+|ability=After you play an [[Legends:Actions|action]], '''[[Legends:Invade|Invade]]'''.<br>Friendly '''~Oblivion Gate~Oblivion Gates~''' have +4/+0.
+|invade=1
+|deckcode=xg
+|uniqueability=1
+}}
+==Audio==
+{{Legends Audio 2|card=mankar camoran|use=enter play|text=Great shall be your reward in Paradise.}}
+{{Legends Audio 2|card=mankar camoran|use=attack|text=Ha! You cannot stop the will of Lord Dagon!}}
+==Notes==
+*Mankar Camoran first [[OB:Mankar Camoran|appeared]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Mankar_Camoran.jpg|Card art
+</gallery>

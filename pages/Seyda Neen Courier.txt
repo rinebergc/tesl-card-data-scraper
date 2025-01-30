@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Seyda Neen Courier.png
+|power=0
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Equip a +3/+0 '''~Steel Sword~~''' to a friendly creature.
+|summon=1
+|equip=1
+|deckcode=nL
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I come bearing gifts.}}
+{{Legends Audio 2|use=attack|text=I abhor violence.}}
+
+==Notes==
+*This card depicts [[Lore:Seyda Neen|Seyda Neen]], a small village in [[Lore:Vvardenfell|Vvardenfell]]. 
+
+==Gallery==
+<gallery>
+File:LG-card-Seyda Neen Courier Old Client.png|Old client card image
+File:LG-cardart-Seyda Neen Courier.png|Card art
+</gallery>

@@ -1,0 +1,21 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=0
+|image=LG-card-Paralyze.png
+|rarity=Common
+|ability='''[[Legends:Shackle|Shackle]]''' an enemy creature.
+|shackle=1
+|deckcode=lX
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Paralyze Old Client.png|Old client card image
+File:LG-cardart-Paralyze.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Action
+|availability=Isle of Madness
+|attribute=Agility
+|cost=2
+|image=LG-card-Felldew.png
+|rarity=Common
+|ability=Give a creature '''[[Legends:Lethal|Lethal]]''' this turn.
+|alethal=1
+|double={{Card|Elytra Noble}}
+|deckcode=gk
+}}
+
+==Notes==
+*This card's ability applies the '''Felldew Euphoria''' card effect.
+*Felldew previously [[Shivering:Felldew|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Felldew.png|Card art
+</gallery>

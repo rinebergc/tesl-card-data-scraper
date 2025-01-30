@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Falmer
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=4
+|image=LG-card-Sightless Skulk.png
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card if you have two other {{LG Attribute Icon|Agility}} creatures.
+|summon=1
+|deckcode=oi
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, two copies are included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck, and one copy in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Sightless Skulk Old Client.png|Old client card image
+File:LG-cardart-Sightless Skulk.png|Card art
+File:LG-cardart-Sightless Skulk (China).png|Chinese card art
+</gallery>

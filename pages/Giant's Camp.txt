@@ -1,0 +1,23 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|attribute=Strength
+|cost=4
+|uses=Ongoing
+|image=LG-card-Giant's Camp.png
+|rarity=Epic
+|availability=Monthly Card
+|ability=At the start of your turn, set each friendly creature's power equal to the power of your most powerful creature.
+|deckcode=yU
+}}
+
+==Availability==
+Giant's Camp was the [[Legends:Monthly Card|monthly card]] for November 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This card's ability applies the '''Giant's Strength''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Giant's Camp.png|Card art
+</gallery>

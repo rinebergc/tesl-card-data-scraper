@@ -1,0 +1,29 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Intelligence
+|type=Creature
+|subtype=Redguard
+|image=LG-card-Blood Sorceress.png
+|cost=1
+|power=2
+|health=1
+|rarity=Epic
+|ability=At the start of your turn, if you have 7 or more max [[LG:Magicka|magicka]], deal 5 damage to your opponent.
+|uniqueability=1
+|deckcode=cg
+}}
+
+== Availability ==
+A playset of the card is awarded for completing [[Legends:Castle Wayrest, Grand Hall|Castle Wayrest]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Castle Wayrest.
+
+==Audio==
+{{Legends Audio 2|card=Sower of Revenge|use=enter play|text=We will seize our own fate!}}
+{{Legends Audio 2|card=Sower of Revenge|use=attack|text=Your story has finished!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Blood Sorceress Old Client.png|Old client card image
+File:LG-cardart-Blood Sorceress.png|Card art
+File:LG-cardart-Blood Sorceress (China).png|Chinese card art
+</gallery>

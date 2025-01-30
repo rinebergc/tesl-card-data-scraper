@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Endurance
+|cost=1
+|image=LG-card-Iliac Sorcerer.png
+|power=1
+|health=1
+|rarity=Epic
+|ability='''[[Legends:Ward|Ward]]'''</br>When Iliac Sorcerer's Ward is broken, double his power.
+|ward=1
+|deckcode=iC
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|card=sunhold sorcerer|use=enter play|text=Let's see what you've got.|text2=I'm more powerful than you can imagine.}}
+{{Legends Audio 2|card=sunhold sorcerer|use=attack|text=Hardly worth my time!|text2=Your powers are feeble!|text3=Die, craven fool!}}
+
+==Notes==
+*This card's ability applies the '''Iliac Sorcery''' card effect.
+*The card is named for the [[Lore:Iliac Bay|Iliac Bay]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Iliac Sorcerer Old Client.png|Old client card image
+File:LG-cardart-Iliac Sorcerer.png|Card art
+</gallery>

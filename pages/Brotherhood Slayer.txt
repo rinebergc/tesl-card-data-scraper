@@ -1,0 +1,35 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Agility
+|type=Creature
+|subtype=Wood Elf
+|image=LG-card-Brotherhood Slayer.png
+|cost=3
+|power=3
+|health=3
+|rarity=Common
+|prophecy=1
+|slay=1
+|ability='''[[Legends:Prophecy|Prophecy]]'''</br>'''[[Legends:Slay|Slay]]:''' Put a '''~Completed Contract~~''' into your hand.
+|deckcode=cv
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Kastus Thorn's House|Kastus Thorn's House]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Kastus Thorn's House.
+
+==Audio==
+{{Legends Audio 2|card=brotherhood initiate|use=enter play|text=Just give me a name.}}
+{{Legends Audio 2|card=brotherhood initiate|use=attack|text=It's nothing personal!}}
+
+==Notes==
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*In [[DF:Daggerfall|Daggerfall]], "Slayers" were the [[DF:Dark Brotherhood#Dark Slayers|Dark Brotherhood members]] who offered contracts to be completed.
+*In [[OB:Oblivion|Oblivion]], "Slayer" was a low rank in the [[OB:Dark Brotherhood|Dark Brotherhood faction]].
+
+==Gallery==
+<gallery>
+File:LG-card-Brotherhood Slayer Old Client.png|Old client card image
+File:LG-cardart-Brotherhood Slayer.png|Card art
+File:LG-cardart-Brotherhood Slayer 02.jpg|High-res card art from illustrator site
+</gallery>

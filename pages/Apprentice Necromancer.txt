@@ -1,0 +1,29 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|class=Spellsword
+|cost=3
+|image=LG-card-Apprentice Necromancer.png
+|power=3
+|health=3
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Summon|Summon]]:''' Summon a 1-cost creature from your discard pile.
+|summon=1
+|deckcode=xb
+}}
+
+==Availability==
+Apprentice Necromancer was the [[Legends:Monthly Card|monthly card]] for June 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=apprentice necromancer|use=enter play|text=Come, do my bidding.}}
+
+==Notes==
+*Prior to patch [[Legends:Patch/2.13|2.13]], this card used Draugr sound effects.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Apprentice Necromancer.png|Card art
+</gallery>

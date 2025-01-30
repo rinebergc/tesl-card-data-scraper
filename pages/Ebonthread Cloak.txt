@@ -1,0 +1,21 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Item
+|availability=Alliance War
+|attribute=Strength
+|cost=2
+|image=LG-card-Ebonthread Cloak.png
+|rarity=Rare
+|ability='''[[Legends:Mobilize|Mobilize]]'''<br>+1/+2<br>'''[[Legends:Summon|Summon]]:''' Your opponent can't target the wielder with [[Legends:Actions|actions]] until your next turn.
+|mobilize=1
+|summon=1
+|deckcode=sK
+}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is a [[Legends:Breton|Breton]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ebonthread Cloak.png|Card art
+</gallery>

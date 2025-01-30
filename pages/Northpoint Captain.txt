@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Endurance
+|cost=4
+|image=LG-card-Northpoint Captain.png
+|power=4
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Summon a 0/4 '''~Northpoint Herald~~''' with '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|deckcode=lE
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You're with me, soldier.|text2=Get ready to move!}}
+{{Legends Audio 2|use=attack|text=Attack! Attack!|text2=No mercy!|text3=Kill them all!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Northpoint Lieutenant}} at level 14.
+*The card is named for the [[Lore:High Rock|High Rock]] city of [[Lore:Northpoint|Northpoint]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Northpoint Captain Old Client.png|Old client card image
+File:LG-cardart-Northpoint Captain.png|Card art
+</gallery>

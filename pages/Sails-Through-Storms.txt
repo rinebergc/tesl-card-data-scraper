@@ -1,0 +1,33 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Agility
+|cost=6
+|image=LG-card-Sails-Through-Storms.png
+|power=5
+|health=5
+|rarity=Legendary
+|unique=Yes
+|availability=Clockwork City
+|ability='''[[LG:Pilfer|Pilfer]]:''' Summon the top creature of your deck.
+|pilfer=1
+|deckcode=nv
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Forelhost Lost Tomb|Forelhost Lost Tomb]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Forelhost Lost Tomb.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=If I can't steal it, it can't be stolen.}}
+{{Legends Audio 2|use=attack|text=Sails-Through-Storms does it again.}}
+
+==Notes==
+*The UESP exclusively revealed this card prior to the release of [[LG:Return to Clockwork City|Return to Clockwork City]]. The announcement can be found [[LG:Return to Clockwork City Exclusive Card Reveal|here]].
+*The full-resolution version of the art (4,614 x 4,266) can be found [[:File:LG-cardart-Sails-Through-Storms 02.png|here]].
+
+==Gallery==
+<gallery>
+File:LG-card-Sails-Through-Storms Old Client.png|Old client card image
+File:LG-cardart-Sails-Through-Storms.png|Card art
+</gallery>

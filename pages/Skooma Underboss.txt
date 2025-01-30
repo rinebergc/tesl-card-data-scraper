@@ -1,0 +1,30 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Agility
+|availability=Dark Brotherhood
+|image=LG-card-Skooma Underboss.png
+|type=Creature
+|subtype=Khajiit
+|cost=2
+|power=2
+|health=3
+|rarity=Common
+|ability=Friendly '''[[Legends:Pilfer|Pilfer]]''' abilities are also '''[[Legends:Slay|Slay]]''' abilities.
+|uniqueability=1
+|apilfer=1
+|aslay=1
+|deckcode=oy
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:South Bridge|South Bridge]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of South Bridge.
+
+==Audio==
+{{Legends Audio 2|card=skooma kingpin|use=enter play|text=Let's line up some customers.}}
+{{Legends Audio 2|card=skooma kingpin|use=attack|text=They'll pay, one way or another!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Skooma Underboss Old Client.png|Old client card image
+File:LG-cardart-Skooma Underboss.png|Card art
+</gallery>

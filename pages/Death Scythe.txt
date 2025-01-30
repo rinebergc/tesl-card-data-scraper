@@ -1,0 +1,23 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Tamriel Collection
+|class=House Telvanni
+|cost=1
+|image=LG-card-Death Scythe.png
+|power=
+|health=
+|rarity=Epic
+|ability='''[[Legends:Drain|Drain]]'''<br>Deal damage to a creature equal to the number of creatures that died this turn.
+|drain=1
+|deckcode=Bk
+}}
+
+==Notes==
+* This card depicts the [[ON:Death Scythe|Death Scythe]] skill from [[ESO:Online|ESO]], an attack available to the [[ON:Necromancer|Necromancer]] class.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Death Scythe.png|Card art
+</gallery>

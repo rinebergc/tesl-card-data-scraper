@@ -1,0 +1,30 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Endurance
+|cost=3
+|image=LG-card-Nibenese Mercenary.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature to gain +0/+2.
+|summon=1
+|consume=1
+|deckcode=wg
+}}
+
+==Audio==
+{{Legends Audio 2|card=Nibenese Mercenary|use=enter play|text=Whatever you want, if the coin is good.}}
+{{Legends Audio 2|card=Nibenese Mercenary|use=attack|text=Foolish child.}}
+
+==Notes==
+*This card's consume ability applies the '''Nibenese Vitality''' card effect.
+*The name of the card refers to [[Lore:Nibenay|Nibenay]], the eastern region of [[Lore:Cyrodiil|Cyrodiil]].
+*The art features a man wearing [[Online:Mercenary Style|Mercenary Style]] medium armor.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Nibenese Mercenary.jpg|Card art
+</gallery>

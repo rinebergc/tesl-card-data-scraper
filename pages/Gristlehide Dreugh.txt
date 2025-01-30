@@ -1,0 +1,27 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Neutral
+|type=Creature
+|subtype=Dreugh
+|image=LG-card-Gristlehide Dreugh.png
+|cost=5
+|power=3
+|health=5
+|rarity=Common
+|ability=When Gristlehide Dreugh takes damage and survives, draw a card.
+|uniqueability=1
+|deckcode=hH
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Dreughside|Dreughside]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Dreughside.
+
+==Notes==
+*[[Lore:Dreugh|Dreugh]] are a race of crab-people who have appeared in ''[[Daggerfall:Dreugh|Daggerfall]]'', ''[[Morrowind:Dreugh|Morrowind]]'', ''[[Oblivion:Land Dreugh|Oblivion]]'', and [[Online:Dreugh|ESO]]. They have been associated with [[Lore:Molag Bal|Molag Bal]], and are reputed to have ruled over the oceans of the world long ago.
+
+==Gallery==
+<gallery>
+File:LG-card-Gristlehide Dreugh Old Client.png|Old client card image
+File:LG-cardart-Gristlehide Dreugh.png|Card art
+</gallery>

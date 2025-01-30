@@ -1,0 +1,27 @@
+__NOTOC__{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=2
+|power=3
+|health=2
+|image=LG-card-Mage Slayer.png
+|rarity=Epic
+|ability=Mage Slayer can't be damaged by [[LG:Actions|actions]].
+|uniqueability=1
+|deckcode=ka
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Just tell me who needs bludgeoning.|text2=I'm ready to split some skulls!}}
+{{Legends Audio 2|use=attack|text=[scream]|text2=Feel my wrath!|text3=The power is mine to wield!}}
+
+==Notes==
+*The constellation depicted on the Mage Slayer's shield is [[Lore:The Atronach|The Atronach]].
+
+==Gallery==
+<gallery>
+File:LG-card-Mage Slayer Old Client.png|Old client card image
+File:LG-cardart-Mage Slayer.png|Card art
+</gallery>

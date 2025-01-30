@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Vampire
+|attribute=Endurance
+|cost=9
+|image=LG-card-Night Talon Lord.png
+|power=8
+|health=8
+|rarity=Legendary
+|ability='''[[Legends:Drain|Drain]]'''<br>'''[[Legends:Slay|Slay]]:''' Summon the slain creature.
+|drain=1
+|slay=1
+|deckcode=lx
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Not even death can save you.|text2=The night is mine.}}
+{{Legends Audio 2|use=attack|text=Time to feast!|text2=I am the night.|text3=I smell blood.}}
+
+==Notes==
+*This card depicts a [[Lore:Vampire Lord|Vampire Lord]] as they [[SR:Vampire Lord|appeared]] in the ''[[SR:Dawnguard|Dawnguard]]'' add-on for ''[[SR:Skyrim|Skyrim]]''.
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Volkihar Lord}} at level 50.
+
+==Gallery==
+<gallery>
+File:LG-card-Night Talon Lord Old Client.png|Old client card image
+File:LG-cardart-Night Talon Lord.png|Card art
+File:LG-cardart-Night Talon Lord 02.jpg|HD card art
+File:LG-cardart-Night Talon Lord (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Endurance
+|cost=3
+|image=LG-card-Imperial Armor.png
+|rarity=Common
+|ability=+0/+6
+|deckcode=iG
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+==Notes==
+*The card's art depicts armor in the [[Lore:Imperial|Imperial]] style, as it [[Online:Imperial Style|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Imperial Armor Old Client.png|Old client card image
+File:LG-cardart-Imperial Armor.png|Card art
+</gallery>

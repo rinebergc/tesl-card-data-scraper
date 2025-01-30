@@ -1,0 +1,33 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|class=Assassin
+|cost=3
+|image=LG-card-Black Hand Messenger.png
+|availability=Monthly Card
+|power=0
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Drain|Drain]]'''<br>'''[[Legends:Summon|Summon]]:''' Deal 2 damage to a creature.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Deal 2 damage to your opponent.
+|summon=1
+|drain=1
+|lastgasp=1
+|deckcode=bO
+}}
+
+==Availability==
+Black Hand Messenger was the [[Legends:Monthly Card|monthly card]] for December 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Banus Alor|use=enter play|text=The Night Mother will guide us.|text2=The Black Hand sees all.}}
+{{Legends Audio 2|card=Banus Alor|use=attack|text=For the Black Hand!|text2=Your death will be swift.|text3=I have you now!}}
+
+==Notes==
+*The card depicts [[Oblivion:Banus Alor|Banus Alor]] from [[Oblivion:Oblivion|Oblivion]].
+
+==Gallery==
+<gallery>
+File:LG-card-Black Hand Messenger Old Client.png|Old client card image
+File:LG-cardart-Black Hand Messenger.png|Card art
+</gallery>

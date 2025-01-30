@@ -1,0 +1,23 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Item
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Stolen Pants.png
+|cost=2
+|rarity=Epic
+|ability=+1/+1<br>'''[[Legends:Summon|Summon]]:''' Summon a 0/1 '''~Sheepish Dunmer~~''' in the other lane.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Give '''Sheepish Dunmer''' his pants.
+|deckcode=pv
+|illustrator=Anastasia Ovchinnikova
+}}__NOTOC__
+
+==Notes==
+*This card is a reference to the ''[[Morrowind:Morrowind|Morrowind]]'' quest [[Morrowind:Hentus Needs Pants|Hentus Needs Pants]].
+
+== Gallery ==
+<gallery>
+File:LG-card-Stolen Pants Old Client.png|Old client card image
+File:LG-cardart-Stolen Pants.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

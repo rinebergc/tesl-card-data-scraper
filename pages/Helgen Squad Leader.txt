@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Willpower
+|cost=2
+|image=LG-card-Helgen Squad Leader.png
+|power=0
+|health=3
+|rarity=Epic
+|ability=When another friendly creature attacks, Helgen Squad Leader gains +1/+0.
+|uniqueability=1
+|deckcode=hZ
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We're stronger together!|text2=We fight as one.}}
+{{Legends Audio 2|use=attack|text=Together we are strong!|text2=Kill them all!|text3=Now that's teamwork!}}
+
+==Notes==
+*This card's ability applies the '''Squad Tactics''' card effect.
+*The card is named for the [[Lore:Skyrim|Skyrim]] town of [[Lore:Helgen|Helgen]].
+*Despite the card being named for Helgen, a township in Falkreath Hold, the depicted armor bears the insignia of Hjaalmarch Hold.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Helgen Squad Leader Old Client.png|Old client card image
+File:LG-cardart-Helgen Squad Leader.png|Card art
+</gallery>

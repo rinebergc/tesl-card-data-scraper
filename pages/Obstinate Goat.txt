@@ -1,0 +1,20 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Tamriel Collection
+|attribute=Agility
+|cost=2
+|image=LG-card-Obstinate Goat.png
+|power=3
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' If the top card of your deck is an '''[[Legends:Animal|Animal]]''', draw it. Otherwise, put it on the bottom.
+|summon=1
+|deckcode=Bg
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Obstinate Goat.png|Card art
+</gallery>

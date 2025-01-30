@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Lillandril Hexmage.png
+|power=5
+|health=4
+|rarity=Common
+|ability=After you play an [[Legends:Actions|action]], deal 1 damage to your opponent.
+|uniqueability=1
+|deckcode=jJ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I have just the thing for them.|text2=They'll never outsmart me.}}
+{{Legends Audio 2|use=attack|text=Crude, but effective!|text2=Brains over brawn!|text3=I'm a step ahead of you!}}
+
+==Notes==
+*The card is named for the [[Lore:Summerset Isles|Summerset]] city of [[Lore:Lillandril|Lillandril]].
+*This card was changed by reducing the damage after playing an action from 2 to 1 and increasing its power from 4 to 5 in [[Legends:Patch/2.11|Patch 2.11]].
+
+==Gallery==
+<gallery>
+File:LG-card-Lillandril Hexmage Old Client.png|Old client card image
+File:LG-cardart-Lillandril Hexmage.png|Card art
+</gallery>

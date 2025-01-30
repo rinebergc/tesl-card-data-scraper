@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Studium Headmaster.png
+|power=6
+|health=3
+|rarity=Epic
+|ability='''[[LG:Summon|Summon]]:''' Each player draws two cards.
+|summon=1
+|deckcode=pM
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Now pay attention!|text2=Repetition is the key to mastery.}}
+{{Legends Audio 2|use=attack|text=Do it like THIS!|text2=You need more practice!|text3=Are you new at this?}}
+
+==Gallery==
+<gallery>
+File:LG-card-Studium Headmaster Old Client.png|Old client card image
+File:LG-cardart-Studium Headmaster.png|Card art
+</gallery>

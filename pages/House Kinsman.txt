@@ -1,0 +1,36 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|cost=3
+|image=LG-card-House Kinsman.png
+|power=3
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Deal 3 damage to your opponent and gain 3 health.
+|lastgasp=1
+|deckcode=it
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck, and one copy in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=By the Lord, Mother and Wizard, I see their strategy!|text2=They cannot hope to outwit me.}}
+{{Legends Audio 2|use=attack|text=All too simple.|text2=You are no match for me, s'wit|text3=Huh. Childsplay.}}
+{{Legends Audio 2|use=last gasp|text=Taste... my... vengeance!|text2=This... will be... my... last... battlefield!}}
+
+==Notes==
+*The name of the card refers to the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]].
+*In his dialogue upon being summoned (''"By the Lord, Mother and Wizard, I see their strategy!"''), the House Kinsman is referring to the three members of the [[Lore:Tribunal|Tribunal]]: [[Lore:Vivec|Vivec]], [[Lore:Almalexia|Almalexia]], and [[Lore:Sotha Sil|Sotha Sil]].
+* This card originally had 3 health, but was changed in November 2016 because it was too powerful at 3 health, and changing it to 2 would make it more vulnerable to {{Card|Firebolt}} and 2-power creatures. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letters-from-the-devs-nov-2016 Letter from the Devs] on Bethesda.net, November 2, 2016}}
+
+==Gallery==
+<gallery>
+File:LG-card-House Kinsman Old Client.png|Old client card image
+File:LG-cardart-House Kinsman.png|Card art
+</gallery>
+
+==References==
+<references/>

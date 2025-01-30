@@ -1,0 +1,22 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Defense
+|availability=Isle of Madness
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Pointy Wall of Spikes.png
+|power=0
+|health=3
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''</br> When Pointy Wall of Spikes takes damage from a creature, it deals that much damage to that creature.
+|prophecy=1
+|guard=1
+|deckcode=mi
+}}
+==Notes==
+The art for this card was created by freelance artist Pedro Otelcana.
+==Gallery==
+<gallery>
+File:LG-cardart-Pointy Wall of Spikes.png|Card art
+</gallery>

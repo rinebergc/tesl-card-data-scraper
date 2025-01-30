@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Willpower
+|cost=2
+|image=LG-card-Summerset Shieldmage.png
+|power=2
+|health=2
+|rarity=Common
+|ability=Other friendly creatures in this [[LG:Lanes|lane]] have +0/+1.
+|uniqueability=1
+|deckcode=pO
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Get behind me.|text2=We must break through their ranks.}}
+{{Legends Audio 2|use=attack|text=Barbarian!|text2=You'll pay for this!|text3=You spineless coward!}}
+
+==Notes==
+*The card is named for the [[Lore:Summerset Isles|Summerset Isles]].
+
+==Gallery==
+<gallery>
+File:LG-card-Summerset Shieldmage Old Client.png|Old client card image
+File:LG-cardart-Summerset Shieldmage.png|Card art
+</gallery>

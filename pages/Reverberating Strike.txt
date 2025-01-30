@@ -1,0 +1,20 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Action
+|availability=Clockwork City
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Reverberating Strike.png
+|rarity=Common
+|ability=Deal 3 damage to a creature and all enemy creatures with the same name.
+|deckcode=nc
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Midden|The Midden]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Midden.
+
+==Gallery==
+<gallery>
+File:LG-card-Reverberating Strike Old Client.png|Old client card image
+File:LG-cardart-Reverberating Strike.jpg|Card art
+</gallery>

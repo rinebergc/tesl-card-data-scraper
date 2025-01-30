@@ -1,0 +1,21 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=8
+|image=LG-card-A Land Divided.png
+|rarity=Legendary
+|ability=Fill the left lane with '''~Stormcloak Skirmisher~Stormcloak Skirmishers~''' or the right lane with '''~Colovian Trooper~Colovian Troopers~'''.
+|deckcode=aa
+}}
+
+==Notes==
+*The card's name refers to the [[Lore:Stormcloak Rebellion|Stormcloak Rebellion]], which is the focus of [[SR:Skyrim|''Skyrim'']]'s [[Skyrim:Civil War|Civil War]] questline.
+
+==Gallery==
+<gallery>
+File:LG-card-A Land Divided Old Client.png|Old client card image
+File:LG-cardart-A Land Divided 02.jpg|Card art
+File:LG-cardart-A Land Divided.jpg|Cropped version of higher resolution
+</gallery>

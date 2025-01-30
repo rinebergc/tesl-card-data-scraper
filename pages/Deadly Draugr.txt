@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|cost=1
+|power=1
+|health=1
+|image=LG-card-Deadly Draugr.png
+|ability='''[[LG:Lethal|Lethal]]'''
+|attribute=Endurance
+|rarity=Common
+|lethal=1
+|deckcode=em
+|altartdeckcode=zh
+|altart=[[Legends:Elsweyr Gauntlet|Elsweyr Gauntlet]] April 2022
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Rotting Draugr}} at level 13.
+*[[Bloodmoon:Draugr|Draugr]] first appeared in ''[[Bloodmoon:Bloodmoon|Bloodmoon]]'', and later reappeared in ''[[Skyrim:Draugr|Skyrim]]'' and [[Online:Draugr|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Deadly Draugr Old Client.png|Old client card image
+File:LG-card-Deadly Draugr Alt.png|Alternate card from Elsweyr Gauntlet
+File:LG-cardart-Deadly Draugr.png|Card art
+File:LG-cardart-Deadly Draugr Alt.png|Alternate art
+File:LG-cardart-Deadly Draugr (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|class=Crusader
+|cost=6
+|image=LG-card-Supreme Dragon.png
+|power=7
+|health=7
+|rarity=Epic
+|availability=Monthly Card
+|ability=At the start of each turn, for each enemy creature in this lane with power greater than 3, set its power to 3.
+|uniqueability=1
+|deckcode=yO
+}}
+
+==Availability==
+Supreme Dragon was the [[Legends:Monthly Card|monthly card]] for March 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This card's ability applies the '''Cowed''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Supreme Dragon.png|Card art
+</gallery>

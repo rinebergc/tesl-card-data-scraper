@@ -1,0 +1,24 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Action
+|class=Sorcerer
+|cost=2
+|image=LG-card-Sorcerer's Negation.png
+|rarity=Rare
+|ability='''[[Legends:Silence|Silence]]''' a creature, then deal 2 damage to it.
+|silence=1
+|deckcode=oM
+}}
+
+==Notes==
+*The card's ability applies the '''Negated''' card effect.
+*The card's name may refer to [[Online:Negate Magic|Negate Magic]], a skill available to [[Online:Online|ESO]]'s [[Online:Sorcerer|Sorcerer]]s.
+*There is a [[Lore:Telvanni|House Telvanni]] symbol featured on the back of the spellcaster's robe.
+
+==Gallery==
+<gallery>
+File:LG-card-Sorcerer's Negation Old Client.png|Old client card image
+File:LG-cardart-Sorcerer's Negation.png|Card art
+File:LG-cardart-Sorcerer's Negation 02.jpg|High-res card art from [[:Category:Legends-Art-Nuare Studio|Nuare Studio]]
+</gallery>

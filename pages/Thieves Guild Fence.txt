@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=3
+|image=LG-card-Thieves Guild Fence.png
+|power=3
+|health=2
+|rarity=Legendary
+|ability=When you draw a card on your turn, reduce its cost by 1.
+|uniqueability=1
+|deckcode=qx
+}}
+
+==Audio==
+{{Legends Audio 2|card=thieves guild apprentice|use=enter play|text=What are we going after?}}
+{{Legends Audio 2|card=thieves guild apprentice|use=attack|text=Think it's worth dying for?}}
+
+==Notes==
+*This card's ability applies the '''Discount Pricing''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Thieves Guild Fence Old Client.png|Old client card image
+File:LG-cardart-Thieves Guild Fence.png|Card art
+</gallery>

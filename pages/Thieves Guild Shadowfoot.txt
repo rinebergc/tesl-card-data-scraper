@@ -1,0 +1,27 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=3
+|image=LG-card-Thieves Guild Shadowfoot.png
+|power=2
+|health=2
+|rarity=Rare
+|summon=1
+|ability='''[[Legends:Summon|Summon]]:''' Steal the top card of the opponent's deck and replace it with a '''~Counterfeit Trinket~~'''.
+|steal=1
+|deckcode=qz
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=So many purses, so little time...}}
+{{Legends Audio 2|use=attack|text=Khajiit is having a good night.}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Thieves Guild Shadowfoot Old Client.png|Old client card image
+File:LG-cardart-Thieves Guild Shadowfoot.png|Card art
+</gallery>

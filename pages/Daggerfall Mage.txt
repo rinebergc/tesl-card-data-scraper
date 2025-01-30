@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Daggerfall Mage.png
+|power=2
+|health=2
+|rarity=Legendary
+|ability='''[[Legends:Ward|Ward]]'''<br>When Daggerfall Mage's Ward is broken, put a '''~Tome of Alteration~~''' into your hand.
+|ward=1
+|uniqueability=1
+|deckcode=dV
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=By the Eight, they will meet their makers!|text2=By the fires of Oblivion!}}
+{{Legends Audio 2|use=attack|text=Gall and pox!|text2=Out upon it!|text3=Sheor take you!}}
+
+==Notes==
+*The card is named for the [[Lore:High Rock|High Rock]] city of [[Lore:Daggerfall|Daggerfall]].
+
+==Gallery==
+<gallery>
+File:LG-card-Daggerfall Mage Old Client.png|Old client card image
+File:LG-card-Daggerfall Mage old.png|Early version as seen in official B-roll footage provided to media before beta
+File:LG-cardart-Daggerfall Mage.png|Card art
+</gallery>

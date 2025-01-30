@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Alliance War
+|attribute=Strength
+|cost=3
+|image=LG-card-Fighters Guild Berserker.png
+|power=4
+|health=2
+|rarity=Common
+|ability='''[[Legends:Expertise|Expertise]]:''' Deal 2 damage to your opponent.
+|expertise=1
+|deckcode=tn
+}}
+==Audio==
+{{Legends Audio 2|card=Fighters Guild Berserker|use=enter play|text=[Roar]}}
+{{Legends Audio 2|card=Fighters Guild Berserker|use=attack|text=I'll break your spirit.}}
+==Gallery==
+<gallery>
+File:LG-cardart-Fighters Guild Berserker.png|Card art
+</gallery>

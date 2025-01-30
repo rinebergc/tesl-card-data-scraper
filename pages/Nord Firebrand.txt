@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=0
+|image=LG-card-Nord Firebrand.png
+|altart=May 2019 [[Legends:Core Classic Bundle 2|Core Classic Bundle 2]]
+|power=1
+|health=1
+|rarity=Common
+|obtainable=Yes
+|ability='''[[Legends:Charge|Charge]]'''
+|charge=1
+|deckcode=lD
+|altartdeckcode=su
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Time to fight.|text2=Let's do this.}}
+{{Legends Audio 2|use=attack|text=Talos!|text2=Fires of Alduin!|text3=Attack!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Nord Firebrand.png|Card art
+File:LG-cardart-Nord Firebrand Alt.png|Alternate card art
+File:LG-cardart-67.png|Old card art
+File:LG-card-Nord Firebrand Old Client.png|Old client card image
+File:LG-card-Nord Firebrand 02.png|Early version from Gameplay Overview video
+File:LG-card-Nord Firebrand Alt.png|Alternate card
+</gallery>

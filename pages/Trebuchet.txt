@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=4
+|image=LG-card-Trebuchet.png
+|power=0
+|health=4
+|rarity=Epic
+|ability=At the start of your turn, deal 4 damage to a random enemy.
+|uniqueability=1
+|deckcode=qM
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Trebuchet Old Client.png|Old client card image
+File:LG-card-Trebuchet old.png|Early version from Gameplay Overview video. Note that it shows a ballista rather than a trebuchet.
+File:LG-cardart-Trebuchet.png|Card art
+</gallery>

@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=5
+|image=LG-card-Dren Bodyguard.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]'''
+|guard=1
+|deckcode=eV
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck, three copies in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck, and two copies in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I will protect you... for a price.}}
+{{Legends Audio 2|use=attack|text=The Dren will reward me for this.}}
+
+==Notes==
+*This card appears to depict [[Morrowind:Galos Farethi|Galos Farethi]], who appeared in ''[[Morrowind:Morrowind|Morrowind]]'' as [[Morrowind:Orvas Dren|Orvas Dren]]'s bodyguard.
+
+==Gallery==
+<gallery>
+File:LG-card-Dren Bodyguard Old Client.png|Old client card image
+File:LG-cardart-Dren Bodyguard.png|Card art
+</gallery>

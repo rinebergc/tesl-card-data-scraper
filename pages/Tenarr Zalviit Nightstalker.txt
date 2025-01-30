@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|subtype2=Vampire
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=2
+|image=LG-card-Tenarr Zalviit Nightstalker.png
+|power=3
+|health=4
+|rarity=Rare
+|ability=At the start of your turn, '''[[Legends:Consume|Consume]]''' a creature. If you can't, [[Legends:Sacrifice|sacrifice]] Tenarr Zalviit Nightstalker.
+|consume=1
+|sacrifice=1
+|deckcode=vX
+}}
+==Audio==
+{{Legends Audio 2|card=tenarr zalviit|use=enter play|text=Blood.}}
+{{Legends Audio 2|card=tenarr zalviit|use=attack|text=This one must feed.}}
+
+==Notes==
+*This card depicts a member of the [[ON:Tenarr Zalviit|Tenarr Zalviit]] vampire clan that first appeared in [[ON:Online|ESO]].
+**"Tenarr Zalviit" itself means "night stalker" in [[Lore:Ta'agra|Ta'agra]].
+==Gallery==
+<gallery>
+File:LG-cardart-Tenarr Zalviit Nightstalker.jpg|Card art
+</gallery>

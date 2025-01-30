@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Alliance War
+|attribute=Willpower
+|cost=3
+|image=LG-card-Gray Viper Brigand.png
+|power=3
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card for each Gray Viper Brigand in your discard pile.
+|summon=1
+|deckcode=uA
+}}
+==Audio==
+{{Legends Audio 2|card=Gray Viper|use=enter play|text=Your coin or your life. Choose.}}
+{{Legends Audio 2|card=Gray Viper|use=attack|text=What's yours is mine.}}
+==Gallery==
+<gallery>
+File:LG-cardart-Gray Viper Brigand.png|Card art
+</gallery>

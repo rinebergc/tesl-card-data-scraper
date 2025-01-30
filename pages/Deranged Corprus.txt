@@ -1,0 +1,32 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ash Creature
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Deranged Corprus.png
+|cost=2
+|power=0
+|health=1
+|rarity=Common
+|ability=Deranged Corprus has +5/+0 on your turn.
+|uniqueability=1
+|deckcode=eq
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=[Pant]... They're all out to get me!}}
+{{Legends Audio 2|use=attack|text=You're one of them!}}
+
+==Notes==
+*This card's ability applies the '''Unhinged''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Deranged Corprus Old Client.png|Old client card image
+File:LG-cardart-Deranged Corprus.png|Card art
+File:LG-cardart-Deranged Corprus (China).png|Chinese card art
+</gallery>

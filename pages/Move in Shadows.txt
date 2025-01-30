@@ -1,0 +1,21 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=0
+|image=LG-card-Move in Shadows.png
+|rarity=Rare
+|ability=[[LG:Move|Move]] a friendly creature. It moves again at the end of the turn.
+|move=1
+|deckcode=kW
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Move in Shadows Old Client.png|Old client card image
+File:LG-cardart-Move in Shadows.png|Card art
+</gallery>

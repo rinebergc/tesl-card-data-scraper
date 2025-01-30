@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|attribute=Endurance
+|cost=4
+|image=LG-card-Cursed Spectre.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''</br>'''[[Legends:Summon|Summon]]: [[Legends:Silence|Silence]]''' another creature.
+|prophecy=1
+|summon=1
+|silence=1
+|deckcode=dR
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck, and one copy in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Death comes to us all.|text2=The living have no place here.}}
+{{Legends Audio 2|use=attack|text=[grunt]|text2=[grunt]|text3=[grunt]}}
+
+==Notes==
+*Based on the caption on the illustrator's site, the card was originally going to be called "Faded Wraith". 
+*This card's summon ability applies the '''Spectral Curse''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Cursed Spectre Old Client.png|Old client card image
+File:LG-cardart-Cursed Spectre.png|Card art
+File:LG-cardart-Cursed Spectre 02.jpg|High-res art from illustrator site
+File:LG-cardart-Cursed Spectre (China).png|Chinese card art
+</gallery>

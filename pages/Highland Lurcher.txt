@@ -1,0 +1,20 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Lurcher
+|attribute=Agility
+|cost=6
+|image=LG-card-Highland Lurcher.png
+|power=7
+|health=5
+|rarity=Common
+|ability=
+|deckcode=ii
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Highland Lurcher Old Client.png|Old client card image
+File:LG-cardart-Highland Lurcher.png|Card art
+</gallery>

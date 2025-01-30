@@ -1,0 +1,48 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Strength
+|cost=3
+|image=LG-card-Morkul Gatekeeper.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Guard|Guard]]'''</br>'''[[Legends:Summon|Summon]]''': Give a creature +2/+0.
+|guard=1
+|prophecy=1
+|summon=1
+|altart=May 2018 [[Legends:Grand Melee|Grand Melee]]
+|deckcode=kN
+|altartdeckcode=kO
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck, and one copy in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+===Default Art===
+{{Legends Audio 2|card=Orc Gatekeeper|use=enter play|text=Close ranks! Let nothing through!|text2=Hold them back, scorch-stump it!}}
+{{Legends Audio 2|card=Orc Gatekeeper|use=attack|text=Gore and Glory!|text2=Honor and blood!|text3=I will taste blood!}}
+
+===Alternate Art===
+{{Legends Audio 2|card=Morkul Gatekeeper Alt|use=enter play|text=Let nothing through! Close ranks!}}
+{{Legends Audio 2|card=Morkul Gatekeeper Alt|use=attack|text=Blood and honor!}}
+
+==Notes==
+*The card's summon ability applies the '''Lower the Gates''' card effect.
+*An alternate-art version of the card was awarded to participants in the May 2018 [[Legends:Grand Melee|Grand Melee]].
+*The card originally did not have '''Prophecy''', but it was added in 11/2016 because Orcs were weaker compared to other races. {{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*The card is named for the [[Online:Morkul Stronghold|Morkul Stronghold]], which appeared in [[Online:Online|ESO]].
+*The card is named "Orc Gatekeeper" in the audio files.
+
+==Gallery==
+<gallery>
+File:LG-card-Morkul Gatekeeper Alt.png|Alternate card from Grand Melee
+File:LG-card-Morkul Gatekeeper Old Client.png|Old client card image
+File:LG-cardart-Morkul Gatekeeper.png|Card art
+File:LG-cardart-Morkul Gatekeeper Alt.png|Alternate art from Grand Melee
+</gallery>
+
+==References==
+<references/>

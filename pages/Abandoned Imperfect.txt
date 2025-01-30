@@ -1,0 +1,23 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Support
+|availability=Clockwork City
+|attribute=Neutral
+|cost=5
+|image=LG-card-Abandoned Imperfect.png
+|rarity=Rare
+|ability='''[[LG:Treasure Hunt|Treasure Hunt]] - Three {{LG Attribute Icon|Neutral}} cards:''' [[LG:Sacrifice|Sacrifice]] Abandoned Imperfect to summon an 8/8 '''~Awakened Imperfect~~''' with '''[[LG:Breakthrough|Breakthrough]]''' and '''[[LG:Guard|Guard]]''' to the lane of your choice.
+|treasurehunt=1
+|uses=Ongoing
+|asacrifice=1
+|deckcode=ac
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Betrayal|The Betrayal]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Betrayal.
+
+==Gallery==
+<gallery>
+File:LG-card-Abandoned Imperfect Old Client.png|Old client card image
+File:LG-cardart-Abandoned Imperfect.png|Card art
+</gallery>

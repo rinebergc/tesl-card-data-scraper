@@ -1,0 +1,22 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Intelligence
+|type=Item
+|image=LG-card-Spear of Embers.png
+|cost=5
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>+3/+3<br>Instead of [[LG:Equip|equipping]] Spear of Embers, you may throw it at an enemy creature to deal 3 damage.
+|prophecy=1
+|deckcode=oV
+}} It is available in [[Legends:Bravil|Bravil]].
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Silverhome on the Water, Back Room|Silverhome on the Water, Back Room]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Silverhome on the Water, Back Room.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Spear of Embers Old Client.png|Old client card image
+File:LG-cardart-Spear of Embers.png|Card art
+</gallery>

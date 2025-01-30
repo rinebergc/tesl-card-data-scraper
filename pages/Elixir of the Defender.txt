@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Willpower
+|cost=2
+|image=LG-card-Elixir of the Defender.png
+|uses=3
+|activate=1
+|rarity=Rare
+|ability='''[[Legends:Activate|Activate]]''': Give a friendly creature '''[[Legends:Guard|Guard]]'''.
+|aguard=1
+|deckcode=fH
+}}
+
+==Notes==
+* This card's activation applies the '''Guarding''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Elixir of the Defender Old Client.png|Old client card image
+File:LG-cardart-Elixir of the Defender.png|Card art
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Clockwork City
+|attribute=Intelligence
+|cost=1
+|image=LG-card-Scroll Seeker.png
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[LG:Ward|Ward]]'''<br>'''[[LG:Treasure Hunt|Treasure Hunt]] – Two [[LG:Actions|actions]]:''' +1/+0
+|ward=1
+|treasurehunt=1
+|deckcode=nC
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:J'Zargo (quest)|J'Zargo]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of J'Zargo.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You call it theft, I call it learning.}}
+{{Legends Audio 2|use=attack|text=I can't stand interruptions.}}
+{{Legends Audio 2|use=trigger|text=Now I understand!}}
+
+==Notes==
+*This card's Treasure Hunt applies the '''Power of Knowledge''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Scroll Seeker Old Client.png|Old client card image
+File:LG-cardart-Scroll Seeker.png|Card art
+</gallery>

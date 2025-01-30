@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Willpower
+|cost=3
+|power=4
+|health=2
+|image=LG-card-Eastmarch Crusader.png
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Draw a card if an enemy [[LG:Rune|rune]] has been destroyed this game.
+|summon=1
+|brune=1
+|deckcode=fx
+|altartdeckcode=zI
+|altart=[[Legends:Arsenal Gauntlet|Arsenal Gauntlet]] September 2020
+}}
+
+==Audio==
+{{Legends Audio 2|card=Windhelm Crusader|use=enter play|text=We'll hold no matter what|text2=Hold the line!}}
+{{Legends Audio 2|card=Windhelm Crusader|use=attack|text=Nice try.|text2=You fight like a child.|text3=Don't make me laugh.}}
+
+==Notes==
+*The card is named for the [[Lore:Skyrim|Skyrim]] region of [[Lore:Eastmarch|Eastmarch]].
+*This card is named "Windhelm Crusader" in the audio files.
+
+==Gallery==
+<gallery>
+File:LG-card-Eastmarch Crusader Old Client.png|Old client card image
+File:LG-card-Eastmarch Crusader Alt.png|Alternate card from Arsenal Gauntlet
+File:LG-cardart-Eastmarch Crusader.png|Card art
+File:LG-cardart-Eastmarch Crusader Alt.png|Alternate art from Arsenal Gauntlet
+File:LG-cardart-Eastmarch Crusader (China).png|Chinese card art
+</gallery>

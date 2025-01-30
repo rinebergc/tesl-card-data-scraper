@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|attribute=Willpower
+|cost=8
+|image=LG-card-Auroran Sentry.png
+|power=5
+|health=7
+|rarity=Legendary
+|ability='''[[Legends:Guard|Guard]]'''{{NewLeft}}When Auroran Sentry is dealt damage, you gain that much health.
+|guard=1
+|deckcode=bn
+}}
+
+==Notes==
+*[[Oblivion:Auroran|Auroran]]s first appeared in ''[[Oblivion:Oblivion|Oblivion]]''. For more information, see the [[Lore:Auroran|lore article]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Auroran Sentry Old Client.png|Old client card image
+File:LG-cardart-Auroran Sentry.png|Card art
+File:LG-cardart-Auroran Sentry 02.jpg|HD card art
+</gallery>

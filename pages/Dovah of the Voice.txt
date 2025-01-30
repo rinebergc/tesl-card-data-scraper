@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=7
+|image=LG-card-Dovah of the Voice.png
+|power=6
+|health=4
+|rarity=Common
+|ability='''[[Legends:Last Gasp|Last Gasp]]''': Put a random [[Legends:Shout|Shout]] into your hand.
+|lastgasp=1
+|deckcode=eI
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+==Notes==
+*This card was initially misspelled as "Dova" in pre-release materials.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Dovah of the Voice Old Client.png|Old client card image
+File:LG-cardart-Dovah of the Voice.png|Card art
+File:LG-cardart-Dovah Of The Voice 2.jpg|High res card art from artist
+</gallery>

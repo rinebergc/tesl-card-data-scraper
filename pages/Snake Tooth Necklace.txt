@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Agility
+|cost=2
+|image=LG-card-Snake Tooth Necklace.png
+|rarity=Rare
+|ability=+1/+1<br>'''[[Legends:Summon|Summon]]''': Give the wielder '''[[Legends:Drain|Drain]]''' this turn.
+|summon=1
+|adrain=1
+|deckcode=oG
+}}
+
+== Notes ==
+
+*Prior to January 2017, this card would give permanent [[Legends:Drain|Drain]] rather than temporary Drain. This was changed due to its ability to gain you much more health than was previously lost.{{ref|name=Jan2017|[https://legends.bethesda.net/articles/letter-from-the-devs-jan-2017 Letter from the Devs] from Bethesda.net, January 11 2017}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Snake Tooth Necklace Old Client.png|Old client card image
+File:LG-cardart-Snake Tooth Necklace.png|Card art
+</gallery>
+
+
+== References ==
+
+<references/>

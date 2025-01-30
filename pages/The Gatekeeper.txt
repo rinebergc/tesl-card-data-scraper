@@ -1,0 +1,25 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Isle of Madness
+|attribute=Endurance
+|cost=5
+|image=LG-card-The Gatekeeper.png
+|power=6
+|health=6
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Guard|Guard]]'''</br>Only one creature in this lane can attack each turn.
+|guard=1
+|uniqueability=1
+|deckcode=qo
+}}
+
+==Notes==
+*The Gatekeeper previously [[Shivering:Gatekeeper|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-The Gatekeeper.png|Card art
+</gallery>

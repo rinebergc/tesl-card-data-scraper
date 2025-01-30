@@ -1,0 +1,29 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Nix-Ox.png
+|cost=7
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Gain 5 magicka this turn.
+|summon=1
+|deckcode=lC
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck, and three copies in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Notes==
+*The card's summon ability was originally ''"Gain 6 magicka this turn"'', until this was changed in [[Legends:Patch/1.71.2|Patch 1.71.2]]
+*[[Lore:Nix-Ox|Nix-Ox]]es first [[Online:Nix-Ox|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Nix-Ox Old Client.png|Old client card image
+File:LG-cardart-Nix-Ox.png|Card art
+File:LG-cardart-Nix-Ox 02.jpg|High resolution card art
+</gallery>

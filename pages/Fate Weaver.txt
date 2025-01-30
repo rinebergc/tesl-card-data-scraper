@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nereid
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Fate Weaver.png
+|power=3
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br/>'''[[Legends:Summon|Summon]]:''' Draw a card. If it's a Prophecy, you may play it for free.
+|summon=1
+|prophecy=1
+|deckcode=ge
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=So, the stars portend!|text2=So, it has been written.}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Fate's Witness}} at level 32.
+*[[Lore:Nereid|Nereid]]s first [[ON:Nereid|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fate Weaver Old Client.png|Old client card image
+File:LG-card-Fate Weaver old.png|Early version as seen in official B-roll footage provided to media before beta
+File:LG-cardart-Fate Weaver.png|Card art
+File:LG-cardart-Fate Weaver.jpg|Higher res version of the card art from the official TES: Legends Facebook
+</gallery>

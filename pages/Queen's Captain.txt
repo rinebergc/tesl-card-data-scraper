@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=8
+|image=LG-card-Queen's Captain.png
+|power=4
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Wax|Wax]]:''' Draw two cards.<br>'''[[Legends:Wane|Wane]]:''' Destroy a creature.
+|waxwane=1
+|deckcode=wO
+|illustrator=Andrew Mar
+}}
+
+==Audio==
+{{Legends Audio 2|card=Nala-do|use=enter play|text=Nala-do will make them pay.}}
+{{Legends Audio 2|card=Nala-do|use=attack|text=Dull-clawed fool!}}
+
+==Notes==
+*The card's art depicts [[Online:Captain Nala-do|Captain Nala-do]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Queen's Captain.jpg|Card art
+</gallery>

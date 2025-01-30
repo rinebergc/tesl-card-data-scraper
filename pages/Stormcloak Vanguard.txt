@@ -1,0 +1,31 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=2
+|image=LG-card-Stormcloak Vanguard.png
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Charge|Charge]]'''<br/>'''[[Legends:Last Gasp|Last Gasp]]:''' Put a 5/5 '''~Stormcloak Battalion~~''' in your hand.
+|charge=1
+|lastgasp=1
+|deckcode=pD
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, two copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Audio==
+{{Legends Audio 2|headertext=When summoned|card=Stormcloak Guerilla|use=enter play no|text=The Nords must take back Skyrim.}}
+{{Legends Audio 2|card=Stormcloak Guerilla|use=attack|text=For Ulfric Stormcloak!}}
+
+==Notes==
+*This card depicts a member of the [[Lore:Stormcloaks|Stormcloaks]], an army led by [[Lore:Ulfric Stormcloak|Ulfric Stormcloak]].
+==Gallery==
+<gallery>
+File:LG-card-Stormcloak Vanguard Old Client.png|Old client card image
+File:LG-cardart-Stormcloak Vanguard.png|Card art
+</gallery>

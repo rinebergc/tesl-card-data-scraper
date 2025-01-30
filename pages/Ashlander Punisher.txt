@@ -1,0 +1,32 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|class=Archer
+|cost=4
+|image=LG-card-Ashlander Punisher.png
+|availability=Monthly Card
+|power=5
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br>'''[[Legends:Pilfer|Pilfer]]''' and '''[[Legends:Slay|Slay]]:''' +1/+0
+|breakthrough=1
+|pilfer=1
+|slay=1
+|deckcode=aZ
+}}
+
+==Availability==
+Ashlander Punisher was the [[Legends:Monthly Card|monthly card]] for December 2018. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Ashlander Initiate|use=enter play|text=Protect the ashkhan!}}
+{{Legends Audio 2|card=Ashlander Initiate|use=attack|text=For the ashkhan!}}
+
+==Notes==
+*This card's pilfer and slay effect apply the '''Tough Fingers''' card effect.
+*This card depicts one of the [[Lore:Ashlanders|Ashlanders]] of [[Lore:Morrowind|Morrowind]]. In the card's audio, the term "ashkan" refers to the leader of an Ashlander clan.
+==Gallery==
+<gallery>
+File:LG-cardart-Ashlander Punisher.png|Card art
+</gallery>

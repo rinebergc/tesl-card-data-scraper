@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fabricant
+|availability=Clockwork City
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Shalk Fabricant.png
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[LG:Guard|Guard]]'''<br>'''[[LG:Summon|Summon]]:''' If you have a {{LG Attribute Icon|Neutral}} card in play, put a random [[LG:Actions|action]] into your hand.
+|guard=1
+|summon=1
+|deckcode=nT
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Cogitum Centralis|Cogitum Centralis]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Cogitum Centralis.
+
+==Notes==
+*Shalk Fabricants first [[Online:Shalk Fabricant|appeared]] in [[Online:Online|ESO]], with ''[[Online:Clockwork City|Clockwork City]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Shalk Fabricant Old Client.png|Old client card image
+File:LG-cardart-Shalk Fabricant.png|Card art
+File:LG-cardart-Shalk Fabricant (China).png|Chinese card art
+</gallery>

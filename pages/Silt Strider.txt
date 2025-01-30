@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Silt Strider.png
+|cost=2
+|power=0
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Guard|Guard]]<br> [[Legends:Summon|Summon]]:''' [[Legends:Move|Move]] a friendly creature to this lane.
+|summon=1
+|prophecy=1
+|guard=1
+|move=1
+|deckcode=ok
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Silt Strider Old Client.png|Old client card image
+File:LG-cardart-Silt Strider.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

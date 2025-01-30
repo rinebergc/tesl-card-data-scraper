@@ -1,0 +1,23 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Invasion Vanguard.png
+|power=1
+|health=4
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Invade|Invade]]'''.
+|summon=1
+|invade=1
+|deckcode=xl
+}}
+==Audio==
+{{Legends Audio 2|card=valkynaz archer|use=enter play|text=You will know pain and suffering.}}
+{{Legends Audio 2|card=valkynaz archer|use=attack|text=Die, weakling!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Invasion Vanguard.png|Card art
+</gallery>

@@ -1,0 +1,29 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Jiub.png
+|cost=1
+|power=1
+|health=1
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Slay|Slay]]:''' Change into '''~Saint Jiub~Saint Jiub, Eradicator of the Winged Menace~.'''
+|slay=1
+|deckcode=jf
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I am a hunter. I am a redeemer. I am Jiub.}}
+{{Legends Audio 2|use=attack|text=I will save Morrowind.}}
+
+==Notes==
+*[[Lore:Jiub|Jiub]] first [[Morrowind:Jiub|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]''. He also [[Skyrim:Jiub|reappeared]] in ''[[Skyrim:Skyrim|Skyrim]]''{{'}}s ''[[Skyrim:Dawnguard|Dawnguard]]'' add-on.
+
+==Gallery==
+<gallery>
+File:LG-card-Jiub Old Client.png|Old client card image
+File:LG-cardart-Jiub.png|Card art
+</gallery>

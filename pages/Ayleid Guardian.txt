@@ -1,0 +1,28 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Defense
+|class=Scout
+|cost=11
+|image=LG-card-Ayleid Guardian.png
+|power=8
+|health=8
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Guard|Guard]]'''<br>Immune to '''[[Legends:Lethal|Lethal]]'''.<br>'''[[Legends:Summon|Summon]]:''' Summon an Ayleid Guardian in the other lane.
+|summon=1
+|guard=1
+|alethal=1
+|deckcode=yW
+}}
+
+==Availability==
+Ayleid Guardian was the [[Legends:Monthly Card|monthly card]] for December 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This card depicts the [[OB:Ayleid Guardian|Ayleid Guardian]]s, two animated statues which appeared in ''[[OB:Oblivion|TES IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ayleid Guardian.png|Card art
+</gallery>

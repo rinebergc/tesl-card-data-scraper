@@ -1,0 +1,25 @@
+{{Mod Header|Clockwork City}}{{Legends Card Summary
+|type=Creature
+|subtype=Factotum
+|availability=Clockwork City
+|attribute=Neutral
+|cost=6
+|image=LG-card-Assembled Titan.png
+|power=4
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Assemble|Assemble]]:''' Choose two: +2/+0, +0/+2, deal 2 damage to your opponent, or you gain 2 health.
+|assemble=1
+|unique=1
+|deckcode=bj
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Shaft of Sohleh|Shaft of Sohleh]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Shaft of Sohleh.
+
+==Gallery==
+<gallery>
+File:LG-card-Assembled Titan Old Client.png|Old client card image
+File:LG-cardart-Assembled Titan.png|Card art
+File:LG-premcard-Assembled Titan.gif|Premium card (click to view animation)
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Defense
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=3
+|image=LG-card-Prison Ship.png
+|power=0
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Shackle|Shackle]]''' an enemy creature while you have Prison Ship.
+|summon=1
+|shackle=1
+|deckcode=mq
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Prison Ship Old Client.png|Old client card image
+File:LG-cardart-Prison Ship.png|Card art
+</gallery>

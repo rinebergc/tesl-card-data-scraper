@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=8
+|image=LG-card-Swiftwing Dragon.png
+|power=5
+|health=5
+|rarity=Common
+|ability='''[[Legends:Charge|Charge]]'''
+|charge=1
+|deckcode=pW
+}}
+
+==Notes==
+*The card art depicts a [[Skyrim:Dragon#Serpentine_DragonDB|Serpentine Dragon]], which first appeared in the ''[[Skyrim:Dragonborn|Dragonborn]]'' DLC for ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Swiftwing Dragon Old Client.png|Old client card image
+File:LG-cardart-Swiftwing Dragon.png|Card art
+</gallery>

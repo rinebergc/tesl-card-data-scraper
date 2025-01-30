@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|subtype2=Vampire
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=6
+|image=LG-card-Tenarr Zalviit Lurker.png
+|power=5
+|health=6
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature. You gain health equal to its health.
+|summon=1
+|consume=1
+|deckcode=vN
+}}
+==Audio==
+{{Legends Audio 2|card=Yushiha|use=enter play|text=The Tenarr Zalviit aren't monsters.}}
+{{Legends Audio 2|card=Yushiha|use=attack|text=Don't make me hurt you.}}
+
+==Notes==
+*The card's art depicts [[Online:Yushiha|Yushiha]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Tenarr Zalviit Lurker.jpg|Card art
+</gallery>

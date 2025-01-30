@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=1
+|image=LG-card-Crown Quartermaster.png
+|altart=[[Legends:Discounted Bounty Bundle|Discounted Bounty Bundle]]
+|power=2
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Put a '''~Steel Dagger~~''' into your hand.
+|summon=1
+|deckcode=dI
+|altartdeckcode=Ag
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I keep a spare blade in my boot.|text2=This might be handy.}}
+{{Legends Audio 2|use=attack|text=I'm ready for you!|text2=Do your worst!|text3=Don't underestimate me!}}
+
+==Notes==
+*The card is named for the [[Lore:Crowns|Crown]] [[Lore:Redguard|Redguards]].
+
+==Gallery==
+<gallery>
+File:LG-card-Crown Quartermaster Old Client.png|Old client card image
+File:LG-card-Crown Quartermaster old.png|Early version from Gameplay Overview video
+File:LG-card-Crown Quartermaster Alt.png|Alternate card from Discounted Bounty Bundle
+File:LG-cardart-Crown Quartermaster.png|Card art
+File:LG-cardart-Crown Quartermaster Alt.png|Alternate art from Discounted Bounty Bundle
+</gallery>

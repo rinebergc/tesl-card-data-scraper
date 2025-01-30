@@ -1,0 +1,27 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Neutral
+|type=Support
+|image=LG-card-Flesh Sculpture.png
+|cost=3
+|rarity=Epic
+|uses=2
+|activate=1
+|ability='''[[Legends:Activate|Activate]]''': [[LG:Transform|Transform]] each card in your hand into a random card.
+|transform=1
+|deckcode=gC
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Princess Barynia|Princess Barynia]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Princess Barynia.
+
+==Notes==
+*The card's art depicts [[Skyrim:Galathil|Galathil]], a [[Lore:Flesh Sculpture|flesh sculptor]] who appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*If you activate Flesh Sculpture, it will change your in-game avatar until the end of the match.
+
+==Gallery==
+<gallery>
+File:LG-card-Flesh Sculpture Old Client.png|Old client card image
+File:LG-cardart-Flesh Sculpture.png|Card art
+</gallery>

@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=6
+|image=LG-card-Bandit Ringleader.png
+|power=3
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Other friendly creatures in this lane gain "'''[[Legends:Pilfer|Pilfer]]:''' Draw a card" this turn.
+|summon=1
+|apilfer=1
+|deckcode=bx
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Do not think this one comes alone!}}
+{{Legends Audio 2|use=attack|text=This one has you now!}}
+
+==Notes==
+*This card's summon ability applies the '''Joined the Gang''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Bandit Ringleader Old Client.png|Old client card image
+File:LG-cardart-Bandit Ringleader.png|Card art
+</gallery>

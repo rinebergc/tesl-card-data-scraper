@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Mages Guild Recruit.png
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Reduce the cost of an action in your hand by 2.
+|summon=1
+|deckcode=kc
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll learn this spell yet.}}
+{{Legends Audio 2|use=attack|text=Eureka!}}
+
+==Notes==
+This card's summon ability applies the '''Spell Mastery''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Mages Guild Recruit Old Client.png|Old client card image
+File:LG-cardart-Mages Guild Recruit.png|Card art
+</gallery>

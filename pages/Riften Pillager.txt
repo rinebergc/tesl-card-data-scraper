@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=3
+|image=LG-card-Riften Pillager.png
+|power=2
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': +1/+1 for each destroyed enemy [[LG:Rune|rune]].
+|summon=1
+|brune=1
+|deckcode=nh
+}}
+
+==Audio==
+{{Legends Audio 2|card=Eastmarch Pillager|use=enter play|text=They're bleeding! Don't let up!|text2=The day will be ours!}}
+{{Legends Audio 2|card=Eastmarch Pillager|use=attack|text=[roars]|text2=Cowardly skeevers!|text3=Spill their blood.}}
+
+==Notes==
+*This card's summon ability applies the '''Pillaging''' card effect.
+*The card is named for the [[Lore:Skyrim|Skyrim]] city of [[Lore:Riften|Riften]].
+*This card is named "Eastmarch Pillager" in the audio files.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Riften Pillager Old Client.png|Old client card image
+File:LG-cardart-Riften Pillager.png|Card art
+</gallery>

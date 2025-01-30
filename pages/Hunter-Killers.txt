@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fabricant
+|availability=Clockwork City
+|attribute=Strength
+|cost=6
+|image=LG-card-Hunter-Killers.png
+|power=3
+|health=4
+|rarity=Epic
+|ability='''[[LG:Summon|Summon]]: [[LG:Battle|Battle]]''' an enemy creature, then Battle another enemy creature.
+|summon=1
+|battle=1
+|deckcode=iw
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Shaft of Sohleh|Shaft of Sohleh]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Shaft of Sohleh.
+
+==Notes==
+*The card is based on the Hunter-Killers [[Online:Hunter-Killer Positrox|Positrox]] and [[Online:Hunter-Killer Negatrix|Negatrix]] from [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Hunter-Killers Old Client.png|Old client card image
+File:LG-cardart-Hunter-Killers.jpg|Card art
+File:LG-cardart-Hunter-Killers 02.png|Without the lightning
+</gallery>

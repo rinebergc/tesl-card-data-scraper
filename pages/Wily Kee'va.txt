@@ -1,0 +1,22 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=2
+|image=LG-card-Wily Kee'va.png
+|power=2
+|health=4
+|rarity=Common
+|ability=
+|deckcode=wc
+}}
+
+==Notes==
+*The card's art depicts the [[Lore:Terror Bird|Terror Bird]] [[Online:Wily Kee'va|Wily Kee'va]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Wily Kee'va.jpg|Card art
+</gallery>

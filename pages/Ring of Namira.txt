@@ -1,0 +1,24 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Support
+|attribute=Agility
+|cost=7
+|image=LG-card-Ring of Namira.png
+|rarity=Legendary
+|uses=Ongoing
+|ability=When you gain health, deal that much damage to your opponent.
+|unique=1
+|uniqueability=1
+|deckcode=nm
+}}
+
+==Notes==
+*The [[Lore:Ring of Namira|Ring of Namira]] is the Daedric artifact of [[Lore:Namira|Namira]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Ring of Namira Old Client.png|Old client card image
+File:LG-cardart-Ring of Namira.png|Card art
+</gallery>

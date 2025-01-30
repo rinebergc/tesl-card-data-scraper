@@ -1,0 +1,24 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Agility
+|type=Action
+|image=LG-card-Grand Ball.png
+|cost=2
+|rarity=Rare
+|ability=[[LG:Move|Move]] all friendly creatures
+|move=1
+|deckcode=hs
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Arenthil Wethrin's House|Arenthil Wethrin's House]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Arenthil Wethrin's House.
+
+==Notes==
+*Though the card art uses [[Skyrim:Dragonsreach|Dragonsreach]] as a reference point for the background, it is intended to depict a [[Lore:Breton|Breton]] gala in [[Lore:Wayrest|Wayrest]].
+
+==Gallery==
+<gallery>
+File:LG-card-Grand Ball Old Client.png|Old client card image
+File:LG-cardart-Grand Ball.png|Card art
+</gallery>

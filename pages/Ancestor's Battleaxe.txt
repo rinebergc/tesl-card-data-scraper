@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Item
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=7
+|image=LG-card-Ancestor's Battleaxe.png
+|rarity=Epic
+|ability=+4/+4{{NewLeft}}'''[[Legends:Summon|Summon]]:''' Give the top creature of your deck +4/+4.
+|summon=1
+|deckcode=aB
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+==Notes==
+* This card's summon ability applies the '''Elder Energies''' card effect.
+* The card depicts a [[Skyrim:Steel#Steel_Weapons|steel war axe]] and [[Skyrim:Iron#Iron_Armor|iron shield]] as they appear in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Ancestor's Battleaxe Old Client.png|Old client card image
+File:LG-cardart-Ancestor's Battleaxe.jpg|Card art
+File:LG-cardart-Ancestor's Battleaxe (China).png|Chinese card art
+</gallery>

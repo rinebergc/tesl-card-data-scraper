@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Strength
+|cost=3
+|image=LG-card-Battlerage Orc.png
+|altart=[[Legends:Witches Festival Card Bundle|Witches Festival Card Bundle]]
+|power=2
+|health=3
+|rarity=Common
+|ability='''[[LG:Charge|Charge]]'''
+|charge=1
+|deckcode=bH
+|altartdeckcode=zH
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck, and two copies in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'm ready for anything!|text2=The battle shall be ours.}}
+{{Legends Audio 2|use=attack|text=You can't win!|text2=Gore and glory!|text3=You're going down!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Battlerage Orc Old Client.png|Old client card image
+File:LG-cardart-Battlerage Orc.png|Card art
+File:LG-cardart-Battlerage Orc 02.jpg|Cropped version of higher resolution
+File:LG-cardart-Battlerage Orc Alt.png|Witches Festival Card Pack alternate card art
+</gallery>

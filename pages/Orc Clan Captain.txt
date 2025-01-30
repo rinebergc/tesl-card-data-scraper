@@ -1,0 +1,36 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Strength
+|cost=2
+|power=2
+|health=2
+|image=LG-card-Orc Clan Captain.png
+|rarity=Rare
+|ability=Other friendly creatures in this lane have +1/+0.
+|uniqueability=1
+|deckcode=lL
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Band of Survivors|Band of Survivors]] deck, and one copy in the [[Legends:Aela's Companions|Aela's Companions]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We stand united.|text2=Orcs at the ready!}}
+{{Legends Audio 2|use=attack|text=Snivelling coward!|text2=Come at me!|text3=Ready to die?}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Orc Clansman}} at level 12.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Orc Clan Captain Old Client.png|Old client card image
+File:LG-cardart-Orc Clan Captain.png|Card art
+File:LG-cardart-Orc Clan Captain 02.jpg|High-res card art from illustrator site
+File:LG-cardart-Orc Clan Captain 03.jpg|Cropped version of higher resolution
+File:LG-concept-Orc Clan Captain.jpg|Concept art
+File:LG-concept-Orc Clan Captain 02.jpg|Concept art
+File:LG-art-Orc Clan Captain 03.jpg|Concept art
+</gallery>

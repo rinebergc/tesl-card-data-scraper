@@ -1,0 +1,24 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|class=Archer
+|cost=5
+|image=LG-card-Duneripper.png
+|power=4
+|health=3
+|rarity=Epic
+|availability=Monthly Card
+|ability=When Duneripper enters a lane, it deals 2 damage to an enemy creature in the lane.<br>'''[[Legends:Pilfer|Pilfer]]:''' [[Legends:Move|Move]].
+|move=1
+|uniqueability=1
+|deckcode=yK
+}}
+
+==Availability==
+Duneripper was the [[Legends:Monthly Card|monthly card]] for April 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Duneripper.png|Card art
+</gallery>

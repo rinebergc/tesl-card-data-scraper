@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Strength
+|cost=3
+|image=LG-card-Euraxian Berserker.png
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature to gain +2/+0.
+|summon=1
+|consume=1
+|deckcode=we
+}}
+
+==Audio==
+{{Legends Audio 2|card=Euraxian Berserker|use=enter play|text=Here I come!}}
+{{Legends Audio 2|card=Euraxian Berserker|use= attack|text=I'll rip you apart!}}
+
+==Notes==
+*This card's consume ability applies the '''Berserker's Blood''' card effect.
+*[[ON:Euraxian Berserker|Euraxian Berserker]]s appear in [[ON:Online|ESO]] as foot soldiers of [[Legends:Euraxia Tharn|Euraxia Tharn]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Euraxian Berserker.jpg|Card art
+</gallery>

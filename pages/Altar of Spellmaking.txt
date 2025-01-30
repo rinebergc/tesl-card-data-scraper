@@ -1,0 +1,26 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|availability=Tamriel Collection
+|class=The Guildsworn
+|cost=2
+|image=LG-card-Altar of Spellmaking.png
+|power=
+|health=
+|rarity=Epic
+|ability=At the end of each turn, if you played a creature, action, item, and support, play the top card of your deck.
+|uses=Ongoing
+|deckcode=AY
+}}
+
+== Note ==
+*Playing a card using the ability of Altar of Spellmaking is mechanically and visually equivalent to playing a [[Legends:Prophecy|Prophecy]]. 
+*If the top card of your deck is a [[Legends:Double Cards|Double Card]], you will be unable to play it using Altar of Spellmaking's ability. If you attempt to play it, the card will remain stuck in its double form. It will stay on the screen the remainder of the game, visually appearing like a playable Prophecy. This behavior will also prevent you from using Altar of Spellmaking's ability again (the top card of your deck will immediately be added to your hand instead).  
+**The above can be avoided by returning the Double Card to your hand instead of attempting to play it. 
+*The card depicts an Altar of Spellmaking as they appeared in ''[[OB:Oblivion|Oblivion]]''. Specifically, this altar resembles the ones located in the [[Lore:Arcane University|Arcane University]]. The crest of the [[Lore:Mages Guild|Mages Guild]] is emblazoned on the rug beneath the altar.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Altar of Spellmaking.png|Card art
+</gallery>

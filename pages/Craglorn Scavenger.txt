@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Craglorn Scavenger.png
+|power=1
+|health=2
+|rarity=Rare
+|ability=When you play or activate a [[Legends:Support|support]], Craglorn Scavenger gains +1/+1.
+|uniqueability=1
+|aactivate=1
+|deckcode=dF
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I can find what you need.|text2=Just let me at them!}}
+{{Legends Audio 2|use=attack|text=Out of my way!|text2=You'll pay for this!|text3=Face me, coward!}}
+
+==Notes==
+*This card's ability applies the '''Scavenged Weaponry''' card effect.
+*The card is named for the [[Lore:Hammerfell|Hammerfell]] region of [[Lore:Craglorn|Craglorn]].
+
+==Gallery==
+<gallery>
+File:LG-card-Craglorn Scavenger Old Client.png|Old client card image
+File:LG-cardart-Craglorn Scavenger.png|Card art
+</gallery>

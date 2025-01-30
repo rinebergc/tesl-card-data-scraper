@@ -1,0 +1,23 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Icewing Dragon.png
+|power=6
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Shackle|Shackle]]''' an enemy creature.
+|summon=1
+|shackle=1
+|deckcode=iA
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Icewing Dragon Old Client.png|Old client card image
+File:LG-cardart-Icewing Dragon.png|Card art
+</gallery>

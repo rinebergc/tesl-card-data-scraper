@@ -1,0 +1,27 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=4
+|image=LG-card-Black Soul Gem.png
+|altart=[[Legends:Legendary Pauper Gauntlet|Legendary Pauper Gauntlet]] November 2021
+|rarity=Epic
+|ability=When a friendly creature dies, give a random creature in your hand +1/+1.
+|uses=Ongoing
+|deckcode=yk
+|altartdeckcode=Am
+}}
+
+==Notes==
+*This card's ability applies the '''Stolen Life''' card effect.
+*The [[LG:Legendary Pauper Gauntlet|Legendary Pauper Gauntlet]] than ran from November 19-22, 2021 rewarded up to three [[Legends:Premium|premium]] alternate art Black Soul Gem cards, one for each run entered.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Black Soul Gem.png|Card art
+File:LG-cardart-Black Soul Gem Alt.png|Alternate card art from Legendary Pauper Gauntlet
+File:LG-card-Black Soul Gem Alt.png|Alternate art card
+File:LG-card-Black Soul Gem Alt Premium.png|Alternate art card (premium)
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|class=House Redoran
+|cost=4
+|image=LG-card-Inspiring Kinsman.png
+|power=3
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Rally|Rally 2]]<br>[[Legends:Last Gasp|Last Gasp]]:''' Give a random creature in your hand +2/+2.
+|rally=1
+|lastgasp=1
+|deckcode=iX
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Our glory will live on forever.}}
+{{Legends Audio 2|use=attack|text=I will die for what's right.}}
+
+==Notes==
+*This card's last gasp ability applies the '''Kinship''' card effect.
+* The card's art depicts [[MW:Theldyn Virith|Theldyn Virith]], a [[MW:House Redoran|Redoran]] scout and quest giver in ''[[MW:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Inspiring Kinsman Old Client.png|Old client card image
+File:LG-cardart-Inspiring Kinsman.png|Card art
+</gallery>

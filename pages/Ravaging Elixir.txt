@@ -1,0 +1,17 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|attribute=Intelligence
+|cost=1
+|image=LG-card-Ravaging Elixir.png
+|rarity=Rare
+|uses=3
+|ability='''[[Legends:Activate|Activate]]:''' Deal 1 damage to your opponent.
+|activate=1
+|deckcode=tS
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Ravaging Elixir.png|Card art
+</gallery>

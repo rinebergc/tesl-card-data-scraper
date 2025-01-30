@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=5
+|image=LG-card-Light of the Three.png
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Exalt|Exalt 2]]:''' Give other friendly creatures in this lane +2/+2.
+|exalt=1
+|deckcode=jG
+|illustrator=Anastasia Ovchinnikova
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The Almsivi provide for all dunmer.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=Receive the favor of the Almsivi}}
+{{Legends Audio 2|use=attack|text=Show some respect!}}
+
+==Notes==
+*This card's exalt ability applies the '''Evangelized''' card effect.
+*The name of this card refers to the [[Lore:Gods T#Tribunal|Tribunal]]. The Palace of [[Lore:Vivec|Vivec]], which was located in the [[Lore:Vivec City|city]] of the same name, can be seen in the background of the card art.
+==Gallery==
+<gallery>
+File:LG-card-Light of the Three Old Client.png|Old client card image
+File:LG-cardart-Light of the Three.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=2
+|image=LG-card-Bloody Hand Chef.png
+|power=2
+|health=2
+|rarity=Legendary
+|ability=When you reduce an enemy creature's power or health with an effect, Bloody Hand Chef gains that much power or health.
+|deckcode=yl
+}}
+
+==Notes==
+*Bloody Hand Chef also [[Oblivion:Goblins#Bloody_Hand_Chef|appeared]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Bloody Hand Chef.png|Card art
+</gallery>

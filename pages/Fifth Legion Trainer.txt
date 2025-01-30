@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=2
+|image=LG-card-Fifth Legion Trainer.png
+|power=1
+|health=3
+|rarity=Rare
+|ability=When you summon another creature, give it +1/+0.
+|uniqueability=1
+|deckcode=gp
+}}__NOTOC__ It applies the "'''Fifth Legion Training'''" [[Legends:Card Effects|card effect]] to cards summoned while its effect is active.
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck, and two copies in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll whip them into shape.|text2=Training is over. It's time to act.}}
+{{Legends Audio 2|use=attack|text=You fight like a child!|text2=You can't defeat me!|text3=I'll see you dead!}}
+
+==Notes==
+*This card's ability applies the '''Fifth Legion Training''' card effect.
+*The card is named for the [[Lore:Fifth Legion|Fifth Legion]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fifth Legion Trainer Old Client.png|Old client card image
+File:LG-cardart-Fifth Legion Trainer.png|Card art
+</gallery>

@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Strength
+|cost=2
+|power=4
+|health=1
+|image=LG-card-Graystone Ravager.png
+|rarity=Common
+|ability='''[[LG:Prophecy|Prophecy]]'''
+|prophecy=1
+|deckcode=hw
+|altartdeckcode=Aa
+|altart=[[Legends:Ulfric Stormcloak's Gauntlet|Ulfric Stormcloak's Gauntlet]] May 2020
+}}
+
+==Audio==
+{{Legends Audio 2|card=Orsinium Skirmisher|use=enter play|text=Killing you will make an excellent story.|text2=I smell fresh meat.}}
+{{Legends Audio 2|card=Orsinium Skirmisher|use=attack|text=I'll cripple you!|text2=By the first forge!|text3=Meet your death!}}
+
+==Notes==
+*This card is named for [[Online:Graystone Quarry|Graystone Quarry]], which appeared in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Graystone Ravager Old Client.png|Old client card image
+File:LG-cardart-Graystone Ravager.png|Card art
+File:LG-card-Graystone Ravager Alt.png|Alternate card from Ulfric Stormcloak's Gauntlet
+File:LG-cardart-Graystone Ravager Alt.png|Alternate card art
+</gallery>

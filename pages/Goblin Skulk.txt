@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|attribute=Agility
+|cost=3
+|image=LG-card-Goblin Skulk.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Pilfer|Pilfer]]''': Draw a random 0-cost card from your deck.
+|pilfer=1
+|deckcode=hl
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck, and two copies in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Gallery==
+<gallery>
+File:LG-card-Goblin Skulk Old Client.png|Old client card image
+File:LG-cardart-Goblin Skulk.png|Card art
+File:LG-cardart-Goblin Skulk (China).png|Chinese card art
+</gallery>

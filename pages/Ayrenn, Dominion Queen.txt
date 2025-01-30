@@ -1,0 +1,29 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Alliance War
+|class=Aldmeri Dominion
+|cost=8
+|image=LG-card-Ayrenn, Dominion Queen.png
+|power=6
+|health=6
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Drain|Drain]]'''<br>'''[[Legends:Summon|Summon]]:''' Draw a random [[Legends:Actions|action]] from your discard pile.<br>When you draw an action on your turn, deal 1 damage to your opponent.
+|drain=1
+|summon=1
+|uniqueability=1
+|deckcode=sx
+}}
+==Audio==
+{{Legends Audio 2|card=Ayrenn, Dominion Queen|use=enter play|text=The rightful ruler of all Tamriel has arrived.}}
+{{Legends Audio 2|card=Ayrenn, Dominion Queen|use=attack|text=Ancestors guide my blade!}}
+==Notes==
+*This card depicts [[Lore:Ayrenn|Queen Ayrenn]] of [[Lore:Alinor (city)|Alinor]], the leader of the [[Lore:Aldmeri Dominion|Aldmeri Dominion]] during the [[Lore:Alliance War|Alliance War]], who first [[Online:Queen Ayrenn|appeared]] in [[Online:Online|ESO]]. The setting appears to be the receiving area of [[Online:Skywatch Manor|Skywatch Manor]], and she is wielding a [[:File:ON-item-weapon-Aldmeri Dominion Greatsword.jpg|two-handed sword]], despite usually carrying a one-handed sword.
+*Ayrenn is depicted in two other cards: {{Card|Ayrenn}} and {{Card|Wish}}.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ayrenn, Dominion Queen.jpg|Card art
+</gallery>

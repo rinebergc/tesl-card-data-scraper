@@ -1,0 +1,28 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Alliance War
+|attribute=Agility
+|cost=1
+|image=LG-card-Dominion Oathman.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a...<br>{{LG Attribute Icon|Willpower}} card in play, '''[[Legends:Drain|Drain]]'''.<br>{{LG Attribute Icon|Intelligence}} card in play, deal 2 damage to your opponent.
+|summon=1
+|adrain=1
+|deckcode=sU
+}}
+
+==Audio==
+{{Legends Audio 2|card=Grand Warlord Sorcalin|use=enter play|text=Our foes will have nightmares about me.}}
+{{Legends Audio 2|card=Grand Warlord Sorcalin|use=attack|text=Blood and faith!}}
+==Notes==
+*The card's art depicts [[Online:Grand Warlord Sorcalin|Grand Warlord Sorcalin]], who first appeared in ESO.
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dominion Oathman.png|Card art
+</gallery>

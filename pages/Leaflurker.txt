@@ -1,0 +1,42 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|attribute=Agility
+|cost=5
+|image=LG-card-Leaflurker.png
+|altart=[[Legends:New Life Festival Pack|New Life Festival Pack]] 2017
+|power=4
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Destroy a '''[[Legends:Wounded|Wounded]]''' creature.
+|summon=1
+|awounded=1
+|deckcode=jy
+|altartdeckcode=jz
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck. One copy is also obtainable in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck as a reward from [[LG:A Knife in the Dark|A Knife in the Dark]]. One copy is also obtainable in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck as a reward from [[LG:A Knife in the Dark|A Knife in the Dark]].
+
+==Audio==
+===Default Art===
+{{Legends Audio 2|use=enter play|text=Aha!|text2=The forest is my cloak.}}
+{{Legends Audio 2|use=attack|text=You're finished!|text2=Dumac take you!|text3=I have you now.}}
+
+===Alternate Art===
+{{Legends Audio 2|headertext=When summoned|use=alt enter play|text=The forest is my cloak.}}
+{{Legends Audio 2|headertext=When attacking|use=alt attack|text=Dumac take you!}}
+
+==Notes==
+*An alternate-art version of the card was available in the 2017 [[Legends:New Life Festival Pack|New Life Festival Pack]].
+*The alternate-art version of the card has female rather than male audio.
+
+==Gallery==
+<gallery>
+File:LG-card-Leaflurker Old Client.png|Old client card image
+File:LG-card-Leaflurker Alt.png|Alternative card from the New Life Festival promo
+File:LG-cardart-Leaflurker.png|Card art
+File:LG-cardart-Leaflurker Alt.png|Alternative art from the New Life Festival promo
+File:LG-cardart-Leaflurker Alt 2.jpg|High res New Life Festival art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Grummite
+|availability=Isle of Madness
+|attribute=Agility
+|cost=10
+|image=LG-card-Hulking Scalon.png
+|power=10
+|health=10
+|rarity=Epic
+|ability=Immune to '''[[Legends:Lethal|Lethal]]'''.</br>Immune to '''[[Legends:Shackle|Shackle]]'''.</br>Your opponent can't target Hulking Scalon with actions.
+|alethal=1
+|aschackle=1
+|uniqueability=1
+|deckcode=iv
+}}
+
+==Notes==
+*Hulking Scalons previously [[Shivering:Hulking Scalon|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+*Searching for a card named Bigfrog or Big Frog will result in this card. This is a reference to a member of the Tes Legends community named Ianbits
+
+==Gallery==
+<gallery>
+File:LG-cardart-Hulking Scalon.png|Card art
+</gallery>

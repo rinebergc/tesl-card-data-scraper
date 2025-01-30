@@ -1,0 +1,28 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ash Creature
+|availability=Houses of Morrowind
+|attribute=Strength
+|cost=5
+|image=LG-card-Servant of Dagoth.png
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a creature with 5 power or more, +2/+2 and '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=nK
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Notes==
+*This card's summon ability applies the '''Strength of Dagoth''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Servant of Dagoth Old Client.png|Old client card image
+File:LG-cardart-Servant of Dagoth.png|Card art
+</gallery>

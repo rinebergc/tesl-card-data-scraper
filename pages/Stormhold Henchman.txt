@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Endurance
+|cost=2
+|image=LG-card-Stormhold Henchman.png
+|power=2
+|health=2
+|rarity=Common
+|ability=+2/+2 while you have 7 or more max [[LG:Magicka|magicka]].
+|uniqueability=1
+|deckcode=pE
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Blood on the waters.|text2=I will make a river of your blood.}}
+{{Legends Audio 2|use=attack|text=Die, smooth-skin.|text2=Sithis take you!|text3=Mud and mayhem!}}
+
+==Notes==
+*This card's ability applies the '''Well-Paid''' card effect.
+*The card is named for the [[Lore:Black Marsh|Black Marsh]] city of [[Lore:Stormhold|Stormhold]].
+
+==Gallery==
+<gallery>
+File:LG-card-Stormhold Henchman Old Client.png|Old client card image
+File:LG-card-Stormhold Henchman old.png|Early version from PAX East 2016 Developer Gameplay video
+File:LG-cardart-Stormhold Henchman.png|Card art
+</gallery>

@@ -1,0 +1,19 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=3
+|image=LG-card-Thievery.png
+|rarity=Common
+|ability=Deal 3 damage to your opponent and gain 3 health.
+|deckcode=qw
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Thievery Old Client.png|Old client card image
+File:LG-cardart-Thievery.png|Card art
+</gallery>

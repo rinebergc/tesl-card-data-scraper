@@ -1,0 +1,24 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Isle of Madness
+|attribute=Strength
+|cost=3
+|image=LG-card-Bedeviling Scamp.png
+|power=3
+|health=3
+|rarity=Common
+|ability=All cards cost a minimum of 3.
+|uniqueability=1
+|deckcode=bJ
+}}
+
+==Notes==
+*Bedeviling Scamp only affects cards in hand and play.
+*The effect is applied last, after all other cost changing effects.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Bedeviling Scamp.png|Card art
+</gallery>

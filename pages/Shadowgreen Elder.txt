@@ -1,0 +1,26 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spriggan
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=7
+|image=LG-card-Shadowgreen Elder.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Give other friendly [[Legends:Spriggan|Spriggans]] and '''[[LG:Creatures#Animal|Animals]]''' +2/+2.
+|summon=1
+|deckcode=nO
+}}
+
+==Notes==
+*This card's summon ability applies the '''Elder's Gift''' card effect.
+*This card is named after [[Skyrim:Shadowgreen Cavern|Shadowgreen Cavern]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Shadowgreen Elder Old Client.png|Old client card image
+File:LG-cardart-Shadowgreen Elder.png|Card art
+</gallery>

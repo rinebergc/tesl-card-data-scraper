@@ -1,0 +1,22 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Attuned Dremora.png
+|power=4
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Gain all '''[[Legends:Keywords|Keywords]]''' friendly creatures have.
+|summon=1
+|deckcode=yD
+}}
+==Audio==
+{{Legends Audio 2|card=kynval mage|use=enter play|text=No match at all for me.}}
+{{Legends Audio 2|card=kynval mage|use=attack|text=Feel... my... might!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Attuned Dremora.png|Card art
+</gallery>

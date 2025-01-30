@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=5
+|image=LG-card-Markarth Bannerman.png
+|power=4
+|health=4
+|rarity=Epic
+|ability=When Markarth Bannerman attacks, put two 1/1 '''~Nord Firebrand~Nord Firebrands~''' with '''[[Legends:Charge|Charge]]''' into your hand.
+|uniqueability=1
+|deckcode=kj
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Follow me, men!}}
+{{Legends Audio 2|use=attack|text=Ysgramor!}}
+
+==Notes==
+*The card is named for the [[Lore:Skyrim|Skyrim]] city of [[Lore:Markarth|Markarth]].
+
+==Gallery==
+<gallery>
+File:LG-card-Markarth Bannerman Old Client.png|Old client card image
+File:LG-cardart-Markarth Bannerman.png|Card art
+</gallery>

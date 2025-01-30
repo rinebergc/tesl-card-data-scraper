@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wraith
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Ice Wraith.png
+|power=2
+|health=2
+|rarity=Epic
+|ability=At the start of your turn, put an '''~Ice Spike~~''' into your hand.
+|uniqueability=1
+|deckcode=iz
+}}
+
+==Notes==
+*The card depicts and is named for ''[[Skyrim:Skyrim|Skyrim]]'''s [[Skyrim:Ice Wraith|Ice Wraith]]s.
+
+==Gallery==
+<gallery>
+File:LG-card-Ice Wraith Old Client.png|Old client card image
+File:LG-cardart-Ice Wraith.png|Card art
+</gallery>

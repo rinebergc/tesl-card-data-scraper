@@ -1,0 +1,22 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Jaws of Oblivion
+|attribute=Willpower
+|cost=0
+|image=LG-card-Clannfear Runt.png
+|power=1
+|health=3
+|rarity=Common
+|ability=
+|deckcode=xQ
+}}
+
+==Notes==
+*This card depicts [[Online:Kvatch|Kvatch]]. The castle looks as it appears in [[Online:Online|ESO]], the other buildings however use [[Skyrim:Whiterun|Whiterun]] assets from ''[[Skyrim:Skyrim|Skyrim]]'' and Colovian assets from ESO.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Clannfear Runt.png|Card art
+</gallery>

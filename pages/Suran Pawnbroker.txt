@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Suran Pawnbroker.png
+|cost=2
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Plot|Plot]]:''' Put a random 0-cost card into your hand.
+|plot=1
+|deckcode=pT
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Have business with House Hlaalu?}}
+{{Legends Audio 2|use=attack|text=My business is none of theirs!}}
+
+==Notes==
+*The card depicts [[MW:Ravoso Aryon|Ravoso Aryon]], who was the resident pawnbroker in [[MW:Suran|Suran]] in ''[[MW:Morrowind|Morrowind]]''. Her summoned line references her membership of [[MW:House Hlaalu|House Hlaalu]].
+
+==Gallery==
+<gallery>
+File:LG-card-Suran Pawnbroker Old Client.png|Old client card image
+File:LG-cardart-Suran Pawnbroker.png|Card art
+</gallery>

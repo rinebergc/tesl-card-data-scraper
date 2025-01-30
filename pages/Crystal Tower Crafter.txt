@@ -1,0 +1,37 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Crystal Tower Crafter.png
+|power=1
+|health=1
+|rarity=Common
+|ability=After you play an [[LG:Actions|action]], Crystal Tower Crafter gains +1/+1.
+|uniqueability=1
+|deckcode=dO
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck, and two copies in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Shall we begin?|text2=This won't take long.}}
+{{Legends Audio 2|use=attack|text=There's more to come.|text2=I've got you now!|text3=You won't survive THIS!}}
+
+== Notes ==
+*This card's ability applies the '''Secrets Unlocked''' card effect.
+*The card is named for the [[Lore:Crystal Tower|Crystal Tower]].
+*Prior to January 2017, this card was of 2/2 power and health. It was changed due to its tendency to gain too much power and health.{{ref|name=Jan2017|[https://legends.bethesda.net/articles/letter-from-the-devs-jan-2017 Letter from the Devs] from Bethesda.net, January 11 2017}}
+
+==Gallery==
+<gallery>
+File:LG-card-Crystal Tower Crafter Old Client.png|Old client card image
+File:LG-card-Crystal Tower Crafter old.png|Version prior to late Sept 2016
+File:LG-cardart-Crystal Tower Crafter.png|Card art
+File:LG-cardart-Crystal Tower Crafter (old).png|Old art
+</gallery>
+
+==References==
+<references/>

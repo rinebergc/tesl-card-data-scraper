@@ -1,0 +1,28 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Willpower
+|cost=3
+|image=LG-card-Renowned Instructor.png
+|power=3
+|health=4
+|rarity=Common
+|ability='''[[Legends:Expertise|Expertise]]:''' Summon a 1/1 '''~Recruit~~'''.
+|expertise=1
+|deckcode=ud
+}}
+
+==Audio==
+{{Legends Audio 2|card=Renowned Instructor|use=enter play|text=Step and strike. Good, you are getting there.}}
+{{Legends Audio 2|card=Renowned Instructor|use=attack|text=Here, watch and learn.}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:Nord|Nords]].
+*The banners in the background bear the device of the [[Lore:Fighters Guild|Fighters Guild]], specifically the rendition that [[ON:Fighters Guild|appeared]] in [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Renowned Instructor.png|Card art
+</gallery>

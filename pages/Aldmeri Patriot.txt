@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|image=LG-card-Aldmeri Patriot.png
+|cost=1
+|power=1
+|health=2
+|ability='''[[Legends:Summon|Summon]]''': +1/+1 if you have an [[LG:Actions|action]] in your hand.
+|attribute=Willpower
+|rarity=Rare
+|summon=1
+|deckcode=am
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play fail|text=Let my aim be true!}}
+{{Legends Audio 2|use=enter play success|text=I have an extra quiver, thank the Eight.}}
+{{Legends Audio 2|use=attack|text=That's close enough.|text2=Your death will be auspicious.|text3=Your breath shall join the winds.}}
+
+==Notes==
+* This card's summon ability applies the '''Aldmeri Strength''' card effect.
+* This card is named after the [[Lore:Aldmeri Dominion|Aldmeri Dominion]], and depicts an Altmer with High Elf-style medium armor and weapons as they [[Online:High Elf Style|appear]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Aldmeri Patriot Old Client.png|Old client card image
+File:LG-cardart-Aldmeri Patriot.png|Card art
+</gallery>

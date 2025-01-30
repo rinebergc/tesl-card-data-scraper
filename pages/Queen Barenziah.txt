@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|class=Assassin
+|cost=4
+|image=LG-card-Queen Barenziah.png
+|power=6
+|health=3
+|unique=Yes
+|rarity=Legendary
+|ability='''[[Legends:Drain|Drain]]'''<br>'''[[Legends:Summon|Summon]]''': Give all other friendly creatures in this lane '''[[Legends:Guard|Guard]]'''.
+|drain=1
+|summon=1
+|aguard=1
+|deckcode=mx
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I am the queen mother. Attend me!|text2=Approach, and be recognized.|text3=Time to make more enemies.|text4=Guards, to me!}}
+{{Legends Audio 2|use=attack|text=Must I do everything myself?|text2=You are full of surprises.|text3=We are not amused.}}
+
+==Notes==
+*This card's summon ability applies the '''Honor Guard''' card effect.
+*She is depicted with pink eyes similar to her granddaughter, [[Skyrim:Karliah|Karliah]], who possesses purple eyes.
+*[[Daggerfall:Barenziah|Barenziah]] first appeared in ''[[Daggerfall:Daggerfall|Daggerfall]]'', and later [[Tribunal:Barenziah|reappeared]] in ''[[Tribunal:Tribunal|Tribunal]]''. For historical information about Barenziah, see the [[Lore:Barenziah|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Queen Barenziah Old Client.png|Old client card image
+File:LG-cardart-Queen Barenziah.png|Card art
+File:LG-cardart-Queen Barenziah 02.jpg|HD card art
+</gallery>

@@ -1,0 +1,18 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Jaws of Oblivion
+|attribute=Neutral
+|cost=0
+|image=LG-card-Oblivion Invasion.png
+|rarity=Common
+|ability='''[[Legends:Invade|Invade]]'''.
+|invade=1
+|deckcode=xq
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Oblivion Invasion.png|Card art
+</gallery>

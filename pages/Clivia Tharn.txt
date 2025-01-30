@@ -1,0 +1,31 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|class=The Empire of Cyrodiil
+|cost=6
+|image=LG-card-Clivia Tharn.png
+|power=4
+|health=4
+|rarity=Legendary
+|ability=Other friendly creatures in this lane have '''[[Legends:Guard|Guard]]'''. At the end of your turn, summon a 1/1 '''~Recruit~~''' in each lane.
+|uniqueability=1
+|aguard=1
+|unique=1
+|deckcode=sI
+}}
+
+==Audio==
+{{Legends Audio 2|card=Clivia Tharn|use=enter play|text=I'll not bow to these provincial militia.}}
+{{Legends Audio 2|card=Clivia Tharn|use=attack|text=You will know your place.}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:Imperial|Imperials]].
+*The card's art depicts [[Online:Clivia Tharn|Clivia Tharn]], who first appeared in [[Online:Online|ESO]].
+*There's also an action card depicting Clivia, named {{Card|Strategic Deployment}}.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Clivia Tharn.png|Card art
+</gallery>

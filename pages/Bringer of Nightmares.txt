@@ -1,0 +1,34 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=7
+|image=LG-card-Bringer of Nightmares.png
+|power=4
+|health=4
+|rarity=Legendary
+|obtainable=Yes
+|ability='''[[Legends:Summon|Summon]]:''' See a vision of a random creature, then you must choose a creature to [[LG:Transform|transform]] into it.
+|summon=1
+|transform=1
+|deckcode=ct
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I will rend your flesh!}}
+{{Legends Audio 2|use=attack|text=Sing me your pain!}}
+
+==Notes==
+*You can not cancel the effect. If the time runs out, Bringer of Nightmares itself will transform into the shown creature.
+*Prior to July 2017 and Update 65.2, the card had a cost of 6. This was changed due to its ''"variable output"'' at 6 magicka.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*This card depicts the [[Lore:Skull of Corruption|Skull of Corruption]].
+
+==Gallery==
+<gallery>
+File:LG-card-Bringer of Nightmares Old Client.png|Old client card image
+File:LG-cardart-Bringer of Nightmares.png|Card art
+File:LG-cardart-Bringer of Nightmares 02.jpg|Higher-res card art from illustrator
+</gallery>

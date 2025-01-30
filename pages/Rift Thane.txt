@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|class=Crusader
+|cost=2
+|image=LG-card-Rift Thane.png
+|power=2
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''': If you have less health than your opponent, +0/+2 and '''[[Legends:Guard|Guard]]'''. Otherwise, +2/+0 and '''[[Legends:Breakthrough|Breakthrough]]'''.
+|summon=1
+|abreakthrough=1
+|aguard=1
+|deckcode=ne
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|headertext=When summoned (guard applied)|use=enter play guard|text=They will not get past me.}}
+{{Legends Audio 2|headertext=When summoned (breakthrough applied)|use=enter play breakthrough|text=I will push them back.}}
+{{Legends Audio 2|use=attack|text=For the Rift!|text2=Kill them all!|text3=Death to the enemy!}}
+
+==Notes==
+*This card's summon ability applies the '''To Arms!''' card effect.
+*The card is named for the [[Lore:Skyrim|Skyrim]] region of [[Lore:The Rift|The Rift]].
+
+==Gallery==
+<gallery>
+File:LG-card-Rift Thane Old Client.png|Old client card image
+File:LG-cardart-Rift Thane.png|Card art
+</gallery>

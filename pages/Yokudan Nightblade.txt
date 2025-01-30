@@ -1,0 +1,31 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Intelligence
+|cost=1
+|power=1
+|health=4
+|image=LG-card-Yokudan Nightblade.png
+|rarity=Epic
+|availability=Monthly Card
+|ability=Friendly equipped creatures are Immune to '''[[Legends:Silence|Silence]]'''.
+|deckcode=zD
+|asilence=1
+|aequip=1
+}}
+
+==Availability==
+Yokudan Nightblade was the [[Legends:Monthly Card|monthly card]] for December 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Redguard Nightblade|use=enter play|text=Just a little closer.}}
+{{Legends Audio 2|card=Redguard Nightblade|use=attack|text=Have at you!}}
+
+==Notes==
+*This card is named for [[Lore:Yokuda|Yokuda]], the ancestral home of the [[Lore:Redguard|Redguards]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Yokudan Nightblade.png|Card art
+</gallery>

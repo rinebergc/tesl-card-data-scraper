@@ -1,0 +1,28 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|subtype2=Giant
+|availability=Alliance War
+|attribute=Strength
+|cost=6
+|image=LG-card-Lyris Titanborn.png
+|power=5
+|health=5
+|rarity=Legendary
+|ability=At the start of your turn, deal damage to your opponent destroying their front [[Legends:Runes|rune]].
+|uniqueability=1
+|deckcode=tB
+|unique=1
+}}
+==Audio==
+{{Legends Audio 2|card=Lyris Titanborn|use=enter play|text=I'll fight to my last breath.}}
+{{Legends Audio 2|card=Lyris Titanborn|use=attack|text=I'll strike you down.}}
+
+==Notes==
+*The card depicts [[Lore:Lyris Titanborn|Lyris Titanborn]], who first [[ON:Lyris Titanborn|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Lyris Titanborn.png|Card art
+</gallery>

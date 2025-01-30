@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Action
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Revealing the Unseen.png
+|rarity=Rare
+|ability=Put two random [[LG:Actions|actions]] into your hand.
+|deckcode=nb
+|altartdeckcode=Al
+|altart=[[LG:Tri-Color Gauntlet|Tri-Color Gauntlet]] April 2022
+}}
+
+==Notes==
+*This card shares its name with a [[Skyrim:Revealing the Unseen|quest]] from the [[Skyrim:College of Winterhold (faction)|College of Winterhold]] questline in ''[[Skyrim:Skyrim|Skyrim]]''. 
+
+==Gallery==
+
+<gallery>
+File:LG-card-Revealing the Unseen Old Client.png|Old client card image
+File:LG-card-Revealing the Unseen Alt.png|Alternate card
+File:LG-cardart-Revealing the Unseen.png|Card art
+File:LG-cardart-Revealing the Unseen Alt.png|Alternate art
+</gallery>

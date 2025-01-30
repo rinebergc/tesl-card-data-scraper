@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Dres Tormentor.png
+|power=3
+|health=4
+|rarity=Rare
+|ability=When an enemy creature becomes '''[[Legends:Shackle|Shackled]]''', deal 3 damage to it.
+|uniqueability=1
+|ashackle=1
+|deckcode=eZ
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Get back to work!|text2=I'm a slaver. We're not known for our patience.}}
+{{Legends Audio 2|use=attack|text=Back in line!|text2=Your death will be painful.|text3=You can't defeat me!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Dres Guard}} at level 16.
+*The card is named for [[Lore:House Dres|House Dres]].
+
+==Gallery==
+<gallery>
+File:LG-card-Dres Tormentor Old Client.png|Old client card image
+File:LG-cardart-Dres Tormentor.png|Card art
+</gallery>

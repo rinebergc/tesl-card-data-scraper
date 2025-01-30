@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Item
+|availability=Alliance War
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Lion Guard Armaments.png
+|rarity=Common
+|ability='''[[Legends:Mobilize|Mobilize]]'''<br>+3/+4
+|mobilize=1
+|deckcode=tF
+}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is a [[Legends:Redguard|Redguard]].
+*The name of the card refers to the [[Lore:Lion Guard|Lion Guard]], an elite group of warriors who served as the personal guard of [[Lore:Emeric|King Emeric]] of [[Lore:Wayrest|Wayrest]], the leader of the [[Lore:Daggerfall Covenant|Daggerfall Covenant]] during the [[Lore:Alliance War|Alliance War]]. The Lion Guard first appeared in [[Online:Online|ESO]]. 
+*The armor itself depicts the [[Online:Daggerfall Covenant Style|armor style]] of the Daggerfall Covenant.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Lion Guard Armaments.png|Card art
+</gallery>

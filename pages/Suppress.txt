@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Endurance
+|cost=0
+|image=LG-card-Suppress.png
+|rarity=Rare
+|ability='''[[Legends:Silence|Silence]]''' a creature.
+|silence=1
+|altart=[[Legends:Gauntlet of Chaos|Gauntlet of Chaos]] December 2021
+|deckcode=pR
+|altartdeckcode=zf
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck. One copy is also obtainable in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck as a reward from [[LG:Broadsides|Broadsides]].
+
+==Notes==
+*This card's ability applies the '''Suppressed''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Suppress Old Client.png|Old client card image
+File:LG-card-Suppress Alt.png|Alternate card from Gauntlet of Chaos
+File:LG-cardart-Suppress.png|Card art
+File:LG-cardart-Suppress Alt.png|Alternate card art from Gauntlet of Chaos
+</gallery>

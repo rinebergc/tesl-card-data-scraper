@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Black Worm Neophyte.png
+|power=4
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature. Summon a 1/1 '''~Skeleton~~''' with its '''[[Legends:Keywords|Keywords]]'''.
+|consume=1
+|summon=1
+|deckcode=vP
+}}
+
+==Audio==
+{{Legends Audio 2|card=Apprentice Necro|use=enter play|text=Hear my command and rise.}}
+{{Legends Audio 2|card=Apprentice Necro|use=attack|text=Molag Bal will have your soul!}}
+
+==Notes==
+*This card's consume ability applies the '''Worm's Thrall''' card effect to the Skeleton.
+*The name of this card refers to the [[Lore:Order of the Black Worm|Order of the Black Worm]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Black Worm Neophyte.jpg|Card art
+</gallery>

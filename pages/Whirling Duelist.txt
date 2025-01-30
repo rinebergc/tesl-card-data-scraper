@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Strength
+|cost=6
+|image=LG-card-Whirling Duelist.png
+|power=5
+|health=5
+|rarity=Epic
+|ability=When Whirling Duelist [[LG:Equip|equips]] an [[LG:Items|item]], deal 1 damage to all enemy creatures in this lane.
+|uniqueability=1
+|deckcode=rH
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Ruptga guides my hand.|text2=You venture into shifting sands!}}
+{{Legends Audio 2|use=attack|text=By my father's head!|text2=Blade's edge!|text3=Time to die, hero.}}
+{{Legends Audio 2|use=trigger|text2=By Onsi's bright blade!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Whirling Duelist Old Client.png|Old client card image
+File:LG-cardart-Whirling Duelist.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=2
+|image=LG-card-Slinking Jackal.png
+|power=4
+|health=2
+|rarity=Common
+|ability=
+|deckcode=wd
+}}
+
+==Notes==
+*[[ON:Jackal|Jackal]]s previously appeared in [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Slinking Jackal.jpg|Card art
+</gallery>

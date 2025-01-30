@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Strength
+|cost=3
+|image=LG-card-Fearless Northlander.png
+|power=2
+|health=5
+|rarity=Epic
+|ability='''[[LG:Breakthrough|Breakthrough]]'''<br>When Fearless Northlander takes damage, he gains +2/+0.
+|breakthrough=1
+|uniqueability=1
+|deckcode=gg
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll take the vanguard!|text2=For the North!}}
+{{Legends Audio 2|use=attack|text=Die, scum!|text2=Worthless Skeever!|text3=Your life is forfeit.}}
+{{Legends Audio|use=hit|text=I've had worse!}}
+
+==Notes==
+*This card's ability applies the '''Battle Frenzy''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Fearless Northlander Old Client.png|Old client card image
+File:LG-cardart-Fearless Northlander.png|Card art
+</gallery>

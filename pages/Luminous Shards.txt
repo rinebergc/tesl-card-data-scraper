@@ -1,0 +1,16 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Willpower
+|cost=3
+|image=LG-card-Luminous Shards.png
+|rarity=Common
+|ability=Destroy a creature with '''1''' power or less.<br>'''[[Legends:Empower|Empower]]:''' +1 power.
+|empower=1
+|deckcode=sT
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Luminous Shards.png|Card art
+</gallery>

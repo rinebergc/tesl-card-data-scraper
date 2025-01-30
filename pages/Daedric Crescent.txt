@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Item
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Daedric Crescent.png
+|cost=3
+|rarity=Common
+|ability=+2/+2<br>'''[[Legends:Slay|Slay]]:''' +1/+1
+|slay=1
+|deckcode=dT
+}}
+
+{{NewLeft}}
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Notes==
+*The Daedric Crescent weapon previously appeared in ''[[Battlespire:Battlespire|Battlespire]]'', and later as an obtainable [[Morrowind:Daedric Crescent|weapon]] in [[Morrowind:Morrowind|''TES III: Morrowind'']]. For lore information, see [[Lore:Daedric Crescent|this page]].
+
+== Gallery ==
+<gallery>
+File:LG-card-Daedric Crescent Old Client.png|Old client card image
+File:LG-cardart-Daedric Crescent.png|Card art
+File:LG-cardart-Daedric Crescent 02.jpg|High resolution card art
+</gallery>

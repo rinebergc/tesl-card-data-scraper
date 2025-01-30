@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Agility
+|cost=3
+|image=LG-card-Feasting Vulture.png
+|power=3
+|health=2
+|rarity=Rare
+|ability='''[[LG:Summon|Summon]]''': +2/+2 if a creature died this turn.
+|summon=1
+|deckcode=gi
+}}
+
+==Notes==
+*The card's summon ability applies the '''Carrion''' card effect.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Feasting Vulture Old Client.png|Old client card image
+File:LG-cardart-Feasting Vulture.png|Card art
+File:LG-cardart-Feasting Vulture 02.jpg|High-res card art from illustrator site
+File:LG-cardart-Feasting Vulture (China).png|Chinese card art
+</gallery>

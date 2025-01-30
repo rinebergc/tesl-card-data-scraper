@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|class=Mage
+|cost=6
+|power=4
+|health=4
+|image=LG-card-Skywatch Vindicator.png
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''': Deal 2 damage to an enemy creature or give a friendly creature +2/+2.
+|summon=1
+|deckcode=oB
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The battle awaits!|text2=Their deaths await.}}
+{{Legends Audio 2|use=attack|text=By the firmament, I will end you!|text2=Your time has come!|text3=Annihilation!}}
+
+==Notes==
+*The card is named for the [[Lore:Summerset Isles|Summerset]] city of [[Lore:Skywatch|Skywatch]].
+
+==Gallery==
+<gallery>
+File:LG-card-Skywatch Vindicator Old Client.png|Old client card image
+File:LG-cardart-Skywatch Vindicator.jpg|Full art
+</gallery>

@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=5
+|image=LG-card-Hero of Anvil.png
+|power=4
+|health=4
+|rarity=Epic
+|ability=Hero of Anvil costs 1 less for each creature summoned this turn.
+|uniqueability=1
+|deckcode=ic
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Take heart, soldiers.|text2=On my mark.}}
+{{Legends Audio 2|use=attack|text=Strike hard!|text2=For blood and honor!|text3=Forward!}}
+
+==Notes==
+*The card is named for the [[Lore:Cyrodiil|Cyrodilic]] city of [[Lore:Anvil|Anvil]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Hero of Anvil Old Client.png|Old client card image
+File:LG-cardart-Hero of Anvil.png|Card art
+</gallery>

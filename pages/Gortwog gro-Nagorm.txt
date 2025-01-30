@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|class=Warrior
+|cost=6
+|image=LG-card-Gortwog gro-Nagorm.png
+|power=4
+|health=6
+|unique=Yes
+|rarity=Legendary
+|ability=At the start of your turn, summon a random creature from your deck to a random [[LG:Lanes|lane]].
+|deckcode=hq
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Now, see how an Orc lord fights!|text2=For the glory of the Orsimer!}}
+{{Legends Audio 2|use=attack|text=I'll shatter your bones!|text2=Steel and stone!|text3=Fall before me!}}
+
+==Notes==
+*[[Daggerfall:Gortwog|Gortwog]] first appeared in ''[[Daggerfall:Daggerfall|Daggerfall]]''. For more information, see the [[Lore:Gortwog gro-Nagorm|lore article]].
+*Using Gortwog gro-Nagorm contributes towards "The King of Orsinium" [[LG:Titles|title]].
+
+==Gallery==
+<gallery>
+File:LG-card-Gortwog gro-Nagorm Old Client.png|Old client card image
+File:LG-cardart-Gortwog gro-Nagorm.png|Card art
+</gallery>

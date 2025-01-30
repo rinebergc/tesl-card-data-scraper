@@ -1,0 +1,27 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Willpower
+|type=Creature
+|subtype=Imperial
+|image=LG-card-Marked Man.png
+|cost=1
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Put a 0/2 '''~Makeshift Defenses~~''' with '''[[Legends:Guard|Guard]]''' into your hand.
+|deckcode=kk
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Grave Concoctions|Grave Concoctions]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Grave Concoctions.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Wait! Did you hear that?}}
+{{Legends Audio 2|use=attack|text=I'll take them with me!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Marked Man Old Client.png|Old client card image
+File:LG-cardart-Marked Man.png|Card art
+</gallery>

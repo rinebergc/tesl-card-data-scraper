@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|attribute=Willpower
+|cost=2
+|image=LG-card-Ravenous Hunger.png
+|power=4
+|health=1
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Gains '''[[Legends:Drain|Drain]]''' if there is an enemy creature in this lane.
+|summon=1
+|adrain=1
+|deckcode=mJ
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Starved Hunger}} at level 48.
+*This card's summon ability applies the '''Hungry''' card effect.
+*The card depicts and is named for the Daedric [[Lore:Hunger|Hunger]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ravenous Hunger Old Client.png|Old client card image
+File:LG-cardart-Ravenous Hunger.png|Card art
+File:LG-cardart-Ravenous Hunger (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|class=Assassin
+|cost=4
+|image=LG-card-Sadras Agent.png
+|power=4
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''</br>'''[[Legends:Last Gasp|Last Gasp]]''': Summon a 2/1 '''~Mournhold Guardian~~''' with '''[[Legends:Guard|Guard]]'''.
+|guard=1
+|lastgasp=1
+|deckcode=nu
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We'll stand together!|text2=To me.}}
+{{Legends Audio 2|use=attack|text=Attack!|text2=Take arms!|text3=Your death will be swift.}}
+{{Legends Audio 2|use=last gasp|text=This is... your battle... now.|text2=Avenge... me!}}
+
+==Notes==
+*The card is named for [[Lore:House Sadras|House Sadras]], one of the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]].
+
+==Gallery==
+<gallery>
+File:LG-card-Sadras Agent Old Client.png|Old client card image
+File:LG-cardart-Sadras Agent.png|Card art
+</gallery>

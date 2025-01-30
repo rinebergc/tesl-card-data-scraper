@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Gentleman Jim Stacey.png
+|cost=7
+|power=5
+|health=4
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Your opponent chooses a card in their hand and gives it to you.
+|summon=1
+|deckcode=gX
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Some thieves have manners.}}
+{{Legends Audio 2|use=attack|text=I said: good day!}}
+
+==Notes==
+*If your opponent fails to choose a card from multiple options, you will receive the most recently drawn.
+*Gentleman Jim Stacey first [[Morrowind:Gentleman Jim Stacey|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Gentleman Jim Stacey Old Client.png|Old client card image
+File:LG-cardart-Gentleman Jim Stacey.png|Card art
+File:LG-cardart-Gentleman Jim Stacey.jpg|Larger version from the official TES: Legends Facebook page
+</gallery>

@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Neutral
+|cost=5
+|image=LG-card-Battle of Chalman Keep.png
+|rarity=Legendary
+|unique=1
+|ability=Each player fills each lane with 1/1 '''~Recruit~Recruits~'''.<br>Give all creatures '''[[Legends:Guard|Guard]]'''.
+|aguard=1
+|deckcode=sB
+}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are random for each lane.
+*This card applies the '''Battle Ready''' card effect.
+*This card is a reference to the book [[Lore:Those Who Stood at Chalman Keep|''Those Who Stood at Chalman Keep'']], which describes a [[Online:Abbreviations and Terms#PvP|PvP]] battle that took place at [[ON:Chalman Keep|Chalman Keep]] during the [[ON:Beta|beta]] for [[ON:Online|ESO]]. The card art depicts a group of [[Legends:Daggerfall Covenant|Daggerfall Covenant]] soldiers holding the keep against two enemy armies from the opposing alliances. For more information, see the [[Lore:Fort Chalman|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Battle of Chalman Keep.png|Card art
+</gallery>

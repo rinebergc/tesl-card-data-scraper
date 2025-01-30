@@ -1,0 +1,21 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Strength
+|cost=3
+|type=Item
+|image=LG-card-Quicksilver Crossbow.png
+|ability=+1/+1<br>'''[[Legends:Summon|Summon]]''': The wielder deals 1 damage.
+|rarity=Common
+|availability=Dark Brotherhood
+|deckcode=my
+}} It is available in [[Legends:Falkreath|Falkreath]].
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Falkreath Jail|Falkreath Jail]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Falkreath Jail.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Quicksilver Crossbow Old Client.png|Old client card image
+File:LG-cardart-Quicksilver Crossbow.png|Card art
+</gallery>

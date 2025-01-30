@@ -1,0 +1,30 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|attribute=Neutral
+|cost=1
+|image=LG-card-Skooma Cat's Whimsy.png
+|rarity=Epic
+|availability=Monthly Card
+|uses=Ongoing
+|ability=Your cards that didn't start in your deck cost 1 less.
+|deckcode=yN
+}}
+
+The following cards will have their cost reduced:
+*[[Legends:Created Cards|Created]] Cards
+*[[Legends:Double Cards|Double]] Cards
+*[[Legends:Steal|Stolen]] Cards
+*[[Legends:Transform|Transformed]] Cards
+
+[[Legends:Change|Changed]] cards and cards with [[Legends:Beast Form|Beast Form]] will not have their cost reduced, as they are still considered the same card.
+
+==Availability==
+Skooma Cat's Whimsy was the [[Legends:Monthly Card|monthly card]] for August 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This card depicts the Skooma Cat, [[Lore:Sheogorath|Sheogorath's]] [[Lore:Alfiq|Alfiq]] form, as he [[ON:Skooma Cat|appeared]] in [[ON:Online|ESO]].
+==Gallery==
+<gallery>
+File:LG-cardart-Skooma Cat's Whimsy.jpg|Card art
+</gallery>

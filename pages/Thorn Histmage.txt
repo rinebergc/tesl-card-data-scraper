@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|class=Scout
+|cost=5
+|image=LG-card-Thorn Histmage.png
+|power=2
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Gain +1 max [[LG:Magicka|magicka]].<br>Gains +1/+0 when your max magicka increases.
+|summon=1
+|guard=1
+|uniqueability=1
+|deckcode=qB
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The Hist provides.|text2=Feel the power within you.}}
+{{Legends Audio 2|use=attack|text=Thorns and claws!|text2=By the power of the Hist!|text3=Scaleless coward!}}
+
+==Notes==
+*The card's health was formerly 5. This was decreased in [[Legends:Patch/1.69.0|Patch 1.69.0]].
+*The card's ability applies the '''Magicka Rising''' card effect.
+*The card is named for the [[Lore:Black Marsh|Black Marsh]] city of [[Lore:Thorn|Thorn]].
+
+==Gallery==
+<gallery>
+File:LG-card-Thorn Histmage Old Client.png|Old client card image
+File:LG-cardart-Thorn Histmage.png|Card art
+</gallery>

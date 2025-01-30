@@ -1,0 +1,24 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Factotum
+|availability=Clockwork City
+|attribute=Neutral
+|cost=2
+|image=LG-card-Reflective Automaton.png
+|power=2
+|health=3
+|rarity=Common
+|ability=Reflective Automaton has all creature types.
+|uniqueability=1
+|deckcode=mT
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Ventral Terminus|The Ventral Terminus]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Ventral Terminus.
+
+==Gallery==
+<gallery>
+File:LG-card-Reflective Automaton Old Client.png|Old client card image
+File:LG-cardart-Reflective Automaton.png|Card art
+</gallery>

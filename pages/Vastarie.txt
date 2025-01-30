@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Vastarie.png
+|power=1
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Fill this lane with 1/1 '''~Skeleton~Skeletons~'''.<br>Vastarie has +1/+0 for each friendly [[Legends:Spirit|Spirit]] and [[Legends:Skeleton (subtype)|Skeleton]].
+|unique=1
+|summon=1
+|uniqueability=1
+|deckcode=wQ
+}}
+
+==Audio==
+{{Legends Audio 2|card=Vastarie|use=enter play|text=Haven't you ever met a lich before?}}
+{{Legends Audio 2|card=Vastarie|use=attack|text=By Azura's light.}}
+
+==Notes==
+*Vastarie is a powerful lich who [[ON:Vastarie|first appeared]] in [[ON:Online|ESO]]. The other lich in the background resembles the generic [[OB:lich|lich]] enemies encountered in [[OB:Oblivion|''TES IV: Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Vastarie.jpg|Card art
+</gallery>

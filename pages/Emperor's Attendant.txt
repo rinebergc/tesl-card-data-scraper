@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=2
+|image=LG-card-Emperor's Attendant.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Give a creature in your hand power and health equal to Emperor's Attendant's power.
+|summon=1
+|deckcode=yF
+}}
+
+==Audio==
+==Audio==
+{{Legends Audio 2|card=Baurus|use=enter play|text=We will protect the emperor or die trying.}}
+{{Legends Audio 2|card=Baurus|use=attack|text=Stay out of my way!}}
+
+==Notes==
+*This card is based on [[OB:Baurus|Baurus]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''. The corpse lying at his feet is that of a member of the [[Lore:Mythic Dawn|Mythic Dawn]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Emperor's Attendant.png|Card art
+</gallery>

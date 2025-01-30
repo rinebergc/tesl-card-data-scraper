@@ -1,0 +1,18 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Jaws of Oblivion
+|attribute=Strength
+|cost=3
+|image=LG-card-Daedric Incursion.png
+|rarity=Common
+|ability=Draw a random [[Legends:Daedra|Daedra]] from your deck.<br>'''[[Legends:Invade|Invade]]'''.
+|invade=1
+|deckcode=xr
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Daedric Incursion.png|Card art
+</gallery>

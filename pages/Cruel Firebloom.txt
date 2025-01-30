@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Intelligence
+|cost=0
+|image=LG-card-Cruel Firebloom.png
+|rarity=Rare
+|ability=[[LG:Sacrifice|Sacrifice]] a creature to deal 5 damage to a random enemy creature
+|asacrifice=1
+|deckcode=dK
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck, two copies in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck, and one copy in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+
+==Gallery==
+<gallery>
+File:LG-card-Cruel Firebloom Old Client.png|Old client card image
+File:LG-cardart-Cruel Firebloom.png|Card art
+File:LG-cardart-Cruel Firebloom 02.png|Larger, cropped
+File:LG-cardart-Cruel Firebloom 03.png|Cropped version of higher resolution
+</gallery>

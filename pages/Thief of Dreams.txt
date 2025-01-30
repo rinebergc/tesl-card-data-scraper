@@ -1,0 +1,34 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Thief of Dreams.png
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' See a vision of two of your opponent's cards. Guess which one is in their hand. If you're right, draw a [[LG:Copy|copy]] of it.
+|summon=1
+|copy=1
+|deckcode=qv
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play no|text=Ah... It seems Khajiit was outwitted.}}
+{{Legends Audio 2|use=enter play yes|text=This one will be taking that.}}
+{{Legends Audio 2|use=attack|text=No catching this one!}}
+
+==Notes==
+*The card's power and health were previously 5, until these were decreased in [[Legends:Patch/1.66.1|Patch 1.66.1]].
+
+==Gallery==
+<gallery>
+File:LG-card-Thief of Dreams Old Client.png|Old client card image
+File:LG-cardart-Thief of Dreams.png|Card art
+File:LG-cardart-Thief of Dreams 2.jpg|High resolution card art from artist
+</gallery>

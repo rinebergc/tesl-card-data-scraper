@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|cost=7
+|image=LG-card-Bone Colossus.png
+|power=5
+|health=5
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': Fill this lane with 1/1 '''~Skeleton~Skeletons~'''.<br>Other friendly [[Legends:Skeleton (subtype)|Skeletons]] have +1/+1.
+|summon=1
+|uniqueability=1
+|deckcode=cm
+}}
+
+==Notes==
+*[[Online:Bone Colossus|Bone Colossi]] first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Bone Colossus Old Client.png|Old client card image
+File:LG-cardart-Bone Colossus.png|Card art from game
+File:LG-cardart-Bone Colossus 02.jpg|Card art from official site; higher res and different shading
+File:LG-cardart-Bone Colossus 03.jpg|Cropped version of higher resolution
+File:LG-cardart-Bone Colossus (China).png|Chinese card art
+</gallery>

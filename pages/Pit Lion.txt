@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Willpower
+|cost=3
+|image=LG-card-Pit Lion.png
+|power=5
+|health=5
+|rarity=Epic
+|ability=Pit Lion can't be played unless there's a friendly creature in each [[LG:Lanes|lane]].
+|uniqueability=1
+|deckcode=me
+}}
+
+==Notes==
+*Each Pit Lion summoned contributes towards the "''Lions tamed''" [[Legends:Statistics|statistic]].
+
+==Gallery==
+<gallery>
+File:LG-card-Pit Lion Old Client.png|Old client card image
+File:LG-cardart-Pit Lion.png|Card art
+</gallery>

@@ -1,0 +1,30 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Neutral
+|cost=4
+|image=LG-card-Cadwell the Betrayer.png
+|power=3
+|health=5
+|rarity=Legendary
+|unique=1
+|ability=Cadwell the Betrayer can attack you.
+|uniqueability=1
+|double={{Card|Cadwell the Soul Shriven}}
+|deckcode=wY
+}}
+
+==Audio==
+{{Legends Audio 2|card=Evil Cadwell|use=enter play|text=Oh, how I've longed to kill again.}}
+{{Legends Audio 2|card=Evil Cadwell|use=attack|text=I'll slaughter you.}}
+
+==Notes==
+*Though the card states that his race is Imperial, he is actually a [[Lore:Nede|Nede]].
+*[[Lore:Cadwell|Cadwell the Betrayer]] first [[ON:Cadwell the Betrayer (person)|appeared]] in [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Cadwell the Betrayer.jpg|Card art
+</gallery>

@@ -1,0 +1,35 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=3
+|image=LG-card-Unrelenting Force.png
+|rarity=Common
+|obtainable=Yes
+|shout=1
+|unsummon=1
+|ability='''''Level 1''''': '''[[LG:Unsummon|Unsummon]]''' an enemy creature with power 3 or less.</br>'''''Level 2''''': '''Unsummon''' an enemy creature.</br>'''''Level 3''''': '''Unsummon''' all enemy creatures in a lane.
+|deckcode=ri
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+
+==Audio==
+{{Legends Audio|headertext=Level 1|creature=shout|use=01|text=Fus!}}
+{{Legends Audio|headertext=Level 2|creature=shout|use=02|text=Fus Ro!}}
+{{Legends Audio|headertext=Level 3|creature=shout|use=03|text=Fus Ro Dah!}}
+
+==Notes==
+*The card is based on [[Skyrim:Unrelenting Force|Unrelenting Force]], a [[Skyrim:Dragon Shouts|Dragon Shout]] which first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Unrelenting Force Old Client.png|Old client card image
+File:LG-card-Unrelenting Force 02 Old Client.png|Level 2
+File:LG-card-Unrelenting Force 03 Old Client.png|Level 3
+File:LG-cardart-Unrelenting Force.png|Card art
+File:LG-cardart-Unrelenting Force 02.jpg|High-res card art by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]]
+File:LG-cardart-Unrelenting Force (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=3
+|image=LG-card-Outland Patrol.png
+|power=3
+|health=4
+|rarity=Common
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Give a random creature in your hand +1/+1.
+|lastgasp=1
+|deckcode=yi
+}}
+
+==Audio==
+{{Legends Audio 2|card=Solitude Watchman|use=enter play|text=I'll let nothing get by.}}
+{{Legends Audio 2|card=Solitude Watchman|use=attack|text=My orders are clear.}}
+
+==Notes==
+*This card's ability applies the '''Forewarned''' card effect.
+*This card depicts a member of the [[Lore:Imperial Legion|Imperial Legion]] wearing [[SR:Specialty_Gear#Studded_Imperial_Armor|studded Imperial armor]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Outland Patrol.png|Card art
+</gallery>

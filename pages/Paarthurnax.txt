@@ -1,0 +1,37 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=12
+|image=LG-card-Paarthurnax.png
+|power=9
+|health=9
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Put three random [[Legends:Shouts|Shouts]] into your hand and reduce their costs to 0.
+|summon=1
+|deckcode=lR
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Drem Yol Lok. Greetings.}}
+{{Legends Audio 2|use=attack|text=Yol Toor Shul!}}
+
+==Notes==
+*The card's summon ability applies the '''Way of the Voice''' card effect
+*[[Skyrim:Paarthurnax (dragon)|Paarthurnax]] first appeared in [[Skyrim:Skyrim|Skyrim]]. For more information on Paarthurnax, see the [[Lore:Paarthurnax|lore article]].
+*''"Drem Yol Lok. Greetings."'' is Paarthurnax's usual greeting in Skyrim, and the part of it in Draconic translates to "peace fire sky".
+*''"Yol Toor Shul"'' is the [[Skyrim:Dragon Shouts|shout]] for Fire Breath.
+
+==Gallery==
+<gallery>
+File:LG-card-Paarthurnax Old Client.png|Old client card image
+File:LG-cardart-Paarthurnax.png|Card art
+File:LG-cardart-Paarthurnax 2.jpg|High resolution
+File:LG-premcard-Paarthurnax.gif|Premium card (click to view animation)
+</gallery>

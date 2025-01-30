@@ -1,0 +1,28 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Isle of Madness
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Manic Jack.png
+|power=3
+|health=3
+|rarity=Common
+|ability=When Manic Jack gains a '''[[Legends:Keyword|Keyword]]''', he gains +1/+1.
+|uniqueability=1
+|double={{Card|Manic Mutation}}
+|deckcode=kg
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Behold! My magnificent monster.}}
+{{Legends Audio 2|use=attack|text=Let's do the fishstick.}}
+
+==Notes==
+*This card's ability applies the '''All Trades''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Manic Jack.png|Card art
+</gallery>

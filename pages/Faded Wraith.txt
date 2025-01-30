@@ -1,0 +1,20 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=5
+|image=LG-card-Faded Wraith.png
+|power=1
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Draw cards equal to Faded Wraith's power.
+|summon=1
+|deckcode=yz
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Faded Wraith.png|Card art
+</gallery>

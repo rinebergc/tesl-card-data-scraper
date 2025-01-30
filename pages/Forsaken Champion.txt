@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reachman
+|availability=Madhouse Collection
+|attribute=Neutral
+|cost=5
+|image=LG-card-Forsaken Champion.png
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Choose a friendly creature.<br>Friendly creatures of the chosen type have +1/+1.
+|summon=1
+|deckcode=gE
+}}
+
+==Audio==
+{{Legends Audio 2|card=frenzied witchman|use=enter play|text=For the Reach, let us stand together!|text2=Blood and briar.}}
+{{Legends Audio 2|card=frenzied witchman|use=attack|text=For the Reach!|text2=Today you die!|text3=Back where you came from!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Forsaken Champion Old Client.png|Old client card image
+File:LG-cardart-Forsaken Champion.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Mystic Dragon.png
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''
+|prophecy=1
+|deckcode=lj
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Mystic Dragon Old Client.png|Old client card image
+File:LG-cardart-Mystic Dragon.png|Card art
+</gallery>

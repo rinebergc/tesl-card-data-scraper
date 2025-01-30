@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Dark Rift.png
+|power=
+|health=
+|rarity=Epic
+|uses=5
+|activate=1
+|ability='''[[LG:Activate|Activate]]''': Deal 1 damage to your opponent. If Dark Rift has dealt 5 damage, [[LG:Sacrifice|sacrifice]] it to summon a '''~Storm Atronach~~'''.
+|asacrifice=1
+|deckcode=eg
+}}
+
+==Notes==
+*The card originally had a cost of 2 prior to the open beta period as seen in prerelease materials.
+
+==Gallery==
+<gallery>
+File:LG-card-Dark Rift Old Client.png|Old client card image
+File:LG-cardart-Dark Rift.png|Card art
+</gallery>

@@ -1,0 +1,17 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Item
+|availability=Isle of Madness
+|attribute=Strength
+|cost=1
+|image=LG-card-Dagger.png
+|rarity=Common
+|ability=+2/+0
+|double={{Card|Cloak}}
+|deckcode=dl
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dagger.png|Card art
+</gallery>

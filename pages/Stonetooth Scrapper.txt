@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Endurance
+|cost=4
+|image=LG-card-Stonetooth Scrapper.png
+|altart=[[Legends:Starter Pack|Starter Pack]]
+|power=4
+|health=5
+|rarity=Common
+|ability=
+|deckcode=pz
+|altartdeckcode=pA
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Who's causing trouble?|text2=There is nothing here for them but pain.}}
+{{Legends Audio 2|use=attack|text=Mauloch guide me!|text2=Face me, coward!|text3=Your blood will spill.}}
+
+==Notes==
+*An alternate art version of this card is available in the [[LG:Starter Pack|Starter Pack]].
+*The card is named for the [[Legends:Orc|Orc]]s from the {{Lore Link|Stonetooth Fortress}} of [[Lore:Betony|Betony]].
+*The card's alternate art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Stonetooth Scrapper Old Client.png|Old client card image
+File:LG-card-Stonetooth Scrapper Alt.png|Alternate card from the Starter Pack
+File:LG-cardart-Stonetooth Scrapper.png|Card art
+File:LG-cardart-Stonetooth Scrapper 05.jpg|Larger, cropped
+File:LG-cardart-Stonetooth Scrapper 04.jpg|Cropped version of higher resolution
+File:LG-cardart-Stonetooth Scrapper Alt.png|Alternate art from the Starter Pack
+File:LG-cardart-Stonetooth Scrapper 03.jpg|High-res alternate art from illustrator site
+</gallery>

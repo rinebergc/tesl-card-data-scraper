@@ -1,0 +1,37 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Conjuration Tutor.png
+|power=3
+|health=3
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Summon|Summon]]:''' Shuffle three '''~Lava Atronach~Lava Atronachs~''' into your deck.</br>When you summon an [[Legends:Atronach|Atronach]], summon a [[LG:Copy|copy]] of it in the other [[LG:Lanes|lane]].
+|summon=1
+|uniqueability=1
+|copy=1
+|deckcode=dw
+}}__NOTOC__
+
+==Availability==
+Conjuration Tutor was the [[Legends:Monthly Card|monthly card]] for June 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards before February 2019, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=A Conjuration mage never stands alone.}}
+{{Legends Audio 2|use=attack|text=Let's begin the lesson!}}
+
+== Notes ==
+*The card depicts [[Skyrim:Phinis Gestor|Phinis Gestor]], the conjuration tutor at the [[Lore:College of Winterhold|College of Winterhold]] in [[Skyrim:Skyrim|Skyrim]].
+*Prior to [[Legends:Patch/1.67.0|Patch 1.67.0]], the card was using the following audio from {{Card|Breton Conjurer}}:
+:'''When summoned:''' ''"My friend would like a word with them."''
+:'''When attacking:''' ''"You're mine now."''
+
+==Gallery==
+<gallery>
+File:LG-card-Conjuration Tutor Old Client.png|Old client card image
+File:LG-cardart-Conjuration Tutor.jpg|Card art
+File:LG-cardart-Conjuration Tutor 02.jpg|Cropped version of larger resolution
+</gallery>

@@ -1,0 +1,19 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Willpower
+|cost=1
+|image=LG-card-Outflank.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>Give a friendly creature in each lane +0/+2 and '''[[Legends:Guard|Guard]]'''.
+|prophecy=1
+|aguard=1
+|deckcode=tL
+}}
+==Notes==
+*This card applies the '''Closing In''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Outflank.png|Card art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Alliance War
+|attribute=Endurance
+|cost=3
+|image=LG-card-Steel-Eyed Visionary.png
+|power=2
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Veteran|Veteran]]:''' Set each friendly creature's power equal to its health.
+|veteran=1
+|deckcode=tp
+}}
+==Audio==
+{{Legends Audio 2|card=Steel-Eyed Visionary|use=enter play|text=Hmmm, does war truly make a person stronger?}}
+{{Legends Audio 2|card=Steel-Eyed Visionary|use=attack|text=Let's teach these dry-skins a lesson.}}
+==Notes==
+*The card depicts [[Online:Eyes-of-Steel|Eyes-of-Steel]], who first appeared in [[Online:Online|ESO]].
+*This card's veteran ability applies the '''Veteran Strategist''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Steel-Eyed Visionary.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Mudcrab
+|cost=1
+|attribute=Neutral
+|image=LG-card-Enraged Mudcrab.png
+|power=2
+|health=1
+|rarity=Common
+|deckcode=fT
+}}
+
+==Notes==
+*In previous ''Elder Scrolls'' games, [[Lore:Mudcrab|Mudcrabs]] were "horrible creatures, with no redeeming qualities".
+
+==Gallery==
+
+<gallery>
+File:LG-card-Enraged Mudcrab Old Client.png|Old client card image
+File:LG-cardart-Enraged Mudcrab.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=3
+|image=LG-card-Unicorn.png
+|power=2
+|health=3
+|rarity=Legendary
+|ability=Friendly creatures in this lane with less power than Unicorn have '''[[Legends:Charge|Charge]]'''.
+|acharge=1
+|deckcode=xX
+}}
+
+==Notes==
+*A unicorn, the last surviving member of its race, was encountered as the target of [[Oblivion:Hircine|Hircine's quest]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''. Another unicorn [[SR:Unicorn|appeared]] in the [[SR:Wild Horses|Wild Horses]] [[SR:Creation Club|Creation]] for ''[[SR:Skyrim|The Elder Scrolls V: Skyrim]] [[SR:Special Edition|Special Edition]]'' as a result of the [[Lore:Psijic Order|Psijic Order]]'s [[SR:Wild Horses|intervention]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Unicorn.png|Card art
+File:LG-cardart-Unicorn 02.jpg|HD card art banner
+</gallery>

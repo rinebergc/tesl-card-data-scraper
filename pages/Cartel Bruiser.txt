@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=5
+|image=LG-card-Cartel Bruiser.png
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Pilfer|Pilfer]]:''' +2/+2
+|pilfer=1
+|deckcode=vC
+}}
+
+==Audio==
+{{Legends Audio 2|card=Akumjhargo|use=enter play|text=If you want to live, you'll move along, yes?}}
+{{Legends Audio 2|card=Akumjhargo|use=attack|text=You don't scare Khajiit!}}
+
+==Notes==
+*This card's pilfer ability applies the '''Brutal Theft''' card effect.
+*The card's art depicts [[Online:Akumjhargo|Akumjhargo]] who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Cartel Bruiser.jpg|Card art
+</gallery>

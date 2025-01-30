@@ -1,0 +1,19 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=10
+|image=LG-card-Forces of Destruction.png
+|rarity=Legendary
+|ability='''[[Legends:Invade|Invade]]''', then summon random Daedra with total cost 10.
+|invade=1
+|deckcode=yI
+}}
+
+==Notes==
+*This card depicts a [[Lore:Dremora|Dremora]] accompanied by a [[Lore:Clannfear|clannfear]] and a [[Lore:Scamp|scamp]]. An Oblivion Gate, a portal to the [[Lore:Deadlands|Deadlands]], can be seen in the background.
+==Gallery==
+<gallery>
+File:LG-cardart-Forces of Destruction.png|Card art
+</gallery>

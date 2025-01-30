@@ -1,0 +1,17 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|attribute=Strength
+|cost=5
+|image=LG-card-Orsinium Forge.png
+|rarity=Legendary
+|ability='''Activate:''' Equip a creature with a +1/+1 '''~Orsinium Plate~~'''. Then increase the power and health of Orsinium Plates this equips by 1.
+|uses=3
+|deckcode=tK
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Orsinium Forge.png|Card art
+</gallery>

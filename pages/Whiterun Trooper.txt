@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Basic Card
+|attribute=Strength
+|cost=4
+|image=LG-card-Whiterun Trooper.png
+|power=6
+|health=2
+|rarity=Common
+|ability=
+|deckcode=rK
+}}
+
+==Availability==
+Two copies are included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll man the wall.|text2=If I die, I'll take some with me!}}
+{{Legends Audio 2|use=attack|text=Trolls take you!|text2=Weakling skeever!|text3=Not in my city!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Whiterun Recruit}} at level 3.
+*The card is named for the [[Lore:Skyrim|Skyrim]] city of [[Lore:Whiterun|Whiterun]].
+
+==Gallery==
+<gallery>
+File:LG-card-Whiterun Trooper Old Client.png|Old client card image
+File:LG-card-Whiterun Trooper old.png|Early version from Gameplay Overview video with slightly rotated art
+File:LG-cardart-Whiterun Trooper.png|Card art
+</gallery>

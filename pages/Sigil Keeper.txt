@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Jaws of Oblivion
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Sigil Keeper.png
+|power=3
+|health=4
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' '''[[Legends:Invade|Invade]]''', then give '''[[Legends:Ward|Ward]]''' to all friendly '''~Oblivion Gate~Oblivion Gates~'''.
+|summon=1
+|invade=1
+|award=1
+|deckcode=xN
+}}
+==Audio==
+{{Legends Audio 2|card=Sigil Keeper|use=enter play|text=The [[Lore:Sigil Stone|sigil stone]] is mine to protect.}}
+{{Legends Audio 2|card=Sigil Keeper|use=attack|text=Weep, fettlekyn!}}
+
+==Notes==
+*This card is based on the [[Oblivion:Dremora#Sigil Keeper|Sigil Keeper]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Sigil Keeper.png|Card art
+</gallery>

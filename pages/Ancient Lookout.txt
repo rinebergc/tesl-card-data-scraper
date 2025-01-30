@@ -1,0 +1,28 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=2
+|image=LG-card-Ancient Lookout.png
+|power=2
+|health=3
+|rarity=Common
+|ability=When you summon a [[Legends:Dragon|Dragon]], summon a 1/1 '''~Draugr Sentry~~''' with '''[[Legends:Guard|Guard]]'''.
+|deckcode=aD
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+==Notes==
+* Based on the caption on the illustrator's site, the card was originally called "March of the Fallen". 
+
+==Gallery==
+
+<gallery>
+File:LG-card-Ancient Lookout Old Client.png|Old client card image
+File:LG-cardart-Ancient Lookout.png|Card art
+File:LG-cardart-Ancient Lookout 02.jpg|High-res art from illustrator site
+File:LG-cardart-Ancient Lookout (China).png|Chinese card art
+</gallery>

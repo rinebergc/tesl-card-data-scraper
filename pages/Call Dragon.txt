@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Tamriel Collection
+|attribute=Neutral
+|cost=8
+|image=LG-card-Call Dragon.png
+|power=
+|health=
+|rarity=Rare
+|ability=Upgrade all your Shouts.<br>'''''Level 1''''': Summon a random 6-8 cost [[Legends:Dragon|Dragon]]. <br>'''''Level 2''''': Summon a random 8-10 cost Dragon.<br>'''''Level 3''''': Summon a random 12 cost Dragon.
+|shout=1
+|deckcode=Bj
+}}
+
+==Notes==
+*This card is not part of the random shout pool and thus cannot be created by cards like {{Card|Paarthurnax}}.
+*Shouts that did not start in your deck are also upgraded.
+*The card's art depicts [[Lore:Odahviing|Odahviing]], a [[Lore:Dragon|dragon]] who allied with the [[Lore:Hero#Last_Dragonborn|Dragonborn]] during the [[SR:Main Quest|main quest]] of ''[[SR:Skyrim|Skyrim]]''. The name of the card references the [[SR:Call Dragon|shout]] that is used to summon Odahviing.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Call Dragon.png|Card art
+</gallery>

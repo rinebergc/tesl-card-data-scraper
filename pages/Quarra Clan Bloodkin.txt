@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Vampire
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Quarra Clan Bloodkin.png
+|cost=2
+|power=1
+|health=5
+|rarity=Common
+|ability='''[[Legends:Drain|Drain]]'''
+|drain=1
+|deckcode=mw
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Our clan is pure and strong.}}
+{{Legends Audio 2|use=attack|text=Die, abomination!}}
+
+==Notes==
+*This card is intended to depict [[Morrowind:Volrina Quarra|Volrina Quarra]] from ''[[Morrowind:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Quarra Clan Bloodkin Old Client.png|Old client card image
+File:LG-cardart-Quarra Clan Bloodkin.png|Card art
+File:LG-cardart-Quarra Clan Bloodkin 02.jpg|HD card art
+File:LG-cardart-Quarra Clan Bloodkin (China).png|Chinese card art
+</gallery>

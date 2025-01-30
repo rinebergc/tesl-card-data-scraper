@@ -1,0 +1,20 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=2
+|image=LG-card-Leafwater Blessing.png
+|rarity=Epic
+|ability=Give a creature +1/+1.</br>When you gain health, draw Leafwater Blessing from your discard pile.
+|deckcode=jA
+}}
+
+==Notes==
+*This card's ability applies the '''Morning Dew''' card effect.
+*This card may be named after [[Lore:Leafwater|Leafwater]], a region of [[Lore:Black Marsh|Black Marsh]].
+
+==Gallery==
+<gallery>
+File:LG-card-Leafwater Blessing Old Client.png|Old client card image
+File:LG-cardart-Leafwater Blessing.jpg|Card art
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|class=Scout
+|cost=9
+|image=LG-card-Red Bramman.png
+|power=5
+|health=5
+|unique=Yes
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': '''[[Legends:Silence|Silence]]''' and '''[[Legends:Shackle|Shackle]]''' all enemy creatures in this lane.
+|summon=1
+|shackle=1
+|silence=1
+|deckcode=mO
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=By the egg, surrender.|text2=Drown in the river of battle!}}
+{{Legends Audio 2|use=attack|text=Surrender or die.|text2=They call me the Bandit King!|text3=Stand and deliver!}}
+
+== Notes ==
+*This card's summon ability applies the '''A Pirate's Life''' card effect. For unknown reasons, this effect is applied three times upon the enemy creatures.
+*Red Bramman is mentioned in the ''[[Lore:Pocket Guide to the Empire, 3rd Edition/Argonia|Pocket Guide to the Empire]]'' and the ''[[Lore:The Improved Emperor's Guide to Tamriel/Black Marsh|Improved Emperor's Guide to Tamriel]]'', although these books state that he is human.
+*Red Bramman also shows up as [[Legends:Practice/Red Bramman|an NPC]] in [[LG:Practice|Practice mode]].
+
+==Gallery==
+<gallery>
+File:LG-card-Red Bramman Old Client.png|Old client card image
+File:LG-cardart-Red Bramman.png|Card art
+File:LG-cardart-Red Bramman.jpg|High Resolution Card art
+</gallery>

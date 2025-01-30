@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Action
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Fire Breath.png
+|rarity=Common
+|shout=1
+|ability='''''Level 1''''': Deal 2 damage to a creature.<br>'''''Level 2''''': Deal 4 damage to a creature.<br>'''''Level 3''''': Deal 10 damage to a creature.
+|deckcode=gv
+}}
+
+==Audio==
+{{Legends Audio|headertext=Level 1|creature=shout|use=01|text=Yol!}}
+{{Legends Audio|headertext=Level 2|creature=shout|use=02|text=Yol Toor!}}
+{{Legends Audio|headertext=Level 3|creature=shout|use=03|text=Yol Toor Shul!}}
+
+==Notes==
+*[[Skyrim:Fire Breath|Fire Breath]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]'' as a [[Skyrim:Dragon Shouts|dragon shout]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fire Breath Old Client.png|Old client card image
+File:LG-card-Fire Breath 02 Old Client.png|Level 2
+File:LG-card-Fire Breath 03 Old Client.png|Level 3
+File:LG-cardart-Fire Breath.png|Card art
+File:LG-cardart-Fire Breath 02.jpg|High-res card art by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]]
+</gallery>

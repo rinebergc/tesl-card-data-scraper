@@ -1,0 +1,37 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Agility
+|cost=2
+|power=1
+|health=2
+|image=LG-card-Thieves Guild Recruit.png
+|altart=[[Legends:Grand Melee|Grand Melee]] January 2020
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Draw a card. If it costs 7 or more, reduce its cost by 1.
+|summon=1
+|deckcode=qy
+|altartdeckcode=zi
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] theme deck, three copies in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck, three copies in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck, three copies in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck, and one copy in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=What have we here?|text2=By bark and birth, this is interesting.}}
+{{Legends Audio 2|use=attack|text=I will cut your purse, and your throat.|text2=My scales move in shadow.|text3=You will die where you stand.}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Guild Recruit}} at level 6.
+*The card's summon ability applies the '''Got the Loot''' card effect.
+*The card is named for the [[Lore:Thieves Guild|Thieves Guild]], which first [[Daggerfall:Thieves Guild|appeared]] in ''[[Daggerfall:Daggerfall|Daggerfall]]'', and later reappeared in [[Morrowind:Thieves Guild|''Morrowind'']], [[Oblivion:Thieves Guild|''Oblivion'']], [[Skyrim:Thieves Guild (faction)|''Skyrim'']], and [[Online:Thieves Guild|ESO]].
+*The card's summon ability was originally ''"Draw a card. If it costs 7 or more, reduce its cost by 2."'', until this was changed in [[Legends:Patch/1.69.0|Patch 1.69.0]].
+
+==Gallery==
+<gallery>
+File:LG-card-Thieves Guild Recruit Old Client.png|Old client card image
+File:LG-card-Thieves Guild Recruit Alt.png|Alternate card from Grand Melee
+File:LG-cardart-Thieves Guild Recruit.png|Card art
+File:LG-cardart-Thieves Guild Recruit Alt.png|Alternate art from Grand Melee
+</gallery>

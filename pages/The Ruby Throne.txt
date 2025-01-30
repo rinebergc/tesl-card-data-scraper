@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|attribute=Neutral
+|cost=3
+|image=LG-card-The Ruby Throne.png
+|uses=Ongoing
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Crown a creature.<br>At the end of each player's turn, give crowned creatures +1/+1.<br>If there is no crowned creature in play, when either player summons a '''Unique''' creature, crown it.
+|uniqueability=1
+|summon=1
+|deckcode=ut
+}}
+
+==Notes==
+*The UESP exclusively revealed this card prior to the release of [[Legends:Alliance War|Alliance War]].
+*This card applies the '''Regent of the Throne''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-The Ruby Throne.jpg|Card art
+</gallery>

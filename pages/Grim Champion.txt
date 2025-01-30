@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|cost=4
+|image=LG-card-Grim Champion.png
+|power=2
+|health=2
+|rarity=Epic
+|ability=When a creature in this lane dies, Grim Champion gains +1/+1.
+|deckcode=hD
+}}
+
+==Notes==
+*This card's ability applies the '''Death's Gift''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Grim Champion Old Client.png|Old client card image
+File:LG-cardart-Grim Champion.png|Card art
+</gallery>

@@ -1,0 +1,35 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=8
+|image=LG-card-Shrine Guardian.png
+|power=8
+|health=8
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>When your opponent summons a creature, reduce its power to 0 until the start of your turn.
+|guard=1
+|uniqueability=1
+|deckcode=of
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I long to feast on their marrow.}}
+{{Legends Audio 2|use=attack|text=The things I'll do to their corpses...}}
+
+==Notes==
+*This card's ability applies the '''Challenged''' card effect.
+*This card is a reference to [[Morrowind:Anhaedra|Anhaedra]] from [[Morrowind:Morrowind|Morrowind]]. The [[Morrowind:Maar_Gan_Shrine|Maar Gan Shrine]] is visible behind him in the card art.
+**The attacking dialogue for this card is a reference to a much more brutal quote from the Dremora's original appearance.
+
+==Gallery==
+<gallery>
+File:LG-card-Shrine Guardian Old Client.png|Old client card image
+File:LG-cardart-Shrine Guardian.png|Card art
+File:LG-cardart-Shrine Guardian 02.jpg|High resolution card art
+</gallery>

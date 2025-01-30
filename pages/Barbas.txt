@@ -1,0 +1,63 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|subtype2=Beast
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=5
+|image=LG-card-Barbas.png
+|power=3
+|health=3
+|rarity=Legendary
+|obtainable=Yes
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Choose one:<br>'''Stay:''' Gains +1/+1 and '''[[Legends:Guard|Guard]].'''<br>'''Fetch:''' Put a random [[Legends:Daedra|Daedra]] into your hand. <br>'''Roll Over:''' Gains '''[[Legends:Charge|Charge]]'''
+|summon=1
+|acharge=1
+|aguard=1
+|deckcode=bz
+}}
+
+==Commands==
+{| class="wikitable"
+! style="width: 160px;" | '''Fetch!'''
+! style="width: 160px;" | '''Stay!'''
+! style="width: 160px;" | '''Roll Over!'''
+|- style="text-align: center;"
+| [[File:LG-card-Barbas, Fetch!.png|160px]]
+| [[File:LG-card-Barbas, Stay!.png|160px]]
+| [[File:LG-card-Barbas, Roll Over!.png|160px]]
+|- style="text-align: center;"
+| Put a random [[Legends:Daedra|Daedra]] into your hand.
+| Barbas gains +1/+1 and '''[[Legends:Guard|Guard]]'''.
+| Barbas gains '''[[Legends:Charge|Charge]]'''.
+|}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Yeah, I just talked. And am continuing to do so.}}
+{{Legends Audio 2|headertext=When applying Stay|use=enter play stay|text=You aren't my master. But you'll do for now.}}
+{{Legends Audio 2|headertext=When applying Fetch|use=enter play fetch|text=Exactly what I was looking for!}}
+{{Legends Audio 2|headertext=When applying Roll Over|use=enter play roll over|text=I know, wars to fight, dragons to confront...}}
+{{Legends Audio 2|use=attack|text=I'll take care of it!}}
+
+==Notes==
+*[[Lore:Barbas|Barbas]] first appeared in ''[[Daggerfall:Daggerfall|Daggerfall]]'', and later reappeared in [[Redguard:Dog|''Redguard'']], [[Oblivion:Clavicus Vile|''Oblivion'']], [[Skyrim:Barbas|''Skyrim'']], and [[Online:Barbas|ESO]]. The card depicts him as he appeared in ''Skyrim''.
+*The card's creature type was originally solely Beast.
+**This was changed to Daedra in [[Legends:Patch/1.66.0|Patch 1.66.0]].
+**The Beast subtype was added alongside Daedra in [[Legends:Patch/1.68.0|Patch 1.68.0]].
+*The card's summon audio is a modified excerpt from ''Skyrim'''s [[Skyrim:A Daedra's Best Friend|A Daedra's Best Friend]] quest:
+*:''"Skyrim is now host to giant, flying lizards and two-legged cat-men... and you're surprised by me? Yes. I just talked. And am continuing to do so."''
+*The card's Fetch audio is a modified excerpt from the same quest:
+*:''"You are exactly what I was looking for."''
+*The card's Roll Over dialogue is an excerpt from the same quest:
+*:''"I know, I know... Wars to fight, dragons to confront, guild business to conduct. Listen, when you're ready to do something useful, find me outside Haemar's Shame, in Falkreath."''
+
+==Gallery==
+<gallery>
+File:LG-card-Barbas Old Client.png|Old client card image
+File:LG-cardart-Barbas.png|Card art (default and Stay)
+File:LG-cardart-Barbas, Roll Over!.png|Card art (Roll Over)
+File:LG-cardart-Barbas, Fetch!.png|Card art (Fetch)
+File:LG-cardart-Barbas, Roll Over! (China).png|Chinese card art
+</gallery>

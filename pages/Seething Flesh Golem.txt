@@ -1,0 +1,21 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|subtype2=Atronach
+|availability=Isle of Madness
+|attribute=Intelligence
+|cost=8
+|image=LG-card-Seething Flesh Golem.png
+|power=3
+|health=8
+|rarity=Epic
+|ability=When Seething Flesh Golem attacks, deal damage equal to its power to all enemy creatures in this lane.
+|uniqueability=1
+|deckcode=pd
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Seething Flesh Golem.png|Card art
+</gallery>

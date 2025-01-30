@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Strength
+|cost=5
+|image=LG-card-Jorunn's Vanguard.png
+|power=4
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Veteran|Veteran]]:''' +2/+2 and give the top creature of your deck +2/+2.
+|veteran=1
+|deckcode=tx
+}}
+==Audio==
+{{Legends Audio 2|card=Prince Irnskar|use=enter play|text=I'll strike your head from your body, you cur.}}
+{{Legends Audio 2|card=Prince Irnskar|use=attack|text=It's a fine day to do battle.}}
+
+==Notes==
+*The card's art depicts [[Lore:Irnskar|Prince Irnskar]], who first appeared in ''[[Online:Prince Irnskar|Elders Scrolls Online]]''.
+*This card's veteran ability applies the '''Veteran Leadership''' card effect to the top creature of your deck.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Jorunn's Vanguard.png|Card art
+</gallery>

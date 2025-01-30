@@ -1,0 +1,30 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Alfiq Conjurer.png
+|power=3
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature to summon a '''~Flame Atronach~~'''. If you consumed an [[Legends:Atronach|Atronach]], instead summon a '''~Storm Atronach~~'''.
+|guard=1
+|summon=1
+|consume=1
+|deckcode=vD
+}}
+
+==Audio==
+{{Legends Audio 2|card=Elden Root|use=enter play|text=Khajiit will keep you safe.}}
+{{Legends Audio 2|card=Elden Root|use=attack|text=This one is in no mood for you.}}
+
+==Notes==
+*This card is named after the [[Lore:Khajiit#Alfiq|Alfiq]], one of the Khajiit's furstocks.
+*This card's health was changed from 4 to 3 in [[Legends:Patch/2.13|Patch 2.13]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Alfiq Conjurer.jpg|Card art
+</gallery>

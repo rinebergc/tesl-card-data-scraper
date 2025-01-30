@@ -1,0 +1,24 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Endurance
+|cost=2
+|image=LG-card-Trespasser's Bane.png
+|rarity=Common
+|ability=Set a creature's power to 1.
+|deckcode=qO
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Notes==
+*This card applies the '''Punishment''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Trespasser's Bane Old Client.png|Old client card image
+File:LG-cardart-Trespasser's Bane.png|Card art
+File:LG-cardart-Trespasser's Bane (China).png|Chinese card art
+</gallery>

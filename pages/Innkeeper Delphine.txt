@@ -1,0 +1,30 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=3
+|image=LG-card-Innkeeper Delphine.png
+|power=2
+|health=3
+|rarity=Legendary
+|ability=After you play a [[Legends:Dragon|Dragon]] or [[Legends:Shouts|Shout]], Innkeeper Delphine [[Legends:Change|changes]] into '''~Grandmaster Delphine~~'''.
+|unique=1
+|uniqueability=1
+|change=1
+|deckcode=iV
+}} It can [[LG:Change|change]] into {{Card|Grandmaster Delphine}}.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=It's my business to keep track of strangers.}}
+{{Legends Audio 2|use=attack|text=This isn't my first tavern brawl!}}
+
+==Notes==
+*[[Skyrim:Delphine|Delphine]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Innkeeper Delphine Old Client.png|Old client card image
+File:LG-cardart-Innkeeper Delphine.jpg|Card art
+</gallery>

@@ -1,0 +1,23 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Netch
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Betty Netch.png
+|cost=5
+|power=0
+|health=5
+|rarity=Rare
+|ability=While Betty Netch is in play, your max magicka is increased by 2.
+|uniqueability=1
+|deckcode=bN
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Betty Netch Old Client.png|Old client card image
+File:LG-cardart-Betty Netch.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

@@ -1,0 +1,20 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Strength
+|cost=4
+|image=LG-card-Orcish Warhammer.png
+|rarity=Rare
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''</br>+3/+3
+|breakthrough=1
+|deckcode=lO
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Gallery==
+<gallery>
+File:LG-card-Orcish Warhammer Old Client.png|Old client card image
+File:LG-cardart-Orcish Warhammer.png|Card art
+</gallery>

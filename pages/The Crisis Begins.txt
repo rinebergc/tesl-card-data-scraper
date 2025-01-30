@@ -1,0 +1,20 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|availability=Jaws of Oblivion
+|attribute=Willpower
+|cost=6
+|image=LG-card-The Crisis Begins.png
+|rarity=Common
+|ability=Destroy a creature.<br>'''[[Legends:Invade|Invade]]'''.
+|invade=1
+|deckcode=xo
+}}
+
+==Notes==
+*This card depicts the murder of [[Lore:Uriel Septim VII|Uriel Septim VII]] at the hands of a [[Lore:Mythic Dawn|Mythic Dawn]] assassin, as seen [[Oblivion:Tutorial|during the tutorial]] of ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-The Crisis Begins.png|Card art
+</gallery>

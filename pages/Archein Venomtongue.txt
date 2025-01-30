@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Endurance
+|cost=4
+|image=LG-card-Archein Venomtongue.png
+|power=1
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Lethal|Lethal]]'''{{NewLeft}}'''[[Legends:Slay|Slay]]:''' Gain +1 max [[LG:Magicka|magicka]].
+|lethal=1
+|slay=1
+|deckcode=aM
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=My claws are sharp and thirsty!|text2=I raise the spine of battle!}}
+{{Legends Audio 2|use=attack|text=Die, eggless one!|text2=Do not vex me!|text3=To chaos with you!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Archein Guerrilla}} at level 8.
+*The card is named for the {{Link If Exists|Lore:Archein|Archein}}, a tribe of [[Lore:Argonian|Argonian]]s who worked with the [[Lore:Dunmer|Dunmer]] slavemasters.
+
+==Gallery==
+<gallery>
+File:LG-card-Archein Venomtongue Old Client.png|Old client card image
+File:LG-cardart-Archein Venomtongue.png|Card art
+</gallery>

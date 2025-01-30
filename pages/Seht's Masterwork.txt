@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|availability=Forgotten Hero Collection
+|attribute=Neutral
+|cost=3
+|image=LG-card-Seht's Masterwork.png
+|power=
+|health=
+|rarity=Legendary
+|ability=If you started the game with no duplicate cards in your deck, your cards cost 1 less.
+|uses=Ongoing
+|unique=1
+|deckcode=nF
+}}
+
+==Notes==
+*Seht is another name for [[Lore:Sotha Sil|Sotha Sil]].
+
+==Gallery==
+<gallery>
+File:LG-card-Seht's Masterwork Old Client.png|Old client card image
+File:LG-cardart-Seht's Masterwork.png|Card art
+</gallery>

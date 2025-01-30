@@ -1,0 +1,20 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=3
+|image=LG-card-Mountain Lion.png
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Gain 1 magicka this turn.
+|summon=1
+|deckcode=ym
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Mountain Lion.png|Card art
+</gallery>

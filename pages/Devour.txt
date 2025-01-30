@@ -1,0 +1,23 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=4
+|image=LG-card-Devour.png
+|rarity=Rare
+|ability=Destroy a creature with 4 power or less and give its '''[[Legends:Keywords|Keywords]]''' to a random [[Legends:Dragon|Dragon]] in your hand.
+|deckcode=ex
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, two copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+==Notes==
+* This card's ability applies the '''Full Belly''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Devour Old Client.png|Old client card image
+File:LG-cardart-Devour.png|Card art
+</gallery>

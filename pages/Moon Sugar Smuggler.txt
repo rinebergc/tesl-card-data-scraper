@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Moon Sugar Smuggler.png
+|cost=1
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Gain 2 magicka this turn.
+|lastgasp=1
+|deckcode=kH
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck, and one copy in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one is just a simple farmer, you see?}}
+{{Legends Audio 2|use=attack|text=This one has already said too much!}}
+
+==Notes==
+*This card depicts Halinjirr, who also [[Online:Halinjirr|appeared]] in [[Online:Online|Online]].
+
+==Gallery==
+<gallery>
+File:LG-card-Moon Sugar Smuggler Old Client.png|Old client card image
+File:LG-cardart-Moon Sugar Smuggler.png|Card art
+</gallery>

@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Cartel Arcanist.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Wax|Wax]]:''' +2/+0<br>'''[[Legends:Wane|Wane]]: [[Legends:Shackle|Shackle]]''' an enemy creature.
+|ashackle=1
+|waxwane=1
+|deckcode=wI
+}}
+
+==Audio==
+{{Legends Audio 2|card=Zav'i|use=enter play|text=You're going to regret crossing this one.}}
+{{Legends Audio 2|card=Zav'i|use=attack|text=By [[Lore:Ring of Khajiiti|Rajhin's Ring]]!}}
+
+==Notes==
+*This card's wax ability applies the '''Lunar Strength''' card effect.
+*The card's art depicts [[Online:Zav'i|Zav'i]] who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Cartel Arcanist.jpg|Card art
+</gallery>

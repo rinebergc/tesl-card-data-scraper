@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Alliance War
+|attribute=Strength
+|cost=5
+|image=LG-card-Fighters Guild Elite.png
+|power=2
+|health=2
+|rarity=Legendary
+|ability='''[[Legends:Expertise|Expertise]]:''' Double Fighters Guild Elite's power and health.
+|expertise=1
+|deckcode=tf
+}}
+==Audio==
+{{Legends Audio 2|card=Fighters Guild Elite|use=enter play|text=Hear you need somebody to crack some heads.}}
+{{Legends Audio 2|card=Fighters Guild Elite|use=attack|text=Nobody gets in my way!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Fighters Guild Elite.png|Card art
+</gallery>

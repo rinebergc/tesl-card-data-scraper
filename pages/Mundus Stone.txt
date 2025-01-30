@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Neutral
+|unique=Yes
+|uses=Ongoing
+|cost=4
+|image=LG-card-Mundus Stone.png
+|rarity=Legendary
+|ability=When you summon a creature, give it a random '''[[LG:Keywords|Keyword]]'''.
+|deckcode=la
+}}
+
+==Notes==
+*This card's ability applies the '''Blessing of the Stars''' card effect.
+*Mundus Stones are a type of [[Lore:Runestones|Runestone]] that bestow the blessings of the [[Lore:Astrology|stars]].
+
+==Gallery==
+<gallery>
+File:LG-card-Mundus Stone Old Client.png|Old client card image
+File:LG-cardart-Mundus Stone.png|Card art
+</gallery>

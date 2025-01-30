@@ -1,0 +1,31 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=5
+|image=LG-card-The Gray Fox.png
+|power=4
+|health=4
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card from you opponent's discard pile.<br>'''[[Legends:Pilfer|Pilfer]]:''' Reveal a random unrevealed card from your opponent's hand.
+|summon=1
+|pilfer=1
+|deckcode=yB
+}}
+
+The Gray Fox has no creature subtype.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Just forget about seeing me. Everyone does.}}
+{{Legends Audio 2|use=attack|text=See you later.}}
+
+==Notes==
+*The Gray Fox also [[Oblivion:The Gray Fox|appeared]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+*This card having no creature subtype is a reference to the identity-concealing properties of the Fox's [[Lore:Gray Cowl of Nocturnal|Gray Cowl of Nocturnal]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-The Gray Fox.png|Card art
+</gallery>

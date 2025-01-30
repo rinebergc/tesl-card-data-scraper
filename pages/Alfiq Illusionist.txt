@@ -1,0 +1,31 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=3
+|image=LG-card-Alfiq Illusionist.png
+|power=2
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Wax|Wax]]:''' Summon an Alfiq Illusionist in the other lane.<br>'''[[Legends:Wane|Wane]]:''' +1/+2 and '''[[Legends:Guard|Guard]]'''.
+|aguard=1
+|waxwane=1
+|deckcode=wR
+}}
+
+==Audio==
+{{Legends Audio 2|card=Alfiq Illusion Mage|use=enter play|text=Size alone belies this one's power.}}
+{{Legends Audio 2|card=Alfiq Illusion Mage|use=attack|text=Feel the power of the moons!}}
+
+==Notes==
+*This card's wane ability applies the '''Lunar Strength''' card effect.
+*This card is named after the [[Lore:Khajiit#Alfiq|Alfiq]], one of the Khajiit's furstocks.
+*The card text was changed to remove "Copy" from the textbox in [[Legends:Patch/2.12|Patch 2.12]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Alfiq Illusionist.jpg|Card art
+File:LG-cardart-Alfiq Illusionist 02.jpg|Art from official social media
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Moons of Elsweyr
+|attribute=Neutral
+|cost=3
+|image=LG-card-Ill-Fated Scholar.png
+|power=3
+|health=2
+|rarity=Legendary
+|ability=When Ill-Fated Scholar is '''[[Legends:Consume|Consumed]]''', summon a 3/2 '''~Insidious Spirit~~'''.
+|aconsume=1
+|deckcode=wa
+}}
+
+==Audio==
+{{Legends Audio 2|card=Winterhold Student|use=enter play|text=What's the lesson for today?}}
+{{Legends Audio 2|card=Winterhold Student|use=attack|text=Here's something I've learned.}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Ill-Fated Scholar.png|Card art
+</gallery>

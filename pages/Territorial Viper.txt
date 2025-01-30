@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|attribute=Agility
+|cost=4
+|image=LG-card-Territorial Viper.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Charge|Charge]]''', '''[[Legends:Lethal|Lethal]]'''
+|charge=1
+|lethal=1
+|deckcode=qk
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+
+==Notes==
+*Searching for "Noodle" in the search bar of your collection will show you this card as result. 
+
+==Gallery==
+<gallery>
+File:LG-card-Territorial Viper Old Client.png|Old client card image
+File:LG-cardart-Territorial Viper.png|Card art
+</gallery>

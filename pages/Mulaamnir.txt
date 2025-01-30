@@ -1,0 +1,35 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Moons of Elsweyr
+|attribute=Strength
+|cost=9
+|image=LG-card-Mulaamnir.png
+|power=9
+|health=8
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]] and [[Legends:Slay|Slay]]: [[Legends:Battle|Battle]]''' an enemy creature with less power then Mulaamnir's health.
+|unique=1
+|summon=1
+|slay=1
+|battle=1
+|deckcode=wJ
+|altartdeckcode=Ab
+|altart=New Year's Resolution Bundle ([[Legends:Festival of Madness|Festival of Madness]] 2019)
+}}
+
+==Audio==
+{{Legends Audio 2|card=Mulaamnir|use=enter play|text=I will devour your soul, mortal!}}
+{{Legends Audio 2|card=Mulaamnir|use=attack|text=I'll feast on your flesh!}}
+
+==Notes==
+*[[ON:Mulaamnir|Mulaamnir]] first appeared in [[ON:Online|ESO]].
+*An alternate-art copy of Mulaamnir was available in the New Year's Resolution Bundle, available on 1 January 2020 for 100 gold as part of the [[Legends:Festival of Madness|Festival of Madness]]. It depicts him alongside [[Lore:Euraxia Tharn|Euraxia Tharn]].
+
+==Gallery==
+<gallery>
+File:LG-card-Mulaamnir Alt.png|Alternate card from Festival of Madness
+File:LG-cardart-Mulaamnir.jpg|Card art
+File:LG-cardart-Mulaamnir Alt.png|Alternate art from Festival of Madness
+</gallery>

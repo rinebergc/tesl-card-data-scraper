@@ -1,0 +1,41 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Agility
+|availability=Dark Brotherhood
+|image=LG-card-Eclipse Baroness.png
+|altart=[[Legends:Festival of Madness|Festival of Madness]] 2019
+|type=Creature
+|subtype=Dark Elf
+|cost=8
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''' and '''[[Legends:Last Gasp|Last Gasp]]:''' Draw a card and reduce its cost by 2.
+|lastgasp=1
+|summon=1
+|deckcode=fA
+|altartdeckcode=zU
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Eclipse Hideout|Eclipse Hideout]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Eclipse Hideout.  An alternate art version was offered as part of the 2019 [[Legends:Festival of Madness|Festival of Madness]].
+
+==Audio==
+{{Legends Audio 2|card=leader of the eclipse|use=enter play|text=Let's go then. My time is precious.}}
+{{Legends Audio 2|card=leader of the eclipse|use=attack|text=These streets are mine!}}
+
+==Notes==
+*The card's summon ability applies the '''Baroness' Favor''' card effect.
+*The card's last gasp ability applies the '''Baroness' Heirloom''' card effect.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+*The alternate art was originally called "[[Legends:Laaneth|Laaneth]]".
+
+==Gallery==
+<gallery>
+File:LG-card-Eclipse Baroness Old Client.png|Old client card image
+File:LG-card-Eclipse Baroness Alt.png|Alternate card from Festival of Madness
+File:LG-cardart-Eclipse Baroness.png|Card art
+File:LG-cardart-Eclipse Baroness 02.jpg|High-res card art from illustrator site
+File:LG-cardart-Eclipse Baroness Alt.png|Alternate art from Festival of Madness
+File:LG-cardart-Eclipse Baroness (China).png|Chinese card art
+</gallery>

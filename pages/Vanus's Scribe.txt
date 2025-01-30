@@ -1,0 +1,25 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Alliance War
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Vanus's Scribe.png
+|power=4
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Expertise|Expertise]]:''' Reduce the cost of a random [[Legends:Actions|action]] in your hand by 1.
+|expertise=1
+|deckcode=uF
+}}
+==Audio==
+{{Legends Audio 2|card=Vanus's Scribe|use=enter play|text=No, no, no, I'm certain it was in this tome somewhere.}}
+{{Legends Audio 2|card=Vanus's Scribe|use=attack|text=Ah here it is. Take this!}}
+==Notes==
+*This card's expertise ability applies the '''Recorded''' card effect.
+*This card is named for [[Lore:Vanus Galerion|Vanus Galerion]], who first [[ON:Vanus Galerion|appeared]] in [[ON:Online|ESO]]. The banners in the background of the card art bear the symbol of the [[Lore:Mages Guild|Mages Guild]], which was founded by Vanus Galerion.
+==Gallery==
+<gallery>
+File:LG-cardart-Vanus's Scribe.png|Card art
+</gallery>

@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Endurance
+|cost=2
+|image=LG-card-Fharun Defender.png
+|power=1
+|health=4
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''
+|prophecy=1
+|guard=1
+|deckcode=gn
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You won't escape alive.}}
+{{Legends Audio 2|use=attack|text=End of the road.}}
+
+==Notes==
+*The card is named for the town of [[Lore:Farrun|Farrun]], which was for a time occupied by Orcs and known as "Fharun".
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fharun Defender Old Client.png|Old client card image
+File:LG-card-Fharun Defender old.png|Early version as seen in PAX East 2016 Twitch panel
+File:LG-cardart-Fharun Defender.png|Card art
+File:LG-cardart-Fharun Defender 02.jpg|High-res card art from illustrator site
+</gallery>

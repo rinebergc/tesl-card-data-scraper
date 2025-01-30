@@ -1,0 +1,26 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Alliance War
+|class=Ebonheart Pact
+|cost=3
+|image=LG-card-Forerunner of the Pact.png
+|power=4
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Veteran|Veteran]]:''' Draw a Forerunner of the Pact from your deck.
+|veteran=1
+|deckcode=sX
+}}
+==Audio==
+{{Legends Audio 2|card=Grand Warlord Zimmeron|use=enter play|text=I mete out the Tribunal's justice.}}
+{{Legends Audio 2|card=Grand Warlord Zimmeron|use=attack|text=Repel the invaders!}}
+==Notes==
+*The card depicts [[Online:Grand Warlord Zimmeron|Grand Warlord Zimmeron]], who first appeared in [[Online:Online|ESO]].
+**For more information on recurring characters, please [[General:Recurring Characters|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Forerunner of the Pact.png|Card art
+</gallery>

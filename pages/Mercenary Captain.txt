@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=4
+|image=LG-card-Mercenary Captain.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature to give other friendly creatures +1/+1.
+|summon=1
+|consume=1
+|deckcode=wG
+}}
+
+==Audio==
+{{Legends Audio 2|card=Nord Mercenary|use=enter play|text=Nothing like a good battle.}}
+{{Legends Audio 2|card=Nord Mercenary|use=attack|text=I'll break your spirit.}}
+
+==Notes==
+*This card's consume ability applies the '''Stranger in a Strange Land''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Mercenary Captain.jpg|Card art
+</gallery>

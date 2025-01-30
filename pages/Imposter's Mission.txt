@@ -1,0 +1,24 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Strength
+|cost=4
+|image=LG-card-Imposter's Mission.png
+|rarity=Epic
+|ability=Summon an '''~Imposter~~''' with power and health equal to the power of your most powerful creature.
+|deckcode=iM
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Notes== 
+*The card art depicts [[Morrowind:Nileno Dorvayn|Nileno Dorvayn]], [[Morrowind:House Hlaalu|House Hlaalu]]'s steward in ''[[Morrowind:Morrowind|Morrowind]]'', holding a Redoran Bonemold Helm, a reference to the House Hlaalu quest [[Morrowind:Disguise|Disguise]].
+
+== Gallery ==
+<gallery>
+File:LG-card-Imposter's Mission Old Client.png|Old client card image
+File:LG-cardart-Imposter's Mission.png|Card art
+File:LG-cardart-Imposter's Mission 02.jpg|High resolution card art
+</gallery>

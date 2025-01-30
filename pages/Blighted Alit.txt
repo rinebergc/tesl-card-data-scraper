@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|attribute=Strength
+|cost=3
+|image=LG-card-Blighted Alit.png
+|power=5
+|health=3
+|rarity=Epic
+|ability=At the start of your turn, Blighted Alit deals 2 damage to you.
+|uniqueability=1
+|deckcode=ca
+}}
+
+==Notes==
+*[[Morrowind:Alit|Alit]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and later [[Online:Alit|reappeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Blighted Alit Old Client.png|Old client card image
+File:LG-cardart-Blighted Alit.png|Card art
+</gallery>

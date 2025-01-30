@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Neutral
+|cost=7
+|image=LG-card-Goldbrand.png
+|rarity=Legendary
+|unique=Yes
+|uses=3
+|activate=1
+|ability='''[[Legends:Activate|Activate]]:''' Deal 2 damage to a creature, then increase the damage dealt by 2.
+|deckcode=hm
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is obtainable as a reward from [[Legends:Reive's Wrath|Reive's Wrath]]. It will be added to the [[Legends:Band of Survivors|Band of Survivors]], [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]], [[Legends:Dunmer Avengers|Dunmer Avengers]], and [[Legends:Imperial Might (deck)|Imperial Might]] decks.
+
+==Notes==
+*[[Morrowind:Goldbrand|Goldbrand]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and later [[Oblivion:Goldbrand|reappeared]] in ''[[Oblivion:Oblivion|Oblivion]]''. For historical information, see the [[Lore:Goldbrand|lore article]].
+*The [[Legends:Titles|title]] '''The Golden''' is achieved by dealing 8 damage in one activation of this card; currently the only ways to do so is to use Goldbrand in conjunction with either {{Card|Tower Alchemist}} or {{Card|Cauldron Keeper}}.
+
+==Gallery==
+<gallery>
+File:LG-card-Goldbrand Old Client.png|Old client card image
+File:LG-cardart-Goldbrand.png|Card art
+File:LG-cardart-Goldbrand 02.jpg|High resolution card art
+File:LG-premcard-Goldbrand.gif|Premium card (click to view animation)
+</gallery>

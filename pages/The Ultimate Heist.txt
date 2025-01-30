@@ -1,0 +1,23 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=12
+|image=LG-card-The Ultimate Heist.png
+|rarity=Epic
+|ability=Costs 3 less for each time you've '''[[Legends:Pilfer|Pilfered]]''' or '''[[Legends:Drain|Drained]]''' this turn.<br>Deal damage to your opponent destroying their front rune. Steal the card drawn from the rune. If it's a '''[[Legends:Prophecy|Prophecy]]''', you may play it for free.
+|apilfer=1
+|adrain=1
+|aprophecy=1
+|deckcode=yn
+}}
+
+==Notes==
+*If your opponent has no runes left when you play this card, their health is reduced to zero, and you still steal a card.
+*This card is based on [[Oblivion:The Ultimate Heist|the quest of the same name]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-The Ultimate Heist.png|Card art
+</gallery>

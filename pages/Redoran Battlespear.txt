@@ -1,0 +1,25 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Item
+|attribute=Strength
+|availability=Houses of Morrowind
+|image=LG-card-Redoran Battlespear.png
+|cost=3
+|rarity=Rare
+|ability='''[[Legends:Rally|Rally]]'''<br>+1/+3
+|rally=1
+|deckcode=mP
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Notes==
+*The name of this card refers to the [[Lore:House Redoran|House Redoran]], one of the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]].
+== Gallery ==
+<gallery>
+File:LG-card-Redoran Battlespear Old Client.png|Old client card image
+File:LG-cardart-Redoran Battlespear.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

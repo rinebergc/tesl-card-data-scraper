@@ -1,0 +1,31 @@
+{{Mod Header|Dark Brotherhood}}
+__NOTOC__{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Willpower
+|type=Creature
+|subtype=Imperial
+|image=LG-card-Knight of the Hour.png
+|cost=5
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' You gain 3 health.
+|prophecy=1
+|deckcode=jq
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Order of the Hour Barracks|Order of the Hour Barracks]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Order of the Hour Barracks.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Let none defile our temple!}}
+{{Legends Audio 2|use=attack|text=I shall end their blasphemy!}}
+
+==Notes==
+*The [[Daggerfall:Order of the Hour|Order of the Hour]] first appeared in ''[[Daggerfall:Daggerfall|Daggerfall]]'', and later [[Online:Order of the Hour|reappeared]] in [[Online:Online|ESO]]. For more information, see the [[Lore:Order of the Hour|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Knight of the Hour Old Client.png|Old client card image
+File:LG-cardart-Knight of the Hour.png|Card art
+</gallery>

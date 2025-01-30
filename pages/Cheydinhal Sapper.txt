@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=1
+|image=LG-card-Cheydinhal Sapper.png
+|power=1
+|health=3
+|rarity=Common
+|ability='''[[Legends:Drain|Drain]]'''
+|drain=1
+|deckcode=cZ
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We'll go at nightfall.|text2=We are ready for anything.|text3=We walk as a lion amongst sheep.}}
+{{Legends Audio 2|use=attack|text=It's nothing personal.|text2=Taste my steel.|text3=Die like a dog!}}
+
+==Notes==
+*The card is named for the [[Lore:Cyrodiil|Cyrodiil]] city of [[Lore:Cheydinhal|Cheydinhal]], which first [[Oblivion:Cheydinhal|appeared]] in [[Oblivion:Oblivion|''Oblivion'']], and later [[Online:Cheydinhal|reappeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Cheydinhal Sapper Old Client.png|Old client card image
+File:LG-cardart-Cheydinhal Sapper.png|Card art
+File:LG-cardart-Cheydinhal Sapper 02.jpg|Cropped version of higher resolution
+</gallery>

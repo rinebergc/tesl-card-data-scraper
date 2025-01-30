@@ -1,0 +1,23 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=6
+|image=LG-card-Skyborn Dragon.png
+|power=7
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Battle|Battle]]''' an enemy creature.
+|summon=1
+|battle=1
+|deckcode=oz
+}}
+
+==Gallery==
+<gallery>
+File:LG-card-Skyborn Dragon Old Client.png|Old client card image
+File:LG-cardart-Skyborn Dragon.png|Card art
+File:LG-cardart-Skyborn Dragon 02.jpg|High-res card art from [[:Category:Legends-Art-Nuare Studio|Nuare Studio]]
+</gallery>

@@ -1,0 +1,23 @@
+{{Mod Header|Dawnguard}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Vampire
+|availability=Dawnguard
+|attribute=Endurance
+|cost=6
+|power=5
+|health=6
+|image=LG-card-Nightlord Vampire.png
+|rarity=Epic
+|ability='''[[Legends:Drain|Drain]]''', '''[[Legends:Guard|Guard]]'''
+|deckcode=
+}} It is exclusive to ''[[Legends:Legends Asia|Legends Asia]]'' and was introduced as part of the [[Legends:Dawnguard|Dawnguard]] expansion.
+<!--
+==Notes==
+*
+--><!--
+==Gallery==
+<gallery>
+File:
+</gallery>
+-->

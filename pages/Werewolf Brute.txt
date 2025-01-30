@@ -1,0 +1,23 @@
+{{Mod Header|Dawnguard}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Werewolf
+|availability=Dawnguard
+|attribute=Strength
+|cost=4
+|power=5
+|health=3
+|image=LG-card-Werewolf Brute.png
+|rarity=Common
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''<br>'''[[Legends:Summon|Summon]]''': Deal 2 damage to a random enemy creature.<br>'''[[Legends:Slay|Slay]]''': Deal 1 damage to a random creature.
+|deckcode=
+}} It is exclusive to ''[[Legends:Legends Asia|Legends Asia]]'' and was introduced as part of the [[Legends:Dawnguard|Dawnguard]] expansion.
+
+==Notes==
+*This card depicts a [[Skyrim:Werewolf Brute|Werewolf Brute]] from [[Skyrim:Skyrim|Skyrim]]''.
+<!--
+==Gallery==
+<gallery>
+File:
+</gallery>
+-->

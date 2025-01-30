@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=3
+|image=LG-card-Khuul Lawkeeper.png
+|power=1
+|health=6
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]''', '''[[Legends:Rally|Rally]]'''
+|guard=1
+|rally=1
+|deckcode=jm
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=If you're looking for trouble, you'll find it.}}
+{{Legends Audio 2|use=attack|text=You took a wrong turn, stranger!}}
+
+==Notes==
+*This card depicts a [[Lore:House Redoran|Redoran]] guard in [[Lore:Khuul|Khuul]], a coastal village on the island of [[Lore:Vvardenfell|Vvardenfell]].
+==Gallery==
+<gallery>
+File:LG-card-Khuul Lawkeeper Old Client.png|Old client card image
+File:LG-cardart-Khuul Lawkeeper.png|Card art
+</gallery>

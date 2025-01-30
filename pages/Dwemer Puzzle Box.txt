@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Support
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Dwemer Puzzle Box.png
+|cost=2
+|rarity=Rare
+|ability='''Activate:''' Discard the top card of your deck.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Draw a card.
+|uses=3
+|activate=1
+|lastgasp=1
+|deckcode=ft
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Notes==
+*The Dwemer Puzzle Box appeared in [[Morrowind:Morrowind|Morrowind]] during the quest [[Morrowind:Antabolis Informant|Antabolis Informant]].
+
+==Gallery==
+<gallery>
+File:LG-card-Dwemer Puzzle Box Old Client.png|Old client card image
+File:LG-cardart-Dwemer Puzzle Box.png|Card art
+</gallery>

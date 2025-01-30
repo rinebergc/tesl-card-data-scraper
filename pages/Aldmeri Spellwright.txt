@@ -1,0 +1,24 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Tamriel Collection
+|class=Aldmeri Dominion
+|cost=5
+|image=LG-card-Aldmeri Spellwright.png
+|power=3
+|health=6
+|rarity=Epic
+|ability=When your opponent takes damage, you gain 1 magicka this turn.
+|deckcode=Bm
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Power courses through my veins!}}
+{{Legends Audio 2|use=attack|text=Have a taste of my power.}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Aldmeri Spellwright.png|Card art
+File:LG-cardart-Aldmeri Spellwright 2.jpg|High resolution card art from artist
+</gallery>

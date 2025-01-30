@@ -1,0 +1,24 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Grummite
+|availability=Isle of Madness
+|attribute=Strength
+|cost=7
+|image=LG-card-Grummite Magus.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Your opponent discards the highest cost action in their hand.
+|guard=1
+|summon=1
+|deckcode=hI
+}}
+
+==Notes==
+*Grummite Magi previously [[Shivering:Grummite#Magi|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Grummite Magus.png|Card art
+</gallery>

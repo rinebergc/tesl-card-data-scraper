@@ -1,0 +1,26 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Tamriel Collection
+|class=Ebonheart Pact
+|cost=5
+|image=LG-card-Pact Outcast.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]''' and '''[[Legends:Veteran|Veteran]]:''' '''[[Legends:Consume|Consume]]''' a creature. Pact Outcast uses the consumed creature's veteran ability.
+|guard=1
+|summon=1
+|veteran=1
+|consume=1
+|deckcode=AX
+}}
+==Audio==
+{{Legends Audio 2|card=Pact Outcast|use=enter play|text=They're as good as dead.}}
+{{Legends Audio 2|card=Pact Outcast|use=attack|text=By Olfor's hammer!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Pact Outcast.png|Card art
+</gallery>

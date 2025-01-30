@@ -1,0 +1,27 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Vigilant of Stendarr.png
+|power=5
+|health=2
+|rarity=Common
+|ability=
+|deckcode=rs
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Stendarr will protect me.}}
+{{Legends Audio 2|use=attack|text=May Stendarr have mercy on you.}}
+
+==Notes==
+*This card is named after the [[Lore:Vigil of Stendarr|Vigilants of Stendarr]] who [[Skyrim:Vigil of Stendarr|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Vigilant of Stendarr Old Client.png|Old client card image
+File:LG-cardart-Vigilant of Stendarr.png|Card art
+</gallery>

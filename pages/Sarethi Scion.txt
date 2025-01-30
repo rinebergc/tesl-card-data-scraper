@@ -1,0 +1,31 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Strength
+|cost=1
+|image=LG-card-Sarethi Scion.png
+|power=1
+|health=1
+|rarity=Common
+|ability='''[[Legends:Rally|Rally]]'''
+|rally=1
+|deckcode=ny
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=There's only so much that honor can allow.}}
+{{Legends Audio 2|use=attack|text=My family has endured enough!}}
+
+==Notes==
+*This card depicts [[Morrowind:Varvur Sarethi|Varvur Sarethi]], who appeared in ''[[Morrowind:Morrowind|Morrowind]]'' as a young member of the noble Sarethi family.
+
+==Gallery==
+<gallery>
+File:LG-card-Sarethi Scion Old Client.png|Old client card image
+File:LG-cardart-Sarethi Scion.png|Card art
+</gallery>

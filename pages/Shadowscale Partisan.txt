@@ -1,0 +1,36 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=3
+|image=LG-card-Shadowscale Partisan.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Lethal|Lethal]]'''</br>'''[[Legends:Summon|Summon]]:''' +0/+2 if you have another creature with Lethal.
+|lethal=1
+|summon=1
+|deckcode=nS
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+==Audio==
+{{Legends Audio 2|card=treacherous shadowscale|use=enter play no|text=Just speak the name. Their life will end.}}
+{{Legends Audio 2|card=treacherous shadowscale|use=enter play yes|text=You're a dangerous sort. I like it.}}
+{{Legends Audio 2|card=treacherous shadowscale|use=attack|text=My contract is fulfilled.}}
+
+==Notes==
+*This card's summon ability applies the '''Deadly Scales''' card effect.
+*Shadowscales are an order of Argonian assassins. See the [[Lore:Shadowscales|lore article]] for more information.
+*The card depicts [[Skyrim:Veezara|Veezara]] as he appears in [[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Shadowscale Partisan Old Client.png|Old client card image
+File:LG-cardart-Shadowscale Partisan.png|Card art
+File:LG-cardart-Shadowscale Partisan 02.jpg|HD card art
+</gallery>

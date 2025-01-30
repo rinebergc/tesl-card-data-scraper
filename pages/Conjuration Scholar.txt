@@ -1,0 +1,34 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Heroes of Skyrim
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Conjuration Scholar.png
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Summon a 5/5 '''~Frost Atronach~~''' with '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|deckcode=dv
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+
+==Audio==
+{{Legends Audio 2|headertext=When summoned|card=Daedric High Priestess|use=attack 02|text=You can't defeat me!}}
+{{Legends Audio 2|headertext=When attacking|card=Daedric High Priestess|use=attack 01|text=To dust with you!}}
+
+==Notes==
+Prior to [[Legends:Patch/1.67.0|Patch 1.67.0]], the card had a male voice and the following lines (these were given to {{Card|Conjuration Tutor}} instead):
+
+{{Legends Audio 2|card=Conjuration Tutor|use=enter play|text=A Conjuration mage never stands alone.}}
+{{Legends Audio 2|card=Conjuration Tutor|use=attack|text=Let's begin the lesson!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Conjuration Scholar Old Client.png|Old client card image
+File:LG-cardart-Conjuration Scholar.png|Card art
+</gallery>

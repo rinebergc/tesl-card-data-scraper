@@ -1,0 +1,24 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|availability=Moons of Elsweyr
+|attribute=Neutral
+|cost=1
+|image=LG-card-Moon Gate.png
+|rarity=Common
+|ability='''[[Legends:Activate|Activate]]:''' Get both '''[[Legends:Wax|Wax]]''' and '''[[Legends:Wane|Wane]]''' effects this turn.
+|uses=2
+|awaxwane=1
+|deckcode=wo
+}}
+
+==Notes==
+*Activating this support twice in one turn, either through having multiple in play or by using [[Legends: Cauldron Keeper|Cauldron Keeper]], has no additional effect.
+*The card's art depicts the [[Online:Moon Gate of Anequina|Moon Gate of Anequina]], which first appeared in [[Online:Online|ESO]].
+*The UESP exclusively revealed this card prior to the release of [[Legends:Moons of Elsweyr|Moons of Elsweyr]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Moon Gate.jpg|Card art
+</gallery>

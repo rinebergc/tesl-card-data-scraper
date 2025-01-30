@@ -1,0 +1,30 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Endurance
+|cost=4
+|image=LG-card-Moontouched Guardian.png
+|power=3
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Wax|Wax]]:''' Give a creature in your hand +2/+2.<br>'''[[Legends:Wane|Wane]]:''' '''[[Legends:Guard|Guard]]''' and '''[[Legends:Ward|Ward]]'''.
+|waxwane=1
+|aguard=1
+|award=1
+|deckcode=wE
+}}
+
+==Audio==
+{{Legends Audio 2|card=dagi alteration mage|use=enter play|text=Go on. Try to hit this one.}}
+{{Legends Audio 2|card=dagi alteration mage|use=attack|text=Too late for you!}}
+
+==Notes==
+*This card's wax ability applies the '''Moontouched Guidance''' card effect to the card in hand and the wane ability applies the '''Lunar Strength''' effect to itself.
+*This card is referred to as '''Dagi Alteration Mage''' internally.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Moontouched Guardian.jpg|Card art
+</gallery>

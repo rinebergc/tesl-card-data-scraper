@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|availability=Clockwork City
+|attribute=Neutral
+|cost=5
+|image=LG-card-Clockwork Dragon.png
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' If Clockwork Dragon is in the left lane, +2/+0 and '''[[Legends:Drain|Drain]]'''. Otherwise, +0/+2 and '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|adrain=1
+|deckcode=do
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Dragonclaw Rock|Dragonclaw Rock]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Dragonclaw Rock.
+
+==Notes==
+*This card's summon ability applies the '''Extractor''' (right lane) or '''Protector''' (left lane) card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Clockwork Dragon Old Client.png|Old client card image
+File:LG-cardart-Clockwork Dragon.jpg|Card art
+</gallery>

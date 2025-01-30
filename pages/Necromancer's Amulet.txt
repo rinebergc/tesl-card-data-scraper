@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Endurance
+|uses=Ongoing
+|cost=3
+|image=LG-card-Necromancer's Amulet.png
+|rarity=Epic
+|ability=When a friendly creature dies, gain 1 health.
+|deckcode=lp
+}}
+
+==Audio==
+{{Legends Audio 2|creature=No|text=Kavushte Ka'a ([[wikipedia:Help:IPA|IPA]]: [kʰa.vuʃ.tʰe kʰa.ʔa])}}
+
+==Notes==
+*The [[Lore:Necromancer's Amulet|Necromancer's Amulet]] first appeared in ''[[Daggerfall:Necromancer's Amulet|Daggerfall]]'', then later reappeared in ''[[Morrowind:Necromancer's Amulet|Morrowind]]'', ''[[Oblivion:Necromancer's Amulet|Oblivion]]'', and ''[[Skyrim:Necromancer Amulet|Skyrim]]''.
+*It is unclear what the card's summon audio is meant to represent.
+
+==Gallery==
+<gallery>
+File:LG-card-Necromancer's Amulet Old Client.png|Old client card image
+File:LG-cardart-Necromancer's Amulet.png|Card art
+File:LG-cardart-Necromancer's Amulet (China).png|Chinese card art
+</gallery>

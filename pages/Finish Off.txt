@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=2
+|image=LG-card-Finish_Off.png
+|rarity=Common
+|ability=Destroy a '''[[Legends:Wounded|Wounded]]''' enemy creature.
+|awounded=1
+|deckcode=gu
+|altartdeckcode=zd
+|altart=[[LG:Elsweyr Gauntlet|Elsweyr Gauntlet]] May 2021
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck, two copies in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck, two copies in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck, and two copies in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck. One copy is also obtainable in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck as a reward from [[LG:Unwelcome Intrusion|Unwelcome Intrusion]].
+
+==Gallery==
+<gallery>
+File:LG-card-Finish Off Old Client.png|Old client card image
+File:LG-card-Finish Off Alt.png|Alternate card from Elsweyr Gauntlet
+File:LG-cardart-Finish Off.png|Card art
+File:LG-cardart-Finish Off Alt.png|Alternate art
+</gallery>

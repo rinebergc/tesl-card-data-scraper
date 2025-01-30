@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Ice Storm.png
+|rarity=Epic
+|ability=Deal 3 damage to all creatures.
+|deckcode=iy
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck, and one copy in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Notes==
+*The card is named for the [[Skyrim:Ice Storm|Ice Storm]] spell, which first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card formerly used the art that is now found on {{Card|Winter's Grasp}}.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ice Storm Old Client.png|Old client card image
+File:LG-card-Ice Storm old.png|Early version as seen in official B-roll footage provided to media before beta
+File:LG-cardart-Ice Storm.png|Card art
+File:LG-cardart-Ice Storm 02.jpg|High-res card art from illustrator site
+File:LG-cardart-Ice Storm (China).png|Chinese card art
+</gallery>

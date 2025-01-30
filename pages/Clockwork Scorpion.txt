@@ -1,0 +1,25 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fabricant
+|availability=Clockwork City
+|attribute=Agility
+|cost=6
+|image=LG-card-Clockwork Scorpion.png
+|power=3
+|health=7
+|rarity=Common
+|ability='''[[LG:Drain|Drain]], [[LG:Lethal|Lethal]]'''
+|drain=1
+|lethal=1
+|deckcode=dp
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Return to The Inner Curiosity|Return to The Inner Curiosity]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Return to The Inner Curiosity.
+
+==Gallery==
+<gallery>
+File:LG-card-Clockwork Scorpion Old Client.png|Old client card image
+File:LG-cardart-Clockwork Scorpion.png|Card art
+</gallery>

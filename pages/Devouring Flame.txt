@@ -1,0 +1,17 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Action
+|availability=Moons of Elsweyr
+|attribute=Strength
+|cost=2
+|image=LG-card-Devouring Flame.png
+|rarity=Rare
+|ability=Deal 2 damage to a creature. If this would kill it, instead '''[[Legends:Banish|Banish]]''' it.
+|banish=1
+|deckcode=wS
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Devouring Flame.jpg|Card art
+</gallery>

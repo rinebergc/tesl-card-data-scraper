@@ -1,0 +1,42 @@
+{{Mod Header|Core Set}}
+__NOTOC__{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|attribute=Agility
+|cost=3
+|power=3
+|health=3
+|image=LG-card-Blacksap Protector.png
+|altart=[[Legends:Starter Pack|Starter Pack]]
+|rarity=Rare
+|ability='''[[Legends:Prophecy|Prophecy]], [[Legends:Guard|Guard]]'''
+|prophecy=1
+|guard=1
+|deckcode=bU
+|altartdeckcode=bV
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck, and two copies in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The forest is my strength and my courage.|text2=They cannot defeat the heart of Valenwood.}}
+{{Legends Audio 2|use=attack|text=Feel the power of the forest!|text2=Die, interloper!|text3=Teach you to mess with me!}}
+
+==Notes==
+*An alternate-art version of this card is available in the [[LG:Starter Pack|Starter Pack]].
+*The card originally was of common rarity, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+*The card is named for the [[Lore:Blacksap Rebellion|Blacksap Rebellion]].
+*The card's alternate-art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Blacksap Protector Old Client.png|Old client card image
+File:LG-card-Blacksap Protector Alt.png|Alternate card from the Starter Pack
+File:LG-cardart-Blacksap Protector.png|Card art
+File:LG-cardart-Blacksap Protector Alt.png|Alternate art from the Starter Pack
+File:LG-cardart-Blacksap Protector 03.jpg|High-res alternate art from illustrator site
+</gallery>
+
+==References==
+<references/>

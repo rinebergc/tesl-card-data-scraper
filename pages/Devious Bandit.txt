@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=6
+|image=LG-card-Devious Bandit.png
+|power=3
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Deal 3 damage to your opponent and you gain 3 health.<br>Devious Bandit has the '''[[Legends:Pilfer|Pilfer]]''' abilities of all your creatures.
+|summon=1
+|apilfer=1
+|uniqueability=1
+|deckcode=wj
+}}
+==Audio==
+{{Legends Audio 2|card=Tasnasi|use=enter play|text=What can Khajiit do for you?}}
+{{Legends Audio 2|card=Tasnasi|use=attack|text=You'll be moving along now, yes?}}
+
+==Notes==
+*The card's art depicts [[Online:Tasnasi|Tasnasi]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Devious Bandit.jpg|Card art
+</gallery>

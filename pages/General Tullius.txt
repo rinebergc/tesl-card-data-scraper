@@ -1,0 +1,37 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial  
+|class=Spellsword
+|cost=6
+|image=LG-card-General Tullius.png
+|power=2
+|health=2
+|unique=Yes
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': Summon a 2/2 '''~Colovian Trooper~~''' with '''[[Legends:Guard|Guard]]''' in each [[LG:Lanes|lane]].<br>When a friendly creature dies, General Tullius gains +1/+1. 
+|summon=1
+|uniqueability=1
+|deckcode=gV
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Alright, men. On me!|text2=Form up!|text3=Time to overcome my evil nature!}}
+{{Legends Audio 2|use=attack|text=Long live the Empire!|text2=I won't fail in my duty!|text3=For the Emperor!}}
+
+==Notes==
+*This card's ability applies the '''Glory of the Empire''' card effect.
+*[[Skyrim:General Tullius|General Tullius]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+**According to [[General:Pete Hines|Hines]], they did not use Michael Hogan's voice lines from ''Skyrim'' as they would have to re-hire him for the game.
+*The card art uses a [https://i.imgur.com/RRYeUXp.jpg frame] from the film ''[[wikipedia:1612 (film)|1612]]'' as a base reference. It was later adjusted after this was brought up to Pete Hines.
+
+
+==Gallery==
+<gallery>
+File:LG-card-General Tullius Old Client.png|Old client card image
+File:LG-cardart-General Tullius 03.png|Card art
+File:LG-cardart-General Tullius.jpg|Older version
+File:LG-cardart-General Tullius 02.jpg|Older version, higher res, cropped
+File:LG-cardart-General Tullius 04.jpg|Older version, higher res, cropped
+File:LG-cardart-General Tullius (old).png|Card art used briefly during the beta
+</gallery>

@@ -1,0 +1,34 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Strength
+|cost=5
+|image=LG-card-Fortress Watchman.png
+|power=5
+|health=4
+|rarity=Common
+|ability='''[[Legends:Guard|Guard]]'''
+|guard=1
+|deckcode=gI
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=There is always a blood price.|text2=By Yashnag's axe, I'll defeat them all!}}
+{{Legends Audio 2|use=attack|text=Your time has come!|text2=I'll cut you to ribbons!|text3=You'll die where you stand.}}
+
+==Notes==
+* This was originally a rare card, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+*The card's opening audio, ''"There is always a blood price"'', refers to the [[Lore:Orc|Orcish]] tradition of bleeding criminals as punishment.
+
+==Gallery==
+<gallery>
+File:LG-card-Fortress Watchman Old Client.png|Old client card image
+File:LG-cardart-Fortress Watchman.png|Card art
+</gallery>
+
+==References==
+<references/>

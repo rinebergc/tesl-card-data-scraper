@@ -1,0 +1,23 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Moons of Elsweyr
+|attribute=Strength
+|cost=2
+|image=LG-card-Fear Totem.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>'''[[Legends:Unsummon|Unsummon]]''' a creature and reduce its cost by 3.
+|prophecy=1
+|unsummon=1
+|deckcode=ws
+}}
+
+==Notes==
+*This card's ability applies the '''Unnerved''' card effect.
+*This card depicts a [[ON:Bone Totem|Bone Totem]], an ability usable by [[ON:Necromancer|Necromancer]]s in [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Fear Totem.jpg|Card art
+</gallery>

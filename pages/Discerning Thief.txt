@@ -1,0 +1,25 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Discerning Thief.png
+|power=3
+|health=4
+|rarity=Common
+|ability='''[[Legends:Pilfer|Pilfer]]:''' Draw a card, then discard a card.
+|pilfer=1
+|deckcode=vK
+}}
+
+== Audio ==
+{{Legends Audio 2|card=Discerning Thief|use=enter play|text=My paws are quicker than your eyes.}}
+
+{{Legends Audio 2|card=Discerning Thief|use=attack|text=Too slow!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Discerning Thief.jpg|Card art
+</gallery>

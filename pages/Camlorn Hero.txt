@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Camlorn Hero.png
+|power=4
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Deal 2 damage to your opponent.
+|summon=1
+|deckcode=cI
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This day is mine.|text2=Honorless insects, they dare face me?}}
+{{Legends Audio 2|use=attack|text=By Akatosh, I will end you!|text2=Do not test me, knave!|text3=Your time has come!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Camlorn Adventurer}} at level 7.
+*The card is named for the [[Lore:High Rock|High Rock]] city of [[Lore:Camlorn|Camlorn]]. 
+*The quote ''"I used to be an adventurer, like you"'' is likely a reference to a famous line of [[Skyrim:Guard_Dialogue|guard dialogue]] from ''Skyrim'': ''"I used to be an adventurer like you. Then I took an arrow in the knee..."'' However, it also refers to the fact that the card is trained from 'Camlorn Adventurer'.
+
+==Gallery==
+<gallery>
+File:LG-card-Camlorn Hero Old Client.png|Old client card image
+File:LG-cardart-Camlorn Hero.png|Card art
+File:LG-cardart-Camlorn Hero 02.jpg|Larger, cropped
+</gallery>

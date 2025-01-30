@@ -1,0 +1,40 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|class=Crusader
+|availability=Monthly Card
+|cost=4
+|image=LG-card-Ulfric's Housecarl.png
+|power=3
+|health=3
+|rarity=Epic
+|ability=When an enemy [[LG:Rune|rune]] is destroyed, draw a card.
+|uniqueability=1
+|brune=1
+|deckcode=ra
+}}
+
+==Availability==
+Ulfric's Housecarl was the [[Legends:Monthly Card|monthly card]] for June 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Ulfrics Housecarl|use=enter play|text=We'll rebuild Skyrim into the land she once was.}}
+{{Legends Audio 2|card=Ulfrics Housecarl|use=attack|text=Let them die with their false kings!}}
+
+==Notes==
+*The card's health was formerly 4, until this was decreased in [[Legends:Patch/1.69.0|Patch 1.69.0]].
+*The card depicts [[Skyrim:Galmar Stone-Fist|Galmar Stone-Fist]], who appeared in ''[[Skyrim:Skyrim|Skyrim]]'' as the housecarl of [[Skyrim:Ulfric Stormcloak|Ulfric Stormcloak]].
+*The card's summon audio is an excerpt from Galmar's dialogue when asked about the aim of the war after you join the Stormcloaks:
+::''"First we'll kick the Thalmor and their bloody Imperial puppets out of the country. Then we'll rebuild Skyrim into the land she once was."''
+*The card's attack audio is an excerpt from a conversation during the quest [[Skyrim:Joining the Stormcloaks|Joining the Stormcloaks]]:
+::'''Galmar''': ''"The people are behind you."''
+::'''Ulfric''': ''"Many I fear still need convincing."''
+::'''Galmar''': ''"Then let them die with their false kings."''
+
+==Gallery==
+<gallery>
+File:LG-card-Ulfric's Housecarl Old Client.png|Old client card image
+File:LG-cardart-Ulfric's Housecarl.png|Card art
+File:LG-cardart-Ulfric's Housecarl 2.jpg|High resolution card art
+</gallery>

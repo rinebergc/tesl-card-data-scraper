@@ -1,0 +1,20 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|class=Warrior
+|cost=3
+|image=LG-card-Warrior's Fury.png
+|rarity=Rare
+|ability=Give a random creature and [[LG:Items|item]] in your hand +2/+2.
+|deckcode=rD
+}}
+
+==Notes==
+*This card's ability applies the '''Blind Aggression''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Warrior's Fury Old Client.png|Old client card image
+File:LG-cardart-Warrior's Fury.png|Card art
+</gallery>

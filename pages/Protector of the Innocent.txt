@@ -1,0 +1,29 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Strength
+|cost=2
+|type=Creature
+|subtype=Nord
+|image=LG-card-Protector of the Innocent.png
+|power=3
+|health=2
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''
+|prophecy=1
+|guard=1
+|rarity=Common
+|availability=Dark Brotherhood
+|deckcode=mt
+}} It is available in [[Legends:Wayrest|Wayrest]].
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Wayrest Plains|Wayrest Plains]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Wayrest Plains.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=We'll see how they like someone who fights back!}}
+{{Legends Audio 2|use=attack|text=As long as I draw breath!}}
+
+==Gallery==
+<gallery>
+File:LG-card-Protector of the Innocent Old Client.png|Old client card image
+File:LG-cardart-Protector of the Innocent.png|Card art
+</gallery>

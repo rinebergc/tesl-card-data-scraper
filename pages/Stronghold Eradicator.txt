@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|attribute=Neutral
+|cost=5
+|image=LG-card-Stronghold Eradicator.png
+|power=6
+|health=6
+|rarity=Epic
+|ability='''[[LG:Summon|Summon]]:''' Give all enemy creatures in this lane '''[[LG:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=pG
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Stronghold Prototype}} at level 44.
+*This card's summon ability applies the '''Hold the Line''' card effect.
+*The card's art depicts a [[Lore:Dwarven Sphere|Dwarven Sphere]].
+
+==Gallery==
+<gallery>
+File:LG-card-Stronghold Eradicator Old Client.png|Old client card image
+File:LG-cardart-Stronghold Eradicator.png|Card art
+File:LG-cardart-Stronghold Eradicator 02.jpg|HD card art
+</gallery>

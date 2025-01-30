@@ -1,0 +1,26 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|availability=Basic Card
+|attribute=Strength
+|cost=1
+|image=LG-card-Scuttler.png
+|power=1
+|health=2
+|rarity=Common
+|ability=
+|deckcode=nD
+}} Scuttler is the first card you play in [[Legends:The Forgotten Hero|The Forgotten Hero]] story, during the quest [[Legends:The Fighting Pit|The Fighting Pit]].
+
+==Availability==
+Two copies are included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+
+==Notes==
+*[[Online:Scuttler|Scuttler]]s first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Scuttler Old Client.png|Old client card image
+File:LG-cardart-Scuttler.png|Card art
+</gallery>

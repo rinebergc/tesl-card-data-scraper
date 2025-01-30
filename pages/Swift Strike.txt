@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=3
+|image=LG-card-Swift Strike.png
+|rarity=Rare
+|ability=Give a creature an extra attack this turn.
+|deckcode=pV
+|altartdeckcode=zl
+|altart=[[LG:Retro Singleton Gauntlet|Retro Singleton Gauntlet]] July 2021
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+
+Premium alternate art versions of this card were available as a reward from the July 2021 [[LG:Retro Singleton Gauntlet|Retro Singleton Gauntlet]].
+
+==Notes==
+*This card's ability applies the '''Swift''' card effect.
+*The alternate art depicts the [[Lore:Gatekeeper|Gatekeeper]], a [[Legends:Atronach|flesh atronach]] that first [[SI:Gatekeeper|appeared]] in the ''[[Shivering:Shivering Isles|Shivering Isles]]'' expansion for ''[[OB:Oblivion|TES IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Swift Strike Old Client.png|Old client card image
+File:LG-cardart-Swift Strike.png|Card art
+File:LG-card-Swift Strike (Alt).png|Alternate art
+File:LG-cardart-Swift Strike Alt.png|Alternate card art from Retro Singleton Gauntlet
+</gallery>

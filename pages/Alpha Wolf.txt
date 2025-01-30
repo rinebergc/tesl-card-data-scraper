@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wolf
+|attribute=Willpower
+|cost=4
+|power=3
+|health=1
+|image=LG-card-Alpha Wolf.png
+|rarity=Epic
+|ability=Other friendly [[LG:Wolf|Wolves]] have +2/+0.
+|uniqueability=1
+|deckcode=av
+}}
+
+==Notes==
+*[[Lore:Wolf|Wolves]] have appeared in nearly every game in the series, starting with the first game, ''[[Arena:Arena|Arena]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Alpha Wolf Old Client.png|Old client card image
+File:LG-cardart-Alpha Wolf.png|Card art
+</gallery>

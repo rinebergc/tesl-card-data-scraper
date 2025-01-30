@@ -1,0 +1,28 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Isle of Madness
+|attribute=Agility
+|cost=3
+|image=LG-card-Eager Torturer.png
+|power=2
+|health=2
+|rarity=Common
+|ability=When you [[Legends:Sacrifice|sacrifice]] a creature, Eager Torturer gains +2/+2.
+|asacrifice=1
+|deckcode=fu
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I do appreciate an assertive leader.}}
+{{Legends Audio 2|use=attack|text=So many people to visit!}}
+
+==Notes==
+*This card's ability applies the '''Sadism''' card effect.
+*This card depicts [[SI:Herdir|Herdir]], an Imperial torturer who previously appeared in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Eager Torturer.png|Card art
+</gallery>

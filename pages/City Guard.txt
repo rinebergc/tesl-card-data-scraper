@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=2
+|image=LG-card-City Guard.png
+|power=2
+|health=3
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''
+|prophecy=1
+|guard=1
+|deckcode=xu
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Nobody breaks the law on my watch.}}
+{{Legends Audio 2|use=attack|text=Stop right there criminal scum!}}
+
+==Notes==
+*This card depicts a member of the city guard of [[Lore:Kvatch|Kvatch]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-City Guard.png|Card art
+</gallery>

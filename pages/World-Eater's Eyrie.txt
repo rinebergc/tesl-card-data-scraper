@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Support
+|attribute=Strength
+|cost=6
+|image=LG-card-World-Eater's Eyrie.png
+|rarity=Legendary
+|uses=Ongoing
+|ability=When you summon a creature that costs 7 or more, double its power and health.
+|deckcode=sb
+}}
+
+==Notes==
+*This card's ability applies the '''Strength of Sovngarde''' card effect.
+*This card is a reference to [[Lore:Skuldafn|Skuldafn]], which was the location of the quest [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+**The card art depicts a person riding on the back of [[Lore:Odahviing|Odahviing]], which was how the player was transported to Skuldafn in ''Skyrim''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-World-Eater's Eyrie Old Client.png|Old client card image
+File:LG-cardart-World-Eater's Eyrie.png|Card art
+File:LG-premcard-World-Eater's Eyrie.gif|Premium card (click to view animation)
+</gallery>

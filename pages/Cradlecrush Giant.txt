@@ -1,0 +1,24 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Giant
+|availability=Forgotten Hero Collection
+|attribute=Strength
+|cost=6
+|image=LG-card-Cradlecrush Giant.png
+|power=6
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Deal 2 damage to all other creatures in this [[Legends:Lanes|lane]].
+|summon=1
+|deckcode=dE
+}}
+
+==Notes==
+*The card is named for [[Skyrim:Cradlecrush Rock|Cradlecrush Rock]], which first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Cradlecrush Giant Old Client.png|Old client card image
+File:LG-cardart-Cradlecrush Giant.png|Card art
+</gallery>

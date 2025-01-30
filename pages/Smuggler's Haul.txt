@@ -1,0 +1,23 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|availability=Monthly Card
+|cost=6
+|image=LG-card-Smuggler's Haul.png
+|rarity=Epic
+|ability=Put four random 0-cost cards into your hand.
+|deckcode=oF
+}}
+
+==Notes==
+*Smuggler's Haul was the [[LG:Monthly Cards|monthly card]] for the month of August 2016, during the open beta period.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Smuggler's Haul Old Client.png|Old client card image
+File:LG-cardart-Smuggler's Haul.png|Card art
+File:LG-cardart-Smuggler's Haul 03.png|Cropped version of larger resolution
+File:LG-cardart-Smuggler's Haul 02.png|Cropped version of larger resolution
+</gallery>

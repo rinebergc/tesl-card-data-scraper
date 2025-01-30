@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Item
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Tome of Alteration.png
+|rarity=Common
+|ability=+2/+2</br>'''[[Legends:Summon|Summon]]''': Draw a card.
+|summon=1
+|deckcode=qF
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck. One copy is also obtainable in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck as a reward from [[LG:The Brawl|The Brawl]].
+
+==Notes==
+*The card is named for the [[Lore:Alteration|Alteration]] school of magic.
+
+==Gallery==
+<gallery>
+File:LG-card-Tome of Alteration Old Client.png|Old client card image
+File:LG-cardart-Tome of Alteration.png|Card art
+</gallery>

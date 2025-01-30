@@ -1,0 +1,30 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Vampire
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Berne Clan Nightstalker.png
+|cost=5
+|power=5
+|health=3
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Secretly choose an enemy creature.<br>'''[[Legends:Last Gasp|Last Gasp]]:''' Destroy the chosen creature.
+|summon=1
+|lastgasp=1
+|deckcode=bL
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=As long as you're here, try to be useful.}}
+{{Legends Audio 2|use=attack|text=You do serve a fine feast.}}
+
+==Notes==
+*The card depicts [[Morrowind:Raxle Berne|Raxle Berne]] from [[Morrowind:Morrowind|Morrowind]].
+
+==Gallery==
+<gallery>
+File:LG-card-Berne Clan Nightstalker Old Client.png|Old client card image
+File:LG-cardart-Berne Clan Nightstalker.png|Card art
+File:LG-cardart-Berne Clan Nightstalker 02.jpg|High resolution card art
+</gallery>

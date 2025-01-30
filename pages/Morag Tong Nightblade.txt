@@ -1,0 +1,29 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=4
+|image=LG-card-Morag Tong Nightblade.png
+|power=3
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' Summon a 0/1 '''~Target~~''' with '''[[Legends:Guard|Guard]]''' for your opponent.<br>'''[[Legends:Slay|Slay]]:''' Draw a card. If it's an action, reduce its cost to 0.
+|summon=1
+|slay=1
+|deckcode=kM
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=They will never know I was there.}}
+{{Legends Audio 2|use=attack|text=Justice will be done.}}
+
+==Notes==
+*This card's slay ability applies the '''An Honorable Killing''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Morag Tong Nightblade Old Client.png|Old client card image
+File:LG-cardart-Morag Tong Nightblade.png|Card art
+</gallery>

@@ -1,0 +1,26 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=3
+|image=LG-card-Woodland Lookout.png
+|power=3
+|health=4
+|rarity=Common
+|ability=When you summon a [[Legends:Dragon|Dragon]], gain 4 health.
+|uniqueability=1
+|deckcode=rZ
+}}
+
+==Audio==
+{{Legends Audio 2|card=treetop spotter|use=enter play|text=Look to the skies.}}
+{{Legends Audio 2|card=treetop spotter|use=enter play 02|text=My eyes are open, and my sense is sharp.}}
+{{Legends Audio 2|card=treetop spotter|use=attack|text=Do not think to sneak by me.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Woodland Lookout Old Client.png|Old client card image
+File:LG-cardart-Woodland Lookout.png|Card art
+</gallery>

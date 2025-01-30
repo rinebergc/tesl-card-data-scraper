@@ -1,0 +1,20 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Item
+|availability=FrostSpark Collection
+|attribute=Strength
+|cost=2
+|image=LG-card-Sword of the Inferno.png
+|rarity=Rare
+|ability=+2/+0<br>'''[[LG:Summon|Summon]]:''' The wielder deals 2 damage to itself and another creature.
+|summon=1
+|deckcode=qa
+}}
+
+==Notes==
+*The symbol on the shield is the device of the [[Lore:Nord|Nordic]] city of [[Lore:Windhelm|Windhelm]] in the province of [[Lore:Skyrim|Skyrim]]. 
+
+==Gallery==
+<gallery>
+File:LG-cardart-Sword of the Inferno.png|Card art
+</gallery>

@@ -1,0 +1,31 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|attribute=Strength
+|cost=4
+|image=LG-card-Seasoned Captain.png
+|power=4
+|health=4
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Rally|Rally]]'''<br>When you Rally, also give a random [[Legends:Items|item]] in your hand +1/+1.
+|rally=1
+|uniqueability=1
+|deckcode=uH
+}}
+
+==Availability==
+Seasoned Captain was the [[Legends:Monthly Card|monthly card]] for April 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Seasoned Captain|use=enter play|text=I live for adventure!}}
+{{Legends Audio 2|card=Seasoned Captain|use=attack|text=Take this!}}
+
+==Notes==
+*The card's ability applies the '''Captain's Armory''' effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Seasoned Captain.png|Card art
+</gallery>

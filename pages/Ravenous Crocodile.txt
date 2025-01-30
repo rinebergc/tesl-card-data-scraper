@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reptile
+|cost=2
+|image=LG-card-Ravenous_Crocodile.png
+|attribute=Neutral
+|power=3
+|health=4
+|ability='''[[LG:Summon|Summon]]''': You must deal 2 damage to a friendly creature.
+|rarity=Common
+|summon=1
+|deckcode=mI
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Stalking Crocodile}} at level 15.
+
+==Gallery==
+<gallery>
+File:LG-card-Ravenous Crocodile Old Client.png|Old client card image
+File:LG-cardart-Ravenous Crocodile.png|Card art
+</gallery>

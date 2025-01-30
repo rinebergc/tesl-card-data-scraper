@@ -1,0 +1,23 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Isle of Madness
+|attribute=Neutral
+|cost=7
+|image=LG-card-Giant Chicken.png
+|power=5
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Fill this lane with 1/1&nbsp;~Confused Villager~Confused Villagers~.
+|lastgasp=1
+|deckcode=hc
+}}
+
+==Notes==
+*This card appears to depict a village in the [[Lore:Mania|Mania]] region of the Shivering Isles.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Giant Chicken.png|Card art
+</gallery>

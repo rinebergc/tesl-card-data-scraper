@@ -1,0 +1,33 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Heroes of Skyrim
+|attribute=Endurance
+|cost=4
+|image=LG-card-Emperor Titus Mede II.png
+|power=1
+|health=4
+|rarity=Legendary
+|unique=1
+|ability=At the end of your turn, give the top creature of your deck +1/+1 and '''[[LG:Guard|Guard]]'''.
+|uniqueability=1
+|aguard=1
+|deckcode=fO
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Some tasks cannot be delegated.}}
+{{Legends Audio 2|use=attack|text=We have a date with destiny.}}
+
+==Notes==
+*This card's ability applies the '''Mede Dynasty''' card effect.
+*[[Lore:Titus Mede II|Titus Mede II]] first [[Skyrim:Emperor Titus Mede II (real)|appeared]] in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Emperor Titus Mede II Old Client.png|Old client card image
+File:LG-cardart-Emperor Titus Mede II.png|Card art
+File:LG-cardart-Emperor Titus Mede II 02.jpg|High-res card art from artist
+</gallery>

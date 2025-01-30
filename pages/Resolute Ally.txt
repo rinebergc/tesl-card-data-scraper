@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Willpower
+|cost=3
+|image=LG-card-Resolute Ally.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Give other friendly creatures in this lane +1/+1 if the top card of your deck is {{LG Attribute Icon|Willpower}}.
+|summon=1
+|deckcode=mY
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+==Audio==
+{{Legends Audio 2|use=enter play fail|text=Hold your positions!}}
+{{Legends Audio 2|use=enter play success|text=Steadfast, brothers!}}
+{{Legends Audio 2|use=attack|text=You can't defeat us!|text2=You will not pass!|text3=Prepare to die.}}
+
+==Notes==
+*This card's summon ability applies the '''Stand Fast''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Resolute Ally Old Client.png|Old client card image
+File:LG-card-Resolute Ally old.png|Early version from official interview video at PAX East 2016
+File:LG-cardart-Resolute Ally.png|Card art
+</gallery>

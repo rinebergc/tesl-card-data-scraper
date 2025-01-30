@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|attribute=Agility
+|cost=3
+|power=1
+|health=5
+|image=LG-card-Greenheart Knight.png
+|rarity=Common
+|ability='''[[Legends:Charge|Charge]]'''
+|charge=1
+|deckcode=hB
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Time flows and is wasted. Face me!|text2=Come and visit your judgement.}}
+{{Legends Audio 2|use=attack|text=You will not be victorious!|text2=Get them!|text3=Your time is at an end!}}
+
+==Notes==
+*The card is named for the [[Lore:Valenwood|Valenwood]] city of [[Lore:Greenheart|Greenheart]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Greenheart Knight Old Client.png|Old client card image
+File:LG-cardart-Greenheart Knight.png|Card art
+</gallery>

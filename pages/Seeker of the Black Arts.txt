@@ -1,0 +1,24 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Endurance
+|cost=2
+|image=LG-card-Seeker of the Black Arts.png
+|power=2
+|health=3
+|rarity=Common
+|ability='''[[Legends:Pilfer|Pilfer]]:''' Discard the top three cards of your deck.
+|pilfer=1
+|deckcode=vO
+}}
+
+==Audio==
+{{Legends Audio 2|card=Life From Death|use=enter play|text=The spirits speak if one only listens.}}
+{{Legends Audio 2|card=Life From Death|use=attack|text=Stay away!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Seeker of the Black Arts.jpg|Card art
+</gallery>

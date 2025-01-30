@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=1
+|image=LG-card-Intimidate.png
+|rarity=Rare
+|ability=Enemy creatures lose '''[[Legends:Guard|Guard]]'''.
+|aguard=1
+|deckcode=iZ
+}}
+
+{{NewLeft}}
+
+==Notes==
+* This card's ability applies the '''Intimidated''' card effect.
+* This card originally was of common rarity, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Intimidate Old Client.png|Old client card image
+File:LG-cardart-Intimidate.png|Card art
+</gallery>
+
+
+==References==
+<references/>

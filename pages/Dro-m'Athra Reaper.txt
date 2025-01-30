@@ -1,0 +1,31 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|subtype2=Spirit
+|availability=Moons of Elsweyr
+|attribute=Endurance
+|cost=2
+|image=LG-card-Dro-m'Athra Reaper.png
+|power=3
+|health=2
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature.<br>When a creature leaves your discard pile, Dro-m'Athra Reaper gains +0/+1 and you gain 1 health.
+|consume=1
+|summon=1
+|uniqueability=1
+|deckcode=wy
+}}
+
+==Audio==
+{{Legends Audio 2|card=Zalsheem|use=enter play|text=All will be consumed by the void.}}
+{{Legends Audio 2|card=Zalsheem|use=attack|text=Moons forsake you!}}
+
+==Notes==
+*This card's ability applies the '''Reaper's Tithe''' card effect.
+*This card depicts [[ON:Zalsheem|Zalsheem]], who first appeared in [[ON:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dro-m'Athra Reaper.jpg|Card art
+</gallery>

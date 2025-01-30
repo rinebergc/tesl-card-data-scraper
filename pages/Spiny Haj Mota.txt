@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Alliance War
+|attribute=Endurance
+|cost=4
+|image=LG-card-Spiny Haj Mota.png
+|power=4
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' +4/+4 for each Spiny Haj Mota in your discard pile.
+|summon=1
+|deckcode=uk
+}}
+==Notes==
+*This card's summon ability applies the '''Bestial Bonds''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Spiny Haj Mota.png|Card art
+File:LG-cardart-Spiny Haj Mota.jpg|Larger version from the official TES: Legends Twitter
+</gallery>

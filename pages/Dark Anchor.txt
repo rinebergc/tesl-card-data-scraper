@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Portal
+|availability=Alliance War
+|attribute=Endurance
+|cost=5
+|image=LG-card-Dark Anchor.png
+|power=0
+|health=8
+|rarity=Epic
+|ability=Your [[Legends:Daedra|Daedra]] cost 1 less.<br>When you draw a creature, transform it into a random Daedra.
+|uniqueability=1
+|deckcode=sS
+}}
+
+==Notes==
+*[[Lore:Dark Anchors|Dark Anchors]] were employed by [[Lore:Molag Bal|Molag Bal]] as part of the [[Lore:Planemeld|Planemeld]], an attempt to drag [[Lore:Nirn|Nirn]] into his realm of [[Lore:Coldharbour|Coldharbour]]. They [[ON:Dark Anchors|appeared]] in [[Online:Online|ESO]], where they could only be destroyed after slaying a horde of [[Lore:Order of the Black Worm|Worm Cultists]], undead, and [[Lore:Daedra|Daedra]].
+* This card originally had the [[LG:Defense|Defense]] creature type.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Dark Anchor.png|Card art
+</gallery>

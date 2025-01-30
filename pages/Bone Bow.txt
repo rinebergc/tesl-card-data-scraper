@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Strength
+|cost=2
+|image=LG-card-Bone Bow.png
+|rarity=Rare
+|ability=+1/+0<br>'''[[Legends:Summon|Summon]]''': '''[[LG:Silence|Silence]]''' another creature.
+|summon=1
+|silence=1
+|deckcode=cl
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+==Notes==
+* This card's summon ability applies the '''Hexed''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Bone Bow Old Client.png|Old client card image
+File:LG-cardart-Bone Bow.png|Card art
+File:LG-cardart-Bone Bow (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Willpower
+|cost=1
+|image=LG-card-Descendant of Alkosh.png
+|power=1
+|health=1
+|rarity=Legendary
+|ability='''[[Legends:Pilfer|Pilfer]]''': +1/+1 and gains a random '''[[Legends:Keywords|Keyword]]'''.
+|pilfer=1
+|deckcode=er
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The moons give this one strength.|text2=This one is destined for greatness.}}
+{{Legends Audio 2|use=attack|text=You have been warned!|text2=I am too sleek for you!|text3=Do not ignore Khajiit's warning.}}
+
+==Notes==
+*This card's pilfer ability applies the '''Favor of Alkosh''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Descendant of Alkosh Old Client.png|Old client card image
+File:LG-cardart-Descendant of Alkosh.png|Card art
+</gallery>

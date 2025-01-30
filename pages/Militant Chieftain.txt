@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|class=Warrior
+|cost=5
+|image=LG-card-Militant Chieftain.png
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''': Draw a random [[LG:Orc|Orc]] from your discard pile.<br>Other friendly Orcs have +1/+1.
+|summon=1
+|deckcode=kB
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Been too long since I've embraced my rage.|text2=Cower in fear or face my wrath!}}
+{{Legends Audio 2|use=attack|text=Enough!|text2=I will end you!|text3=Bones will shatter!}}
+
+==Notes==
+*Searching for "Toby" in the search bar of your collection will show you this card as result. It is a reference to a bug during the game's open beta where the card's title erroneously displayed as a sequence of characters beginning with 20b, leading to the community naming it Toby.
+
+==Gallery==
+<gallery>
+File:LG-card-Toby.png|The 20b "Toby" bug
+File:LG-card-Militant Chieftain Old Client.png|Old client card image
+File:LG-cardart-Militant Chieftain.png|Card art
+</gallery>

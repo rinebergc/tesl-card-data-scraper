@@ -1,0 +1,24 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Elytra
+|availability=Isle of Madness
+|attribute=Agility
+|cost=6
+|image=LG-card-Elytra Noble.png
+|power=4
+|health=6
+|rarity=Common
+|ability='''[[Legends:Lethal|Lethal]]'''
+|lethal=1
+|double={{Card|Felldew}}
+|deckcode=gk
+}}
+
+==Notes==
+*Elytra Nobles previously [[Shivering:Elytra Noble|appeared]] in the [[SI:Shivering Isles|''Shivering Isles'']] expansion for [[OB:Oblivion|''Oblivion'']].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Elytra Noble.png|Card art
+</gallery>

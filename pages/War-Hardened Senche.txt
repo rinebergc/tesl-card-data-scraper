@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Strength
+|cost=4
+|image=LG-card-War-Hardened Senche.png
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Wax|Wax]]:''' +1/+1<br>'''[[Legends:Wane|Wane]]: [[Legends:Battle|Battle]]''' an enemy creature.
+|waxwane=1
+|abattle=1
+|deckcode=wl
+}}
+
+==Audio==
+{{Legends Audio 2|card=Senche Mount|use=enter play|text=It is a fine day to fight.}}
+{{Legends Audio 2|card=Senche Mount|use=attack|text=Onward!}}
+
+==Notes==
+*This card's wax ability applies the '''Lunar Strength''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-War-Hardened Senche.jpg|Card art
+</gallery>

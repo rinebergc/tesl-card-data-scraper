@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Intelligence
+|cost=9
+|image=LG-card-Nahkriin, Dragon Priest.png
+|power=5
+|health=5
+|unique=Yes
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': Draw a card and reduce its cost to 0.
+|summon=1
+|deckcode=ll
+}}
+
+==Notes==
+*This card's summon ability applies the '''Vengeance''' card effect.
+*When your deck is empty, Nahkriin does not draw an {{Card|Out of Cards}}, unlike other creatures that draw cards.
+*The card depicts and is named for a [[Lore:Dragon Priest|Dragon Priest]] who appears in ''[[Skyrim:Skyrim|Skyrim]]'', [[Skyrim:Nahkriin (creature)|Nahkriin]].
+*This card was previously called '''Dragon Priest''' in official [[:File:LG-card-Dragon Priest Old Client.png|pre-release material]].
+*This card originally cost 10, with the ability "'''Summon:''' Draw a card. The next card you play this turn is free.".  It was changed in 11/2016 because the developers felt it was limiting future design space.{{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*The summoning audio was changed upon the client change and are now skeleton sounds. The old one can be heard here:<br/>{{Legends Audio|noheader=1|card=Nahkriin Dragon Priest|use=enter play|text=Come. Face your end.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Nahkriin, Dragon Priest Old Client.png|Old client card image
+File:LG-card-Dragon Priest Old Client.png|Dragon Priest (pre-release image)
+File:LG-cardart-Nahkriin, Dragon Priest.png|Card art
+File:LG-cardart-Nahkriin, Dragon Priest 02.jpg|High-res art from illustrator site
+File:LG-cardart-Nahkriin, Dragon Priest (China).png|Chinese card art
+</gallery>
+
+==References==
+<references/>

@@ -1,0 +1,19 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Action
+|availability=Isle of Madness
+|attribute=Agility
+|cost=2
+|image=LG-card-Mad Dash.png
+|rarity=Common
+|ability=[[Legends:Move|Move]] a friendly creature, then give it +1/+1 for each enemy creature in its lane.
+|deckcode=jY
+}}
+
+==Notes==
+*This card's ability applies the '''Teeth Bared''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Mad Dash.png|Card art
+</gallery>

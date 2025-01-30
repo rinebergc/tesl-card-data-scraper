@@ -1,0 +1,28 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Agility
+|cost=2
+|image=LG-card-Suthay Bootlegger.png
+|power=1
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Another friendly creature ignores '''Guards''' this turn.
+|guard=1
+|summon=1
+|deckcode=wV
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Khajiit's work is never done.}}
+{{Legends Audio 2|use=attack|text=This one is always pleased to assist.}}
+
+==Notes==
+*This card's summon ability gives the '''Barrel Tricks''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Suthay Bootlegger.jpg|Card art
+</gallery>

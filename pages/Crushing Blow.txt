@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Neutral
+|cost=3
+|image=LG-card-Crushing Blow.png
+|altart=[[Legends:Mad Prince Pack|Mad Prince Pack]]
+|rarity=Common
+|ability=Deal 3 damage.
+|deckcode=dM
+|altartdeckcode=dN
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Aela's Companions|Aela's Companions]] theme deck, three copies in the [[Legends:Band of Survivors|Band of Survivors]] deck, and two copies in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+== Notes ==
+* A premium version of this card with alternate artwork was available in the [[LG:Mad Prince Pack|Mad Prince Pack]].
+*The card's alternate art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Crushing Blow Old Client.png|Old client card image
+File:LG-card-Crushing Blow Alt.png|Alternate card from Mad Prince Pack
+File:LG-cardart-Crushing Blow.png|Card art
+File:LG-cardart-Crushing Blow Alt.png|Alternate art from Mad Prince Pack
+File:LG-cardart-Crushing Blow 03.jpg|High-res alternate art from illustrator site
+</gallery>

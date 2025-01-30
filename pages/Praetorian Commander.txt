@@ -1,0 +1,32 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=6
+|image=LG-card-Praetorian Commander.png
+|power=3
+|health=3
+|rarity=Epic
+|obtainable=Yes
+|ability='''[[Legends:Summon|Summon]]:''' Give creatures in your deck +1/+1.
+|summon=1
+|deckcode=ml
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+==Audio==
+{{Legends Audio 2|card=imperial commander|use=enter play|text=Soldiers, form up!}}
+{{Legends Audio 2|card=imperial commander|use=attack|text=Don't let 'em break our lines!}}
+
+==Notes==
+*This card's summon ability applies the '''Legion Discipline''' card effect.
+*Prior to July 2017 and Update 65.2, the card gave creatures +2/+2 rather than +1/+1. This was nerfed because developers felt that it created ''"one-sided games"''.
+
+==Gallery==
+<gallery>
+File:LG-card-Praetorian Commander Old Client.png|Old client card image
+File:LG-cardart-Praetorian Commander.png|Card art
+</gallery>

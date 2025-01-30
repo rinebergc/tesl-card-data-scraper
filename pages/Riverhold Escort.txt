@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Willpower
+|cost=3
+|power=1
+|health=6
+|image=LG-card-Riverhold Escort.png
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''</br>'''[[Legends:Pilfer|Pilfer]]''': [[Legends:Move|Move]].
+|guard=1
+|pilfer=1
+|move=1
+|deckcode=np
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Who is the client today?|text2=Khajiit stands ready.}}
+{{Legends Audio 2|use=attack|text=Do not test Khajiit!|text2=Khajiit will fight to the end!|text3=Do not trifle with this one!}}
+
+==Notes==
+*The card is named for the [[Lore:Elsweyr|Elsweyr]] city of [[Lore:Riverhold|Riverhold]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Riverhold Escort Old Client.png|Old client card image
+File:LG-cardart-Riverhold Escort.png|Card art
+</gallery>

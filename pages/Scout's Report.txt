@@ -1,0 +1,20 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|class=Scout
+|cost=1
+|image=LG-card-Scout's Report.png
+|rarity=Rare
+|ability=Look at the top card of your deck. You may discard it.<br/>Draw a card.
+|deckcode=nA
+}}
+
+==Audio==
+{{Legends Audio 2|card=Scouts Senses|text=I'll scout ahead.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Scout's Report Old Client.png|Old client card image
+File:LG-cardart-Scout's Report.jpg|Card art
+</gallery>

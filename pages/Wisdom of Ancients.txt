@@ -1,0 +1,21 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Wisdom of Ancients.png
+|rarity=Epic
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>Give each friendly creature a random '''[[Legends:Keywords|Keyword]]'''.
+|prophecy=1
+|deckcode=rU
+}}
+
+==Notes==
+*This card's ability applies the '''Ancient Wisdom''' card effect.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Wisdom of Ancients Old Client.png|Old client card image
+File:LG-cardart-Wisdom of Ancients.png|Card art
+</gallery>

@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Alliance War
+|attribute=Endurance
+|cost=3
+|image=LG-card-Black Marsh Prodigy.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Veteran|Veteran]]:''' +4/+4
+|veteran=1
+|deckcode=sF
+}}
+==Audio==
+{{Legends Audio 2|card=Black Marsh Prodigy|use=enter play|text=The Hist will make me strong.}}
+{{Legends Audio 2|card=Black Marsh Prodigy|use=attack|text=Watch this!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Black Marsh Prodigy.png|Card art
+</gallery>

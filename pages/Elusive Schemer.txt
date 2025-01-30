@@ -1,0 +1,41 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Elusive Schemer.png
+|power=3
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card.</br>'''[[Legends:Last Gasp|Last Gasp]]:''' Shuffle a 0-cost Elusive Schemer into your deck.
+|summon=1
+|lastgasp=1
+|deckcode=fL
+|altartdeckcode=zL
+|altart=[[Legends:Hall of Mirrors Gauntlet|Hall of Mirrors Gauntlet]] April 2020
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck, two copies in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck, and one copy in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You'll not be rid of me that easily!|text2=Nice try! Care to go again?}}
+{{Legends Audio 2|use=attack|text=Gotcha!|text2=Let's dance!|text3=Have another!}}
+{{Legends Audio 2|use=last gasp|text=I... will... return!|text2=See you... in the next... world.}}
+
+==Notes==
+*The alternate art depicts [[Morrowind:Odral Helvi|Odral Helvi]], who first appeared in [[Morrowind:Morrowind|Morrowind]].
+* This card originally had 4 power, but was changed in 11/2016 because it was a little too strong. {{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*While the 0-cost copy's cost is green, indicating a temporary buff, the copies stay at 0 cost even when destroyed.
+
+==Gallery==
+<gallery>
+File:LG-card-Elusive Schemer Old Client.png|Old client card image
+File:LG-card-Elusive Schemer Alt.png|Alternate card from Hall of Mirrors Gauntlet
+File:LG-cardart-Elusive Schemer.png|Card art
+File:LG-cardart-Elusive Schemer Alt.png|Alternate card art from Hall of Mirrors Gauntlet
+</gallery>
+
+==References==
+<references/>

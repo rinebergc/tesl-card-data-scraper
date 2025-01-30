@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nereid
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Farsight Nereid.png
+|power=3
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Reveal the top card of your opponent's deck.
+|summon=1
+|deckcode=gd
+}}
+
+==Notes==
+* This was originally a rare card, but was changed around 10/2016 to help balance quality of common cards. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+*[[Lore:Nereid|Nereid]]s first [[ON:Nereid|appeared]] in [[Online:Online|ESO]]
+
+==Gallery==
+<gallery>
+File:LG-card-Farsight Nereid Old Client.png|Old client card image
+File:LG-cardart-Farsight Nereid.png|Card art
+File:LG-cardart-Farsight Nereid (China).png|Chinese card art
+</gallery>
+
+==References==
+<references/>

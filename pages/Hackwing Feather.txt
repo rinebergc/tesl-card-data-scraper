@@ -1,0 +1,23 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Endurance
+|cost=3
+|image=LG-card-Hackwing Feather.png
+|rarity=Epic
+|ability='''[[Legends:Regenerate|Regenerate]]'''</br>+1/+3
+|regenerate=1
+|deckcode=hM
+}} It can be obtained from the '''Loot''' option in [[Legends:Unwelcome Intrusion|Unwelcome Intrusion]].
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is obtainable in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck as a potential reward from [[LG:Unwelcome Intrusion|Unwelcome Intrusion]].
+
+==Notes==
+*The card is named for [[Lore:Hackwing|Hackwing]]s, vicious flying creatures found in [[Lore:Black Marsh|Black Marsh]], first mentioned in ''[[Lore:The Argonian Account|The Argonian Account]]'' as birds.
+
+==Gallery==
+<gallery>
+File:LG-card-Hackwing Feather Old Client.png|Old client card image
+File:LG-cardart-Hackwing Feather.png|Card art
+</gallery>

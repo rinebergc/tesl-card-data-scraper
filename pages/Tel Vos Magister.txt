@@ -1,0 +1,35 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Tel Vos Magister.png
+|power=5
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Ward|Ward]]'''<br>At the end of your turn, if Tel Vos Magister has a Ward, you gain a Ward.
+|ward=1
+|uniqueability=1
+|deckcode=qd
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Perhaps we can help one another.}}
+{{Legends Audio 2|use=attack|text=Sorry it had to come to this.}}
+
+==Notes==
+*The card's ongoing ability was previously ''"At the end of your turn, you gain a Ward"'', until this was changed in [[Legends:Patch/1.72.4|patch 1.72.4]].
+*The card is named for [[Lore:Tel Vos|Tel Vos]], which first [[Morrowind:Tel Vos|appeared]] in ''[[Morrowind:Morrowind|Morrowind]]'', and later [[Online:Tel Vos|reappeared]] in [[Online:Online|ESO]].
+*The card's art depicts [[Morrowind:Aryon|Aryon]], who first appeared in ''Morrowind'' as Tel Vos's magister. 
+
+==Gallery==
+<gallery>
+File:LG-card-Tel Vos Magister Old Client.png|Old client card image
+File:LG-cardart-Tel Vos Magister.png|Card art
+File:LG-cardart-Tel Vos Magister 02.jpg|High resolution card art
+</gallery>

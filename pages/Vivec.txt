@@ -1,0 +1,35 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=God
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=5
+|image=LG-card-Vivec.png
+|power=5
+|health=5
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Exalt|Exalt 3]]:''' +5/+5<br>While you have an Exalted creature in play, you can't lose the game.
+|exalt=1
+|uniqueability=1
+|deckcode=rt
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Godhood is like juggling – things are always moving.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=Let the faithful hold back the darkness as I have written.}}
+{{Legends Audio 2|use=attack|text=Feel the wrath of a living god!}}
+
+==Notes==
+*The card's ability applies the '''Vivec's Protection''' card effect to itself and the '''Immortal''' effect to you.
+*The card's exalt ability applies the '''Warrior Poet''' card effect.
+*Vivec's second ability will prevent game loss from {{Card|Out of Cards}} as that only reduces your health to 0, but not from alternative win conditions like {{Card|Jarl Balgruuf}}, {{Card|Unite the Houses}}, or {{Card|Time is Running Out!}}.
+*[[Lore:Vivec|Vivec]] also appeared in ''[[MW:Vivec (god)|Morrowind]]'' and [[ON:Vivec|ESO]].
+*The audio played when this card is summoned is a reference to Vivec's dialogue in ''Morrowind''. If asked about being a god, he would reply, ''"It is like being a juggler. Things are always moving, and you learn to know where they are without even thinking about it."''
+
+==Gallery==
+<gallery>
+File:LG-card-Vivec Old Client.png|Old client card image
+File:LG-cardart-Vivec.jpg|Card art
+</gallery>

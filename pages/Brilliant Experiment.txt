@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Brilliant Experiment.png
+|rarity=Epic
+|ability=Draw a [[LG:Copy|copy]] of a friendly creature.
+|copy=1
+|deckcode=cs
+}}
+
+==Notes==
+*The card's art depicts a [[Lore:Golden Saint|Golden Saint]] being summoned.
+* This card originally cost 2, but was changed in 11/2016 because it was too efficient at 2-cost, and at 3-cost it would feel like more of a cost to create a copy of your best creature. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letters-from-the-devs-nov-2016 Letter from the Devs] on Bethesda.net, November 2, 2016}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Brilliant Experiment Old Client.png|Old client card image
+File:LG-cardart-Brilliant Experiment.png|Card art
+</gallery>
+
+==References==
+<references/>

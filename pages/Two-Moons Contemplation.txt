@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Willpower
+|cost=3
+|image=LG-card-Two-Moons Contemplation.png
+|power=
+|health=
+|uses=Ongoing
+|rarity=Rare
+|ability=If your opponent doesn't damage you on their turn, [[LG:Sacrifice|sacrifice]] this and summon a '''~Priest of the Moons~~''' in each lane.
+|asacrifice=1
+|deckcode=qX
+}} 
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Audio==
+:'''When played:''' ''"Ohm....."''
+
+==Gallery==
+<gallery>
+File:LG-card-Two-Moons Contemplation Old Client.png|Old client card image
+File:LG-cardart-Two-Moons Contemplation.jpg|Card art
+File:LG-cardart-Two-Moons Contemplation 02.jpg|Cropped version of higher resolution
+</gallery>

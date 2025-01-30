@@ -1,0 +1,28 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|availability=Isle of Madness
+|attribute=Willpower
+|cost=5
+|image=LG-card-Heretic Conjurer.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''</br>'''[[Legends:Pilfer|Pilfer]]:''' Creatures you summon this turn are transformed into random [[Legends:Daedra|Daedra]].
+|summon=1
+|pilfer=1
+|deckcode=ib
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Sheogorath will bleed!}}
+{{Legends Audio 2|use=attack|text=For the glory of [[Lore:Arden-Sul|Arden-Sul]].}}
+
+==Notes==
+*Heretics first [[SI:Heretic|appeared]] in the ''[[Shivering:Shivering Isles|Shivering Isles]]'' expansion for ''[[Oblivion:Oblivion|Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Heretic Conjurer.png|Card art
+</gallery>

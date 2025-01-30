@@ -1,0 +1,30 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Endurance
+|availability=Dark Brotherhood
+|image=LG-card-Wrath of Sithis.png
+|type=Creature
+|subtype=Spirit
+|cost=6
+|power=5
+|health=6
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Your opponent's cards cost 1 more next turn.
+|summon=1
+|deckcode=sd
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Accuse Varlyn|Accuse Varlyn]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Accuse Varlyn.
+
+==Notes==
+*This card's summon ability applies the '''Sithis' Wrath''' card effect.
+*If Wrath of Sithis is summoned by your opponent during your turn, its effect will apply immediately rather than during your opponent's next turn or your next turn. 
+*The card is named for the mysterious punishment threatened by [[Lore:The Five Tenets|''The Five Tenets'']]. It depicts the [[Lore:Wrath of Sithis|Wrath of Sithis]] as it [[OB:Wrath of Sithis|appeared]] in ''[[OB:Oblivion|Oblivion]]''.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Wrath of Sithis Old Client.png|Old client card image
+File:LG-cardart-Wrath of Sithis.png|Card art
+</gallery>

@@ -1,0 +1,28 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|cost=3
+|uses=3
+|activate=1
+|rarity=Epic
+|image=LG-card-Heroic Rebirth.png
+|attribute=Neutral
+|availability=Monthly Card
+|ability='''[[Legends:Activate|Activate]]:''' [[LG:Transform|Transform]] a creature card in your hand into a random '''{{hover|Unique card|Legend}}'''.
+|transform=1
+|deckcode=id
+}} The card has been noted by the ''Legends'' devs as being a ''"powerful late game card"'' useful as ''"a perfect way to add value to copies [of low-cost cards] you draw later on"''. {{ref|name=MonthlyCardReveal|[[https://legends.bethesda.net/articles/monthly-card-reveal-heroic-rebirth?locale=en Monthly Card Reveal]] from Bethesda.net, Feburary 2017}}
+
+==Availability==
+Heroic Rebirth was the [[Legends:Monthly Card|monthly card]] for February 2017. 
+
+==Gallery==
+<gallery>
+File:LG-card-Heroic Rebirth Old Client.png|Old client card image
+File:LG-cardart-Heroic Rebirth 03.png|Card art
+File:LG-cardart-Heroic Rebirth 02.jpg|Larger, cropped
+File:LG-cardart-Heroic Rebirth.jpg|Cropped version of higher resolution
+</gallery>
+
+==References==
+<references/>

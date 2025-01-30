@@ -1,0 +1,20 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Agility
+|cost=6
+|image=LG-card-Ransack.png
+|rarity=Rare
+|ability='''[[LG:Prophecy|Prophecy]]'''</br>Deal 3 damage and gain 3 health.
+|prophecy=1
+|deckcode=mF
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+==Gallery==
+
+<gallery>
+File:LG-card-Ransack Old Client.png|Old client card image
+File:LG-cardart-Ransack.png|Card art
+</gallery>

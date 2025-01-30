@@ -1,0 +1,33 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Endurance
+|availability=Dark Brotherhood
+|image=LG-card-Falkreath Defiler.png
+|type=Creature
+|subtype=Imperial
+|cost=4
+|power=3
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Slay|Slay]]:''' Draw a creature from your discard pile.
+|slay=1
+|deckcode=ga
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Hall of the Dead|Hall of the Dead]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Hall of the Dead.
+
+==Audio==
+{{Legends Audio 2|card=falkreath graverobber|use=enter play|text=Steal from folks who ain't usin' it, that's the key.}}
+{{Legends Audio 2|card=falkreath graverobber|use=attack|text=I wasn't looking for trouble!}}
+
+==Notes==
+*The card's ability applies the '''Risen Dead''' card effect.
+*The card is named for the [[Lore:Skyrim|Skyrim]] town of [[Lore:Falkreath|Falkreath]].
+*This card was nerfed by changing its slay effect from "Summon" to "Draw" so the creatures are now returned to your hand instead of the board in [[Legends:Patch/2.11|Patch 2.11]].
+
+==Gallery==
+<gallery>
+File:LG-card-Falkreath Defiler Old Client.png|Old client card image
+File:LG-cardart-Falkreath Defiler.png|Card art
+</gallery>

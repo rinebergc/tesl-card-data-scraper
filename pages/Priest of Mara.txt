@@ -1,0 +1,28 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=3
+|image=LG-card-Priest of Mara.png
+|power=2
+|health=5
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Summon|Summon]]:''' [[Legends:Equip|Equip]] an '''~Amulet of Mara~~''' to an enemy creature and another friendly creature without '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=yL
+}}
+
+==Availability==
+Priest of Mara was the [[Legends:Monthly Card|monthly card]] for May 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through [[LG:Soul Summoning|soul summoning]].
+
+==Audio==
+{{Legends Audio 2|card=Priestess of Mara|use=enter play|text=Live soberly and peacefully.}}
+{{Legends Audio 2|card=Priestess of Mara|use=attack|text=We must keep our homes secure!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Priest of Mara.png|Card art
+</gallery>

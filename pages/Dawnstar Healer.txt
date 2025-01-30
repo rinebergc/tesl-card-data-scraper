@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Willpower
+|cost=3
+|image=LG-card-Dawnstar Healer.png
+|power=3
+|health=3
+|rarity=Epic
+|ability=After an enemy [[Legends:Rune|rune]] is destroyed, you gain 3 health.
+|uniqueability=1
+|brune=1
+|deckcode=el
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I've got you covered.|text2=They won't get past me!|text3=You like to dance close to the fire, don't you?}}
+{{Legends Audio 2|use=attack|text=Don't mess with me!|text2=I've got skulls to crack!|text3=Die, you milkdrinker!}}
+
+==Notes==
+*Prior to July 2017 and Update 65.2, the card's ability read "When an enemy rune is destroyed, you gain 3 health." This was changed to allow more interactivity with runes and [[Legends:Prophecy|prophecies]].
+*The Daedric script of the healing spell reads {{DaedricFont|size=small|ON YOUR FEET YOU LAZY BUM}} which transliterate to: "on your feet you lazy bum".
+*The card is named for the [[Lore:Skyrim|Skyrim]] town of [[Lore:Dawnstar|Dawnstar]].
+
+==Gallery==
+<gallery>
+File:LG-card-Dawnstar Healer Old Client.png|Old client card image
+File:LG-cardart-Dawnstar Healer.png|Card art
+File:LG-cardart-Dawnstar Healer (China).png|Chinese card art
+</gallery>

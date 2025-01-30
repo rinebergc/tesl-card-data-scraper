@@ -1,0 +1,31 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Alliance War
+|attribute=Agility
+|cost=7
+|image=LG-card-Sai Sahan.png
+|power=6
+|health=3
+|rarity=Legendary
+|unique=1
+|ability=Immune to '''[[Legends:Wounded|Wounded]]''' enemy creatures.<br>'''[[Legends:Summon|Summon]]:''' Give all enemy creatures -1/-1.
+|uniqueability=1
+|summon=1
+|awounded=1
+|deckcode=uf
+}}
+==Audio==
+{{Legends Audio 2|card=Sai Sahan|use=enter play|text=I will keep the Amulet safe from harm.}}
+{{Legends Audio 2|card=Sai Sahan|use=attack|text=You've angered me. That was a fatal mistake.}}
+
+==Notes==
+*[[Online:Sai Sahan|Sai Sahan]] first appeared in [[Online:Online|ESO]].
+*See the [[Lore:Sai Sahan|Lore page]] for more information.
+*This card's summon ability applies the '''Legion Slayer''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Sai Sahan.png|Card art
+</gallery>

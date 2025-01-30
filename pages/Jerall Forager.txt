@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Basic Card
+|attribute=Strength
+|cost=2
+|power=2
+|health=2
+|image=LG-card-Jerall Forager.png
+|rarity=Common
+|ability=
+|deckcode=je
+}}
+
+==Availability==
+One copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I beat them to death!|text2=I think they are looking for a taste of the axe!}}
+{{Legends Audio 2|use=attack|text=[[Lore:Ysgramor|Ysgramor]]!|text2=To [[Lore:Sovngarde|Sovngarde]] with you!|text3=Die beast!}}
+
+==Notes==
+*The card is named for the [[Lore:Jerall Mountains|Jerall Mountains]].
+
+==Gallery==
+<gallery>
+File:LG-card-Jerall Forager Old Client.png|Old client card image
+File:LG-cardart-Jerall Forager.png|Card art
+</gallery>

@@ -1,0 +1,33 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Twin Lamps Consul.png
+|cost=3
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[Legends:Plot|Plot]]: [[Legends:Lethal|Lethal]]''' and '''[[Legends:Guard|Guard]]'''.
+|plot=1
+|alethal=1
+|aguard=1
+|deckcode=qW
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Always courtesy first.}}
+{{Legends Audio 2|use=attack|text=There are limits to good manners.}}
+
+==Notes==
+*This card depicts [[Lore:Im-Kilaya|Im-Kilaya]] of the [[Morrowind:Twin Lamps|Twin Lamps]], who first [[Morrowind:Im-Kilaya|appeared]] in ''[[Morrowind:Morrowind|TES III: Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Twin Lamps Consul Old Client.png|Old client card image
+File:LG-cardart-Twin Lamps Consul.png|Card art
+</gallery>

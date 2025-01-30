@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=4
+|image=LG-card-Candlehearth Brawler.png
+|power=2
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Charge|Charge]]''', '''[[Legends:Guard|Guard]]'''
+|charge=1
+|guard=1
+|deckcode=cM
+}}
+
+==Audio==
+{{Legends Audio 2|card=falkreath adventurer|use=enter play|text=Easy as hunting a red skeever in the snow.}}
+{{Legends Audio 2|card=falkreath adventurer|use=attack|text=Sovngarde awaits you!}}
+
+==Notes==
+*[[Skyrim:Candlehearth Hall|Candlehearth Hall]] is an inn in ''[[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+<gallery>
+File:LG-card-Candlehearth Brawler Old Client.png|Old client card image
+File:LG-cardart-Candlehearth Brawler.png|Card art
+</gallery>

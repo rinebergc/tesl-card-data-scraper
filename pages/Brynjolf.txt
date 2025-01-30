@@ -1,0 +1,36 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=5
+|image=LG-card-Brynjolf.png
+|power=4
+|health=5
+|rarity=Legendary
+|obtainable=Yes
+|ability='''[[Legends:Drain|Drain]]'''</br>When a friendly creature '''[[Legends:Pilfer|Pilfers]]''' or Drains, gain 1 [[LG:Magicka|magicka]] this turn.
+|drain=1
+|unique=1
+|uniqueability=1
+|apilfer=1
+|deckcode=cz
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Brynjolf's Heist|Brynjolf's Heist]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Shall we put in a dishonest day's work?}}
+{{Legends Audio 2|use=attack|text=I can smell your fear.}}
+
+==Notes==
+*[[Skyrim:Brynjolf|Brynjolf]] first appeared in [[Skyrim:Skyrim|Skyrim]].
+**For more information on recurring characters, please [[Legends:Brynjolf (character)|see the main article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Brynjolf Old Client.png|Old client card image
+File:LG-cardart-Brynjolf.jpg|Card art
+</gallery>

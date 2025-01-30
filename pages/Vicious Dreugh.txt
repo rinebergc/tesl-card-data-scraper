@@ -1,0 +1,27 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dreugh
+|attribute=Neutral
+|cost=4
+|image=LG-card-Vicious Dreugh.png
+|power=3
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]''': Destroy an enemy [[Legends:Support|support]].
+|summon=1
+|deckcode=rp
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Band of Survivors|Band of Survivors]] theme deck.
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Snapping Dreugh}} at level 5.
+*[[Lore:Dreugh|Dreugh]] are a race of crab-people who have appeared in ''[[Daggerfall:Dreugh|Daggerfall]]'', ''[[Morrowind:Dreugh|Morrowind]]'', ''[[Oblivion:Land Dreugh|Oblivion]]'', and [[Online:Dreugh|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Vicious Dreugh Old Client.png|Old client card image
+File:LG-cardart-Vicious Dreugh.png|Card art
+</gallery>

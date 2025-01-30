@@ -1,0 +1,32 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=3
+|image=LG-card-Cliffside Lookout.png
+|power=2
+|health=5
+|rarity=Common
+|uniqueability=1
+|ability=When you summon a [[Legends:Dragon|Dragon]], Cliffside Lookout gains +1/+1.
+|deckcode=dk
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, three copies are included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Audio==
+{{Legends Audio 2|card=falkreath ranger|use=enter play|text=Break through their defenses!|text2=We can do this!}}
+{{Legends Audio 2|card=falkreath ranger|use=attack|text=For Falkreath!|text2=Sovngarde awaits you!|text3=I have you now!}}
+
+==Notes==
+*This card's ability applies the '''Forewarned''' card effect.
+*The card's attacking audio, ''"For Falkreath!"'', refers to the [[Lore:Skyrim|Skyrim]] town of [[Lore:Falkreath|Falkreath]], which first [[Arena:Falcrenth|appeared]] in [[Arena:Arena|''Arena'']], and later [[Skyrim:Falkreath|reappeared]] in [[Skyrim:Skyrim|''Skyrim'']] and in [[Online:Falkreath Hold|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Cliffside Lookout Old Client.png|Old client card image
+File:LG-cardart-Cliffside Lookout.png|Card art
+</gallery>

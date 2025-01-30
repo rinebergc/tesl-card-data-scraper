@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=3
+|image=LG-card-Three Feather Warchief.png
+|power=1
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Set a creature's health to 1.
+|summon=1
+|deckcode=yy
+}}
+
+==Notes==
+*The [[Oblivion:Goblins#Three Feather Tribe|Three Feather Tribe]] also appears in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+*This card's ability applies the '''Warchief's Howl''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Three Feather Warchief.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=2
+|image=LG-card-Barter.png
+|rarity=Epic
+|ability=Trade a card in your hand for a random card in your opponent's hand.
+|deckcode=bE
+|altartdeckcode=Ai
+}}
+
+==Notes==
+*The card's art likely depicts the [[Lore:Riften|Riften]] marketplace. Some objects of note are [[Lore:Azura's Star|Azura's Star]], the [[Lore:Dragon Priest Masks|mask]] of a [[Lore:Dragon Priest|Dragon Priest]], a bowl of [[Lore:Briar Heart|briar hearts]], a bucket of [[Skyrim:Other Unique Items|paragons]], the [[SR:Queen Bee Statue|Queen Bee Statue]] that could be [[SR:The Litany of Larceny|pilfered]] in ''[[SR:Skyrim|Skyrim]]'', and a [[Lore:Skooma|skooma]] bottle in the adventurer's hand. Additionally, a [[Lore:Stalhrim|stalhrim]] sword and a pair of [[Lore:Malachite|glass]] daggers are present in the full art, but cropped on the card itself.
+
+==Gallery==
+<gallery>
+File:LG-card-Barter Old Client.png|Old client card image
+File:LG-cardart-Barter.png|Card art
+File:LG-cardart-Barter Alt.png|Alternate art
+</gallery>
+
+[[Category:Legends-Cards with Alternate Art]]

@@ -1,0 +1,29 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=4
+|image=LG-card-Shrewd Strategist.png
+|power=4
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Consume|Consume]]''' a creature. Give all creatures in your hand and deck with the same name +2/+2.
+|summon=1
+|consume=1
+|deckcode=vT
+}}
+
+==Audio==
+{{Legends Audio 2|card=Prefect Calo|use=enter play|text=A good plan is worth a hundred men.}}
+{{Legends Audio 2|card=Prefect Calo|use=attack|text=Why must it always come to violence?}}
+
+==Notes==
+*This card's consume ability applies the '''Necessary Sacrifices''' card effect.
+*The card's art depicts [[Online:Prefect Calo|Prefect Calo]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Shrewd Strategist.jpg|Card art
+</gallery>

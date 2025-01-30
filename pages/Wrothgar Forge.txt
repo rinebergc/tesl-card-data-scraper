@@ -1,0 +1,21 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Strength
+|cost=7
+|image=LG-card-Wrothgar Forge.png
+|rarity=Epic
+|uses=Ongoing
+|ability=The first time you summon a creature each turn, [[LG:Equip|equip]] it with a random [[LG:Items|item]].
+|deckcode=sg
+}}
+
+==Notes==
+*The card is named for the [[Lore:Wrothgar|Wrothgar]] region.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Wrothgar Forge Old Client.png|Old client card image
+File:LG-cardart-Wrothgar Forge.png|Card art
+</gallery>

@@ -1,0 +1,30 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|availability=Isle of Madness
+|attribute=Willpower
+|cost=2
+|image=LG-card-Shining Saint.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Give a creature -2/-0 this turn. It loses '''[[Legends:Cover|Cover]]'''.
+|summon=1
+|acover=1
+|deckcode=oa
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The Aureal do not waste time chatting with mortals.}}
+{{Legends Audio 2|use=attack|text=Kneel before the Saints!}}
+
+==Notes==
+*This card depicts a Golden Saint. For more information, see the [[Lore:Golden Saint|lore article]].
+*This card's summon ability applies the '''Brought Low''' card effect.
+*This card was first revealed by [https://www.youtube.com/watch?v=HmKZZN5MBVo GicaForta].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Shining Saint.png|Card art
+</gallery>

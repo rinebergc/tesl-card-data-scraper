@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|attribute=Strength
+|cost=6
+|image=LG-card-Dread Clannfear.png
+|power=6
+|health=3
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]''': All enemy creatures lose '''[[LG:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=eT
+}}
+
+==Notes==
+* This card's summon ability applies the '''Frightened''' card effect.
+*[[Battlespire:Clannfear|Clannfear]]s first appeared in ''[[Battlespire:Battlespire|Battlespire]]'', and later reappeared in ''[[Morrowind:Clannfear|Morrowind]]'', ''[[Oblivion:Clannfear|Oblivion]]'', and [[Online:Clannfear|ESO]], while [[Online:Dread Clannfear|Dread Clannfear]] specifically were a variant that appeared in ESO.
+
+==Gallery==
+<gallery>
+File:LG-card-Dread Clannfear Old Client.png|Old client card image
+File:LG-cardart-Dread Clannfear.png|Card art
+</gallery>

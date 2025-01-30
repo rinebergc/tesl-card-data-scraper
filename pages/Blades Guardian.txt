@@ -1,0 +1,28 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Jaws of Oblivion
+|attribute=Willpower
+|cost=5
+|image=LG-card-Blades Guardian.png
+|power=4
+|health=5
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Give a creature in the other lane +1/+1 and Guard.
+|guard=1
+|summon=1
+|deckcode=yh
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=It's okay, stay behind me.}}
+{{Legends Audio 2|use=attack|text=Begone invader!}}
+
+==Notes==
+*This card's ability applies the '''Imperial Might''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Blades Guardian.png|Card art
+</gallery>

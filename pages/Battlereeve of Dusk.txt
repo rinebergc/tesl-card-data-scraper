@@ -1,0 +1,36 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|cost=6
+|type=Creature
+|subtype=High Elf
+|image=LG-card-Battlereeve_of_Dusk.png
+|attribute=Intelligence
+|availability=Monthly Card
+|power=3
+|health=3
+|rarity=Epic
+|ability='''[[LG:Summon|Summon]]''': Give friendly creatures +1/+1 for each '''[[LG:Keywords|Keyword]]''' they have.
+|summon=1
+|deckcode=bI
+}}
+
+==Availability==
+Battlereeve of Dusk was the [[Legends:Monthly Card|monthly card]] for November 2016. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=My troops are the finest in the Isles.|text2=Stendarr? Protect us.}}
+{{Legends Audio 2|use=attack|text=Magnus! Guide my blade!|text2=Trinimac!  Guide my blade!}}
+
+==Notes==
+*This card's summon ability applies the '''Dusky Skill''' card effect.
+*Note that only [[Legends:Keywords|Keywords]] will work, and not other card effects.
+*The card is named for the [[Lore:Summerset Isles|Summerset]] city of [[Lore:Dusk|Dusk]].
+
+==Gallery==
+<gallery>
+File:LG-card-Battlereeve of Dusk Old Client.png|Old client card image
+File:LG-cardart-Battlereeve of Dusk.png|Card art
+File:LG-cardart-Battlereeve of Dusk 03.png|Larger, cropped
+File:LG-cardart-Battlereeve of Dusk 02.png|Cropped version of higher resolution
+File:LG-cardart-Battlereeve of Dusk (China).png|Chinese card art
+</gallery>

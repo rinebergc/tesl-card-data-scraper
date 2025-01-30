@@ -1,0 +1,21 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Action
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Grave Grasp.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]<br>[[Legends:Shackle|Shackle]]''' an enemy creature. Summon a 1/1 '''~Skeleton~~''' for each enemy creature in its lane.
+|prophecy=1
+|shackle=1
+|deckcode=wr
+}}
+
+==Notes==
+* This card depicts the [[ON:Grave Grasp|Grave Grasp]] skill from [[ESO:Online|ESO]], an attack available to the [[ON:Necromancer|Necromancer]] class.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Grave Grasp.jpg|Card art
+</gallery>

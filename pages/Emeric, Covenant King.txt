@@ -1,0 +1,33 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|availability=Alliance War
+|class=Daggerfall Covenant
+|cost=9
+|image=LG-card-Emeric, Covenant King.png
+|power=7
+|health=7
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]: [[Legends:Battle|Battle]]''' an enemy creature.
+<center><hr style="width:75%;background-color:black"/></center>At the end of your turn, Emeric gains a '''[[Legends:Ward|Ward]]'''.
+|summon=1
+|uniqueability=1
+|award=1
+|battle=1
+|deckcode=sZ
+}}
+
+==Audio==
+{{Legends Audio 2|card=Emeric, Covenant King|use=enter play|text=We will win the day, or die trying!}}
+{{Legends Audio 2|card=Emeric, Covenant King|use=attack|text=Sometimes, victory means getting dirty. So be it!}}
+
+==Notes==
+*Emeric first [[Online:High King Emeric|appeared]] in [[Online:Online|ESO]].
+*Another card version of him exists, namely {{Card|High King Emeric}}.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Emeric, Covenant King.png|Card art
+</gallery>

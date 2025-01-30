@@ -1,0 +1,17 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Agility
+|cost=9
+|image=LG-card-Cliff Racer Onslaught.png
+|rarity=Legendary
+|ability=Summon a 4/4 '''~Cliff Racer~~''' with '''[[Legends:Charge|Charge]]''' in each lane. Your opponent summons a 0/1 '''~Target~~''' with '''[[Legends:Guard|Guard]]''' in each lane.
+|deckcode=di
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Cliff Racer Onslaught Old Client.png|Old client card image
+File:LG-cardart-Cliff Racer Onslaught.png|Card art
+</gallery>

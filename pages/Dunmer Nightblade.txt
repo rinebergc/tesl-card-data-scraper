@@ -1,0 +1,36 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Dunmer Nightblade.png
+|power=2
+|health=1
+|rarity=Common
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Put an '''~Iron Sword~~''' into your hand.
+|lastgasp=1
+|deckcode=fk
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck, and one copy in the [[Legends:Warriors of Hammerfell|Warriors of Hammerfell]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=By dawn and dusk, I move as a shadow.|text2=I am death on silent wings!}}
+{{Legends Audio 2|use=attack|text=Have at you, worthless s'wit!|text2=A pox on your House!|text3=Feel my sting!}}
+
+==Notes==
+*Nightblade is a class that has appeared in many ''Elder Scrolls'' games.
+*The card's summon audio, ''"By Dawn and Dusk, I move as a shadow"'', refers to the [[Lore:Daedric Princes|Daedric Prince]] [[Lore:Azura|Azura]].
+* This card originally gave a {{Card|Steel Sword}}, but this was changed to {{Card|Iron Sword}}  November 2016 because it was too "[[Legends:Terminology#Reach|bursty]]".{{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+
+==Gallery==
+<gallery>
+File:LG-card-Dunmer Nightblade Old Client.png|Old client card image
+File:LG-cardart-Dunmer Nightblade.png|Card art
+File:LG-cardart-Dunmer Nightblade (China).png|Chinese card art
+</gallery>
+
+==References==
+<references/>

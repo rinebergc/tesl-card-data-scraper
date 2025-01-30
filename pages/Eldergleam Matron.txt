@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spriggan
+|availability=Heroes of Skyrim
+|attribute=Agility
+|cost=3
+|image=LG-card-Eldergleam Matron.png
+|power=4
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Summon|Summon]]:''' Put a random '''[[LG:Creatures#Animal|Animal]]''' into your hand.
+|summon=1
+|deckcode=fD
+}}
+
+==Notes==
+*This card is a reference to [[Skyrim:Eldergleam Sanctuary|Eldergleam Sanctuary]] in ''[[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Eldergleam Matron Old Client.png|Old client card image
+File:LG-cardart-Eldergleam Matron.png|Card art
+</gallery>

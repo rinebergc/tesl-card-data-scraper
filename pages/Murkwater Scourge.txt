@@ -1,0 +1,24 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|attribute=Agility
+|cost=4
+|image=LG-card-Murkwater Scourge.png
+|power=3
+|health=1
+|rarity=Epic
+|availability=Monthly Card
+|ability='''[[Legends:Summon|Summon]]''' and '''[[Legends:Last Gasp|Last Gasp]]:''' Put a '''~Curse~~''' into your hand.
+|summon=1
+|lastgasp=1
+|deckcode=sp
+}}
+
+==Availability==
+Murkwater Scourge was the [[Legends:Monthly Card|monthly card]] for March 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Murkwater Scourge.png|Card art
+</gallery>

@@ -1,0 +1,20 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Action
+|availability=Isle of Madness
+|attribute=Strength
+|cost=4
+|image=LG-card-Drive Mad.png
+|rarity=Common
+|ability=A creature '''[[Legends:Battle|Battles]]''' itself.
+|battle=1
+|deckcode=fb
+}}
+
+==Audio==
+{{Legends Audio 2|text=[mad screams and laughter]}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Drive Mad.png|Card art
+</gallery>

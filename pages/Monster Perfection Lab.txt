@@ -1,0 +1,22 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|class=Battlemage
+|cost=1
+|image=LG-card-Monster Perfection Lab.png
+|rarity=Epic
+|availability=Monthly Card
+|uses=Ongoing
+|ability=At the end of your turn, you may choose a friendly creature wielding three or more items. If you do, [[Legends:Sacrifice|sacrifice]] Monster Perfection Lab and choose an item from your deck to [[Legends:Equip|equip]] to the creature.
+|deckcode=yQ
+}}
+
+==Availability==
+Monster Perfection Lab was the [[Legends:Monthly Card|monthly card]] for July 2020. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards after February 2019, the premium version was awarded to the top 1000 [[Legends:Ranked|ranked]] players or can be obtained through soul-summoning.
+
+==Notes==
+*This is the only Dual-Attribute Support card.
+==Gallery==
+<gallery>
+File:LG-cardart-Monster Perfection Lab.png|Card art
+</gallery>

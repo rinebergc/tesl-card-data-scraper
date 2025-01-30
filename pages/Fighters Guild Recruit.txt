@@ -1,0 +1,37 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Agility
+|cost=2
+|image=LG-card-Fighters Guild Recruit.png
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]''', '''[[Legends:Lethal|Lethal]]'''
+|prophecy=1
+|guard=1
+|lethal=1
+|deckcode=gs
+|altartdeckcode=xf
+|altart=[[Legends:Grand Melee|Grand Melee]] June 2021
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], three copies are included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck, and two copies in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I do not fear death.|text2=If I fall, the Hist will reclaim me.}}
+{{Legends Audio 2|use=attack|text=I will end you!|text2=To Oblivion with you!|text3=Chaos take you!}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Guild Recruit}} at level 6.
+*The card is named for the [[Lore:Fighters Guild|Fighters Guild]].
+
+==Gallery==
+<gallery>
+File:LG-card-Fighters Guild Recruit Old Client.png|Old client card image
+File:LG-card-Fighters Guild Recruit Alt.png|Alternate card from Grand Melee
+File:LG-cardart-Fighters Guild Recruit.png|Card art
+File:LG-cardart-Fighters Guild Recruit Alt.png|Alternate art
+</gallery>

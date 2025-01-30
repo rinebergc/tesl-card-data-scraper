@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Alliance War
+|attribute=Agility
+|cost=6
+|image=LG-card-Invoker of the Hist.png
+|power=3
+|health=6
+|rarity=Legendary
+|ability='''[[Legends:Veteran|Veteran]]:''' Restore your magicka.
+|veteran=1
+|deckcode=uy
+}}
+==Audio==
+{{Legends Audio 2|card=Invoker of the Hist|use=enter play|text=The bounty of the Hist gives us all we need.}}
+{{Legends Audio 2|card=Invoker of the Hist|use=attack|text=You will feed the roots!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Invoker of the Hist.png|Card art
+</gallery>

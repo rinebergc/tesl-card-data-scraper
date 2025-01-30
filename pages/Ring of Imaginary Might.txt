@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Item
+|availability=Madhouse Collection
+|attribute=Endurance
+|cost=4
+|image=LG-card-Ring of Imaginary Might.png
+|power=
+|health=
+|rarity=Rare
+|ability=+0/+2<br>'''[[LG:Summon|Summon]]''': The wielder's power becomes equal to its health
+|summon=1
+|deckcode=nl
+}}
+
+==Notes==
+*When first revealed, Paul Dennen, Creative Director at Direwolf Digital, described the card as follows: ''"The search for a wielder of a Ring of Imaginary Might is fairly straightforward – you'll want creatures with low power but high health. For these creatures, the Ring provides a significant buff. For example, an Oldgate Warden (0/5 with Regenerate) would love to get his hands on this item. The Warden is normally a defensive, quiet fellow, but give him the ring and he'll be drunk with power, smashing in as a 7/7 with Regenerate!"''
+
+==Gallery==
+<gallery>
+File:LG-card-Ring of Imaginary Might Old Client.png|Old client card image
+File:LG-cardart-Ring of Imaginary Might.png|Card art
+File:LG-cardart-Ring of Imaginary Might 03.png|Larger, cropped
+File:LG-cardart-Ring of Imaginary Might 02.png|Cropped version of higher resolution
+</gallery>

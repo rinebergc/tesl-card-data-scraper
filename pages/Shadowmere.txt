@@ -1,0 +1,30 @@
+{{Mod Header|Dark Brotherhood}}{{about|the card|the puzzle in Divayth Fyr's Trials|Shadowmere (puzzle)}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Neutral
+|type=Creature
+|subtype=Beast
+|image=LG-card-Shadowmere.png
+|cost=1
+|unique=1
+|power=1
+|health=1
+|rarity=Legendary
+|ability='''[[Legends:Charge|Charge]]'''<br>'''[[Legends:Last Gasp|Last Gasp]]''': Shuffle Shadowmere into your deck, give it +3/+3, and increase its cost by 3.
+|charge=1
+|lastgasp=1
+|deckcode=nR
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Night Mother's Crypt Part 2|Night Mother's Crypt Part 2]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Night Mother's Crypt Part 2.
+
+==Notes==
+*Shadowmere's Last Gasp ability is inconsistently applied; all stat and cost modifiers are purged, as well as temporary card effects such as pilfer and slay, while Keywords are preserved (though they do not appear on Shadowmere until he is played).
+*[[Lore:Shadowmere|Shadowmere]] first [[Oblivion:Shadowmere|appeared]] in [[Oblivion:Oblivion|Oblivion]], and later [[Skyrim:Shadowmere|reappeared]] in [[Skyrim:Skyrim|Skyrim]].
+
+==Gallery==
+<gallery>
+File:LG-card-Shadowmere Old Client.png|Old client card image
+File:LG-cardart-Shadowmere.png|Card art
+</gallery>

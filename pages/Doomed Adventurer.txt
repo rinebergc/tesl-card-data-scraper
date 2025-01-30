@@ -1,0 +1,27 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=1
+|image=LG-card-Doomed Adventurer.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Give a random creature in your hand +2/+2.
+|lastgasp=1
+|deckcode=ys
+}}
+
+==Audio==
+{{Legends Audio 2|card=Morthal Villager|use=enter play|text=Huh, did you hear that?}}
+{{Legends Audio 2|card=Morthal Villager|use=attack|text=I know you're out there!}}
+
+==Notes==
+*This card's ability applies the '''Found Goods''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Doomed Adventurer.png|Card art
+</gallery>

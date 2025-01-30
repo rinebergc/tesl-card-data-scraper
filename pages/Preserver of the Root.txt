@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|attribute=Endurance
+|cost=4
+|image=LG-card-Preserver of the Root.png
+|power=4
+|health=4
+|rarity=Epic
+|ability=+2/+2 and '''[[Legends:Guard|Guard]]''' while you have 7 or more max [[LG:Magicka|magicka]].
+|aguard=1
+|deckcode=mm
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck, and one copy in the [[Legends:Black Marsh Smugglers|Black Marsh Smugglers]] deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I will protect the Hist.|text2=Back off, dry-skin.}}
+{{Legends Audio 2|use=attack|text=Death take you!|text2=By bark and root!|text3=For the Hist!}}
+
+==Notes==
+*This card's ability applies the '''Root Guardian''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Preserver of the Root Old Client.png|Old client card image
+File:LG-cardart-Preserver of the Root.png|Card art
+File:LG-cardart-Preserver of the Root 03.jpg|Larger, cropped
+File:LG-cardart-Preserver of the Root 02.jpg|Cropped version of higher resolution
+</gallery>

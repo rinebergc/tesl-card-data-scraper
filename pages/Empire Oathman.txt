@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Endurance
+|cost=4
+|image=LG-card-Empire Oathman.png
+|power=4
+|health=4
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a...<br>{{LG Attribute Icon|Agility}} card in play, give other friendly creatures +1/+0.<br>{{LG Attribute Icon|Willpower}} card in play, give other friendly creatures +0/+1.
+|summon=1
+|deckcode=sQ
+}}
+==Audio==
+{{Legends Audio 2|card=Empire Oathman|use=enter play|text=Move aside! Imperial business.}}
+{{Legends Audio 2|card=Empire Oathman|use=attack|text=Get out of my sight, peasant.}}
+==Notes==
+*This card's summon ability applies the '''Imperial Vim''' and '''Imperial Vigor''' card effects.
+==Gallery==
+<gallery>
+File:LG-cardart-Empire Oathman.png|Card art
+</gallery>

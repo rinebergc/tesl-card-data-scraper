@@ -1,0 +1,32 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|cost=4
+|type=Creature
+|subtype=Orc
+|image=LG-card-Dushnikh Yal Archer.png
+|availability=Monthly Card
+|power=3
+|health=3
+|attribute=Strength
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[LG:Summon|Summon]]:''' Deal 1 damage or destroy an enemy [[LG:Supports|support]].
+|guard=1
+|summon=1
+|deckcode=fl
+}}
+
+==Availability==
+Dushnikh Yal Archer was the [[Legends:Monthly Card|monthly card]] for October 2017. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. As with all other monthly cards, the premium version was not awarded to anybody and must be obtained through soul-summoning.
+
+==Audio==
+{{Legends Audio 2|card=Dushnik Yal Archer|use=enter play|text=We must protect our stronghold.}}
+{{Legends Audio 2|card=Dushnik Yal Archer|use=attack|text=They're in my sights.}}
+
+==Notes==
+*The card art depicts [[Skyrim:Arob|Arob]], who first appeared in ''[[Skyrim:Skyrim|Skyrim]]''. She is the hunts-wife of [[Skyrim:Chief_Burguk|Chief Burguk]] of [[Skyrim:Dushnikh_Yal|Dushnikh Yal]], an orc settlement in the Reach.
+
+==Gallery==
+<gallery>
+File:LG-card-Dushnikh Yal Archer Old Client.png|Old client card image
+File:LG-cardart-Dushnikh Yal Archer.jpg|Card art
+</gallery>

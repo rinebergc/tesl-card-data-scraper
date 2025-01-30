@@ -1,0 +1,21 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=3
+|image=LG-card-Cast Out.png
+|rarity=Rare
+|ability='''[[LG:Prophecy|Prophecy]]'''<br>'''[[Legends:Unsummon|Unsummon]]''' a creature.
+|prophecy=1
+|unsummon=1
+|deckcode=cP
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck. One copy is also obtainable in the [[Legends:Band of Survivors|Band of Survivors]] deck as a potential reward from [[LG:The Hungry Pack|The Hungry Pack]].
+
+==Gallery==
+<gallery>
+File:LG-card-Cast Out Old Client.png|Old client card image
+File:LG-cardart-Cast Out.png|Card art
+</gallery>

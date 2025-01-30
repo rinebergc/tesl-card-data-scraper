@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Reachman
+|attribute=Neutral
+|cost=3
+|image=LG-card-Forsworn Guide.png
+|power=1
+|health=1
+|rarity=Rare
+|ability='''[[LG:Summon|Summon]]:''' '''[[Legends:Unsummon|Unsummon]]''' another friendly creature to give Forsworn Guide +2/+2.
+|summon=1
+|unsummon=1
+|deckcode=gF
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I'll fight till my last breath!}}
+{{Legends Audio 2|use=attack|text=The Reach is ours!}}
+
+==Notes==
+*This card's summon ability applies the '''Reachman Guidance''' card effect.
+*The card is named for the [[Lore:Forsworn|Forsworn]], a tribe of [[Lore:Reachmen|Reachmen]] active in the Fourth Era.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Forsworn Guide Old Client.png|Old client card image
+File:LG-cardart-Forsworn Guide.png|Card art
+</gallery>

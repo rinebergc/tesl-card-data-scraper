@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Strength
+|cost=1
+|image=LG-card-Corprus Disease.png
+|rarity=Rare
+|ability='''[[Legends:Silence|Silence]]''' a creature, then give it +2/+0.
+|silence=1
+|deckcode=dz
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Notes==
+*This card applies the '''Corprus''' card effect.
+*This card depicts a [[Lore:Dunmer|Dunmer]] afflicted with an advanced case of [[Lore:Corprus|Corprus]].
+
+==Gallery==
+<gallery>
+File:LG-card-Corprus Disease Old Client.png|Old client card image
+File:LG-cardart-Corprus Disease.png|Card art
+File:LG-cardart-Corprus Disease (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,19 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Action
+|availability=Jaws of Oblivion
+|attribute=Neutral
+|cost=12
+|image=LG-card-Painted World.png
+|rarity=Epic
+|ability=Costs 2 less for each attribute you have in play. Costs 2 less if you have a {{LG Attribute Icon|Neutral}} card in play. Summon a '''~Painted Troll~~''' in each lane.
+|deckcode=xB
+}}
+
+==Notes==
+*The Painted World also [[Oblivion:Painted_World|appeared]] in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Painted World.png|Card art
+</gallery>

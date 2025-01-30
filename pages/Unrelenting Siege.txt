@@ -1,0 +1,17 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|attribute=Agility
+|cost=4
+|image=LG-card-Unrelenting Siege.png
+|uses=Ongoing
+|rarity=Legendary
+|ability=Friendly creatures with 1 power may attack an extra time each turn.
+|uniqueability=1
+|deckcode=td
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Unrelenting Siege.png|Card art
+</gallery>

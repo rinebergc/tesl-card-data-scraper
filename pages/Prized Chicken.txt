@@ -1,0 +1,27 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=5
+|image=LG-card-Prized Chicken.png
+|power=0
+|health=1
+|rarity=Epic
+|obtainable=Yes
+|ability='''[[Legends:Last Gasp|Last Gasp]]''': Fill this lane with 1/1 '''~Angry Villager~Angry Villagers~'''.
+|lastgasp=1
+|deckcode=mr
+}}
+
+==Notes==
+* This card is a reference to Skyrim, where if you kill a chicken in the middle of a town, all inhabitants will become hostile to the player.
+* This card uses the same artwork as the {{Card|Chicken}} card.
+
+==Gallery==
+
+<gallery>
+File:LG-card-Prized Chicken Old Client.png|Old client card image
+File:LG-cardart-Prized Chicken.png|Card art
+</gallery>

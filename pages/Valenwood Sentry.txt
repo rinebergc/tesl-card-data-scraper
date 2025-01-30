@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Alliance War
+|attribute=Agility
+|cost=4
+|image=LG-card-Valenwood Sentry.png
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Guard|Guard]]'''
+|prophecy=1
+|guard=1
+|deckcode=uv
+}}
+==Audio==
+{{Legends Audio 2|card=Valenwood Sentry|use=enter play|text=There's nowhere they'll hide from me.}}
+{{Legends Audio 2|card=Valenwood Sentry|use=attack|text=You'll be more useful fertilizing the forest.}}
+==Gallery==
+<gallery>
+File:LG-cardart-Valenwood Sentry.png|Card art
+</gallery>

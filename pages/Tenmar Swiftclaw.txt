@@ -1,0 +1,30 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Agility
+|cost=4
+|image=LG-card-Tenmar Swiftclaw.png
+|power=2
+|health=2
+|rarity=Epic
+|ability='''[[Legends:Pilfer|Pilfer]]''': +1/+1</br>May attack an extra time each turn.
+|pilfer=1
+|uniqueability=1
+|deckcode=qj
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=This one has been sharpening her claws all day.|text2=Khajiit is a five-clawed killer!}}
+{{Legends Audio 2|use=attack|text=Die, furless one!|text2=Khajiit's claws are sharp!|text3=Time to finish this!}}
+
+==Notes==
+*This card's pilfer ability applies the '''Swift Claws''' card effect.
+*The card is named for the [[Lore:Tenmar Forest|Tenmar Forest]].
+
+==Gallery==
+<gallery>
+File:LG-card-Tenmar Swiftclaw Old Client.png|Old client card image
+File:LG-cardart-Tenmar Swiftclaw.png|Card art
+File:LG-cardart-Tenmar Swiftclaw (China).png|Chinese card art
+</gallery>

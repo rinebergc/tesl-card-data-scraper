@@ -1,0 +1,24 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Kwama
+|attribute=Willpower
+|cost=4
+|image=LG-card-Hive Warrior.png
+|power=6
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Breakthrough|Breakthrough]]'''
+|breakthrough=1
+|deckcode=io
+}}
+
+==Notes==
+*This card was previously part of the [[Legends:Training|training]] mechanic where it could be upgraded from {{Card|Hive Worker}} at level 4.
+*[[Morrowind:Kwama|Kwama]] first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and later [[Online:Kwama|reappeared]] in [[Online:Online|ESO]]. For more information on Kwama, see the [[Lore:Kwama|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Hive Warrior Old Client.png|Old client card image
+File:LG-cardart-Hive Warrior.png|Card art
+</gallery>

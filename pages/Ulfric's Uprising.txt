@@ -1,0 +1,29 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Forgotten Hero Collection
+|attribute=Neutral
+|cost=7
+|image=LG-card-Ulfric's Uprising.png
+|power=
+|health=
+|rarity=Epic
+|ability=Trigger the '''[[Legends:Summon|Summon]]''' of each friendly creature.
+|asummon=1
+|deckcode=rb
+}} 
+
+==Availability==
+It is available as part of the [[Legends:Forgotten Hero Collection|Forgotten Hero Collection]].
+
+==Notes==
+*If a creature is returned to your hand by another creature during Ulfric's Uprising sequence (such as with {{Card|Forsworn Guide}}) before it could use its own summon ability, the ability will still be activated from your hand.
+*The card's name refers to the [[Lore:Wars#The Stormcloak Rebellion|Stormcloak Uprising]], which was spearheaded by [[Lore:Ulfric Stormcloak|Ulfric Stormcloak]]. Both of these appeared in ''[[SR:Skyrim|Skyrim]]''.
+*The card's magicka cost was increased from 6 to 7 in [[Legends:Patch/1.72.4|patch 1.72.4]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ulfric's Uprising Old Client.png|Old client card image
+File:LG-cardart-Ulfric's Uprising.png|Card art
+</gallery>

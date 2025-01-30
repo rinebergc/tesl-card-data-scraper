@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|attribute=Intelligence
+|cost=3
+|image=LG-card-Telvanni Arcanist.png
+|power=3
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]''': Put a random [[Legends:Actions|action]] into your hand.
+|lastgasp=1
+|deckcode=qe
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You are no match for House Telvanni!|text2=The ambition of the Telvanni knows no bounds!}}
+{{Legends Audio 2|use=attack|text=Can't you see I'm busy?|text2=You dare face a wizard lord?|text3=You have forsworn your life!}}
+{{Legends Audio 2|use=last gasp|text=So much left unfinished!|text2=I am overpowered!}}
+
+==Notes==
+*The card is named for [[Lore:House Telvanni|House Telvanni]], one of the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]].
+
+==Gallery==
+<gallery>
+File:LG-card-Telvanni Arcanist Old Client.png|Old client card image
+File:LG-cardart-Telvanni Arcanist.png|Card art
+</gallery>

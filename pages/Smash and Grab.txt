@@ -1,0 +1,22 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=2
+|image=LG-card-Smash and Grab.png
+|rarity=Rare
+|ability=Give friendly creatures with '''[[Legends:Pilfer|Pilfer]]''' +2/+0 and '''[[Legends:Breakthrough|Breakthrough]]''' this turn.
+|apilfer=1
+|abreakthrough=1
+|deckcode=wv
+}}
+
+==Notes==
+*This card's ability applies the '''Get the Goods!''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Smash and Grab.jpg|Card art
+</gallery>

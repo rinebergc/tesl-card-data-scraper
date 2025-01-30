@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|attribute=Willpower
+|cost=3
+|image=LG-card-Morthal Executioner.png
+|power=2
+|health=4
+|rarity=Rare
+|ability=When an enemy [[LG:Rune|rune]] is destroyed, Morthal Executioner gains +2/+0.
+|uniqueability=1
+|brune=1
+|deckcode=kQ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Your time has come.|text2=My axe is sharp, and my patience is thin.}}
+{{Legends Audio 2|use=attack|text=Farewell, fool!|text2=Your turn!|text3=I bring your death!}}
+
+==Notes==
+*This card's ability applies the '''Executioner's Swing''' card effect.
+*The card is named for the [[Lore:Skyrim|Skyrim]] town of [[Lore:Morthal|Morthal]].
+
+==Gallery==
+<gallery>
+File:LG-card-Morthal Executioner Old Client.png|Old client card image
+File:LG-card-Morthal Executioner old.png|Early version from promotional materials around late April 2016
+File:LG-cardart-Morthal Executioner.png|Card art
+</gallery>

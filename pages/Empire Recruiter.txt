@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|class=The Empire of Cyrodiil
+|cost=2
+|image=LG-card-Empire Recruiter.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Pilfer|Pilfer]]:''' Summon a 1/1 '''~Recruit~~''' in the other lane.
+|pilfer=1
+|deckcode=ts
+}}
+
+==Audio==
+{{Legends Audio 2|card=Empire Recruiter|use=enter play|text=I'll find you the finest recruits in Cyrodiil.}}
+{{Legends Audio 2|card=Empire Recruiter|use=attack|text=Feel the might of the Empire!}}
+
+==Notes==
+*The {{Card|Recruit|Recruits}} created by this card are [[Legends:Imperial|Imperials]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Empire Recruiter.png|Card art
+</gallery>

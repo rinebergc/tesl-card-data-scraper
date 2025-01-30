@@ -1,0 +1,47 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Heroes of Skyrim
+|altart=Heart's Day 2018 ([[Legends:Login Rewards|Login Rewards]])
+|attribute=Willpower
+|cost=3
+|image=LG-card-Grisly Gourmet.png
+|power=2
+|health=1
+|rarity=Rare
+|summon=1
+|ability='''[[Legends:Summon|Summon]]:''' Transform an enemy creature with 2 power or less into a '''~Sweet Roll~~'''.
+|transform=1
+|deckcode=hF
+|altartdeckcode=hG
+|illustrator=Heart's Day Promo: Anastasia Ovchinnikova
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, two copies are included in the [[Legends:Ancano's Cunning|Ancano's Cunning]] theme deck.
+
+==Audio==
+===Default Art===
+{{Legends Audio 2|use=enter play|text=I will prepare something special for them!}}
+{{Legends Audio 2|use=attack|text=Dinner is served.}}
+
+===Alternate Art===
+{{Legends Audio 2|headertext=When summoned|use=alt enter play|text=You're so sweet I can just eat you up.}}
+{{Legends Audio 2|headertext=When attacking|use=alt attack|text=Scrumptious.}}
+
+==Notes==
+*This card is based on the cannibal chef [[Skyrim:Knjakr|Knjakr]], who first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*This card's summon ability applies the '''Tasty Treat''' card effect.
+*For the 14th, 15th, and 16th [[Legends:Login Rewards|login rewards]] in February 2018, one alternate art copy of the card was awarded. It is themed for [[Lore:Calendar#Heart's Day|Heart's Day]], the Tamrielic equivalent to Valentine's Day.  The alternate art version of the card also creates similarly-themed alternate art {{Card|Sweet Roll|Sweet Rolls}}.
+*The [[Online:Grisly Gourmet|Grisly Gourmet]] item set in [[ON:Online|ESO]] is inspired by this card.
+
+==Gallery==
+<gallery>
+File:LG-card-Grisly Gourmet Alt.png|Heart's Day Promo
+File:LG-card-Grisly Gourmet Old Client.png|Old client card image
+File:LG-cardart-Grisly Gourmet.png|Card art
+File:LG-cardart-Grisly Gourmet (China).png|Chinese card art
+File:LG-cardart-Grisly Gourmet Alt.png|Alternative Heart's Day art
+File:LG-cardart-Grisly Gourmet Alt (China).png|Chinese Heart's Day card art
+</gallery>

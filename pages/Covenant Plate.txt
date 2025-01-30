@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Item
+|availability=Alliance War
+|attribute=Strength
+|cost=3
+|image=LG-card-Covenant Plate.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]''', '''[[Legends:Mobilize|Mobilize]]''', '''[[Legends:Guard|Guard]]'''<br>+3/+1
+|prophecy=1
+|mobilize=1
+|guard=1
+|deckcode=tE
+}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is a [[Legends:Breton|Breton]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Covenant Plate.png|Card art
+</gallery>

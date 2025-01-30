@@ -1,0 +1,24 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Support
+|attribute=Endurance
+|availability=Houses of Morrowind
+|image=LG-card-Mushroom Tower.png
+|cost=9
+|rarity=Epic
+|ability=Your [[Legends:Actions|actions]] have '''[[Legends:Betray|Betray]]'''.
+|uses=Ongoing
+|abetray=1
+|deckcode=li
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Notes==
+*The higher-ranking wizards of [[Lore:House Telvanni|House Telvanni]] often live in mushroom towers like the one depicted in the card art.
+== Gallery ==
+<gallery>
+File:LG-card-Mushroom Tower Old Client.png|Old client card image
+File:LG-cardart-Mushroom Tower.png|Card art
+</gallery>

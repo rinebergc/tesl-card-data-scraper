@@ -1,0 +1,26 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=7
+|image=LG-card-Duel Atop the World.png
+|rarity=Epic
+|ability=Give a friendly creature +3/+3. It '''[[Legends:Battle|Battles]]''' your opponent's most powerful creature.
+|battle=1
+|deckcode=fd
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] expansion, one copy is included in the [[Legends:Paarthurnax's Roar|Paarthurnax's Roar]] theme deck.
+
+==Notes==
+*The card's ability applies the '''Dragonrend''' card effect.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Duel Atop the World Old Client.png|Old client card image
+File:LG-cardart-Duel Atop the World.png|Card art
+File:LG-cardart-Duel Atop the World 02.jpg|Higher-res card art from illustrator
+</gallery>

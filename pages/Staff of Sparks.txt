@@ -1,0 +1,25 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Item
+|attribute=Intelligence
+|cost=6
+|image=LG-card-Staff of Sparks.png
+|rarity=Legendary
+|ability=+3/+0</br>When the wielder attacks, it deals 1 damage to all enemy creatures in this lane.
+|uniqueability=1
+|deckcode=pf
+}}
+
+==Availability==
+*The card is labeled as the [[LG:Monthly Cards|monthly card]] for July 2016. However, this pre-dates the Monthly Card system; Staff of Sparks was added during closed beta and given to players for testing purposes (like many other cards) in that month. As such, the card is part of the Core Set and can be obtained through normal methods.
+
+==Notes==
+*The card is named for [[Skyrim:Staff of Sparks|Staves of Sparks]], generic magic items that appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card was originally named "Dagger of Pain" in prerelease materials, but by the time of open beta it was renamed "Staff of Sparks", the attribute switched from neutral to intelligence and the art changed.
+
+==Gallery==
+<gallery>
+File:LG-card-Staff of Sparks Old Client.png|Old client card image
+File:LG-cardart-Staff of Sparks.png|Card art
+File:LG-card-Dagger of Pain.png|Original "Dagger of Pain" card
+</gallery>

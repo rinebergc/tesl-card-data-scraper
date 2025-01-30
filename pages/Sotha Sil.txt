@@ -1,0 +1,39 @@
+{{Mod Header|Houses of Morrowind}}
+{{about|the card|the character|Sotha Sil (character)}}
+{{Legends Card Summary
+|type=Creature
+|subtype=God
+|availability=Houses of Morrowind
+|attribute=Intelligence
+|cost=9
+|image=LG-card-Sotha Sil.png
+|power=4
+|health=4
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Exalt|Exalt 3]]:''' +4/+4<br>At the end of your turn, if you have an Exalted creature in play, summon an '''~Awakened Imperfect~~'''.
+|exalt=1
+|uniqueability=1
+|deckcode=oN
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I am a mirror. Nothing more.}}
+{{Legends Audio 2|headertext=When exalt is paid|use=exalt|text=I have almost achieved perfection.}}
+{{Legends Audio 2|use=attack|text=It seems I must delay my work for a time.}}
+
+==Notes==
+*The card's exalt ability applies the '''Lord Seht''' card effect, a reference to his title.
+*[[Lore:Sotha Sil|Sotha Sil]] is a god of the [[Lore:Tribunal|Tribunal]] who first [[Tribunal:Sotha Sil|appeared]] in [[MW:Morrowind|''Morrowind'']]'s [[TR:Tribunal|''Tribunal'']] expansion, and later [[Online:Sotha Sil|reappeared]] in [[Online:Online|ESO]]'s [[Online:Clockwork City (DLC)|Clockwork City]] DLC.
+*The card's summon audio is an excerpt from his dialogue in [[Online:Online|ESO]]'s [[Online:The Light of Knowledge|The Light of Knowledge]] quest:
+:''"I am the canvas upon which they paint their dreams and resentments. A vessel for their hopes and doubts.''
+:''A mirror. Nothing more. You expect something grand, but I promised you the truth.''
+*The card's attack audio is also an excerpt from the same quest:
+:''"It seems I must delay my work for a time.''
+:''When I reclaimed my shadow, I learned a great deal. Daedric plots. Alliances and betrayals. The return of things lost in time... the loss of things the world thought certain. I have much to do."''
+
+==Gallery==
+<gallery>
+File:LG-card-Sotha Sil Old Client.png|Old client card image
+File:LG-cardart-Sotha Sil.jpg|Card art
+</gallery>

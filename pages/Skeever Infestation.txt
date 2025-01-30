@@ -1,0 +1,20 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Strength
+|cost=3
+|type=Action
+|image=LG-card-Skeever Infestation.png
+|ability=Summon a '''~Skeever~~''' in each [[LG:Lanes|lane]] with power and health equal to the number of Infestations you've played. Shuffle two copies of this into your deck.
+|rarity=Rare
+|availability=Dark Brotherhood
+|deckcode=oq
+}} It is available in [[Legends:Wayrest|Wayrest]].
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Wayrest Sewers|Wayrest Sewers]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Wayrest Sewers.
+
+==Gallery==
+<gallery>
+File:LG-card-Skeever Infestation Old Client.png|Old client card image
+File:LG-cardart-Skeever Infestation.png|Card art
+</gallery>

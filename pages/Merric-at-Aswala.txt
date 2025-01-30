@@ -1,0 +1,29 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|class=Battlemage
+|unique=Yes
+|cost=7
+|image=LG-card-Merric-at-Aswala.png
+|power=2
+|health=2
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': [[LG:Equip|Equip]] each friendly creature in this [[LG:Lanes|lane]] with a random [[Legends:Items|item]].
+|summon=1
+|deckcode=kw
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=By Stendarr's breath, we are ready for battle!|text2=Stendarr give us strength.}}
+{{Legends Audio 2|use=attack|text=By Stendarr's might!|text2=For guild and glory!|text3=I'll crack your head!}}
+
+==Notes==
+*[[Online:Merric at-Aswala|Merric-at-Aswala]] first appeared in [[Online:Online|ESO]]. He is depicted on this card wearing his [[:File:ON-npc-Merric at-Aswala.jpg|old outfit]], which was later changed in one of the game's [[ON:Patch|patches]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Merric-at-Aswala Old Client.png|Old client card image
+File:LG-cardart-Merric-at-Aswala.png|Card art
+</gallery>

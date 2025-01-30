@@ -1,0 +1,23 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Ash Creature
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Ash Oppressor.png
+|cost=3
+|power=4
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a creature with 5 power or more, '''[[Legends:Shackle|Shackle]]''' an enemy creature.
+|summon=1
+|ashackle=1
+|deckcode=aV
+}}
+
+== Gallery ==
+<gallery>
+File:LG-card-Ash Oppressor Old Client.png|Old client card image
+File:LG-cardart-Ash Oppressor.png|Card art
+File:LG-cardart-Ash Oppressor (China).png|Chinese card art
+</gallery>

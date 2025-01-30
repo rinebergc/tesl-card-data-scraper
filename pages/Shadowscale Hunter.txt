@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Alliance War
+|attribute=Agility
+|cost=3
+|image=LG-card-Shadowscale Hunter.png
+|power=4
+|health=3
+|rarity=Rare
+|ability='''[[Legends:Veteran|Veteran]]:''' [[Legends:Move|Move]].
+|veteran=1
+|move=1
+|deckcode=tN
+}}
+==Audio==
+{{Legends Audio 2|card=Shadowscale Hunter|use=enter play|text=You'll never see me coming.}}
+{{Legends Audio 2|card=Shadowscale Hunter|use=attack|text=Let my blade guide you back to the earth!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Shadowscale Hunter.png|Card art
+</gallery>

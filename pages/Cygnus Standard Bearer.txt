@@ -1,0 +1,27 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Moons of Elsweyr
+|attribute=Willpower
+|cost=4
+|image=LG-card-Cygnus Standard Bearer.png
+|power=3
+|health=2
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Summon a 2/2 '''~Imperial Soldier~~''' for each friendly [[Legends:Support|support]].<br>When you summon a support, summon a 2/2 Imperial Soldier.
+|summon=1
+|uniqueability=1
+|deckcode=wZ
+}}
+
+==Audio==
+{{Legends Audio 2|card=Cygnus Irregular|use=enter play|text=Don't count me out yet.}}
+{{Legends Audio 2|card=Cygnus Irregular|use=attack|text=Until my last breath!}}
+
+==Notes==
+*This card depicts a [[ON:Cygnus Irregular|Cygnus Irregular]] from [[ON:Online|ESO]].
+==Gallery==
+<gallery>
+File:LG-cardart-Cygnus Standard Bearer.jpg|Card art
+</gallery>

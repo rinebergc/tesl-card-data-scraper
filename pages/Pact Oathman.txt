@@ -1,0 +1,25 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Nord
+|availability=Alliance War
+|attribute=Strength
+|cost=2
+|image=LG-card-Pact Oathman.png
+|power=1
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If you have a...<br>{{LG Attribute Icon|Agility}} card in play, +2/+0.<br>{{LG Attribute Icon|Endurance}} card in play, '''[[Legends:Battle|Battle]]''' an enemy creature.
+|summon=1
+|battle=1
+|deckcode=tM
+}}
+==Audio==
+{{Legends Audio 2|card=Pact Oathman|use=enter play|text=Long live the Skald-King!}}
+{{Legends Audio 2|card=Pact Oathman|use=attack|text=This battle's as good as won!}}
+==Notes==
+*This card's summon ability applies the '''Mounted Training''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Pact Oathman.png|Card art
+</gallery>

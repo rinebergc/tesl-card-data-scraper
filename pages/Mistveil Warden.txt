@@ -1,0 +1,33 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Clockwork City
+|attribute=Endurance
+|cost=3
+|image=LG-card-Mistveil Warden.png
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[Legends:Treasure Hunt|Treasure Hunt]] – [[LG:Guard|Guard]]:''' Give the Guard +1/+2.
+|treasurehunt=1
+|aguard=1
+|deckcode=kE
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Mistveil Dungeon|Mistveil Dungeon]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Mistveil Dungeon.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Above all, discipline!}}
+{{Legends Audio 2|use=attack|text=Don't step out of line!}}
+{{Legends Audio|use=trigger|text=Take your post!}}
+
+==Notes==
+*This card's Treasure Hunt applies the '''New Armor''' card effect
+*This card is named for [[Lore:Mistveil Keep|Mistveil Keep]], which appeared as a purchasable [[ON:Old Mistveil Manor|manor]] in [[ON:Online|ESO]] and as a [[SR:Mistveil Keep|castle]] in ''[[SR:Skyrim|Skyrim]]''. 
+==Gallery==
+<gallery>
+File:LG-card-Mistveil Warden Old Client.png|Old client card image
+File:LG-cardart-Mistveil Warden.png|Card art
+</gallery>

@@ -1,0 +1,34 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Endurance
+|type=Creature
+|subtype=Imperial
+|image=LG-card-Cicero the Betrayer.png
+|cost=6
+|power=1
+|health=6
+|unique=1
+|rarity=Legendary
+|lethal=1
+|slay=1
+|uniqueability=1
+|ability='''[[Legends:Lethal|Lethal]]'''<br>'''[[Legends:Slay|Slay]]:''' Draw two cards.<br>Cicero can attack friendly creatures.
+|deckcode=dd
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Accuse Varlyn|Accuse Varlyn]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Accuse Varlyn.
+
+==Audio==
+{{Legends Audio 2|card=Cicero|use=enter play|text=Need to get Mother some flowers! Pretty, pretty flowers.}}
+{{Legends Audio 2|card=Cicero|use=attack|text=Is there singing in the Void?}}
+
+==Notes==
+*[[Skyrim:Cicero|Cicero]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]'', where he played a pivotal part in the Dark Brotherhood storyline.
+
+==Gallery==
+<gallery>
+File:LG-card-Cicero the Betrayer Old Client.png|Old client card image
+File:LG-cardart-Cicero the Betrayer.png|Card art
+</gallery>

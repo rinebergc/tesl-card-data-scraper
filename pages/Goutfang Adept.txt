@@ -1,0 +1,30 @@
+{{Mod Header|Moons of Elsweyr}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|availability=Moons of Elsweyr
+|attribute=Intelligence
+|cost=4
+|image=LG-card-Goutfang Adept.png
+|power=2
+|health=4
+|rarity=Common
+|ability='''[[Legends:Wax|Wax]]''': Draw a card.<br>'''[[Legends:Wane|Wane]]:''' +1/+1 and '''[[Legends:Guard|Guard]]'''.
+|waxwane=1
+|aguard=1
+|deckcode=wq
+}}
+
+==Audio==
+{{Legends Audio 2|card=Vrin-Thak Master|use=enter play|text=This one will tear them to shreds.}}
+{{Legends Audio 2|card=Vrin-Thak Master|use=attack|text=Die, die, die!}}
+
+==Notes==
+*This card's wane ability applies the '''Lunar Strength''' card effect.
+*This card is named after Goutfang, one of the Khajiit martial arts.
+*This card is internally named '''Vrin-Thak Master''', Vrin-Thak being another one of the Khajiiti martial traditions.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Goutfang Adept.jpg|Card art
+</gallery>

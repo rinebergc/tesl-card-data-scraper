@@ -1,0 +1,25 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|availability=Jaws of Oblivion
+|attribute=Endurance
+|cost=4
+|image=LG-card-Miscarcand Lich.png
+|power=3
+|health=5
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]:''' Choose an enemy creature.
+<center><hr style="width:75%;background-color:black"/></center>At the start of your turn, if the chosen creature is alive, summon a 1/1 '''~Risen Dead~~''' with '''[[Legends:Guard|Guard]]''' in its lane.
+|summon=1
+|deckcode=xO
+}}
+
+==Notes==
+*When summoned, you are prompted to "Choose a creature to hunt." This is most likely a reference to the notorious bug from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]'' where the [[Oblivion:King_of_Miscarcand|King of Miscarcand]] and his two Zombie Guardians would pursue you anywhere in Cyrodiil, making you unable to sleep, wait or fast travel.
+*His name was revealed to be Morimath in [[Online:Online|ESO]]. For more information, see the [[Lore:Morimath|lore article]]
+
+==Gallery==
+<gallery>
+File:LG-cardart-Miscarcand Lich.png|Card art
+</gallery>

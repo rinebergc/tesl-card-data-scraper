@@ -1,0 +1,34 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|attribute=Agility
+|availability=Dark Brotherhood
+|image=LG-card-Sanctuary Pet.png
+|type=Creature
+|subtype=Spider
+|cost=3
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Lethal|Lethal]]'''</br>'''[[Legends:Summon|Summon]]''': '''[[Legends:Shackle|Shackle]]''' an enemy creature in this lane.
+|lethal=1
+|summon=1
+|shackle=1
+|deckcode=nw
+|altartdeckcode=zv
+|altart=[[Legends:King of the Hill Gauntlet|King of the Hill Gauntlet]] June 2020
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Falkreath Sanctuary|Falkreath Sanctuary]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Falkreath Sanctuary.
+
+==Notes==
+*This card is based on [[Skyrim:Lis|Lis]] in ''[[Skyrim:Skyrim|Skyrim]]'', who is referred to as the Dark Brotherhood's pet spider in the [[Skyrim:Dark Brotherhood Sanctuary|Falkreath Sanctuary]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Sanctuary Pet Old Client.png|Old client card image
+File:LG-card-Sanctuary Pet Alt.png|Alternate card from King of the Hill Gauntlet
+File:LG-cardart-Sanctuary Pet.png|Card art
+File:LG-cardart-Sanctuary Pet Alt.png|Alternate card art from King of the Hill Gauntlet
+</gallery>

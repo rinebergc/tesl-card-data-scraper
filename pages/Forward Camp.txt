@@ -1,0 +1,17 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|attribute=Willpower
+|cost=3
+|image=LG-card-Forward Camp.png
+|uses=Ongoing
+|rarity=Legendary
+|ability=Your supports cost 1 less.<br>When you have 4 supports, sacrifice Forward Camp and summon an '''~Eastmarch Crusader~~''' in each lane.
+|uniqueability=1
+|deckcode=th
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Forward Camp.png|Card art
+</gallery>

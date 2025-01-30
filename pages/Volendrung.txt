@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Support
+|attribute=Strength
+|cost=8
+|image=LG-card-Volendrung.png
+|unique=Yes
+|uses=2
+|activate=1
+|rarity=Legendary
+|ability='''[[Legends:Activate|Activate]]''': Give a creature +4/+4 and '''[[Legends:Breakthrough|Breakthrough]]'''.
+|abreakthrough=1
+|deckcode=rw
+}}
+
+==Notes==
+*This card's activation applies the '''Hand of Malacath''' card effect.
+*[[Lore:Volendrung|Volendrung]] is the Daedric artifact of [[Lore:Malacath|Malacath]].
+*The card has a unique animation in which Volendrung is shown.
+* This card originally did not have breakthrough, but it was added in 11/2016 in order to give another option for late-game surprises. {{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+
+==Gallery==
+<gallery>
+File:LG-card-Volendrung Old Client.png|Old client card image
+File:LG-cardart-Volendrung.png|Card art
+File:LG-cardart-Volendrung 02.jpg|High resolution card art
+File:LG-premcard-Volendrung.gif|Premium card (click to view animation)
+</gallery>
+
+==References==
+<references/>

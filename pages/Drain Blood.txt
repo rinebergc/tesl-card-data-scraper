@@ -1,0 +1,25 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Agility
+|cost=4
+|image=LG-card-Drain Blood.png
+|rarity=Common
+|ability='''[[Legends:Betray|Betray]]'''<br>Give a creature -2/-2.
+|betray=1
+|deckcode=eR
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Notes==
+*This card applies the '''Drained''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-card-Drain Blood Old Client.png|Old client card image
+File:LG-cardart-Drain Blood.png|Card art
+File:LG-cardart-Drain Blood (China).png|Chinese card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Wood Elf
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=3
+|image=LG-card-Arenthia Guerrilla.png
+|power=3
+|health=4
+|rarity=Common
+|ability='''[[Legends:Lethal|Lethal]]''' on your opponent's turn.
+|alethal=1
+|deckcode=xk
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Looks like you need some help.}}
+{{Legends Audio 2|use=attack|text=For the green!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Arenthia Guerrilla.png|Card art
+</gallery>

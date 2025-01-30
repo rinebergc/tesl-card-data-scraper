@@ -1,0 +1,27 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Alliance War
+|attribute=Agility
+|cost=2
+|image=LG-card-Inspiring Soldier.png
+|power=3
+|health=2
+|rarity=Common
+|ability='''[[Legends:Veteran|Veteran]]:''' Summon a 1/1 '''~Recruit~~'''.
+|veteran=1
+|deckcode=tu
+}}
+
+==Audio==
+{{Legends Audio 2|card=Inspiring Soldier|use=enter play|text=Just in the nick of time.}}
+{{Legends Audio 2|card=Inspiring Soldier|use=attack|text=Who's in need of a thrashing?}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is a [[Legends:Dark Elf|Dark Elf]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Inspiring Soldier.png|Card art
+</gallery>

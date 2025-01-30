@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc  
+|attribute=Endurance  
+|cost=3
+|image=LG-card-Wrothgar Artisan.png
+|power=2
+|health=3
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Give a creature +1/+1. 
+|summon=1 
+|deckcode=sf 
+}}__NOTOC__
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Try this on for size.|text2=This may prove useful.}}
+{{Legends Audio 2|use=attack|text=This better be good.|text2=Let me at 'em!|text3=Puny runt!}}
+
+==Notes==
+*This card's summon ability applies the '''Artisanal Weapon''' card effect.
+*The card originally appeared in the gameplay overview video as a 2/3 card, but it was changed to 2/2 in open beta. It was changed back to 2/3 in November 2016 because the developers felt that [[Legends:Orc|Orcs]] needed a buff.{{ref|name=LetterDevs|[[Legends:Patch/1.59.7.2610|Letter from the Devs]] on Bethesda.net, November 16, 2016}}
+*The card is named for the [[Lore:Wrothgar|Wrothgar]] region.
+
+==Gallery==
+<gallery>
+File:LG-card-Wrothgar Artisan Old Client.png|Old client card image
+File:LG-cardart-Wrothgar Artisan.png|Card art
+</gallery>
+
+==References==
+<references/>

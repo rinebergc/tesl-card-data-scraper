@@ -1,0 +1,25 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Argonian
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=1
+|image=LG-card-Brotherhood Suspect.png
+|power=2
+|health=4
+|rarity=Epic
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Your opponent draws a '''~Completed Contract~~'''.
+|lastgasp=1
+|deckcode=xy
+}}
+==Audio==
+{{Legends Audio 2|use=enter play|card=ocheeva|text=Silent as the grave.}}
+{{Legends Audio 2|use=attack|card=ocheeva|text=For father Sithis!}}
+==Notes==
+*This card depicts [[Oblivion:Ocheeva|Ocheeva]] from ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''. Her target wears the uniform of a [[Oblivion:City_Guard#Cheydinhal|guard]] of [[OB:Cheydinhal|Cheydinhal]], a city that housed a [[OB:Dark Brotherhood Sanctuary|sanctuary]] of the [[Lore:Dark Brotherhood|Dark Brotherhood]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Brotherhood Suspect.png|Card art
+</gallery>

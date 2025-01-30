@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Breton
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Glenumbra Sorceress.png
+|power=5
+|health=1
+|rarity=Rare
+|ability='''[[Legends:Ward|Ward]]'''
+|ward=1
+|deckcode=hh
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=My magic is my armor.|text2=They won't catch me off-guard.|text3=I'll be ready for them.}}
+{{Legends Audio 2|use=attack|text=Come no closer!|text2=Akatosh burn you!|text3=Your death awaits.}}
+
+==Notes==
+*The card is named for the [[Lore:High Rock|High Rock]] region of [[Lore:Glenumbra|Glenumbra]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Glenumbra Sorceress Old Client.png|Old client card image
+File:LG-cardart-Glenumbra Sorceress.png|Card art
+</gallery>

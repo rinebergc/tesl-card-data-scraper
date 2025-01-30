@@ -1,0 +1,25 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=0
+|image=LG-card-Orvas' Bargain.png
+|rarity=Rare
+|ability=Give an enemy creature -1/-0 and a friendly creature +1/+0 this turn.
+|deckcode=lQ
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Notes==
+*This card's ability applies the '''Orvas Takes''' card effect to the enemy creature and '''Orvas Gives''' to the friendly creature..
+*This card depicts [[Morrowind:Orvas Dren|Orvas Dren]] who appeared in ''[[Morrowind:Morrowind|Morrowind]]''.
+
+==Gallery==
+<gallery>
+File:LG-card-Orvas' Bargain Old Client.png|Old client card image
+File:LG-cardart-Orvas' Bargain.png|Card art
+File:LG-cardart-Orvas' Bargain.jpg|Larger version from the official TES: Legends Twitter
+</gallery>

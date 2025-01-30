@@ -1,0 +1,23 @@
+{{Mod Header|Dawnguard}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Troll
+|availability=Dawnguard
+|class=Spellsword
+|cost=5
+|power=3
+|health=7
+|image=LG-card-Armored Troll.png
+|rarity=Epic
+|ability='''[[Legends:Regenerate|Regenerate]]'''<br>Armored Troll is immune to damage on your turn.
+|deckcode=
+}} It is exclusive to ''[[Legends:Legends Asia|Legends Asia]]'' and was introduced as part of the [[Legends:Dawnguard|Dawnguard]] expansion.
+
+==Notes==
+*This card depicts [[Skyrim:Armored Troll|Armored Troll]] from the ''[[Skyrim:Dawnguard|Dawnguard]]'' expansion for ''[[Skyrim:Skyrim|Skyrim]]''.
+<!--
+==Gallery==
+<gallery>
+File:
+</gallery>
+-->

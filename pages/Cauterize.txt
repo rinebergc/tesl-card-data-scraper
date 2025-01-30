@@ -1,0 +1,16 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Strength
+|cost=0
+|image=LG-card-Cauterize.png
+|rarity=Common
+|ability=Deal 2 damage to a '''[[Legends:Wounded|Wounded]]''' creature.
+|deckcode=sG
+}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Cauterize.png|Card art
+</gallery>

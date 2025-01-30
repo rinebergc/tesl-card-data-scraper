@@ -1,0 +1,26 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=1
+|image=LG-card-Illusory Defenses.png
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>Summon a 0/5 '''~Illusory Wall~~''' with '''[[Legends:Guard|Guard]]''' in each lane. Sacrifice them at the start of your turn.
+|prophecy=1
+|deckcode=iD
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, two copies are included in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Notes==
+*The magical walls on the art of the card read "doubt is the key to certainty bars the koor" in [[Lore:Daedric_Alphabet|Daedric letters]]. The last word probably means "door".
+
+== Gallery ==
+<gallery>
+File:LG-card-Illusory Defenses Old Client.png|Old client card image
+File:LG-cardart-Illusory Defenses.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

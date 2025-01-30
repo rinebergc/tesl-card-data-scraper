@@ -1,0 +1,22 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Support
+|availability=Alliance War
+|class=The Empire of Cyrodiil
+|cost=3
+|image=LG-card-Transitus Shrine.png
+|rarity=Epic
+|uses=Ongoing
+|ability=While you have a creature in each lane, your creatures and actions cost 1 less.
+|uniqueability=1
+|deckcode=uu
+}}
+
+==Notes==
+*This card depicts a [[ON:Transitus Shrine|Transitus Shrine]], a method of fast travel used in [[Online:Online|ESO]].
+*This card was nerfed by changing its effect from "cards" to "your creatures and actions" in [[Legends:Patch/2.11|Patch 2.11]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Transitus Shrine.png|Card art
+</gallery>

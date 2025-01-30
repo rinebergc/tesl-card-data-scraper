@@ -1,0 +1,22 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Forgotten Hero Collection
+|attribute=Neutral
+|cost=10
+|image=LG-card-Siege of Stros M'Kai.png
+|power=
+|health=
+|rarity=Legendary
+|ability=If you started the game with no duplicate cards in your deck, play a random creature, item, support and action from your deck.
+|unique=1
+|deckcode=oh
+}}
+
+==Gallery==
+<gallery>
+File:LG-card-Siege of Stros M'Kai Old Client.png|Old client card image
+File:LG-cardart-Siege of Stros M'Kai.png|Card art
+File:LG-premcard-Siege of Stros M'Kai.gif|Premium card (click to view animation)
+</gallery>

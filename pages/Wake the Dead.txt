@@ -1,0 +1,19 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Action
+|availability=Isle of Madness
+|attribute=Endurance
+|cost=2
+|image=LG-card-Wake the Dead.png
+|rarity=Common
+|ability=Draw a [[Legends:Spirit|Spirit]] or [[Legends:Skeleton (subtype)|Skeleton]] creature of your choice from your deck and give it +0/+1.
+|deckcode=lq
+}}
+
+==Notes==
+*This card's ability applies the '''Awoken Dead''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Wake the Dead.png|Card art
+</gallery>

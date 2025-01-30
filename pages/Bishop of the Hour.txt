@@ -1,0 +1,26 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|availability=Alliance War
+|attribute=Endurance
+|cost=6
+|image=LG-card-Bishop of the Hour.png
+|power=5
+|health=5
+|rarity=Epic
+|ability='''[[Legends:Summon|Summon]]:''' If you have another creature in each lane, give the top creature of your deck +5/+5.
+|summon=1
+|deckcode=sD
+}}
+==Audio==
+{{Legends Audio 2|card=Primate Artorius|use=enter play|text=Welcome child, may Akatosh keep you ever close.}}
+{{Legends Audio 2|card=Primate Artorius|use=attack|text=I am the chosen of Akatosh! You, you are nothing!}}
+==Notes==
+*The card shows [[Lore:Artorius Ponticus|Primate Artorius]] from [[ON:Primate Artorius|ESO]] in the [[Lore:Akatosh Chantry|Cathedral of Akatosh]].
+*This card's summon ability applies the '''Blessing of the Hour''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Bishop of the Hour.png|Card art
+</gallery>

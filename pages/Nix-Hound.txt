@@ -1,0 +1,28 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Beast
+|attribute=Agility
+|availability=Houses of Morrowind
+|image=LG-card-Nix-Hound.png
+|cost=4
+|power=3
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]<br>[[Legends:Summon|Summon]]: [[Legends:Shackle|Shackle]]''' each enemy creature with less power than Nix-Hound.
+|summon=1
+|prophecy=1
+|shackle=1
+|deckcode=lA
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Dagoth's Might|Dagoth's Might]] theme deck.
+
+== Gallery ==
+<gallery>
+File:LG-card-Nix-Hound Old Client.png|Old client card image
+File:LG-cardart-Nix-Hound.png|Card art
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

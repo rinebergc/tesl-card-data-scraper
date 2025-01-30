@@ -1,0 +1,27 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|availability=Heroes of Skyrim
+|type=Creature
+|subtype=Imperial
+|attribute=Willpower
+|cost=2
+|image=LG-card-Priest of the Eight.png
+|power=2
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' Draw a card if you have two other {{LG Attribute Icon|Willpower}} creatures.
+|summon=1
+|deckcode=mo
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play no|text=Stand ready.}}
+{{Legends Audio 2|use=enter play yes|text=The Eight protect us!}}
+{{Legends Audio 2|use=attack|text=Leave nothing.}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Priest of the Eight Old Client.png|Old client card image
+File:LG-cardart-Priest of the Eight.png|Card art
+</gallery>

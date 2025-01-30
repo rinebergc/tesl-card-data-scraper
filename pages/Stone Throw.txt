@@ -1,0 +1,20 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=3
+|image=LG-card-Stone Throw.png
+|rarity=Common
+|ability=Destroy an enemy creature if you have a creature with higher power.
+|deckcode=pw
+}}
+
+==Notes==
+*Playing this card counts towards the '''Stones Thrown''' [[Legends:Statistics|statistic]].
+
+==Gallery==
+
+<gallery>
+File:LG-card-Stone Throw Old Client.png|Old client card image
+File:LG-cardart-Stone Throw.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Isle of Madness}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Giant
+|availability=Isle of Madness
+|attribute=Strength
+|cost=4
+|image=LG-card-Nervous Giant.png
+|power=6
+|health=5
+|rarity=Rare
+|ability=If Nervous Giant takes exactly 1 damage, destroy him.
+|uniqueability=1
+|deckcode=lr
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Keep those skeevers away from me.|text2=Woooh.}}
+{{Legends Audio 2|use=attack|text=Get away, you darn horrible creature.|text2=Woh!}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Nervous Giant.png|Card art
+</gallery>

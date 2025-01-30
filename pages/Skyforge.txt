@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Support
+|attribute=Strength
+|cost=3
+|image=LG-card-Skyforge.png
+|unique=Yes
+|availability=Heroes of Skyrim
+|uses=3
+|activate=1
+|rarity=Legendary
+|ability='''[[Legends:Activate|Activate]]:''' [[LG:Equip|Equip]] a friendly creature with a '''~Steel Dagger~~'''.<br>If Skyforge has equipped 3 daggers, it [[LG:Change|changes]] into '''~Underforge~~'''.
+|change=1
+|deckcode=oA
+}}
+
+==Notes==
+*The Skyforge first [[SR:Skyforge|appeared]] in ''[[SR:Skyrim|Skyrim]]''. For historical information, see the [[Lore:Skyforge|lore article]].
+
+==Gallery==
+<gallery>
+File:LG-card-Skyforge Old Client.png|Old client card image
+File:LG-cardart-Skyforge.png|Card art
+File:LG-premcard-Skyforge.gif|Premium card (click to view animation)
+</gallery>

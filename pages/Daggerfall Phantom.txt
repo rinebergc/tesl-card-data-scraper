@@ -1,0 +1,19 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Spirit
+|availability=Alliance War
+|class=Daggerfall Covenant
+|cost=2
+|image=LG-card-Daggerfall Phantom.png
+|power=2
+|health=2
+|rarity=Rare
+|ability='''[[Legends:Last Gasp|Last Gasp]]:''' Return all items equipped to Daggerfall Phantom to your hand.
+|lastgasp=1
+|deckcode=ul
+}}
+==Gallery==
+<gallery>
+File:LG-cardart-Daggerfall Phantom.png|Card art
+</gallery>

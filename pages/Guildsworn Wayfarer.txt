@@ -1,0 +1,24 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Redguard
+|availability=Alliance War
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Guildsworn Wayfarer.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Expertise|Expertise]]:''' +1/+1
+|expertise=1
+|deckcode=tk
+}}
+==Audio==
+{{Legends Audio 2|card=Guildsworn Wayfarer|use=enter play|text=I fear no man.}}
+{{Legends Audio 2|card=Guildsworn Wayfarer|use=attack|text=Diagna give me strength.}}
+==Notes==
+*This card's expertise ability applies the '''Learned Traveler''' card effect.
+==Gallery==
+<gallery>
+File:LG-cardart-Guildsworn Wayfarer.png|Card art
+</gallery>

@@ -1,0 +1,20 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Action
+|availability=Alliance War
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Soul Shred.png
+|rarity=Legendary
+|ability=For each attribute your opponent is playing, '''[[Legends:Banish|Banish]]''' the top '''2''' cards of your opponent's deck.<br>'''[[Legends:Empower|Empower]]:''' +1 card per attribute.
+|banish=1
+|empower=1
+|deckcode=tP
+}}
+==Notes==
+*The card art was included in the data with [[Legends:Isle of Madness (story)|Isle of Madness]] under the name of "Heretic Witch" before being used for Soul Shred.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Soul Shred.png|Card art
+</gallery>

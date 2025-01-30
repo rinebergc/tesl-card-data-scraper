@@ -1,0 +1,29 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Willpower
+|cost=5
+|image=LG-card-Balmora Captain.png
+|power=4
+|health=4
+|rarity=Legendary
+|ability='''[[Legends:Rally|Rally]]''' 2<br>Your other Rallies give an extra +1/+1.
+|rally=1
+|uniqueability=1
+|deckcode=bu
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Just leave this to my soldiers.}}
+{{Legends Audio 2|use=attack|text=I'll do anything for my House.}}
+
+==Notes==
+*This card depicts [[Online:Captain Brivan|Captain Brivan]], who first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Balmora Captain Old Client.png|Old client card image
+File:LG-cardart-Balmora Captain.png|Card art
+</gallery>

@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dwemer
+|availability=Clockwork City
+|attribute=Neutral
+|cost=11
+|image=LG-card-Dwarven Colossus.png
+|power=11
+|health=11
+|rarity=Epic
+|ability='''[[LG:Summon|Summon]]:''' Summon a '''~Power Sphere~~''' in each [[LG:Lanes|lane]].
+|summon=1
+|deckcode=fp
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:The Inner Curiosity|The Inner Curiosity]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of The Inner Curiosity.
+
+==Notes==
+*The Power Sphere's trigger applies the '''Powered Up''' card effect.
+*Dwarven Colossus will only get keywords from its own summoned Power Spheres. This still applies after the Power Sphere has been [[LG:Unsummon|unsummoned]] and played again.
+*Dwarven Colossus first [[Online:Dwarven Colossus|appeared]] in [[Online:Online|ESO]].
+*There is evidence that this card specifically depicts the [[Online:Assembly General|Assembly General]], who first appeared in ESO. The [[Legends:Power Sphere|Power Spheres]] he summons are a reference to one of the mechanics he has with the [[Lore:Dwarven Sentry|Dwemer Sentries]] known as [[Online:Terminal|Terminals]], Furthermore, His background showcases the final boss fight area within the assembly lines of the [[Online:Halls of Fabrication|Halls of Fabrication]].
+==Gallery==
+<gallery>
+File:LG-card-Dwarven Colossus Old Client.png|Old client card image
+File:LG-cardart-Dwarven Colossus.png|Card art
+</gallery>

@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{about|the card|the subtype|Mantikora (subtype)}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Mantikora
+|attribute=Willpower
+|cost=10
+|image=LG-card-Mantikora.png
+|power=6
+|health=6
+|rarity=Epic
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]:''' Destroy an enemy creature in this lane.
+|summon=1
+|guard=1
+|deckcode=kh
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck. One copy is also obtainable as a reward from [[Legends:The Siege of the Imperial City|The Siege of the Imperial City]], added automatically to the [[Legends:Band of Survivors|Band of Survivors]] and the [[Legends:Imperial Might (deck)|Imperial Might]] deck.
+
+==Notes==
+*The card originally had '''[[Legends:Guard|Guard]]''', and its '''Summon''' ability was ''"Destroy an enemy creature."''
+**The card's '''Summon''' ability was changed in [[Legends:Patch/1.59.3|Patch 1.59.3]].
+**'''Guard''' was removed from the card in [[Legends:Patch/1.71.2|Patch 1.71.2]]. It was added back in [[Legends:Patch/2.15|Patch 2.15]].
+*[[Online:Mantikora|Mantikora]]s first appeared in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Mantikora Old Client.png|Old client card image
+File:LG-cardart-Mantikora.png|Card art
+</gallery>

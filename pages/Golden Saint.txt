@@ -1,0 +1,33 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Daedra
+|attribute=Willpower
+|cost=6
+|image=LG-card-Golden Saint.png
+|altart=[[Legends:Festival of Madness|Festival of Madness]] 2018
+|power=4
+|health=4
+|rarity=Rare
+|ability='''[[Legends:Guard|Guard]]'''<br>'''[[Legends:Summon|Summon]]''': If you have more health than your opponent, summon a Golden Saint in the other [[LG:Lanes|lane]].
+|guard=1
+|summon=1
+|deckcode=ho
+|altartdeckcode=hp
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Band of Survivors|Band of Survivors]] deck, one copy in the [[Legends:Imperial Might (deck)|Imperial Might]] deck, and one copy in the [[Legends:Tribunal Glory|Tribunal Glory]] theme deck.
+
+==Notes==
+*[[Morrowind:Golden Saint|Golden Saint]]s first appeared in ''[[Morrowind:Morrowind|Morrowind]]'', and later reappeared in ''[[Shivering:Golden Saint|Shivering Isles]]'' and [[Online:Golden Saint|ESO]]. For more information on Golden Saints, see the [[Lore:Golden Saint|lore article]].
+*Golden Saints are also featured in the cards {{Card|Brilliant Experiment}}, {{Card|Golden Initiate}}, and {{Card|Shining Saint}}
+*The card text was changed to remove "Copy" from the textbox in [[Legends:Patch/2.12|Patch 2.12]].
+
+==Gallery==
+<gallery>
+File:LG-card-Golden Saint Old Client.png|Old client card image
+File:LG-card-Golden Saint Alt.png|Alternate card from Festival of Madness
+File:LG-cardart-Golden Saint.png|Card art
+File:LG-cardart-Golden Saint Alt.png|Alternate card art
+</gallery>

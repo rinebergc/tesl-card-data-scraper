@@ -1,0 +1,18 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|attribute=Neutral
+|availability=Houses of Morrowind
+|image=LG-card-Unite the Houses.png
+|cost=3
+|rarity=Legendary
+|ability=If you have at least one card of each attribute, you win the game.
+|deckcode=rh
+}}
+==Notes==
+*The name of this card refers to the [[Lore:Great Houses|Great Houses]] of [[Lore:Morrowind|Morrowind]].
+== Gallery ==
+<gallery>
+File:LG-card-Unite the Houses Old Client.png|Old client card image
+File:LG-cardart-Unite the Houses.png|Card art
+</gallery>

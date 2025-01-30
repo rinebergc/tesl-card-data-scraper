@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|availability=Alliance War
+|attribute=Strength
+|cost=3
+|image=LG-card-Craven Conscript.png
+|power=5
+|health=4
+|rarity=Rare
+|ability=Craven Conscript is permanently '''[[Legends:Shackle|Shackled]]''' unless equipped with an [[Legends:Items|item]].
+|uniqueability=1
+|ashackle=1
+|deckcode=sO
+}}
+==Audio==
+{{Legends Audio 2|card=Craven Conscript|use=enter play|text=I-I've got to get out of here! I don't wanna die!}}
+{{Legends Audio 2|card=Craven Conscript|use=attack|text=Now this is a fine piece of steel!}}
+==Gallery==
+<gallery>
+File:LG-cardart-Craven Conscript.png|Card art
+</gallery>

@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Goblin
+|availability=Jaws of Oblivion
+|attribute=Agility
+|cost=3
+|image=LG-card-Bitterfish Witch.png
+|power=2
+|health=2
+|rarity=Common
+|ability='''[[Legends:Prophecy|Prophecy]]'''<br>'''[[Legends:Summon|Summon]]:''' Give a creature -1/-1.
+|prophecy=1
+|deckcode=xI
+}}
+
+==Notes==
+*The [[Oblivion:Goblins#Bitterfish Tribe|Bitterfish Tribe]] also appears in ''[[OB:Oblivion|The Elder Scrolls IV: Oblivion]]''.
+*This card's ability applies the '''Bitter Taste''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Bitterfish Witch.png|Card art
+</gallery>

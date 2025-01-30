@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}__NOTOC__
+{{Legends Card Summary
+|type=Creature
+|subtype=Wamasu
+|attribute=Intelligence
+|cost=8
+|power=4
+|health=4
+|image=LG-card-Shocking Wamasu.png
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': Deal 4 damage to a creature.
+|summon=1
+|deckcode=oc
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Dunmer Avengers|Dunmer Avengers]] deck.
+==Notes==
+*[[Lore:Wamasu|Wamasu]] are animals native to the swamps of [[Lore:Black Marsh|Black Marsh]].
+*This card originally was able to deal 4 damage to any target rather than just creatures, but was changed around 10/2016 so that it wouldn't have the possibility of ending Arena games. {{ref|name=LetterDevs|[https://legends.bethesda.net/articles/letter-from-the-devs Letter from the Devs] on Bethesda.net, September 29, 2016}}
+
+==Gallery==
+<gallery>
+File:LG-card-Shocking Wamasu Old Client.png|Old client card image
+File:LG-cardart-Shocking Wamasu.png|Card art
+File:LG-cardart-Shocking Wamasu 03.png|Larger, cropped
+File:LG-cardart-Shocking Wamasu 02.png|Cropped version of higher resolution
+</gallery>
+
+==References==
+<references/>

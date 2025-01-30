@@ -1,0 +1,27 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Action
+|subtype=
+|availability=Forgotten Hero Collection
+|attribute=Willpower
+|cost=5
+|image=LG-card-Cast Into Time.png
+|power=
+|health=
+|rarity=Rare
+|ability='''[[Legends:Banish|Banish]]''' a creature.
+|banish=1
+|deckcode=cO
+}}
+
+==Notes==
+*If creatures with [[Legends:Last Gasp|Last Gasp]] are targeted, their last gasp effect won't trigger because they're not technically killed.
+*This card was changed by removing "and all creatures from your opponent's deck with the same name" in [[Legends:Patch/2.11|Patch 2.11]].
+*This card depicts the banishment of [[Lore:Alduin|Alduin]].
+
+==Gallery==
+<gallery>
+File:LG-card-Cast Into Time Old Client.png|Old client card image
+File:LG-cardart-Cast Into Time.png|Card art
+File:LG-cardart-Cast Into Time 2.jpg|High resolution concept art/unused alternate of the card from artist
+</gallery>

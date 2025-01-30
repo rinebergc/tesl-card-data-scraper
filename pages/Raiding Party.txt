@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Action
+|attribute=Strength
+|cost=3
+|image=LG-card-Raiding Party.png
+|altart=May 2019 [[Legends:Core Classic Bundle 2|Core Classic Bundle 2]]
+|rarity=Rare
+|ability=Put two 1/1 '''~Nord Firebrand~Nord Firebrands~''' with '''[[LG:Charge|Charge]]''' into your hand.
+|deckcode=mC
+|altartdeckcode=st
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck, and one copy in the [[Legends:Hlaalu Schemes|Hlaalu Schemes]] theme deck.
+
+==Audio==
+{{Legends Audio 2|headertext=When summoned|text=We press on!|text2=Herma-Mora tests us.}}
+
+==Notes==
+*The card's art depicts two warriors clad in ''[[Skyrim:Skyrim|Skyrim]]'''s [[Skyrim:Dragonplate Armor|Dragonplate Armor]].
+
+==Gallery==
+<gallery>
+File:LG-cardart-Raiding Party.png|Card art
+File:LG-cardart-Raiding Party Alt.png|Alternate card art
+File:LG-card-Raiding Party Old Client.png|Old client card image
+</gallery>

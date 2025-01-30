@@ -1,0 +1,35 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=High Elf
+|attribute=Intelligence
+|cost=2
+|image=LG-card-Abecean Navigator.png
+|power=3
+|health=1
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]:''' If the top card of your deck is an [[Legends:Actions|action]], draw it. Otherwise, put it on the bottom.
+|summon=1
+|deckcode=ad
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], two copies are included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+==Audio==
+
+{{Legends Audio 2|use=enter play fail|text=Honor and praise.}}
+
+{{Legends Audio 2|use=enter play success|text=The winds favor us.}}
+
+{{Legends Audio 2|use=attack|text=Dead ahead!|text2=Away with you!|text3=Lorkhan take you!}}
+{{NewLeft}}
+
+==Notes==
+*The card is named for the [[Lore:Abecean Sea|Abecean Sea]].
+
+==Gallery==
+<gallery>
+File:LG-card-Abecean Navigator Old Client.png|Old client card image
+File:LG-cardart-Abecean Navigator.png|Card art
+</gallery>

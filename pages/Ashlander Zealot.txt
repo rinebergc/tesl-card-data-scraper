@@ -1,0 +1,34 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dark Elf
+|availability=Houses of Morrowind
+|attribute=Strength
+|cost=1
+|image=LG-card-Ashlander Zealot.png
+|power=1
+|health=2
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': '''[[Legends:Battle|Battle]]''' an enemy creature.
+|summon=1
+|battle=1
+|deckcode=bc
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, three copies are included in the [[Legends:Redoran Onslaught|Redoran Onslaught]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Death to the Tribunal's lackeys.}}
+{{Legends Audio 2|use=attack|text=For Veloth.}}
+
+==Notes==
+*The card is named for the [[Lore:Ashlanders|Ashlanders]] of [[Lore:Morrowind|Morrowind]], and the card's audio alludes to the Ashlander-[[Lore:Tribunal Temple|Tribunal Temple]] schism.
+*The '[[Lore:Veloth|Veloth]]' mentioned in the card's attack audio was a [[Lore:Dark Elf|Dark Elf]] saint who led the [[Lore:Chimer|Chimer]] people to the land of [[Lore:Resdayn|Resdayn]].
+*The ashlander depicted in the card's art is clad in the garb of a [[Lore:Vvardenfell|Vvardenfell]] ashlander as it [[Online:Ashlander Style|appeared]] in [[Online:Online|ESO]].
+
+==Gallery==
+<gallery>
+File:LG-card-Ashlander Zealot Old Client.png|Old client card image
+File:LG-cardart-Ashlander Zealot.png|Card art
+</gallery>

@@ -1,0 +1,25 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Action
+|availability=Heroes of Skyrim
+|attribute=Neutral
+|cost=7
+|image=LG-card-Journey to Sovngarde.png
+|rarity=Legendary
+|obtainable=Yes
+|ability=Shuffle all creatures from your discard pile into your deck, and give them +5/+5.
+|unique=1
+|deckcode=jg
+}}
+
+==Notes==
+*The card's ability applies the '''Shor's Hall''' card effect.
+*The card's ability was previously ''"Shuffle all creatures from your discard pile into your deck. Give them +5/+5 and reduce their costs by 5"'', until this was changed in [[Legends:Patch|Patch 1.70.2]].
+*[[Lore:Sovngarde|Sovngarde]] is the [[Lore:Nord|Nordic]] afterlife which made an [[Skyrim:Sovngarde (place)|appearance]] in ''[[Skyrim:Skyrim|Skyrim]]''. The card's name and card effect allude to ''Skyrim'''s [[Skyrim:Sovngarde (quest)|Sovngarde]] quest, which featured a journey to Sovngarde and to [[Skyrim:Hall of Valor|Shor's Hall]] within.
+
+==Gallery==
+<gallery>
+File:LG-card-Journey to Sovngarde Old Client.png|Old client card image
+File:LG-cardart-Journey to Sovngarde.jpg|Card art
+File:LG-premcard-Journey to Sovngarde.gif|Premium card (click to view animation)
+</gallery>

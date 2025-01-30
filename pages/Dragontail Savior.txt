@@ -1,0 +1,31 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Orc
+|attribute=Endurance
+|cost=2
+|power=2
+|health=3
+|image=LG-card-Dragontail Savior.png
+|rarity=Common
+|ability='''[[Legends:Summon|Summon]]''': +1/+0 for each enemy creature in this [[LG:Lanes|lane]].
+|summon=1
+|deckcode=eQ
+}}__NOTOC__
+
+==Availability==
+In addition to the card's availability in the [[Legends:Core Set|Core Set]], one copy is included in the [[Legends:Alduin's Apocalypse|Alduin's Apocalypse]] theme deck.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=The longer the odds, the sweeter the victory.|text2=Face me and die!}}
+{{Legends Audio 2|use=attack|text=Too late for you!|text2=Make your peace, dog!|text3=Time to die!}}
+
+==Notes==
+*This card's summon ability applies the '''For Dragontail!''' card effect.
+*The card is named for the [[Lore:Dragontail Mountains|Dragontail Mountains]].
+
+==Gallery==
+<gallery>
+File:LG-card-Dragontail Savior Old Client.png|Old client card image
+File:LG-cardart-Dragontail Savior.png|Card art
+</gallery>

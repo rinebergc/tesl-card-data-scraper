@@ -1,0 +1,39 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Imperial
+|subtype2=Nord
+|availability=Heroes of Skyrim
+|attribute=Willpower
+|cost=4
+|image=LG-card-Legate Rikke.png
+|power=3
+|health=4
+|rarity=Legendary
+|ability=When you summon an [[Legends:Imperial|Imperial]], summon a 1/1 '''~Imperial Grunt~~''' in the other lane.
+|unique=1
+|uniqueability=1
+|deckcode=jB
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=A warrior knows to trust her gut.}}
+{{Legends Audio 2|use=attack|text=Let's move out.}}
+
+==Notes==
+*[[Skyrim:Legate Rikke|Legate Rikke]] first appeared in ''[[Skyrim:Skyrim|Skyrim]]''.
+*The card's creature type was originally solely Imperial.
+**This was changed to Nord in [[Legends:Patch/1.66.0|Patch 1.66.0]].
+**The Imperial subtype was added alongside Nord in [[Legends:Patch/1.68.0|Patch 1.68.0]].
+**[[General:Dire Wolf Digital|Dire Wolf Digital]] employee Merakon [https://www.reddit.com/r/elderscrollslegends/comments/6p9pju/reminder_legate_rikke_race_is_still_wrong/dknop56/ confirmed] Rikke's Imperial creature tag is for gameplay synergy purposes.
+*The card's summon audio is an excerpt from Rikke's dialogue during [[Skyrim:Joining the Legion|Joining the Legion]]:
+::''"I've got a good feeling about you. And I don't often get good feelings about anything. A warrior knows to trust her gut..."''
+*The card's attack audio is an excerpt from Rikke's dialogue during [[Skyrim:The Jagged Crown (Imperial)|The Jagged Crown]]:
+::''"Well done. They never knew what hit them. But don't underestimate the Stormcloaks. Many are Legion veterans. They may be traitors, but they know how to fight. We had the advantage of surprise this time, but don't expect it to last. Let's move out."''
+::''"Good job! Alright everyone! Keep your guard up. Let's move out!"''
+
+==Gallery==
+<gallery>
+File:LG-card-Legate Rikke Old Client.png|Old client card image
+File:LG-cardart-Legate Rikke.png|Card art
+</gallery>

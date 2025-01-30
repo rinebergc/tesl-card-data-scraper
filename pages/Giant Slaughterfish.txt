@@ -1,0 +1,24 @@
+{{Mod Header|Jaws of Oblivion}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Fish
+|availability=Jaws of Oblivion
+|attribute=Neutral
+|cost=4
+|image=LG-card-Giant Slaughterfish.png
+|power=3
+|health=3
+|rarity=Rare
+|ability=Give friendly '''[[Legends:Animal|Animals]]''' +2/+0 at the start of your turn.
+|deckcode=xY
+|uniqueability=1
+}}
+
+==Notes==
+*This card's ability applies the '''Feeding Frenzy''' card effect.
+*This card is based on the [[Oblivion:Giant Slaughterfish|same creature]] from ''[[OB:Oblivion|TES IV: Oblivion]]''.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Giant Slaughterfish.png|Card art
+</gallery>

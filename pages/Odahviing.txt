@@ -1,0 +1,32 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|attribute=Neutral
+|cost=12
+|image=LG-card-Odahviing.png
+|power=10
+|health=10
+|unique=Yes
+|rarity=Legendary
+|ability='''[[Legends:Summon|Summon]]''': Deal 4 damage to all enemy creatures.
+|summon=1
+|deckcode=lH
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=You must prove your mastery, mortal.|text2=Your Thu'um is no match for mine!}}
+{{Legends Audio 2|use=attack|text=Yol! Toor shul!}}
+
+==Notes==
+*Odahviing first [[SR:Odahviing|appeared]] in ''[[SR:Skyrim|Skyrim]]''. For more information, see the [[Lore:Odahviing|lore article]].
+*''"Yol Toor Shul"'', the card's attacking audio, is the [[Skyrim:Dragon Shouts|shout]] for Fire Breath.
+*The card's art was created by [[:Category:Legends-Art-Nuare Studio|Nuare Studio]].
+
+==Gallery==
+<gallery>
+File:LG-card-Odahviing Old Client.png|Old client card image
+File:LG-cardart-Odahviing.png|Card art
+File:LG-cardart-Odahviing 02.jpg|High-res card art from illustrator site
+File:LG-premcard-Odahviing.gif|Premium card (click to view animation)
+</gallery>

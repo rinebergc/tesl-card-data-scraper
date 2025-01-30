@@ -1,0 +1,26 @@
+{{Mod Header|Dark Brotherhood}}
+{{Legends Card Summary
+|availability=Dark Brotherhood
+|attribute=Willpower
+|type=Action
+|image=LG-card-Sanctuary Raid.png
+|cost=7
+|rarity=Common
+|ability=Destroy an enemy creature. Give all friendly creatures in its [[Legends:Lanes|lane]] +1/+1.
+|deckcode=nx
+}}
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Silverhome on the Water, Uther's Suite|Silverhome on the Water]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Silverhome on the Water.
+
+==Notes==
+*This card's ability applies the '''Raider's Inspiration''' card effect.
+*The card is an homage to ''[[Skyrim:Skyrim|Skyrim]]'', in which [[Lore:Penitus Oculatus|Penitus Oculatus]] agents [[Skyrim:Death Incarnate|raided]] a Dark Brotherhood sanctuary.
+
+==Gallery==
+<gallery>
+File:LG-card-Sanctuary Raid Old Client.png|Old client card image
+File:LG-cardart-Sanctuary Raid.png|Card art
+File:LG-cardart-Sanctuary Raid 2.jpg|High res card art from artist
+File:LG-cardart-Sanctuary Raid (China).png|Chinese card art
+</gallery>

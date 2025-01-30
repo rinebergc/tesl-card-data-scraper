@@ -1,0 +1,28 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Item
+|attribute=Strength
+|availability=Houses of Morrowind
+|image=LG-card-Stendarr's Hammer.png
+|cost=5
+|rarity=Legendary
+|unique=1
+|ability='''[[Legends:Summon|Summon]]:''' Double the wielder's power and health.<br>The wielder can only attack creatures.
+|summon=1
+|uniqueability=1
+|deckcode=pu
+}}
+
+==Notes==
+*Stendarr's Hammer first [[Tribunal:Stendarr's Hammer|appeared]] in [[Tribunal:Tribunal|Tribunal]], and also [[Skyrim:Stendarr's Hammer (item)|appeared]] in [[Skyrim:Skyrim|Skyrim]] through its eponymous [[Skyrim:Stendarr's Hammer|Creation]] from the [[Skyrim:Creation Club|Creation Club]].
+
+== Gallery ==
+<gallery>
+File:LG-card-Stendarr's Hammer Old Client.png|Old client card image
+File:LG-cardart-Stendarr's Hammer.png|Card art
+File:LG-cardart-Stendarr's Hammer 2.jpg|High res full card art from artist
+File:LG-premcard-Stendarr's Hammer.gif|Premium card (click to view animation)
+File:
+</gallery>
+
+[[Category:Legends-Cards-Houses of Morrowind]]

@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Dragon
+|attribute=Strength
+|cost=5
+|image=LG-card-Blood Dragon.png
+|power=5
+|health=7
+|rarity=Legendary
+|ability=Ignores '''[[LG:Guard|Guards]]''' and may attack creatures in any [[LG:Lanes|lane]].
+|uniqueability=1
+|aguard=1
+|deckcode=cc
+}}
+
+==Notes==
+*A physical copy of this card was given out at the Legends booth at [[wikipedia:Penny Arcade Expo|PAX]] East 2016. The physical copy is just a promotional item and doesn't provide access to the in-game card.
+*The card is named for ''[[Skyrim:Skyrim|Skyrim]]'''s [[Skyrim:Blood Dragon|Blood Dragon]].
+
+==Gallery==
+<gallery>
+File:LG-card-Blood Dragon Old Client.png|Old client card image
+File:LG-cardart-Blood Dragon.png|Card art
+File:LG-cardart-Blood Dragon 03.png|Larger, cropped
+File:LG-cardart-Blood Dragon 02.png|Cropped version of higher resolution
+File:LG-premcard-Blood Dragon.gif|Premium card (click to view animation)
+</gallery>

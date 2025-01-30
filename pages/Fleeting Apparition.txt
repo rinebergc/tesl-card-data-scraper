@@ -1,0 +1,21 @@
+{{Mod Header|Houses of Morrowind}}
+{{Legends Card Summary
+|type=Action
+|availability=Houses of Morrowind
+|attribute=Agility
+|cost=5
+|image=LG-card-Fleeting Apparition.png
+|rarity=Epic
+|ability='''[[Legends:Betray|Betray]]'''<br>Summon a random creature from your deck that costs 3 or less to a random lane. '''[[Legends:Unsummon|Unsummon]]''' it at the end of your turn.
+|betray=1
+|deckcode=gA
+}}
+
+==Availability==
+In addition to the card's availability in the [[Legends:Houses of Morrowind|Houses of Morrowind]] expansion, one copy is included in the [[Legends:Telvanni Ambition|Telvanni Ambition]] theme deck.
+
+== Gallery ==
+<gallery>
+File:LG-card-Fleeting Apparition Old Client.png|Old client card image
+File:LG-cardart-Fleeting Apparition.png|Card art
+</gallery>

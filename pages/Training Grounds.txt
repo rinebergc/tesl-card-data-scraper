@@ -1,0 +1,25 @@
+{{Mod Header|Promotional}}
+{{Legends Card Summary
+|type=Support
+|subtype=
+|attribute=Neutral
+|cost=4
+|image=LG-card-Training Grounds.png
+|availability=Monthly Card
+|rarity=Epic
+|ability=When you summon a creature, give it +1/+1 if it shares a type with the top creature in your deck.
+|uses=Ongoing
+|uniqueability=1
+|deckcode=so
+}}
+
+==Availability==
+Training Grounds was the [[Legends:Monthly Card|monthly card]] for February 2019. It can be soul-summoned by anybody regardless of participation in [[Legends:Ranked|ranked]]. The premium version was awarded to the top 1,000 Legend ranks, and otherwise can be obtained through soul-summoning.
+
+==Notes==
+*The card's ability applies the '''Training's Over''' card effect.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Training Grounds.png|Card art
+</gallery>

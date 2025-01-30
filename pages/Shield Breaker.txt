@@ -1,0 +1,24 @@
+{{Mod Header|Heroes of Skyrim}}
+{{Legends Card Summary
+|type=Item
+|availability=Heroes of Skyrim
+|attribute=Strength
+|cost=3
+|image=LG-card-Shield Breaker.png
+|rarity=Common
+|obtainable=Yes
+|ability=+2/+2</br>'''[[Legends:Summon|Summon]]:''' An enemy creature loses '''[[Legends:Guard|Guard]]'''.
+|summon=1
+|aguard=1
+|deckcode=nY
+}}
+
+==Notes==
+*This card's summon ability applies the '''Broken Shield''' card effect.
+*The card's magicka cost was increased from 2 to 3 in [[Legends:Patch/1.66.1|Patch 1.66.1]].
+
+==Gallery==
+<gallery>
+File:LG-card-Shield Breaker Old Client.png|Old client card image
+File:LG-cardart-Shield Breaker.png|Card art
+</gallery>

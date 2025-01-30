@@ -1,0 +1,29 @@
+{{Mod Header|Clockwork City}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Vampire
+|availability=Clockwork City
+|attribute=Endurance
+|cost=2
+|image=LG-card-Barrow Stalker.png
+|power=2
+|health=3
+|rarity=Rare
+|ability='''[[LG:Drain|Drain]]''', '''[[LG:Guard|Guard]]'''
+|drain=1
+|guard=1
+|deckcode=bD
+}}__NOTOC__
+
+==Availability==
+A playset of the card is awarded for completing [[Legends:Sanguine Barrows|Sanguine Barrows]]. The premium version can only be obtained by [[Legends:Soul Gems#Soul Summoning|soul-summoning]], which is only possible after the completion of Sanguine Barrows.
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=I smell the stench of the living.}}
+{{Legends Audio 2|use=attack|text=Wrong place for a midnight stroll.}}
+
+==Gallery==
+<gallery>
+File:LG-card-Barrow Stalker Old Client.png|Old client card image
+File:LG-cardart-Barrow Stalker.png|Card art
+</gallery>

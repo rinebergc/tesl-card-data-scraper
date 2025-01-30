@@ -1,0 +1,28 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Khajiit
+|attribute=Agility
+|cost=5
+|image=LG-card-Pahmar-raht Renegade.png
+|power=4
+|health=6
+|rarity=Epic
+|ability='''[[Legends:Slay|Slay]]''': Draw a card.
+|slay=1
+|deckcode=lU
+}}
+
+==Audio==
+{{Legends Audio 2|use=enter play|text=Khajiit will leave none standing.|text2=Unsheathe your claws!|text3=Under moon and star, what do you want?}}
+
+==Notes==
+*The card is named for the [[Lore:Pahmar-raht|Pahmar-raht]] subspecies of [[Lore:Khajiit|Khajiit]].
+*The attack audio was changed upon the client change and are now only grunts. The old one can be heard here:<br/> {{Legends Audio|use=attack|text=Unsheathe your claws!}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Pahmar-raht Renegade Old Client.png|Old client card image
+File:LG-cardart-Pahmar-raht Renegade.png|Card art
+</gallery>

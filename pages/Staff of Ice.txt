@@ -1,0 +1,23 @@
+{{Mod Header|Alliance War}}
+{{Legends Card Summary
+|type=Item
+|availability=Alliance War
+|attribute=Intelligence
+|cost=5
+|image=LG-card-Staff of Ice.png
+|rarity=Rare
+|ability='''[[LG:Prophecy|Prophecy]]''', '''[[LG:Mobilize|Mobilize]]'''<br>+1/+1<br>'''[[LG:Summon|Summon]]:''' The wielder deals 2 damage.
+|prophecy=1
+|mobilize=1
+|summon=1
+|deckcode=uo
+}}
+
+==Notes==
+*The {{Card|Recruit}} created by this card is a [[Legends:Breton|Breton]].
+*The card depicts a staff in the [[Online:Crafting_Motif_59:_Scalecaller|Scalecaller]] motif style.
+
+==Gallery==
+<gallery>
+File:LG-cardart-Staff of Ice.png|Card art
+</gallery>

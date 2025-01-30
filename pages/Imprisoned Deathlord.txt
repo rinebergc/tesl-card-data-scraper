@@ -1,0 +1,22 @@
+{{Mod Header|Core Set}}
+{{Legends Card Summary
+|type=Creature
+|subtype=Skeleton
+|attribute=Endurance
+|cost=4
+|power=7
+|health=7
+|image=LG-card-Imprisoned Deathlord.png
+|rarity=Epic
+|ability=When an enemy creature is summoned, '''[[Legends:Shackle|Shackle]]''' Imprisoned Deathlord.
+|shackle=1
+|deckcode=iO
+}}
+
+==Gallery==
+
+<gallery>
+File:LG-card-Imprisoned Deathlord Old Client.png|Old client card image
+File:LG-cardart-Imprisoned Deathlord.png|Card art
+File:LG-cardart-Imprisoned Deathlord (China).png|Chinese card art
+</gallery>
