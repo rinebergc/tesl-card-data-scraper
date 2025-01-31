@@ -94,8 +94,8 @@ class WikiParser:
         keywords = [
             "activate", "asilence", "assemble", "banish", "battle", "beast form", "betray", "breakthrough", "change",
             "charge", "consume", "copy", "cover", "drain", "empower", "equip", "exalt", "expertise", "guard", "heal",
-            "indestructible", "invade", "last gasp", "lethal", "mobilize", "move", "pilfer", "plot", "prophecy", "rally",
-            "regenerate", "sacrifice", "shackle", "shout", "silence", "slay", "steal", "summon", "transform",
+            "indestructible", "invade", "last gasp", "lethal", "mobilize", "move", "pilfer", "plot", "prophecy",
+            "rally", "regenerate", "sacrifice", "shackle", "shout", "silence", "slay", "steal", "summon", "transform",
             "treasure hunt", "uniqueability", "unsummon", "veteran", "ward", "wax and wane", "wounded"
         ]
 
