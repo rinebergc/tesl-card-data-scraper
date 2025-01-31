@@ -57,6 +57,7 @@ class WikiParser:
 
         # Only fetch pages from the wiki if the count of pages does not match the count of card data records
         if card_data is not None and (sum(1 for _ in iter(category)) != card_data.height):
+            # TODO Write to buffer.
             for page in category:
                 file_path = sanitize_filepath(output_directory + page.name.split(":")[1].strip() + ".txt")
                 file_contents = page.text().encode("utf8")
@@ -106,6 +107,7 @@ class WikiParser:
 
 
 if __name__ == "__main__":
+
     WikiParser.fetch_wiki_pages_by_category(
         wiki="en.uesp.net",
         wiki_category="Legends-Cards-Obtainable",
@@ -114,3 +116,5 @@ if __name__ == "__main__":
         contact_information="carter@rineberg.net",
         output_directory="pages/"
     )
+
+    # TODO Write to CSV
