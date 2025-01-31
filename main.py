@@ -4,7 +4,7 @@ import os
 import re
 
 import mwclient
-# import polars as pl
+import polars as pl
 from bs4 import BeautifulSoup
 from pathvalidate import sanitize_filepath
 
@@ -17,7 +17,8 @@ class WikiParser:
             tool_name: str,
             tool_version: float,
             contact_information: str,
-            output_directory: str
+            output_directory: str,
+            existing_card_data: str = None
     ):
         """
         Fetch all pages in a category for a given site.
@@ -36,14 +37,25 @@ class WikiParser:
                 and/or an email address.
 
             output_directory (str): The directory the fetched pages should be written to.
+            existing_card_data (str, optional): A CSV file containing data to count against the count of pages.
         """
 
         user_agent = f"{tool_name}/{tool_version} ({contact_information})"
         site = mwclient.Site(host=wiki, clients_useragent=user_agent)
         category = site.categories[wiki_category]
 
-        # Only fetch the pages if we're missing one
-        if len(fnmatch.filter(os.listdir(output_directory), '*.txt')) != sum(1 for _ in iter(category)):
+        # Load the card data we've already collected, if it exists
+        if existing_card_data is not None:
+            card_data = pl.scan_csv(
+                existing_card_data,
+                missing_utf8_is_empty_string=True,
+                infer_schema=False
+            ).collect()
+        else:
+            card_data = None
+
+        # Only fetch pages from the wiki if the count of pages does not match the count of card data records
+        if card_data is not None and (sum(1 for _ in iter(category)) != card_data.height):
             for page in category:
                 file_path = sanitize_filepath(output_directory + page.name.split(":")[1].strip() + ".txt")
                 file_contents = page.text().encode("utf8")
