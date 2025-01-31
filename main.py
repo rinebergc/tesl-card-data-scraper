@@ -10,6 +10,7 @@ from pathvalidate import sanitize_filepath
 
 
 class WikiParser:
+
     @staticmethod
     def fetch_wiki_pages_by_category(
             wiki: str,
@@ -73,7 +74,9 @@ class WikiParser:
 
     @staticmethod
     def text_to_dict(file_contents) -> dict:
-        """Extract TES:Legends card data from its wiki text."""
+        """
+        Extract TES:Legends card data from its wiki text.
+        """
 
         # Remove ''' (triple single quotes).
         file_contents = re.sub(r"'''", "", file_contents)
