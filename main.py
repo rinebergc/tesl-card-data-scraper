@@ -1,120 +1,100 @@
-import fnmatch
-import io
-import os
 import re
+from pathlib import Path
 
 import mwclient
 import polars as pl
 from bs4 import BeautifulSoup
-from pathvalidate import sanitize_filepath
 
 
-class WikiParser:
+def fetch_card_data(
+        wiki: str,
+        wiki_category: str,
+        tool_name: str,
+        tool_version: float,
+        contact_information: str,
+        output_file: str
+):
+    """
+    Fetch all pages in a category for a given site.
 
-    @staticmethod
-    def fetch_wiki_pages_by_category(
-            wiki: str,
-            wiki_category: str,
-            tool_name: str,
-            tool_version: float,
-            contact_information: str,
-            output_directory: str,
-            existing_card_data: str = None
-    ):
-        """
-        Fetch all pages in a category for a given site.
+    Parameters:
+        wiki (str): The URI of the wiki to fetch pages from. Do not include "HTTPS://", "/w/", etc.
+        wiki_category (str): The wiki category to fetch pages from. Do not include "Category:".
 
-        Parameters:
-            wiki (str): The URI of the wiki to fetch pages from. Do not include "HTTPS://", "/w/", etc.
-            wiki_category (str): The wiki category to fetch pages from. Do not include "Category:".
+        The following parameters are required for all requests by the Wikimedia User-Agent Policy.
+        tool_name (str): Unique or semi-unique script (bot) identifier.
+        tool_version (float): The version of the script (bot).
+        contact_information (str): One or more contact methods, delineated by semicolons.
+            e.g. a userpage on the local wiki,
+            a userpage on a related wiki using interwiki linking syntax,
+            a URI for a relevant external website,
+            and/or an email address.
 
-            The following parameters are required for all requests by the Wikimedia User-Agent Policy.
-            tool_name (str): Unique or semi-unique script (bot) identifier.
-            tool_version (float): The version of the script (bot).
-            contact_information (str): One or more contact methods, delineated by semicolons.
-                e.g. a userpage on the local wiki,
-                a userpage on a related wiki using interwiki linking syntax,
-                a URI for a relevant external website,
-                and/or an email address.
+        output_file (str): The path the fetched pages should be written to.
+    """
 
-            output_directory (str): The directory the fetched pages should be written to.
-            existing_card_data (str, optional): A CSV file containing data to count against the count of pages.
-        """
+    user_agent = f"{tool_name}/{tool_version} ({contact_information})"
+    site = mwclient.Site(host=wiki, clients_useragent=user_agent)
 
-        user_agent = f"{tool_name}/{tool_version} ({contact_information})"
-        site = mwclient.Site(host=wiki, clients_useragent=user_agent)
-        category = site.categories[wiki_category]
+    # Check if card data has already been collected.
+    if Path(output_file).is_file():
+        card_data = pl.read_csv(output_file, missing_utf8_is_empty_string=True)
+    else:
+        card_data = pl.DataFrame()
 
-        # Load the card data we've already collected, if it exists
-        if existing_card_data is not None:
-            card_data = pl.scan_csv(
-                existing_card_data,
-                missing_utf8_is_empty_string=True,
-                infer_schema=False
-            ).collect()
-        else:
-            card_data = None
+    # Only fetch data if there is a mismatch between the catalogued cards and the pages on the wiki.
+    card_names = set(card_data.get_column(name="name", default=pl.Series("name", [""])).to_list())
+    page_names = {page.name for page in site.categories[wiki_category]}
 
-        # Only fetch pages from the wiki if the count of pages does not match the count of card data records
-        if card_data is not None and (sum(1 for _ in iter(category)) != card_data.height):
-            # TODO Write to buffer.
-            for page in category:
-                file_path = sanitize_filepath(output_directory + page.name.split(":")[1].strip() + ".txt")
-                file_contents = page.text().encode("utf8")
+    if card_names != page_names:
+        card_data = pl.concat(
+            items = [pl.DataFrame(text_to_dict(page.name, page.text())) for page in site.categories[wiki_category]],
+            how="diagonal"
+        )
+        card_data.write_csv(output_file)
 
-                with open(f"{file_path}", "wb") as file:
-                    file.write(file_contents)
-                    print(f"Success. Saved \"/wiki/{page.name}\" to {file_path}")
 
-    @staticmethod
-    def write_to_buffer(file_contents) -> io.BytesIO:
-        file_buffer = io.BytesIO()
-        file_buffer.write(file_contents)
-        file_buffer.seek(0)
-        return file_buffer
+def text_to_dict(page_name, page_contents) -> dict:
+    """
+    Return a dict containing the attributes of a TES:L card, given the contents its wiki page (as text).
+    """
 
-    @staticmethod
-    def text_to_dict(file_contents) -> dict:
-        """
-        Extract TES:Legends card data from its wiki text.
-        """
+    # Capture details from the card summary block. Filter out any HTML tags.
+    data = {
+        key: BeautifulSoup(value, "lxml").text
+        for key, value in re.findall(r'\|(\w+)=(.*?)\n', page_contents)
+    }
 
-        # Remove ''' (triple single quotes).
-        file_contents = re.sub(r"'''", "", file_contents)
+    # Add the card's name to the collected card details.
+    data["name"] = page_name.replace("Legends:", "")
 
-        # Replace strings similar to [[Legends:Shackle|Shackled]] with Shackled.
-        file_contents = re.sub(r'\[\[[^]|]+\|([^]]+)]]', r'\1', file_contents)
+    # Set "availability" for cards from the Core set.
+    if not data.get("availability"):
+        data["availability"] = "Core"
 
-        # Capture attributes in the Legends Card Summary text block, removing any HTML tags that may be present.
-        data = {
-            key: BeautifulSoup(value, "lxml").text.strip()
-            for key, value in re.findall(r'\|(\w+)=(.*?)\n', file_contents)
-        }
+    # Return a dictionary containing the desired card details.
+    details = [
+        "name", "availability", "deckcode", "type", "attribute", "class", "ability", "cost", "rarity", "image"
+    ]
 
-        # Filter out any incidentally regex-matched data from the text, then return the final attributes as a dictionary.
-        details = [
-            "availability", "deckcode", "type", "attribute", "ability", "cost", "rarity", "image"
-        ]
-        keywords = [
-            "activate", "asilence", "assemble", "banish", "battle", "beast form", "betray", "breakthrough", "change",
-            "charge", "consume", "copy", "cover", "drain", "empower", "equip", "exalt", "expertise", "guard", "heal",
-            "indestructible", "invade", "last gasp", "lethal", "mobilize", "move", "pilfer", "plot", "prophecy",
-            "rally", "regenerate", "sacrifice", "shackle", "shout", "silence", "slay", "steal", "summon", "transform",
-            "treasure hunt", "uniqueability", "unsummon", "veteran", "ward", "wax and wane", "wounded"
-        ]
+    keywords = [
+        "activate", "asilence", "assemble", "banish", "battle", "beast form", "betray", "breakthrough", "change",
+        "charge", "consume", "copy", "cover", "drain", "empower", "equip", "exalt", "expertise", "guard", "heal",
+        "indestructible", "invade", "last gasp", "lethal", "mobilize", "move", "pilfer", "plot", "prophecy",
+        "rally", "regenerate", "sacrifice", "shackle", "shout", "silence", "slay", "steal", "summon", "transform",
+        "treasure hunt", "uniqueability", "unsummon", "veteran", "ward", "wax and wane", "wounded"
+    ]
 
-        return {key: data[key] for key in details + keywords if key in data}
+    return {key: data[key] for key in details + keywords if key in data}
 
 
 if __name__ == "__main__":
 
-    WikiParser.fetch_wiki_pages_by_category(
+    fetch_card_data(
         wiki="en.uesp.net",
         wiki_category="Legends-Cards-Obtainable",
-        tool_name="legends_card_fetcher",
+        tool_name="tesl_card_data_fetcher",
         tool_version=0.1,
         contact_information="carter@rineberg.net",
-        output_directory="pages/"
+        output_file="tesl_card_data.csv"
     )
-
-    # TODO Write to CSV
