@@ -15,7 +15,7 @@ def fetch_card_data(
         output_file: str
 ):
     """
-    Fetch all pages in a category for a given site.
+    Generate a CSV file containing the details of each obtainable TES:L card.
 
     Parameters:
         wiki (str): The URI of the wiki to fetch pages from. Do not include "HTTPS://", "/w/", etc.
@@ -56,7 +56,11 @@ def fetch_card_data(
 
 def text_to_dict(page_name, page_contents) -> dict:
     """
-    Return a dict containing the attributes of a TES:L card, given the contents its wiki page (as text).
+    Return a dict containing the details of a TES:L card from its wiki page.
+
+    Parameters:
+        page_name (str): The name of the card.
+        page_contents (str): The contents of the card's wiki page.
     """
 
     # Capture details from the card summary block. Filter out any HTML tags.
