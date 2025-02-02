@@ -3,7 +3,6 @@ from pathlib import Path
 
 import mwclient
 import polars as pl
-from bs4 import BeautifulSoup
 
 
 def fetch_card_data(
@@ -65,8 +64,8 @@ def text_to_dict(page_name, page_contents) -> dict:
 
     # Capture details from the card summary block. Filter out any HTML tags.
     data = {
-        key: BeautifulSoup(value, "lxml").text
-        for key, value in re.findall(r'\|(\w+)=(.*?)\n', page_contents)
+        key: re.sub(r"<.*?>", "", value)
+        for key, value in re.findall(r"\|(\w+)=(.*?)\n", page_contents)
     }
 
     # Add the card's name to the collected card details.
@@ -76,9 +75,14 @@ def text_to_dict(page_name, page_contents) -> dict:
     if not data.get("availability"):
         data["availability"] = "Core"
 
+    # Clean "ability" text.
+    if data.get("ability"):
+        data["ability"] = clean_ability_text(data["ability"])
+
     # Return a dictionary containing the desired card details.
     details = [
-        "name", "availability", "deckcode", "type", "attribute", "class", "ability", "cost", "rarity", "image"
+        "name", "availability", "deckcode", "type", "subtype", "attribute", "class", "ability", "cost", "rarity",
+        "image"
     ]
 
     keywords = [
@@ -90,6 +94,40 @@ def text_to_dict(page_name, page_contents) -> dict:
     ]
 
     return {key: data[key] for key in details + keywords if key in data}
+
+
+def clean_ability_text(ability_text: str) -> str:
+    # Remove triple single quotes
+    ability_text = re.sub(r"'''", "", ability_text)
+
+    # Remove tildes
+    ability_text = re.sub(r"~", "", ability_text)
+
+    # Remove &#32;
+    ability_text = re.sub(r"&#32;", "", ability_text)
+
+    # Remove . . .
+    ability_text = re.sub(r"\.\s*\.\s*\.\s*", "", ability_text)
+
+    # Replace {{LG Attribute Icon|Example}} with Example
+    ability_text = re.sub(r"{{LG Attribute Icon\|([^}]+)}}", r"\1", ability_text)
+
+    # Replace [[Legends:Example|Example]] or [[LG:Example|Example]] with Example
+    ability_text = re.sub(r"\[\[(?:Legends|LG):[^|]*\|([^]]+)]]", r"\1", ability_text)
+
+    # Replace ExampleExamples with Examples and ExampleExample with Example
+    ability_text = re.sub(r"(\b\w+)\1", r"\1", ability_text)
+
+    # Add space between a word ending in a lowercase letter/number and a word starting in an uppercase letter
+    ability_text = re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", ability_text)
+
+    # Add a space after punctuation marks if there isn't one
+    ability_text = re.sub(r"([.,;:])(?=\S)", r"\1 ", ability_text)
+
+    # Remove {{New Left}}
+    ability_text = re.sub(r"{{New ?Left}}", " ", ability_text)
+
+    return ability_text
 
 
 if __name__ == "__main__":
