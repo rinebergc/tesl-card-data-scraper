@@ -5,6 +5,10 @@ import mwclient
 import polars as pl
 
 
+details = pl.read_csv("details.csv")["details"].to_list()
+keywords = pl.read_csv("keywords.csv")["keywords"].to_list()
+
+
 def fetch_card_data(
         wiki: str,
         wiki_category: str,
@@ -35,22 +39,14 @@ def fetch_card_data(
     user_agent = f"{tool_name}/{tool_version} ({contact_information})"
     site = mwclient.Site(host=wiki, clients_useragent=user_agent)
 
-    # Check if card data has already been collected.
-    if Path(output_file).is_file():
-        card_data = pl.read_csv(output_file, missing_utf8_is_empty_string=True)
-    else:
-        card_data = pl.DataFrame()
+    # Aggregate card information
+    card_data = pl.concat(
+        items = [pl.DataFrame(text_to_dict(page.name, page.text())) for page in site.categories[wiki_category]],
+        how="diagonal"
+    )
 
-    # Only fetch data if there is a mismatch between the catalogued cards and the pages on the wiki.
-    card_names = set(card_data.get_column(name="name", default=pl.Series("name", [""])).to_list())
-    page_names = {page.name for page in site.categories[wiki_category]}
-
-    if card_names != page_names:
-        card_data = pl.concat(
-            items = [pl.DataFrame(text_to_dict(page.name, page.text())) for page in site.categories[wiki_category]],
-            how="diagonal"
-        )
-        card_data.write_csv(output_file)
+    # Output to a CSV with columns in a specific order
+    card_data.select(details + keywords).write_csv(output_file)
 
 
 def text_to_dict(page_name, page_contents) -> dict:
@@ -62,16 +58,16 @@ def text_to_dict(page_name, page_contents) -> dict:
         page_contents (str): The contents of the card's wiki page.
     """
 
-    # Capture details from the card summary block. Filter out any HTML tags.
+    # Capture details from the card summary block and filter out any HTML tags
     data = {
         key: re.sub(r"<.*?>", "", value)
         for key, value in re.findall(r"\|(\w+)=(.*?)\n", page_contents)
     }
 
-    # Add the card's name to the collected card details.
+    # Add the card's name to the collected card details
     data["name"] = page_name.replace("Legends:", "")
 
-    # Set "availability" for cards from the Core set.
+    # Set "availability" for cards from the Core set
     if not data.get("availability"):
         data["availability"] = "Core"
 
@@ -79,20 +75,7 @@ def text_to_dict(page_name, page_contents) -> dict:
     if data.get("ability"):
         data["ability"] = clean_ability_text(data["ability"])
 
-    # Return a dictionary containing the desired card details.
-    details = [
-        "name", "availability", "deckcode", "type", "subtype", "attribute", "class", "ability", "cost", "rarity",
-        "image"
-    ]
-
-    keywords = [
-        "activate", "asilence", "assemble", "banish", "battle", "beast form", "betray", "breakthrough", "change",
-        "charge", "consume", "copy", "cover", "drain", "empower", "equip", "exalt", "expertise", "guard", "heal",
-        "indestructible", "invade", "last gasp", "lethal", "mobilize", "move", "pilfer", "plot", "prophecy",
-        "rally", "regenerate", "sacrifice", "shackle", "shout", "silence", "slay", "steal", "summon", "transform",
-        "treasure hunt", "uniqueability", "unsummon", "veteran", "ward", "wax and wane", "wounded"
-    ]
-
+    # Return a dictionary containing the card's information
     return {key: data[key] for key in details + keywords if key in data}
 
 
